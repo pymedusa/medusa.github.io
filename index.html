@@ -27,71 +27,95 @@
     <div class="container">
       <section id="main_content">
         <h1>
-<a id="before-you-open-an-issue" class="anchor" href="#before-you-open-an-issue" aria-hidden="true"><span class="octicon octicon-link"></span></a><strong>BEFORE YOU OPEN AN ISSUE</strong>
+<a id="sickrage---" class="anchor" href="#sickrage---" aria-hidden="true"><span class="octicon octicon-link"></span></a>SickRage <a href="https://travis-ci.org/SickRage/SickRage"><img src="https://travis-ci.org/SickRage/SickRage.svg?branch=develop" alt="Build Status"></a> <a href="http://isitmaintained.com/project/SickRage/sickrage-issues" title="Average time to resolve an issue"><img src="http://isitmaintained.com/badge/resolution/SickRage/sickrage-issues.svg" alt="Average time to resolve an issue"></a> <a href="http://isitmaintained.com/project/SickRage/sickrage-issues" title="Percentage of issues still open"><img src="http://isitmaintained.com/badge/open/SickRage/sickrage-issues.svg" alt="Percentage of issues still open"></a>
 </h1>
 
-<p>Feature Requests are not allowed on the issue tracker. We now use <a href="http://feathub.com/SickRage/SickRage">FeatHub</a> for issues
-<a href="http://feathub.com/SickRage/SickRage"><img src="https://cloud.githubusercontent.com/assets/390379/10127973/045b3a96-6560-11e5-9b20-31a2032956b2.png" alt="Feature Requests"></a></p>
+<p>Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic.</p>
 
-<p>Search for the error in the search box. Re-use the existing issue if it already exists, even if it is closed.
-If you don't find it please follow the guidelines below, otherwise the issue will be closed.</p>
-
-<p><strong>Update problems? Try this first:</strong></p>
-
-<p>Stop SickRage, SSH(Linux)/CMD(Windows) and enter SickRage folder</p>
-
-<pre><code>git remote set-url origin https://github.com/SickRage/SickRage.git
-git fetch origin
-git checkout master
-git branch -u origin/master
-git reset --hard origin/master
-git pull
-</code></pre>
-
-<h2>
-<a id="sickrage-bugissue-tracker" class="anchor" href="#sickrage-bugissue-tracker" aria-hidden="true"><span class="octicon octicon-link"></span></a>SickRage Bug/Issue Tracker</h2>
-
-<h1></h1>
-
-<p>This repo is dedicated to tracking bugs and issue reports only.</p>
-
-<h2>
-<a id="submitting-a-bugissue-ticket" class="anchor" href="#submitting-a-bugissue-ticket" aria-hidden="true"><span class="octicon octicon-link"></span></a>SUBMITTING A BUG/ISSUE TICKET</h2>
-
-<p>(DO NOT POST ANYTHING THAT CONTAINS YOUR LOGIN INFORMATION OR API KEY)<br>
-Please include the following when opening a new ticket:</p>
+<h4>
+<a id="features" class="anchor" href="#features" aria-hidden="true"><span class="octicon octicon-link"></span></a>Features</h4>
 
 <ul>
-<li>Branch</li>
-<li>Commit hash</li>
-<li>Your operating system and python version</li>
-<li>What you did</li>
-<li>What happened</li>
-<li>What you expected</li>
-<li>Link to a copy/paste of your logfile with clear debug info of the error on <a href="http://gist.github.com">GIST</a>
-</li>
+<li>Kodi/XBMC library updates, poster/banner/fanart downloads, and NFO/TBN generation</li>
+<li>Configurable automatic episode renaming, sorting, and other processing</li>
+<li>Easily see what episodes you're missing, are airing soon, and more</li>
+<li>Automatic torrent/nzb searching, downloading, and processing at the qualities you want</li>
+<li>Largest list of supported torrent and nzb providers, both public and private</li>
+<li>Can notify Kodi, XBMC, Growl, Trakt, Twitter, and more when new episodes are available</li>
+<li>Searches TheTVDB.com and AniDB.net for shows, seasons, episodes, and metadata</li>
+<li>Episode status management allows for mass failing seasons/episodes to force retrying</li>
+<li>DVD Order numbering for returning the results in DVD order instead of Air-By-Date order</li>
+<li>Allows you to choose which indexer to have SickRage search its show info from when importing</li>
+<li>Automatic XEM Scene Numbering/Naming for seasons/episodes</li>
+<li>Available for any platform, uses a simple HTTP interface</li>
+<li>Specials and multi-episode torrent/nzb support</li>
+<li>Automatic subtitles matching and downloading</li>
+<li>Improved failed download handling</li>
+<li>DupeKey/DupeScore for NZBGet 12+</li>
+<li>Real SSL certificate validation</li>
+<li>Supports Anime shows</li>
 </ul>
 
-<h2>
-<a id="enabling-detailed-debugging-for-logs" class="anchor" href="#enabling-detailed-debugging-for-logs" aria-hidden="true"><span class="octicon octicon-link"></span></a>ENABLING DETAILED DEBUGGING FOR LOGS</h2>
+<h4>
+<a id="screenshots" class="anchor" href="#screenshots" aria-hidden="true"><span class="octicon octicon-link"></span></a>Screenshots</h4>
 
-<ol>
-<li>Open SR interface</li>
-<li>Menu General Settings &gt; Advanced Settings</li>
-<li>Enable 'Enable debug'</li>
-</ol>
+<ul>
+<li><a href="http://imgur.com/a/4fpBk">Desktop (Full-HD)</a></li>
+<li><a href="http://imgur.com/a/WPyG6">Mobile</a></li>
+</ul>
 
-<p>Note: Synology users can use WinSCP to gain access/browse to the root where the Sickrage log is located. /volume1/@appstore/sickbeard-custom/var/Logs/sickrage.log</p>
+<h4>
+<a id="dependencies" class="anchor" href="#dependencies" aria-hidden="true"><span class="octicon octicon-link"></span></a>Dependencies</h4>
 
-<h2>
-<a id="faq" class="anchor" href="#faq" aria-hidden="true"><span class="octicon octicon-link"></span></a>FAQ</h2>
+<p>To run SickRage from source you will need Python 2.7.10</p>
 
-<p><a href="https://github.com/SickRage/SickRage/wiki/Frequently-Asked-Questions">https://github.com/SickRage/SickRage/wiki/Frequently-Asked-Questions</a></p>
+<h4>
+<a id="" class="anchor" href="#" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="http://feathub.com/SickRage/SickRage"><img src="https://cloud.githubusercontent.com/assets/390379/10127973/045b3a96-6560-11e5-9b20-31a2032956b2.png" alt="Feature Requests"></a>
+</h4>
 
-<h2>
-<a id="wiki" class="anchor" href="#wiki" aria-hidden="true"><span class="octicon octicon-link"></span></a>Wiki</h2>
+<h4>
+<a id="forums" class="anchor" href="#forums" aria-hidden="true"><span class="octicon octicon-link"></span></a>Forums</h4>
 
-<p><a href="https://github.com/SickRage/SickRage/wiki">https://github.com/SickRage/SickRage/wiki</a></p>
+<p>Any questions or setup info your looking for can be found at out forums <a href="https://www.sickrage.tv">https://www.sickrage.tv</a></p>
+
+<h5>
+<a id="sickrage-issue-tracker" class="anchor" href="#sickrage-issue-tracker" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/SickRage/sickrage-issues">SickRage Issue Tracker</a>
+</h5>
+
+<h5>
+<a id="faq" class="anchor" href="#faq" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/SickRage/SickRage/wiki/Frequently-Asked-Questions">FAQ</a>
+</h5>
+
+<h5>
+<a id="wiki" class="anchor" href="#wiki" aria-hidden="true"><span class="octicon octicon-link"></span></a><a href="https://github.com/SickRage/SickRage/wiki">Wiki</a>
+</h5>
+
+<h4>
+<a id="important" class="anchor" href="#important" aria-hidden="true"><span class="octicon octicon-link"></span></a>Important</h4>
+
+<p>Before using this with your existing database (sickbeard.db) please make a backup copy of it and delete any other database files such as cache.db and failed.db if present<br>
+We HIGHLY recommend starting out with no database files at all to make this a fresh start but the choice is at your own risk</p>
+
+<h4>
+<a id="supported-providers" class="anchor" href="#supported-providers" aria-hidden="true"><span class="octicon octicon-link"></span></a>Supported providers</h4>
+
+<p>A full list can be found here: <a href="https://github.com/SickRage/sickrage-issues/wiki/SickRage-Search-Providers">Link</a></p>
+
+<h4>
+<a id="special-thanks-to" class="anchor" href="#special-thanks-to" aria-hidden="true"><span class="octicon octicon-link"></span></a>Special Thanks to:</h4>
+
+<p><img src="https://rarbg.com/favicon.ico" alt="image"><a href="https://rarbg.to">RARBG</a>
+<img src="https://torrentproject.se/favicon.ico" alt="image"><a href="https://torrentproject.se/about">TorrentProject</a>
+<img src="https://thepiratebay.la/favicon.ico" alt="image"><a href="https://thepiratebay.la/">ThePirateBay</a>
+<img src="http://kat.cr/favicon.ico" alt="image"><a href="https://kat.cr">KickAssTorrents</a>
+<img src="https://nzb.cat/favicon.ico" alt="image"><a href="https://nzb.cat/">NZB.cat</a>
+<img src="https://nzbgeek.info/favicon.ico" alt="image"><a href="https://nzbgeek.info">NZBGeek</a>
+<img src="https://raw.githubusercontent.com/SickRage/SickRage/master/gui/slick/images/providers/dognzb.png" alt="image"><a href="dognzb.cr">DOGnzb</a></p>
+
+<h4>
+<a id="news-and-changelog" class="anchor" href="#news-and-changelog" aria-hidden="true"><span class="octicon octicon-link"></span></a>News and Changelog</h4>
+
+<p><a href="http://github.com/SickRage/sickrage-news">news.md and CHANGES.md have moved to a separate repo, click here</a></p>
       </section>
     </div>
 
