@@ -1,6 +1,6 @@
 ### 4.0.75.4 (2015-10-16)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.75.3...v4.0.75.4)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.75.3...v4.0.75.4)
 
 * Added: Size parsing for nextgen
 * Added: Saving downloaded subtitles with utf-8 encoding
@@ -12,7 +12,7 @@
 
 ### 4.0.75.3 (2015-10-14)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.75.2...v4.0.75.3)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.75.2...v4.0.75.3)
 
 * Added: rudimentary support for Jackett/Torznab (Add as a neznab provider)
 * Added: Added support for subtitles without country codes
@@ -28,7 +28,7 @@
 
 ### 4.0.75.2 (2015-10-11)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.75.1...v4.0.75.2)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.75.1...v4.0.75.2)
 
 * Added: Bitcannon provider
 * Added: Missing network logos
@@ -39,7 +39,7 @@
 
 ### 4.0.75.1 (2015-10-11)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.75...v4.0.75.1)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.75...v4.0.75.1)
 
 * Added: Option to only download english releases on TNTVillage
 * Added: Setting to allow only Trusted results, minseed/minleech setting, size to the result on nyaatorrents
@@ -53,7 +53,7 @@
 
 ### 4.0.75 (2015-10-10)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.74.1...v4.0.75)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.74.1...v4.0.75)
 
 * Added: Some network logos
 * Fixed: Bug with empty path, make sure path exists on refresh
@@ -70,7 +70,7 @@
 
 ### 4.0.74.1 (2015-10-09)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.74...v4.0.74.1)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.74...v4.0.74.1)
 
 * Added: Animation/Anime/Cartoons categories for torrentleech
 * Fixed: Boolean values in API
@@ -86,7 +86,7 @@
 
 ### 4.0.74 (2015-10-08)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.73.1...v4.0.74)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.73.1...v4.0.74)
 
 * Added: More history page limits
 * Added: Column filter widget to schedule table
@@ -110,7 +110,7 @@
 
 ### 4.0.73.1 (2015-10-06)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.73...v4.0.73.1)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.73...v4.0.73.1)
 
 * Fixed: Check whether an issue is locked or not.
 * Change: Always check news, even without force.
@@ -118,7 +118,7 @@
 
 ### 4.0.73 (2015-10-05)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.72...v4.0.73)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.72...v4.0.73)
 
 * Added: [EtHD] to removewordlist
 * Added: SATRip to SDTV
@@ -133,7 +133,7 @@
 
 ### 4.0.72 (2015-10-04)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.71...v4.0.72)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.71...v4.0.72)
 
 * Added: Time to date in coming episodes
 * Added: Bootstrp anchor in history to link direct to the episode in displayshow
@@ -141,13 +141,13 @@
 * Fixed: CHECKVERSION mktime error for checking news
 * Fixed: Page title and header on missed subtitles page
 * Fixed: SD.?TV release tag detection
-* Fixed: Typos on the config_postProcessing page 
+* Fixed: Typos on the config_postProcessing page
 * Fixed: Viewlog disabled inputs
 * Removed: Manage submenu (use the nav items)
 
 ### 4.0.71 (2015-10-03)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.70...v4.0.71)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.70...v4.0.71)
 
 * Added: Support for x264 and h264 on name parser
 * Added: Notification for the user when new news exists
@@ -156,13 +156,13 @@
 * Fixed: Errors on displayShow and incorrect airdate format on backlogOverview.
 * Fixed: History page not rendering table and not enabling filter row in detailed mode
 * Fixed: unrar2
-* Change: Moved News, IRC, and Support to Tools menu 
+* Change: Moved News, IRC, and Support to Tools menu
 * Updated: readme.md
 * Updated: isotope lib
 
 ### 4.0.70 (2015-10-02)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.69.1...v4.0.70)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.69.1...v4.0.70)
 
 * Added: Different muxed release types to match qualities
 * Added: "Archive on first match" to manage/mass edit and add show
@@ -192,7 +192,7 @@
 
 ### 4.0.69.1 (2015-10-02)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.69...v4.0.69.1)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.69...v4.0.69.1)
 
 * Added: DVDMux & BDMux as valid SDDVD qualities
 * Added: Missing config settings to UI to not create show folder when adding a show, and auto create show folder on PP
@@ -206,7 +206,7 @@
 
 ### 4.0.69 (2015-10-02)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.68...v4.0.69)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.68...v4.0.69)
 
 * Added: ExtraTorrent torrent provider
 * Added: TPB cloudflare issue
@@ -222,7 +222,7 @@
 
 ### 4.0.68 (2015-09-28)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.67...v4.0.68)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.67...v4.0.68)
 
 * Added: Preliminary support for tvdbid search on indexers
 * Added: Webrip properly in guessing
@@ -238,7 +238,7 @@
 * Fixed: Sub folder not created for new shows
 * Fixed: Subtitle recognition with sigle language
 * Fixed: Sickrage not starting on Openelec and Audo with RPi2 and others.  [more info](http://openelec.tv/forum/80-sabnzbd-suite/78152-unable-to-bring-up-sickrage-page-after-autoupdate?start=45)
-* Fixed: Permission when creating shows/season folders [more info](https://github.com/SiCKRAGETV/sickrage-issues/issues/2969)
+* Fixed: Permission when creating shows/season folders [more info](https://github.com/SickRage/sickrage-issues/issues/2969)
 * Fixed: config_subtitles page
 * Fixed: Wrong subtitle language codes
 * Fixed: Quality Chooser not expanding custom qualities fields
@@ -257,20 +257,20 @@
 
 ### 4.0.67 (2015-09-26)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.66...v4.0.67)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.66...v4.0.67)
 
 * Added: SIC, RTP, & TVcabo network logos (and respective sub-networks)
 * Added: Looging when a torrent is ignored for minseed/minleech reasons
 * Added: Show SR datetime in the bottom of page, Add tip to timezone setting
 * Fixed: Being able to add custom providers whose names start with numbers
 * Fixed: History limit and save on change limit
-* Fixed: Return the correct Content-Type for images through API 
+* Fixed: Return the correct Content-Type for images through API
 * Fixed: sbRoot in js, and other js fixes
 * Fixed: dailysearch not respecting timezone setting
-* Fixed: Tvchaos provider regex 
+* Fixed: Tvchaos provider regex
 * Fixed: Xthor add quotes to search string
-* Fixed: Embedded subtitles not detected bug  [more info](https://github.com/SiCKRAGETV/sickrage-issues/issues/2774)
-* Fixed: Shows synced with Trakt having wrong default ep status 
+* Fixed: Embedded subtitles not detected bug  [more info](https://github.com/SickRage/sickrage-issues/issues/2774)
+* Fixed: Shows synced with Trakt having wrong default ep status
 * Fixed: Snatched (Proper) 1080p WEB-DL not fitting on a single line
 * Fixed: Restore only being processed when console logging is enabled
 * Fixed: ntpath being windows only
@@ -283,7 +283,7 @@
 
 ### 4.0.66 (2015-09-23)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.65...v4.0.66)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.65...v4.0.66)
 
 * Added: Color difference in provider divs to differentate nzb and torrent providers
 * Fixed: Some problems with pushover
@@ -292,16 +292,16 @@
 * Fixed: imdbPopular page
 * Fixed: Black/white list
 * Fixed: Previous episode airdate sorting
-* Fixed: Update issue [more info](https://github.com/SiCKRAGETV/sickrage-issues/issues/2883)
+* Fixed: Update issue [more info](https://github.com/SickRage/sickrage-issues/issues/2883)
 * Change: Show 'propers serarch disabled' in manage searches if disabled
 
 ### 4.0.65 (2015-09-21)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.64...v4.0.65)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.64...v4.0.65)
 
 * Added: Public var to providers, and class to color them in css (unused yet)
 * Added: Wiki link to config/info page
-* Added: Temporary 'raise' to debug issue  [more info](https://github.com/SiCKRAGETV/sickrage-issues/issues/2880)
+* Added: Temporary 'raise' to debug issue  [more info](https://github.com/SickRage/sickrage-issues/issues/2880)
 * Fixed: Class redefinition in mainDB.py
 * Fixed: Undefined FULLHDWEBDL
 * Fixed: "Jump to Season" selection dropdown on displayShow, and open the selected season
@@ -318,7 +318,7 @@
 
 ### 4.0.64 (2015-09-20)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.63...v4.0.64)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.63...v4.0.64)
 
 * Added: Dropdown arrow to "Select Column" button
 * Fixed: Alpharatio does not respond to the SSL version
@@ -329,7 +329,7 @@
 
 ### 4.0.63 (2015-09-20)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.62...v4.0.63)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.62...v4.0.63)
 
 * Added: TransmitTheNet provider
 * Added: TVChaosUK Provider
@@ -348,7 +348,7 @@
 
 ### 4.0.62 (2015-09-19)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.61...v4.0.62)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.61...v4.0.62)
 
 * Fixed: Not showing dialog for removing shows
 * Fixed: T411 `NoneType` bug
@@ -370,7 +370,7 @@
 
 ### 4.0.61 (2015-09-13)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.60...v4.0.61)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.60...v4.0.61)
 
 * Added: Missing Colors network logo
 * Added: Mako cache cleaner upon startup of new version
@@ -384,7 +384,7 @@
 
 ### 4.0.60 (2015-09-11)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.59...v4.0.60)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.59...v4.0.60)
 
 * Fixed: Missing images
 * Fixed: History page not displaying downloaded subtitles anymore
@@ -396,7 +396,7 @@
 
 ### 4.0.59 (2015-09-10)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.58...v4.0.59)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.58...v4.0.59)
 
 * Added: Temp log lines
 * Fixed: Start making providers use params correctly, to fix cachecontrol
@@ -406,7 +406,7 @@
 
 ### 4.0.58 (2015-09-09)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.57...v4.0.58)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.57...v4.0.58)
 
 * Added: Show "Add Anime" at the bottom of the anime tables
 * Fixed: Recursion depth exceeded error in providers login
@@ -414,7 +414,7 @@
 
 ### 4.0.57 (2015-09-09)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.56...v4.0.57)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.56...v4.0.57)
 
 * Added: TNTVillage foreign show name searching
 * Fixed: Page Title for Trending Shows
@@ -429,7 +429,7 @@
 
 ### 4.0.56 (2015-09-08)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.55...v4.0.56)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.55...v4.0.56)
 
 * Added: nzbToMedia scripts in a git submodule, under the `contrib` folder
 * Added: Total show size column
@@ -462,7 +462,7 @@
 
 ### 4.0.55 (2015-08-31)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.54...v4.0.55)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.54...v4.0.55)
 
 * Added: Some network logos
 * Added: Print "Shows list" feature
@@ -487,7 +487,7 @@
 
 ### 4.0.54 (2015-08-25)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.53...v4.0.54)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.53...v4.0.54)
 
 * Added: Xbox Video network icon
 * Added: Ability for deluged to set torrent path, to the torrent download location
@@ -508,7 +508,7 @@
 
 ### 4.0.53 (2015-08-20)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.52...v4.0.53)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.52...v4.0.53)
 
 * Added: .Renc to removewordlist
 * Fixed: Fix issue with getDBcompare()
@@ -523,7 +523,7 @@
 
 ### 4.0.52 (2015-08-17)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.51...v4.0.52)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.51...v4.0.52)
 
 * Fixed: Manage Torrents page
 * Fixed: Calendar view on coming episodes page
@@ -534,7 +534,7 @@
 
 ### 4.0.51 (2015-08-16)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.50...v4.0.51)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.50...v4.0.51)
 
 * Added: Mako added to libraries
 * Added: New torrent client deluge daemon (deluged direct)
@@ -559,7 +559,7 @@
 
 ### 4.0.50 (2015-08-04)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.49...v4.0.50)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.49...v4.0.50)
 
 * Added: [1044] & -Siklopentan to removewordslist
 * Changed: Ignore search results when an episode is not aired yet
@@ -573,7 +573,7 @@
 
 ### 4.0.49 (2015-08-01)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.48...v4.0.49)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.48...v4.0.49)
 
 * Added: Emby notifications
 * Added: CentOS/Fedora can now specify which Python version to run in /etc/sysconfig/sickrage
@@ -583,7 +583,7 @@
 * Changed: ```Unable to obtain cookie for ...``` log line to WARNING
 * Changed: Indexer time out error to warning
 * Fixed: Provider column in history for archived items
-* Fixed: Paused shows showing in webapi backlog query [more info](https://github.com/SiCKRAGETV/SickRage/commit/a9b7e3fd1416b137a1788932c259929b4fd06d5a)
+* Fixed: Paused shows showing in webapi backlog query [more info](https://github.com/SickRage/SickRage/commit/a9b7e3fd1416b137a1788932c259929b4fd06d5a)
 * Fixed: Subtitles flags in compact history view
 * Fixed: Fix equality vs identity problem in catching requests status codes for trakt
 * Fixed: Fix missing " in search.py
@@ -592,19 +592,19 @@
 
 ### 4.0.48 (2015-07-29)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.47...v4.0.48)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.47...v4.0.48)
 
 * Added: Before auto-submitting you must update to the latest release and enable debug
 * Change: Use zip64 for methods in helpers.py
 * Change: Increased time-out for xem
 * Fixed: A bug involving backup/restore losing settings
 * Fixed: Not able to connect to Trakt
-* Fixed: Bug in API [more info](https://github.com/SiCKRAGETV/sickrage-issues/issues/2373)
+* Fixed: Bug in API [more info](https://github.com/SickRage/sickrage-issues/issues/2373)
 * Updated: guessit library
 
 ### 4.0.47 (2015-07-28)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.46...v4.0.47)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.46...v4.0.47)
 
 
 * Added: Pop-up confirmation before submitting errors
@@ -615,7 +615,7 @@
 
 ### 4.0.46 (2015-07-28)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.45...v4.0.46)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.45...v4.0.46)
 
 
 * Added: Missing provider icons
@@ -625,13 +625,13 @@
 * Changed: Show skipped files in log INFO
 * Change: Behind the scenes cleaning of HDTorrents
 * Fixed: Bug preventing torrents with 0 leechers from being downloaded
-* Fixed: xthor crash (ratio) [more info](https://github.com/SiCKRAGETV/SickRage/commit/c7baabb709e8fdc407369e93fe92b035f75c5b3d)
-* Fixed: Libertalia search error [more info](https://github.com/SiCKRAGETV/sickrage-issues/issues/2169)
+* Fixed: xthor crash (ratio) [more info](https://github.com/SickRage/SickRage/commit/c7baabb709e8fdc407369e93fe92b035f75c5b3d)
+* Fixed: Libertalia search error [more info](https://github.com/SickRage/sickrage-issues/issues/2169)
 * Fixed: Xem refresh
 
 ### 4.0.45 (2015-07-26)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.44...v4.0.45)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.44...v4.0.45)
 
 
 * Added: Saving history limit
@@ -642,7 +642,7 @@
 
 ### 4.0.44 (2015-07-25)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.43...v4.0.44)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.43...v4.0.44)
 
 
 * Added: Informations about filter in show page
@@ -656,7 +656,7 @@
 
 ### 4.0.43 (2015-07-24)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.42...v4.0.43)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.42...v4.0.43)
 
 
 * Added: Missing network logos
@@ -679,13 +679,13 @@
 
 ### 4.0.42 (2015-07-22)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.41...v4.0.42)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.41...v4.0.42)
 
 
 * Added: IRC to SickRage
 * Added: Missing subtitle flag for Afrikaans
 * Added: API command to get the fan art of a show
-* Added: Auto fix for show lang = 0 [more info](https://github.com/SiCKRAGETV/sickrage-issues/issues/2206)
+* Added: Auto fix for show lang = 0 [more info](https://github.com/SickRage/sickrage-issues/issues/2206)
 * Added: Ability to run external script after a video downloads subtitles
 * Added: Several new network logos
 * Fixed: Max title length for issues
@@ -711,7 +711,7 @@
 
 ### 4.0.41 (2015-07-19)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.40...v4.0.41)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.40...v4.0.41)
 
 
 * Added: NZBGeek to default newznab providers
@@ -721,7 +721,7 @@
 * Added: A ton of new network logos
 * Fixed: Search indexers api
 * Fixed: File size requiring ZIP64 extensions
-* Fixed: Error on Cpasbien provider [more info](https://github.com/SiCKRAGETV/sickrage-issues/issues/2203)
+* Fixed: Error on Cpasbien provider [more info](https://github.com/SickRage/sickrage-issues/issues/2203)
 * Fixed: WANTED episodes that haven't aired
 * Change: Don't allow chained call with command show.getnetworklogo
 * Change: Behind the scenes clean-up of ```tv.py```
@@ -729,7 +729,7 @@
 
 ### 4.0.40 (2015-07-19)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.39...v4.0.40)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.39...v4.0.40)
 
 * Change: Episodes with airdate = 1 arent considered as aired any more
 * Change: changes.md & news.md are now loaded from their own repo
@@ -738,18 +738,18 @@
 
 ### 4.0.39 (2015-07-18)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.38...v4.0.39)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.38...v4.0.39)
 
 * Fixed: Template issue when no lang was set for show info
 * Fixed: Download client import
-* Fixed: Error while opening a shows page [more info](https://github.com/SiCKRAGETV/sickrage-issues/issues/2183)
+* Fixed: Error while opening a shows page [more info](https://github.com/SickRage/sickrage-issues/issues/2183)
 * Change: Rename clients .py files to avoid conflicts with libs
 * Change: Made episodes with airdate as 'never' to UNAIRED
 * Changed some logs regarding air dates & torrent files
 
 ### 4.0.38 (2015-07-18)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.37...v4.0.38)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.37...v4.0.38)
 
 * Fixed: URL with double http://
 * Added: Fox Crime logo
@@ -761,7 +761,7 @@
 
 ### 4.0.37 (2015-07-17)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.36...v4.0.37)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.36...v4.0.37)
 
 * Fixed: Path for news.md
 * Fixed: SSL certificate verification error for IPT
@@ -769,14 +769,14 @@
 
 ### 4.0.36 (2015-07-16)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.35...v4.0.36)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.35...v4.0.36)
 
 * Fixed: Bug where already downloaded subtitles were not found if using a custom subtitles directory
 * Change: Catch a requests exception when content-encoding is gzip but content is not
 
 ### 4.0.35(2015-07-16)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.34...v4.0.35)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.34...v4.0.35)
 
 * Added: Cpasbien provider
 * Added: Missing flags* Change: Libertalia provider now uses requests
@@ -784,7 +784,7 @@
 
 ### 4.0.34 (2015-07-16)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.33...v4.0.34)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.33...v4.0.34)
 
 * Fixed: Bug in PP where non-scene was not possible if xem had a mapping
 * Fixed: Flags on history page and info lang
@@ -794,7 +794,7 @@
 
 ### 4.0.33 (2015-07-15)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.32...v4.0.33)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.32...v4.0.33)
 
 * Fixed: Exceptions in Trakt requests
 * Added: Auto fix bad subtitle codes
@@ -803,25 +803,25 @@
 
 ### 4.0.32 (2015-07-15)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.31...v4.0.32)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.31...v4.0.32)
 
 * Fixed: Debug code being added to shows page
 * Fixed: Parser log
-* Fixed: Initial scale on mobile device [more info](https://github.com/SiCKRAGETV/sickrage-issues/issues/2079)
+* Fixed: Initial scale on mobile device [more info](https://github.com/SickRage/sickrage-issues/issues/2079)
 * Fixed: Magnets without title
 * Fixed: SR not auto exiting if another instance is running
 * Fixed: Missing guessit test files
 * Fixed: Failing TokyoToshoKan
 * Fixed: Log message showing 'no released episodes'
 * Fixed: Cache log message
-* Added: Better integration on Chrome for android [more info](https://github.com/SiCKRAGETV/SickRage/pull/2089)
+* Added: Better integration on Chrome for android [more info](https://github.com/SickRage/SickRage/pull/2089)
 * Added: API method to get a network logo
 * Added: New provider icons
 * Added: New suffixes and prefixes to removeWordsList
 * Added: New option in config/general advanced settings (SSL Verify)
 * Added: enum34 dependancy for chardet
 * Removed: Disable TRAKT SSL Verify - absorbed by new setting
-* Change: Small visual improvement in server status page [more info](https://github.com/SiCKRAGETV/SickRage/pull/2091)
+* Change: Small visual improvement in server status page [more info](https://github.com/SickRage/SickRage/pull/2091)
 * Change: Disabled itorrent
 * Change: Encode freemobile message and title with utf-8
 * Change: Move subtitles flags to their own directory
@@ -834,7 +834,7 @@
 
 ### 4.0.31 (2015-07-12)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.30...v4.0.31)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.30...v4.0.31)
 
 * Fixed: Memory, disk, and processor usage when updating scene exceptions
 * Fixed: Trakt exception on 404 to only show warning
@@ -847,7 +847,7 @@
 
 ### 4.0.30 (2015-07-09)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.29...v4.0.30)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.29...v4.0.30)
 
 * Fixed: Misc. Trakt problems
 * Fixed: Search strings with airdate
@@ -879,7 +879,7 @@
 
 ### 4.0.29 (2015-06-26)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.28...v4.0.29)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.28...v4.0.29)
 
 * Fixed: "Failed to load URL" problems
 * Fixed: Spam and search string in SCC
@@ -898,9 +898,9 @@
 
 ### 4.0.28 (2015-06-23)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.27...v4.0.28)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.27...v4.0.28)
 
-* Fixed: SiCKRAGETV/sickrage-issues#1747
+* Fixed: SickRage/sickrage-issues#1747
 * Fixed: torrentday
 * Fixed: Release group sometimes not showing in compact history
 * Fixed: Results from cache not honoring ignored/required words
@@ -926,14 +926,14 @@
 
 ### 4.0.27 (2015-06-18)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.26...v4.0.27)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.26...v4.0.27)
 
 * Fixed: webapi CMD_ShowPause not updating database
 * Fixed: HDT removing first letter of the file
 * Fixed: Searches not running at all
 * Fixed: Properly import sickbeard.exceptions.ex
 * Fixed: Remove default ep status
-* Fixed: Fixed /SiCKRAGETV/sickrage-issues#1814 & /SiCKRAGETV/sickrage-issues#1743
+* Fixed: Fixed /SickRage/sickrage-issues#1814 & /SickRage/sickrage-issues#1743
 * Added: alt.binaries.teevee
 * Change: Try to get the best quality from the best/archived list on first snatch, but accept the highest from the any/allowed list otherwise
 * Change: Limit newznab searches to 400 results & clean up its logging
@@ -945,7 +945,7 @@
 
 ### 4.0.26 (2015-06-14)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.25...v4.0.26)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.25...v4.0.26)
 
 * Fixed: RemoveWords, ignoreWords, requiredWords fixes
 * Fixed: WindowsError undefined on linux, but WindowsError and IOError are just alias' of OSError
@@ -955,7 +955,7 @@
 
 ### 4.0.25 (2015-06-12)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.24...v4.0.25)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.24...v4.0.25)
 
 * Fixed: Verify_freespace check and return False on isFileLocked check
 * Fixed: SQLite3 on Debian8
@@ -970,7 +970,7 @@
 
 ### 4.0.24 (2015-06-08)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.23...v4.0.24)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.23...v4.0.24)
 
 * Fixed: Potential bad episode airdates preventing SR from starting
 * Added: Small change for additional layout.Change: Cleaned up logging
@@ -979,7 +979,7 @@
 
 ### 4.0.23 (2015-06-02)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.22...v4.0.23)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.22...v4.0.23)
 
 * Changed image download issue from error to warning
 * Changed urls to use http github.io pages from our repos
@@ -987,10 +987,10 @@
 
 ### 4.0.22 (2015-05-28)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.21...v4.0.22)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.21...v4.0.22)
 
 * Fixed: 'utf8' codec can't decode byte while reading the DB
-* Fixed SiCKRAGETV/sickrage-issues#1691
+* Fixed SickRage/sickrage-issues#1691
 * Added failed option to PP API
 * Added Add size attribute in providers.generic for nzb providers
 * Feature: Trakt PIN Auth
@@ -1002,7 +1002,7 @@
 
 ### 4.0.21 (2015-05-17)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.20...v4.0.21)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.20...v4.0.21)
 
 * Fixed quality colors on history and displayShow pages
 * Fixed manual adding of group to black or white list
@@ -1013,7 +1013,7 @@
 
 ### 4.0.20 (2015-05-10)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.19...v4.0.20)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.19...v4.0.20)
 
 * Fixed incorrect behaviour in the web API when a show search returns 0 results
 * Fixed funky Quality Names
@@ -1027,14 +1027,14 @@
 * Change: Move init/upstart scripts to their own folder to organize and clean up the source
 * Change: Replace SSL Error with a url with information. Disable issue submission of such errors
 * Change: Re-enable feedparser test, as lolo.sickbeard.com is operational again
-* Changed sr_tvrage_scene_exceptions to use SiCKRAGETV repo instead of echel0n's
+* Changed sr_tvrage_scene_exceptions to use SickRage repo instead of echel0n's
 * Removed pyOpenSSL from libs. Cryptography is only needed if you use pyOpenSSL 0.14 or newer. Instead `pip install pyopenssl==0.13.1`
 * Removed torrage.com as the domain expired, zoink.ch has nginx misconfigured or service stopped
 * Updated Regex to be more specific to for replacement
 
 ### 4.0.19 (2015-05-04)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.18...v4.0.19)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.18...v4.0.19)
 
 * Fixed SSL errors
 * Fixed travis reporting failed builds as successful
@@ -1055,7 +1055,7 @@
 
 ### 4.0.18 (2015-04-26)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.17...v4.0.18)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.17...v4.0.18)
 
 * Fixed build tests
 * Fixed T411 wrong api data received
@@ -1091,7 +1091,7 @@
 
 ### 4.0.17 (2015-04-19)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.16...v4.0.17)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.16...v4.0.17)
 
 * libnotify: Use gir-notify instead of pynotify.
 * Fix for xml_declaration unexpected keyword in python 2.6.
@@ -1132,7 +1132,7 @@
 
 ### 4.0.16 (2015-04-12)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.15...v4.0.16)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.15...v4.0.16)
 
 * New Feature: Added option to add a filter row on main show page (enabled in general settings - interface)
 * New Feature: added scheduling status page
@@ -1149,7 +1149,7 @@
 
 ### 4.0.15 (2015-04-05)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.14...v4.0.15)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.14...v4.0.15)
 
 * Fixed KAT season search
 * Fixed episode description decode error in calendar
@@ -1173,7 +1173,7 @@
 
 ### 4.0.14 (2015-03-29)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.13...v4.0.14)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.13...v4.0.14)
 
 * Feature: Added Free Space check in PP before deleting files
 * Added DEBUG setting to UI
@@ -1205,7 +1205,7 @@
 
 ### 4.0.13 (2015-03-22)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.12...v4.0.13)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.12...v4.0.13)
 
 * Fix HDTorrents proper search
 * Fix restart page
@@ -1260,7 +1260,7 @@
 
 ### 4.0.12 (2015-03-15)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.11...v4.0.12)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.11...v4.0.12)
 
 * Auto update or manual updated will be aborted: remote DB has new DB version or Post-Processor or ShowUpdater are running
 * RSS feeds now can use global proxy (if enabled)
@@ -1292,7 +1292,7 @@
 * Send LOCALE when submitting issue
 
 ### 4.0.11 (2015-03-08)
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.10...v4.0.11)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.10...v4.0.11)
 
 * Use Scene Exceptions in Post Processing
 * Fix some PP issues related to message "Problem(s) during Processing"
@@ -1312,7 +1312,7 @@
 * WARNING: Windows users: please set number of logs to 0 (zero) to avoid errors. Known issue.
 
 ### 4.0.10 (2015-03-03)
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/v4.0.9...v4.0.10)
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.9...v4.0.10)
 
 * Add "Use failed downloads" to search settings
 * Add a missing urllib3.disbale_warning()
@@ -1500,14 +1500,14 @@
 
 ### 0.2.1 (2014-10-22 06:41:00 UTC)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/release_0.2.0...release_0.2.1)
+[full changelog](https://github.com/SickRage/SickRage/compare/release_0.2.0...release_0.2.1)
 
 * Fix HDtorrents provider screen scraping
 
 
 ### 0.2.0 (2014-10-21 12:36:50 UTC)
 
-[full changelog](https://github.com/SiCKRAGETV/SickRage/compare/release_0.1.0...release_0.2.0)
+[full changelog](https://github.com/SickRage/SickRage/compare/release_0.1.0...release_0.2.0)
 
 * Fix for failed episodes not counted in total
 * Fix for custom newznab providers with leading integer in name

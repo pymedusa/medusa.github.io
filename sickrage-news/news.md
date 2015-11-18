@@ -2,20 +2,20 @@
 
 <br/>
 
-####Please read the [Wiki/FAQ](https://github.com/SiCKRAGETV/sickrage-issues/wiki) before opening an issue####
-All issues and bug reports must be opened at [GitHub](https://github.com/SiCKRAGETV/sickrage-issues/issues) (not the forum!) and you **MUST** follow **ALL** [guidelines](https://github.com/SiCKRAGETV/sickrage-issues#submitting-a-bugissue-ticket).
+####Please read the [Wiki/FAQ](https://github.com/SickRage/sickrage-issues/wiki) before opening an issue####
+All issues and bug reports must be opened at [GitHub](https://github.com/SickRage/sickrage-issues/issues) (not the forum!) and you **MUST** follow **ALL** [guidelines](https://github.com/SickRage/sickrage-issues#submitting-a-bugissue-ticket).
 
 <br/>
 
 ####2015-10-22####
 
-There has been some confusion about yesterday's news about [nzbToMedia](https://github.com/SiCKRAGETV/sickrage-issues/wiki/NZBtoMedia) and the removal of the outdated autoProcessTV files/folder.
+There has been some confusion about yesterday's news about [nzbToMedia](https://github.com/SickRage/sickrage-issues/wiki/NZBtoMedia) and the removal of the outdated autoProcessTV files/folder.
 
 - The built-in post-processor is not being changed or effected in any way. If you use The built in post-processor, these changes do not affect you whatsoever and you do not need to make changes to your setup.
 
 - SickRage will still support the use of autoProcessTV and sabtosickbeard.py, but we are no longer including them in the SickRage folder. If you still prefer to use the (old) autoProcessTV script package then you will have to manually download and store it somewhere outside of SickRage. It is however, recommended that you start switching over to the newer/better nzbToMedia in this case.
 
-- [nzbToMedia](https://github.com/SiCKRAGETV/sickrage-issues/wiki/NZBtoMedia) is a rewrite/improvement upon autoProcessTV that adds support for Torrents, among other things. nzbToMedia is now included in the SickRage source in the contrib folder and you can find information about nzbToMedia and setup on our [Wiki](https://github.com/SiCKRAGETV/sickrage-issues/wiki/NZBtoMedia) and the [nzbToMedia Wiki](https://github.com/clinton-hall/nzbToMedia/wiki).
+- [nzbToMedia](https://github.com/SickRage/sickrage-issues/wiki/NZBtoMedia) is a rewrite/improvement upon autoProcessTV that adds support for Torrents, among other things. nzbToMedia is now included in the SickRage source in the contrib folder and you can find information about nzbToMedia and setup on our [Wiki](https://github.com/SickRage/sickrage-issues/wiki/NZBtoMedia) and the [nzbToMedia Wiki](https://github.com/clinton-hall/nzbToMedia/wiki).
 
 <br/>
 
@@ -36,7 +36,7 @@ subtitle provider [Legendas.TV](http://legendas.tv/) on top of what subliminal h
 
 ####2015-09-26####
 
-- Today we introduced our new [Feature Tracker.](http://feathub.com/SiCKRAGETV/SickRage) Let us know what features YOU would like to see added. And cast your vote for the already submitted features.
+- Today we introduced our new [Feature Tracker.](http://feathub.com/SickRage/SickRage) Let us know what features YOU would like to see added. And cast your vote for the already submitted features.
 - (All feature requests should go to the new tracker, not the forum or issue-tracker.)
 
 <br/>
@@ -54,7 +54,7 @@ You can read the full description and information on [Google Play](https://play.
 - As you might have noted the [TVRage](http://www.tvrage.com) website pulled the plug/shut down. And that is causing some issues we needed to address. We pushed a fix that automatically converts the TVRage ID to a TheTVDB ID. So that new data is pulled from theTVDB.com instead. That works for most users but sadly not all. So be aware that when you used TVRage shows, you might experience some issues. Be assured that we are working hard to get this all sorted out.
 Also as a consequence of the TVRage shutdown we where forced to push some changes for the theme/layout that where not completely tested. Therefore the Network logos are currently not working. Fix coming soon.
 
-- But not only bad news, we have a brand new [SickRage installer](https://github.com/SiCKRAGETV/sickrage-issues/wiki/SickRage-Windows-Installer) for Windows!
+- But not only bad news, we have a brand new [SickRage installer](https://github.com/SickRage/sickrage-issues/wiki/SickRage-Windows-Installer) for Windows!
 
 <br />
 
@@ -80,7 +80,7 @@ Also as a consequence of the TVRage shutdown we where forced to push some change
 ####2015-08-06####
 
  - We need some help writing the Wiki for Anime. If you want to help please contact neoatomic in IRC
- - All Wiki pages are now at this [URL](https://github.com/SiCKRAGETV/sickrage-issues/wiki) so users can contribute
+ - All Wiki pages are now at this [URL](https://github.com/SickRage/sickrage-issues/wiki) so users can contribute
 
 <br/>
 
@@ -99,7 +99,7 @@ Also as a consequence of the TVRage shutdown we where forced to push some change
 ####2015-07-21####
 
 - Added ability to run an external script for every subtitle downloaded (can be used to embed subs in mkv/mp4)
-    For info about the parameters passed see [PR#2139](https://github.com/SiCKRAGETV/SickRage/pull/2139)
+    For info about the parameters passed see [PR#2139](https://github.com/SickRage/SickRage/pull/2139)
 
 - Added IRC tab in web ui, to connect to the SickRage IRC channel
 
