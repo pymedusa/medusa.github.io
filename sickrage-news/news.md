@@ -7,6 +7,13 @@ All issues and bug reports must be opened at [GitHub](https://github.com/SickRag
 
 <br/>
 
+####2015-11-21####
+**Welcome to SickRage reincarnated!**
+- SickRage reincarnated is the same active development team from the old repository.  
+- The new repository is located at https://github.com/SickRage/SickRage/
+- Any questions or issues can be submitted via our [Issue Tracker](https://github.com/SickRage/sickrage-issues)
+- We are looking to rename SickRage and have been looking to do so since well before the change, but our priority is to provide a high quality product to our users.  The name change will come in time.  If you have any suggestions, submit them [here](https://github.com/SickRage/sickrage-issues/issues/26).
+
 ####2015-10-22####
 
 There has been some confusion about yesterday's news about [nzbToMedia](https://github.com/SickRage/sickrage-issues/wiki/NZBtoMedia) and the removal of the outdated autoProcessTV files/folder.
