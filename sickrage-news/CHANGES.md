@@ -1,3 +1,187 @@
+### 4.2.0.3 (2015-11-19)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.2.0.2...v4.2.0.3)
+
+* Fix some css issues
+* Fix growl and prowl test 
+* Fix js error on config/search and config/providers page 
+* Fix sorting on status page 
+* Move errorlogs and schedule js to core.js 
+* Fix format of current time display in page footer 
+* Fix issue submitter 
+* Add better regex control for anime/normal in name_parser 
+* Major rewrite in btdigg provider
+
+### 4.2.0.2 (2015-11-18)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.2.0.1...v4.2.0.2)
+
+* Fix imdb popular
+* Fix news, changelog, and network timezones update when using proxy 
+* Also move subtitles with lang code from downloads 
+* Fix auth recheck in bluetigers 
+* Fix mirror urls in kat and tpb 
+* Fix newpct parsing 
+* More effective bower/grunt/npm settings
+
+### 4.2.0.1 (2015-11-18)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.2.0.01...v4.2.0.1)
+
+* Fix some js problems
+* Fix snatching episodes that are abd that also have a special that airs the same day 
+* Save multiple plex servers 
+* Fix fork detection and post processing using nzbtomedia 
+* Fix all irc channel links 
+* Add RSS to BTDigg 
+* Change app_id for RARBG 
+* Change pretty name format for episodes to SXXEXX 
+* Fix regex for Libertalia
+
+### 4.2.0.01 (2015-11-17)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.2...v4.2.0.01)
+
+* PEPS 8, 203, 257, 263 in notifiers
+* Fix setting git_remote_url, force to SickRage org 
+* Fix problems with naming patterns and release_name when name isnt recognized by name parser 
+* Fix flags in subtitlesMissed and table layout 
+* Fix error in processTV where a proper of smaller size was supposed to overwrite but it didnt and processing stopped 
+* Lint configProviders 
+* Fix NoneType error in torrentz provider 
+* Hella fix up a lot of js and remove old/unused js
+
+### 4.2 (2015-11-15) Minor version bump!
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.1.0.2...v4.2)
+
+* Switch from SiCKRAGETV org to SickRage org (good luck on your own ech3l0n)
+* Add missing cloudflare http codes 
+* Remove glype proxy support 
+* Add MLDonkey client 
+* Add unit test for removewords and better testing of common methods 
+* Fix TitansOfTV 
+* Remove lib/futures 
+* Fix sabnzbd/nzbget category/label 
+* Mass PEPS 8, 203, 263 (Thanks @labrys) 
+* Change statusStrings to a numdict and add unit testing 
+* Lint js and rewrite a large chunk to be more efficient and less error prone 
+* Select sbtimezone correctly for dateutil 
+* Fix missing episodes in displayShow, and caching issues on home/history 
+* Add REAL to proper strings searches 
+* Remove FTDB 
+* Increase GH api limits when searching issues to submit by loggin in 
+* Remove pnotify 
+* Add libs to bower, minified vender libs 
+* Update tablesorter, formhelpers 
+* Add jscsrc 
+* ...shitload more, 320+ commits!!
+
+### 4.1.0.2 (2015-11-3)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.1.0.1...v4.1.0.2)
+
+* Remove "append_identifier" feature introduced with newpct, as it broke way to much
+* Make kat provider work well for anime 
+* Add calendar icons option for iCal/google calendar 
+* Dont force local timezone display anymore
+
+### 4.1.0.1 (2015-11-3)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.1.0...v4.1.0.1)
+
+* Add newpct provider
+* Fix libertalia parsing of non-new torrents 
+* Lint PP and fix a few bugs 
+* Fix season/episode matching regex for "crazy.ex-girlfriend" 
+* Clean up metadata providers more, fix a bug where open files may not be closed 
+* Lint sickbeard/__init__.py and clean up globals 
+* Lint webapi and fix a few issues
+
+### 4.1.0 (2015-11-2) Minor version bump!
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.76.2...v4.1.0)
+
+* Fix mako cache bug and update mako to v1.0.3 
+* Remove autoProcessTV 
+* Reorganize source and refactor a bunch of code 
+* Switch to normal dropdowns again and make them work correctly for touch 
+* Fix wantEpisode where it was checking status instead of quality when comparing to unknown 
+* Fix some mass notifications and js errors on IE/Edge 
+* Fix file timestamping to airdate 
+* Add GFTracker, HD-Space 
+* Fix air-by-date searches snatching the wrong date 
+* Fix name_parser tests 
+* Now checks scene exceptions when post processing (and a lot of other places in code!) 
+* Fix reverting to previous episode status when a re-download of better quality is failed and would overwrite a good copy 
+* Hella linting and sillyness fixing and much more to come!
+
+
+### 4.0.76.2 (2015-10-27)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.76.1...v4.0.76.2)
+
+* Fix subtitles not moving during PP
+* Ignore RARBG intro videos 
+* Don't lowercase rtorrent client labels 
+* Fix a bug where file would not PP a better quality when existing quality was unknown 
+* Add pretome provider
+ 
+### 4.0.76.1 (2015-10-27)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.76...v4.0.76.1)
+
+* Add torrentz provider
+* Fix a few small problems with HDT, MTV, Strike, BTDigg, TorrentProject, NextGen 
+* Fix mass edit for season foldersm (previously opposite, flatten folders) 
+* Fix auto PP and scene naming setting.
+
+### 4.0.76 (2015-10-24)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.75.7...v4.0.76)
+
+* Added Scene Quality naming pattern (%SQN) that determines codec and capitalized release groups option (%CRG)
+* Fix a place where non-release groups were not stripped from release names (effects many parts of SR)
+* Fix detection of no results for torrentbytes and add support for size and freelech 
+* Update dateutil to 9645c3d 
+* Fix bad encoding in HDT 
+* Temp change TPB url to a mirror-proxy
+
+### 4.0.75.7 (2015-10-23)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.75.6...v4.0.75.7)
+
+* Update Tornado to v4.2.1
+* Fix logging warnings when kodi is off but sickbeard.KODI_ALWAYS_ON is false 
+* Fix data encoding for kat and ettv 
+* Fix some errors with what episodes are displayed in the schedule and when 
+* Fix error when a show doesnt have a defined network or air day/time
+
+### 4.0.75.6 (2015-10-21)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.75.5...v4.0.75.6)
+
+* Add ability to enter login details for opensubtitles, addic7ed, and legendas.tv 
+* Add ability to select in gui whether you want hearing impaired subtitles or not
+* Add RSS search for Torrent Project provider 
+* Increase delay between RSS updates for RARBG from 5 minutes to 10 
+* Better searching for SCC with less requests, add size parsing for SCC 
+* Allow 480p qualities without SDTV/HDTV tag to be detected as SDTV 
+* Improve logic in Schedule 
+* Add special thanks section to readme.md 
+* Add ability to set the time when SR makes your morning coffee
+
+### 4.0.75.5 (2015-10-20)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.0.75.4...v4.0.75.5)
+
+* Fix problems with metadata file generation effecting all metadata types, like parsing actors 
+* Another stage of refactoring and bugfixing for providers, nearing a unified format 
+* Reorganize post processing settings, and new layout for editting a show 
+* Add support for detecting quality of German WebHD releases 
+* Use human readable bytes to show root dirs and download dir free space
+* Various encoding fixes, linting, catching of unhandled exceptions
+
 ### 4.0.75.4 (2015-10-16)
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v4.0.75.3...v4.0.75.4)
