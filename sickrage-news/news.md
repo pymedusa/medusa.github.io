@@ -9,17 +9,17 @@ All issues and bug reports must be opened at [GitHub](https://github.com/SickRag
 
 #### 2015-11-21 ####
 
-For those who are not aware yet, we where forced to change/migrate the Repository on GitHub.
-We apologize for the inconvenience this may have coursed.  
-But as you can see the team is up and running again, and providing updates and support as before. Please make sure you update your bookmarks and links to point to the new repository.  :  
+For those who are not yet aware, we were forced to change/migrate the Repository on GitHub.
+We apologize for any inconvenience this may have caused.  
+As you can see, the team is up and running again and providing updates and support as before. Please make sure you update your bookmarks and links to point to the new repository:  
 
 - New repository   :   https://github.com/SickRage/   
 - New Issue tracker:   https://github.com/SickRage/sickrage-issues  
 - New Wiki page    :   https://github.com/SickRage/sickrage-issues/wiki  
 
-And please get the word out, so your friends, package builders and tutorials makers are aware.  
-For the Synology users we made a tutorial so they can easily switch to the new [repository](https://github.com/SickRage/sickrage-issues/wiki/Switching-your-Synology's-Sickrage-to-the-new-repository).  
-Again apologizes for any inconvenience this has coursed .   
+Please get the word out so your friends, package builders and tutorial makers are aware.  
+For the Synology users, we made a tutorial so they can easily switch to the new [repository](https://github.com/SickRage/sickrage-issues/wiki/Switching-your-Synology's-Sickrage-to-the-new-repository).  
+Again, apologies for any inconvenience this has caused.   
 
 <br/>  
 
