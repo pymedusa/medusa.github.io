@@ -3,7 +3,7 @@
 <br/>
 
 ####Please read the [Wiki/FAQ](https://github.com/SickRage/sickrage-issues/wiki) before opening an issue####
-All issues and bug reports must be opened at [GitHub](https://github.com/SickRage/sickrage-issues/issues) (not the forum!) and you **MUST** follow **ALL** [guidelines](https://github.com/SickRage/sickrage-issues#submitting-a-bugissue-ticket).
+All issues and bug reports must be opened at [GitHub](https://github.com/SickRage/sickrage-issues/issues) and you **MUST** follow **ALL** [guidelines](https://github.com/SickRage/sickrage-issues#submitting-a-bugissue-ticket).
 
 <br/>
 
@@ -37,7 +37,7 @@ subtitle provider [Legendas.TV](http://legendas.tv/) on top of what subliminal h
 ####2015-09-26####
 
 - Today we introduced our new [Feature Tracker.](http://feathub.com/SickRage/SickRage) Let us know what features YOU would like to see added. And cast your vote for the already submitted features.
-- (All feature requests should go to the new tracker, not the forum or issue-tracker.)
+- (All feature requests should go to the new tracker, not the issue-tracker.)
 
 <br/>
 
