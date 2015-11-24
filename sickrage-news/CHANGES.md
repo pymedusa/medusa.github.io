@@ -1,3 +1,21 @@
+### 4.2.0.4 (2015-11-22)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.2.0.3...v4.2.0.4)
+
+* Rewrite newznab provider to be WAY more efficient and reliable, fix getting categories, do not auto-append categories 
+* Add js lint/formatting tests to builds
+* Add feature to select which file extensions to allow being moved with the video when post processing
+* Add feature to prevent post processing subtitles until an external application adds a matching subtitle to the dir with it
+* Add gui option to set backlog search days for manual backlog
+* Remove forum info from md
+* Fix unicode issues
+* Make searching for shows in addShow work even if you type articles or forget parens around the year
+* Add trackers to btdigg magnets
+* Center file dialog and add a field to the top of it to up paths, with autocomplete
+* Remove boxcar1
+* Lots of js stuff I dont know how to make notes for... lol
+* Clean up statusStrings calls to use the new format
+
 ### 4.2.0.3 (2015-11-19)
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v4.2.0.2...v4.2.0.3)
