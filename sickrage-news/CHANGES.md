@@ -1,3 +1,24 @@
+### 4.2.0.6 (2015-11-28)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.2.0.5...v4.2.0.6)
+
+* Move various helper functions to sickrage module and add tests
+* Fix bitcannon support to work with node version 
+* Add option to download subtitles directly to PP folder and postpone PP of a file until subs are downloaded for that file 
+* Add more unit testing 
+* Clean up and lint nzbsplitter 
+* Added airdate and pp date tag examples to renamer 
+* Add rss support for newpct and make returned names cleaner 
+* Fix not asking if you want to mark failed for retry snatched best/proper 
+* Fix switching branches from the ui 
+* Fix apibuilder 
+* Split Overview.SNATCHED into seperate SNATCHED_BEST and SNATCHED_PROPER, and show SNATCHED (Low qual) on backlog overview when you have preferred qualities 
+* Fix flags missing in subtitle settings for language selection 
+* Fix webapi/apibuilder errors 
+* More mass linting 
+* Fixup and improve nfo file generation for KODI12+ 
+* Fix assertion error when editting a show's location
+
 ### 4.2.0.5 (2015-11-26)
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v4.2.0.4...v4.2.0.5)
