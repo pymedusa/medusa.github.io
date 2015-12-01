@@ -1,3 +1,57 @@
+### 4.2.0.6 (2015-11-28)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.2.0.5...v4.2.0.6)
+
+* Move various helper functions to sickrage module and add tests
+* Fix bitcannon support to work with node version 
+* Add option to download subtitles directly to PP folder and postpone PP of a file until subs are downloaded for that file 
+* Add more unit testing 
+* Clean up and lint nzbsplitter 
+* Added airdate and pp date tag examples to renamer 
+* Add rss support for newpct and make returned names cleaner 
+* Fix not asking if you want to mark failed for retry snatched best/proper 
+* Fix switching branches from the ui 
+* Fix apibuilder 
+* Split Overview.SNATCHED into seperate SNATCHED_BEST and SNATCHED_PROPER, and show SNATCHED (Low qual) on backlog overview when you have preferred qualities 
+* Fix flags missing in subtitle settings for language selection 
+* Fix webapi/apibuilder errors 
+* More mass linting 
+* Fixup and improve nfo file generation for KODI12+ 
+* Fix assertion error when editting a show's location
+
+### 4.2.0.5 (2015-11-26)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.2.0.4...v4.2.0.5)
+
+* Fix creating SSL certs for running SR using SSL
+* Fix some stat/unicode errors 
+* Added feature for per-show prowl notifications 
+* Fix newpct 
+* Add "Force Subtitle Search" button in manage searches 
+* Fix bug with PP of associated files 
+* Add RSS search for strike 
+* Add tests for sickrage module, lint old tests 
+* Moved layout dropdown on shows page 
+* Clean up js, remove dupe js 
+* Added FX (US) icon 
+* Fixed a few missed False return when provider auth fails 
+* Fix torznab support 
+* Rewrite Kat to use bs4, reload hack breaks xmltodict 
+* New provider Elitetorrent (Spanish) 
+* Fix Bluetigers provider 
+* Add filter box on posters layout, remove option to disable filter row on table layouts 
+* Add missing submit button in subtitles settings 
+* Bunch of PEP8, 263, fix conditionals 
+* Fix remove_non_release_groups stripping trailing ] incorrectly 
+* Fix subtitles_extra_scripts not showing current value 
+* Fix subtitles providers randomly becoming disabled 
+* Move some vars and methods to sickrage module 
+* Optimize sql select for backlog overview and optimize whole backlog overview page (still a tiny leak somewhere) 
+* Use SxxExx format for displaying episode numbers in backlog overview 
+* Add airdate format string examples to renaming settings 
+* Attempt to fix PP not overwriting smaller file even when SR snatched it 
+* Add custom url option for kat and tpb settings. Uses official site by default but you can override it in a similar way CP does
+
 ### 4.2.0.4 (2015-11-22)
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v4.2.0.3...v4.2.0.4)
