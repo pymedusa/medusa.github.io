@@ -1,11 +1,22 @@
-## News from SickRage developers
+## News from the SickRage developers
 
 <br/>
 
 ####Please read the [Wiki/FAQ](https://github.com/SickRage/sickrage-issues/wiki) before opening an issue####
 All issues and bug reports must be opened at [GitHub](https://github.com/SickRage/sickrage-issues/issues) and you **MUST** follow **ALL** [guidelines](https://github.com/SickRage/sickrage-issues#submitting-a-bugissue-ticket).
 
-<br/>
+<br/>  
+
+#### 2015-12-01 ####
+
+Currently we are (still) in the process of a large cleaning-up and optimization of the SickRage code.  
+This was really overdue, and will pave the road to all the new and cool features we plan to implement for you.  
+However there is always a risk that it will expose minor bugs, that we weren't able to catch during testing.  
+In case you encounter one, please make sure to report it on the [issue-tracker](https://github.com/SickRage/sickrage-issues/issues) or [IRC channel](https://kiwiirc.com/client/irc.freenode.net/?theme=basic#sickrage-issues).  
+
+This week we also launched our new [SickRage website](http://sickrage.github.io/).  
+
+<br/>  
 
 #### 2015-11-21 ####
 
