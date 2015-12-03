@@ -1,3 +1,30 @@
+### 4.2.0.6 (2015-12-02)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.2.0.6...v4.2.1.0)
+
+* Add slider to poster view to adjust poster size on home page
+* Display a zoomed poster when hovering and you have posters at a small size
+* Fix the title on the backup restore dialog
+* Change imdb popular view to match the poster-container layout of the trakt pages (Feathub+29)
+* Add total size of show column to home layout
+* Disabled autocomplete and autocapitalize on necessary inputs such as usernames and password fields
+* Show 0/0 instead of ? when there are no known episodes of a show yet
+* Move mucho js to core and clean it up
+* Mass linting on python, adding encoding declarations and other PEP designations
+* Added tests for sickrage module and various parts of sickbeard module
+* Rewrite subtitles support with latest dev subliminal
+* Fixed plot width in schedule
+* Fix anime parsing SxxExx names
+* Add bitsnoop provider
+* Improve js build definition files and update vendor versions, add mocha testing
+* Optimize various imports
+* Update PyGithub and fix updating fresh source install
+* Improve newPCT, fix transmithe.net provider
+* Improve some sql selects to be more optimized
+* Better proper searches for btdigg
+* Changed routes from /home/addShows to /addShows/, /home/addShows/newShow to /addShows/newShow, same for poularShows and existingShows
+* ...*TOO MUCH TO LIST*
+
 ### 4.2.0.6 (2015-11-28)
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v4.2.0.5...v4.2.0.6)
