@@ -1,4 +1,32 @@
-### 4.2.0.6 (2015-12-02)
+### 4.2.1.02 (2015-12-05)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.2.1.01...v4.2.1.02)
+
+* Add buttons, column selector, and clear filter to top of mass edit page
+* Fix config/subtiltes not hiding all options when subtitles are disabled 
+* Add min_score to subtitle download to force better matches and log debugging for it 
+* Fix some undefined/unimported variables in mako 
+* Make apikey masked when viewing settings 
+* Use short-name for all pylint disables 
+* Optimize all sql wildcard selects that can be easily optimized. TODO: Add new indices 
+* Remove getEplist and searchDBForShow (unused code) 
+* Fix speed.cd login issue Fix some identity comparisons with strings and integers 
+* Add coveralls support 
+* Simplify NN api error descriptions to just use what the indexer provides (no need to maintain codes and descriptions locally if they provide the description anyways) 
+* Update certifi and use old_where for validating certs 
+* Disable ssl/sni test for houndDawgs until we can figure out why the test fails but provider works 
+* Merge recommendedShow and trendingShow templates and add more trakt lists support (7 lists!) 
+* Fix bug in xthor and reduce indents with small code adjustments
+
+### 4.2.1.01 (2015-12-03)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.2.1.0...v4.2.1.01)
+
+ Fix a few variable typos and missed imports in mako
+ Undo previous pp fix for priority/larger files and apply a better fix 
+ Use strict_undefined feature for mako when not using master
+
+### 4.2.1.0 (2015-12-02)
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v4.2.0.6...v4.2.1.0)
 
