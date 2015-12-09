@@ -1,3 +1,25 @@
+### 4.2.1.03 (2015-12-08)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.2.1.02...v4.2.1.03)
+
+* Update requests lib to 2.8.1 (fixes a lot of issues)
+* Update bs4 to 4.4.1 and fix some parsing issues
+* Add new provider DanishBits
+* Start refactoring provider, split up generic provider into separate classes
+* Remove search_mode and ep_count param from _do_search
+* Rename _do_search and _do_login in providers to just search and login
+* Add some provider tests
+* Use tvdb update files to determine which shows to update automatically instead of just updating all shows
+* Fix some tests on windows
+* Fix TVChaosUK parsing, and add freeleech support
+* Fix hounddawgs cert verify
+* Add feature to notify you if someone logs into the web interface from outside of your network (must have user/pass set)
+* Only allow the newest of a duplicating error or warning in the error viewer to stop spamming issue submitter and badges
+* Fix a small bug in transmitthenet
+* Set min/step/max values for all number inputs in settings
+* Fix dupes in add new show search results from tvdb
+* Fix dupes in preview rename for multiepisode results
+
 ### 4.2.1.02 (2015-12-05)
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v4.2.1.01...v4.2.1.02)
