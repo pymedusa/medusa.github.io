@@ -44,9 +44,9 @@
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v4.2.1.0...v4.2.1.01)
 
- Fix a few variable typos and missed imports in mako
- Undo previous pp fix for priority/larger files and apply a better fix 
- Use strict_undefined feature for mako when not using master
+* Fix a few variable typos and missed imports in mako
+* Undo previous pp fix for priority/larger files and apply a better fix 
+* Use strict_undefined feature for mako when not using master
 
 ### 4.2.1.0 (2015-12-02)
 
