@@ -1,3 +1,15 @@
+### 4.2.1.04 (2015-12-10)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.2.1.03...v4.2.1.04)
+
+* Fix some subtitles related issues
+* Fix bulkCheck not working on filters
+* Fix buttons at the bottom of mass edit
+* Add some helpers tests
+* Fix pushover notify on remote login to SR
+* Improve tvchaos more
+* Add seeders, leechers, freeleech and ranked support to hounddawgs and fix a few bugs
+
 ### 4.2.1.03 (2015-12-08)
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v4.2.1.02...v4.2.1.03)
