@@ -1,3 +1,30 @@
+### 4.2.1.06 (2015-12-14)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.2.1.05...v4.2.1.06)
+
+* Fix adding torrent rss providers
+* Fix post processing bug with history lookup and priority
+* Show missed subs for archived episodes also if they have a location
+* Remove strike provider, unsafe for users atm
+* Prevent subtitle searcher from attempting to DL subs for samples/extras/intros
+* Betterm logging for subtitles actions
+* Use 'as' syntax for exception handling
+
+### 4.2.1.05 (2015-12-11)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.2.1.04...v4.2.1.05)
+
+* Add option for only downloading perfect match subs
+* Improve quality pills with custom quality lists
+* Fix issues with displaying genres in displayShow
+* Various subtitles fixes and improvements
+* Add HD4Free provider
+* Fix undefined methods in HDBits and rsstorrent
+* Fix setting push url automatically
+* Stopped using thread for provider cache update, should reduce cpu/memory use during Daily/Backlog
+* Change order of statements in shutdown to speed up shutdown and restart greatly (may have some visual issues with the restart page not showing correct status temporarily, because shutdown is too fast for the js to detect xD)
+* Add API test suite
+
 ### 4.2.1.04 (2015-12-10)
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v4.2.1.03...v4.2.1.04)
