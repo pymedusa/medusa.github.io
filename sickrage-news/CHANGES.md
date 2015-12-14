@@ -2,6 +2,7 @@
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v4.2.1.05...v4.2.1.06)
 
+* Fix for when trakt request is empty
 * Fix adding torrent rss providers
 * Fix post processing bug with history lookup and priority
 * Show missed subs for archived episodes also if they have a location
