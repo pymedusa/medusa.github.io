@@ -206,7 +206,7 @@ BAY NEWS 9 (US):US/Eastern
 Bay TV Clywd (UK):Europe/London
 Bay TV Liverpool (UK):Europe/London
 Bay TV Swansea (UK):Europe/London
-BBC: Europe/London
+BBC:Europe/London
 BBC ALBA:Europe/London
 BBC America:US/Eastern
 BBC Canada:Canada/Eastern
