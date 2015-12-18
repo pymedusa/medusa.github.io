@@ -795,6 +795,7 @@ funnyordie.com (US):US/Eastern
 fuse:US/Eastern
 Fusion (US):US/Eastern
 FX (AU):Australia/Sydney
+FX (US):US/Eastern
 FX CANADA:Canada/Eastern
 FX MOVIE CHANNEL (US):US/Eastern
 FX:US/Eastern
@@ -1807,6 +1808,7 @@ Syfy:US/Eastern
 Syndicated (AU):Australia/Sydney
 Syndicated (JP):Asia/Tokyo
 Syndicated (UK):Europe/London
+Syndicated:US/Eastern
 Syndication (CA):Canada/Eastern
 Syndication:US/Eastern
 tagesschau24 (DE):Europe/Berlin
