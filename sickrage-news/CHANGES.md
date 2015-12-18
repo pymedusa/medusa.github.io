@@ -2,10 +2,10 @@
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v4.2.1.06...v4.2.1.07)
 
-Fix plex and pushbullet notifiers for notify on web login
-Fix binsearch, limit rss to 50 results per category 
-Fix ip6 + ip4 simultaneous operability 
-Clean up some log spam
+* Fix plex and pushbullet notifiers for notify on web login
+* Fix binsearch, limit rss to 50 results per category 
+* Fix ip6 + ip4 simultaneous operability 
+* Clean up some log spam
 
 ### 4.2.1.06 (2015-12-14)
 
