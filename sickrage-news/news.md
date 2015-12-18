@@ -5,7 +5,8 @@
 ####Please read the [Wiki/FAQ](https://github.com/SickRage/sickrage-issues/wiki) before opening an issue####
 All issues and bug reports must be opened at [GitHub](https://github.com/SickRage/sickrage-issues/issues) and you **MUST** follow **ALL** [guidelines](https://github.com/SickRage/sickrage-issues#submitting-a-bugissue-ticket).
 
-<br/>  
+<br/>
+## HAPPY HOLIDAYS FROM THE SICKRAGE TEAM ##
 
 #### 2015-12-01 ####
 
