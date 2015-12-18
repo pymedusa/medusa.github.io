@@ -1,4 +1,4 @@
-## News from the SickRage developers
+## HAPPY HOLIDAYS FROM THE SICKRAGE TEAM ##
 
 <br/>
 
@@ -6,7 +6,6 @@
 All issues and bug reports must be opened at [GitHub](https://github.com/SickRage/sickrage-issues/issues) and you **MUST** follow **ALL** [guidelines](https://github.com/SickRage/sickrage-issues#submitting-a-bugissue-ticket).
 
 <br/>
-## HAPPY HOLIDAYS FROM THE SICKRAGE TEAM ##
 
 #### 2015-12-01 ####
 
