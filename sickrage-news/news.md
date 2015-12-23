@@ -7,7 +7,7 @@ All issues and bug reports must be opened at [GitHub](https://github.com/SickRag
 
 <br/>
 
-#### 2015-12-22 ####
+####2015-12-22####
 
 The next release brings **many** fixes (~200 commits), and along with it will come some changes to how qualities are handled. Most specifically, **Archive on First Match** has been removed.
 
@@ -15,7 +15,7 @@ Before it is released tomorrow, we wanted to inform you of the changes, and step
 
 <br/>
 
-#### 2015-12-01 ####
+####2015-12-01####
 
 Currently we are (still) in the process of a large cleaning-up and optimization of the SickRage code.  
 This was really overdue, and will pave the road to all the new and cool features we plan to implement for you.  
@@ -26,7 +26,7 @@ This week we also launched our new [SickRage website](http://sickrage.github.io/
 
 <br/>  
 
-#### 2015-11-21 ####
+####2015-11-21####
 
 For those who are not yet aware, we were forced to change/migrate the Repository on GitHub.
 We apologize for any inconvenience this may have caused.  
