@@ -239,6 +239,7 @@ BBC TWO Northern Ireland:Europe/London
 BBC TWO Scotland:Europe/London
 BBC TWO Wales:Europe/London
 BBC TWO:Europe/London
+BBC Two:Europe/London
 BBC UKTV (AU):Australia/Sydney
 BBC World News:Europe/London
 BCV (AU):Australia/Sydney
