@@ -1518,6 +1518,7 @@ RT America (US):US/Eastern
 RT:Europe/Kaliningrad
 RTBF:Europe/Brussels
 rté jr (IE):Europe/Dublin
+RTÉjr:Europe/Dublin
 RTÉ NEWS NOW (IE):Europe/Dublin
 RTÉ One:Europe/Dublin
 RTÉ Two:Europe/Dublin
