@@ -999,6 +999,7 @@ Kanal 7:Europe/Istanbul
 Kanal A (Turkey):Europe/Istanbul
 Kanal D:Europe/Istanbul
 KARE 11 (US):US/Eastern
+Kansai TV:Asia/Tokyo
 Kashish TV:Asia/Karachi
 KBS TV1:Asia/Seoul
 KBS TV2:Asia/Seoul
@@ -1274,6 +1275,7 @@ NFL Sunday Ticket (US):US/Eastern
 NFL Sunday Ticket Redzone (US):US/Eastern
 NHK World (UK):Europe/London
 NHK:Asia/Tokyo
+NHK Animax:Asia/Tokyo
 NHL Center Ice (US):US/Eastern
 NHL NETWORK (US):US/Eastern
 NHNZ:Pacific/Auckland
@@ -2214,6 +2216,7 @@ WWE Network (US):US/Eastern
 WWJ-TV Detroit (US):US/Eastern
 Xbox Video:US/Eastern
 XY TV:US/Eastern
+Yahoo! Japan:Asia/Tokyo
 Yahoo! Screen:US/Eastern
 YES (US):US/Eastern
 yes:Asia/Jerusalem
