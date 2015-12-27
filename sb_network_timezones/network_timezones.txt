@@ -964,6 +964,7 @@ ITV1:Europe/London
 ITV2:Europe/London
 ITV3:Europe/London
 ITV4:Europe/London
+ITV &  TVE:Europe/London
 itvBe (UK):Europe/London
 ITVBe:Europe/London
 ivfilms.net (US):US/Eastern
