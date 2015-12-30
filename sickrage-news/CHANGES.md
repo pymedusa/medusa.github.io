@@ -1,3 +1,47 @@
+### 5.0.2 (2015-12-29)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v5.0.1...v5.0.2)
+
+* Add AVROTROS network logo
+* Update ettv and torrentz to use bs4 instead of the ever failing xmltodict
+* Fix adding shows with non ascii in description from imdb popular and trakt
+* Improve qBittorrent client support for newer api
+* Fix comparison issue in network timezones
+
+### 5.0.1 (2015-12-28)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v5.0...v5.0.1)
+
+* Delete mako cache on startup and shutdown
+* Cleanup some starup logging
+* Allow specifying indexerid in apibuilder to be able to test shows that normally wouldnt add
+* Fix adding non-english shows through api
+* Fix SNATCHED_BEST not showing on totals in home and displayShow
+* Fix shows with only snatched from showing in backlog
+* Disable persistant session caching to disk for indexers and other sessions on a trial basis
+* Fix setting specials to skipped.ignored when they have an airdate
+* A bit of logging cleanup
+* Allow replacing a higher quality with a lower quality in pp if the lower quality is in preferred list
+* Add limetorrents provider
+* Fix a small bug in subtitles search
+
+### 5.0 (2015-12-24)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v4.2.1.07...v5.0)
+
+* Remove archive on first match feature. https://github.com/SickRage/sickrage-issues/wiki/Qualities-Changes
+* Add 'New Shows' and 'Season Premiers' trakt lists for adding new shows
+* Fix a bug with adding shows to trakt collections
+* Bypass subtitle thread search limits when it is forced to run, rewrite much of the subtitle handler
+* Updated guessit to 1.0.2 and babelfish to 0.5.5final
+* Fixes for the version checker, and news checker
+* Various bug fixes
+* Add commit hash to error logs
+* Fix user agent
+* Many provider fixes
+* Way too much to list, see the commit log:
+* https://github.com/SickRage/SickRage/compare/v4.2.1.07...v5.0
+
 ### 4.2.1.07 (2015-12-14)
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v4.2.1.06...v4.2.1.07)
