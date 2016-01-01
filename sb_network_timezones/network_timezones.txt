@@ -682,6 +682,7 @@ EuroWorld Sport (CA):Canada/Eastern
 Évasion:Canada/Eastern
 EWTN TV (UK):Europe/London
 Exitos TV (US):US/Eastern
+Explora:Canada/Eastern
 eXPO CHANNEL (AU):Australia/Sydney
 extra (AU):Australia/Sydney
 Extreme Sports Channel (UK):Europe/London
