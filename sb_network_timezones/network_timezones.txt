@@ -1556,6 +1556,7 @@ RTV Oost (NL):Europe/Amsterdam
 RTV Rijnmond (NL):Europe/Amsterdam
 RTV Utrecht (NL):Europe/Amsterdam
 RTV West (NL):Europe/Amsterdam
+RÚV:Europe/London
 RURAL TV (US):US/Eastern
 Russia Today:Europe/Kaliningrad
 RVU:Europe/Amsterdam
@@ -1581,6 +1582,7 @@ SBS (AU):Australia/Sydney
 SBS 6:Europe/Amsterdam
 SBS Plus:Asia/Seoul
 SBS:Asia/Seoul
+SBS (KR):Asia/Seoul
 SBS2 (AU):Australia/Sydney
 SBT:America/Sao_Paulo
 SBTN (US):US/Eastern
