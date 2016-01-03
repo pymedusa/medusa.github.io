@@ -1,3 +1,21 @@
+### 5.0.2 (2015-12-31)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v5.0.2...v5.0.3)
+
+* Switch to se dom for tpb
+* Add DOGnzb as a builtin provider 
+* Cleanup qBittorent client options 
+* Updated subliminal to 1.2.dev0 
+* Add support for subscenter subtitles provider 
+* Minor code refactoring to avoid excessive typecasting 
+* Rewrite cpasbian and ettv page parsing 
+* Fix issue with minseed/minleech in limetorrents 
+* Adjust text on "Help & Info" for clarity and cleaner look 
+* Adjust Backlog Overview layout a bit to reduce clutter 
+* Fix testing Plex Media Client connection 
+* Change a bunch of log messages to be clearer (needs work) 
+* Fix Sick-Beard Index
+
 ### 5.0.2 (2015-12-29)
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v5.0.1...v5.0.2)
