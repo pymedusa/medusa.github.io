@@ -1,5 +1,24 @@
 ### 5.0.3 (2015-12-31)
 
+[full changelog](https://github.com/SickRage/SickRage/compare/v5.0.3...v5.1)
+
+* Refactor Plex Media Server and Plex Home Theater Notifiers
+* Fix PHT (PMC) Notifier, Uses Kodi notifier for PHT/PMC notifications
+* Add HTTPS option for Plex Media Server
+* Fix sorting of home page on initial load, and partial layout issues
+* Reword a lot of config/notifications for clarity
+* Remove git-autoissues code
+* Update subliminal to latest git dev version
+* Make sure status is a long integer before comparing to int
+* Fix DB upgrade from vanilla Sick-Beard DB
+* Fix potential issue with DB row_type being incorrect for a DB connection action and make it thread safe
+* Fix identity vs equality issue in logger when checking for SSL exceptions
+* Fix some typos in log lines in metadata generator
+* Lint tv.py and fix a few small issues
+* Restore original SB behavior is the 'paused' parameter in webapi
+
+### 5.0.3 (2015-12-31)
+
 [full changelog](https://github.com/SickRage/SickRage/compare/v5.0.2...v5.0.3)
 
 * Switch to se dom for tpb
