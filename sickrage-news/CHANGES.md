@@ -1,4 +1,4 @@
-### 5.0.3 (2015-12-31)
+### 5.1 (2016-1-3)
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v5.0.3...v5.1)
 
