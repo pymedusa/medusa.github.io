@@ -1298,6 +1298,7 @@ nickelodeon (UK):Europe/London
 Nickelodeon:US/Eastern
 nickToons (UK):Europe/London
 NickToons Network:US/Eastern
+Nicktoons Network:US/Eastern
 NickToons:US/Eastern
 Niconico:Asia/Tokyo
 Nine Network:Australia/Sydney
