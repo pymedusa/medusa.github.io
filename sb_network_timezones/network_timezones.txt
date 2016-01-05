@@ -886,6 +886,7 @@ Hidayat TV (UK):Europe/London
 HIFI:Canada/Eastern
 High Street TV (UK):Europe/London
 Hír TV:Europe/Budapest
+Historia:Canada/Eastern
 HISTORY (AU):Australia/Sydney
 History (CA):Canada/Eastern
 HISTORY (UK):Europe/London
