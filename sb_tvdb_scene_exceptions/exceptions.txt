@@ -461,3 +461,5 @@
 275120: 'Bordertown'
 295684: 'Second Chance', 'Second Chance 2016',
 299408: 'War And Peace', 'War and Peace 2016',
+82701: 'Heartland CA', 'Heartland',
+305454: 'Bachelor Live',
