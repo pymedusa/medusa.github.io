@@ -1,9 +1,13 @@
-## HAPPY NEW YEAR FROM THE SICKRAGE TEAM ##
+####Please read the [Wiki/FAQ](https://github.com/SickRage/sickrage-issues/wiki) before opening an issue####
+All issues and bug reports must be opened at [GitHub](https://github.com/SickRage/sickrage-issues/issues) and you **MUST** follow **ALL** [guidelines](https://github.com/SickRage/sickrage-issues#submitting-a-bugissue-ticket).
 
 <br/>
 
-####Please read the [Wiki/FAQ](https://github.com/SickRage/sickrage-issues/wiki) before opening an issue####
-All issues and bug reports must be opened at [GitHub](https://github.com/SickRage/sickrage-issues/issues) and you **MUST** follow **ALL** [guidelines](https://github.com/SickRage/sickrage-issues#submitting-a-bugissue-ticket).
+####2016-01-12####
+
+Here are another 200+ commits for you guys, which brings many bug fixes. Many providers were fixed up,
+and a new 404 and error page has been added, along with the usual code cleaning and optimization.
+Hope you enjoy!
 
 <br/>
 

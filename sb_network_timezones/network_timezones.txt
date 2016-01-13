@@ -573,6 +573,7 @@ Dish TV:US/Eastern
 DiSNEY CHANNEL (AU):Australia/Sydney
 Disney Channel (Germany):Europe/Berlin
 DiSNEY CHANNEL (UK):Europe/London
+Disney Channel (UK):Europe/London
 Disney Channel (US):US/Eastern
 Disney Channel:US/Eastern
 Disney Cinemagic:Europe/London
@@ -655,6 +656,7 @@ ESPN (UK):Europe/London
 ESPN 2 (US):US/Eastern
 ESPN Asia:Asia/Hong_Kong
 ESPN Classic (US):US/Eastern
+ESPN Classic:US/Eastern
 ESPN DEPORTES (US):US/Eastern
 ESPN Full Court (US):US/Eastern
 ESPN Game Plan (US):US/Eastern
