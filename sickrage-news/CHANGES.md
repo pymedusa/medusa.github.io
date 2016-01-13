@@ -1,3 +1,17 @@
+### 5.1.1 (2016-01-13)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v5.1...v5.1.1)
+
+* Remove titansoftv and animenzb (down)
+* Fixed about 10 broken providers
+* Rewrote many providers, more to come
+ * tpb, speed.cd, morethantv, torrentleech, danishbits, freshontv, btdiff, bitsnoop
+ * rarbg, xthor, hd-torrents, alpharatio, ipt, ettv, scenetime, hd4free, tokyotoshokan (more)
+* Add size parsing to many providersUpdated subliminal to 17cce96
+* Added Custom error page and 404 page
+* Removed some unused code, cleanup code, and start moving toward python3
+* Various bug fixes along the way
+
 ### 5.1 (2016-01-03)
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v5.0.3...v5.1)
