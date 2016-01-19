@@ -295,7 +295,7 @@
 269653: 'The Goldbergs',
 274099: 'At Midnight',
 271936: 'Played CA',
-223161: 'CBC Marketplace',
+223161: 'CBC Marketplace', 'Marketplace CA',
 95521: 'National Geographic Ancient Megastructures',
 80915: 'La Linea 1972',
 271728: 'Pete Holmes Show',
