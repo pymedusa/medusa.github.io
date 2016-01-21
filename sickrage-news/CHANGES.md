@@ -1,3 +1,21 @@
+### 2016.01.20-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v5.1.1...2016.01.20-1)
+
+* Change TPB domain back to .se, use a custom url if it doesnt work
+* Fix restart on gentoo 
+* Randomize default show updater hour between 2-4 am 
+* Randomize show updater minute during that hour (helps spread load for indexers) 
+* Adjust some errors to warnings, especially in telegram 
+* Fix email notifier when using TLS 
+* Update torrentbytes icon, add some missing network logos 
+* Fix omgwtfnzbs and newznab improvements 
+* Fix RARBG 
+* Update GFTracker provider code to new format 
+* Switch to nosetests and abandon custom unit test loader 
+* Fix NZBGet HTTPS setting and sabNZBd Forced Priority setting 
+* General refactoring and code cleanup
+
 ### 5.1.2 (2016-01-14)
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v5.1.1...v5.1.2)
