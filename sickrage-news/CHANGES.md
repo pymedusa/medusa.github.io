@@ -1,3 +1,17 @@
+### 5.1.2 (2016-01-14)
+
+[full changelog](https://github.com/SickRage/SickRage/compare/v5.1.1...v5.1.2)
+
+* Rework newznab.py to use new search strings and fix categories and torznab
+* Add some custom provider logos 
+* Add some unit tests for convert_size method 
+* Fix an errant comma in the kodi notifier 
+* Fix some misplaced bold fonts for the font type sticklers (oh, my eyes!!!11!) 
+* Add support for minor db versions 
+* Fix trendingShows reload on change 
+* Remove TitansOfTV 
+* Re-Enable CPasbien
+
 ### 5.1.1 (2016-01-13)
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v5.1...v5.1.1)
