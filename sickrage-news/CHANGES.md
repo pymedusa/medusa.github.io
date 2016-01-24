@@ -1,3 +1,22 @@
+### 2016.01.23-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.01.20-1...2016.01.23-1)
+
+* Remove duplicate FDH setting
+* Add seeds/leechers to some log messages during searches 
+* Refactor the way we initialize provider caches 
+* Standardize providers more 
+* Add ABNormal and PhxBit providers 
+* Fix newznab issues with pre-aired episodes and maxage, and bad q params 
+* Fix several UI bugs 
+* Add SSL Version to help & info page, and make it pretty 
+* Fix error when PP finds file of same size exists 
+* Prepare to add ability to add shows from anidb lists (if they are on tvdb) 
+* Fix confirmed downloads setting for TPB which was only allowing unconfirmed results 
+* Fix discrepancy between home and display show for show file size when show has multi-eps 
+* Fix t411 
+* Fix several NoneType exceptions
+
 ### 2016.01.20-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/v5.1.1...2016.01.20-1)
