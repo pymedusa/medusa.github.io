@@ -325,6 +325,7 @@ Canal J:Europe/Paris
 Canal Off:America/Sao_Paulo
 Canal Once:America/Mexico_City
 Canal Sur:Europe/Madrid
+Canal Vie:Canada/Eastern
 Canal+ (ES):Europe/Madrid
 Canal+:Europe/Paris
 Canale 5:Europe/Rome
@@ -1142,6 +1143,7 @@ Mnet AMERICA (US):US/Eastern
 M-Net:Africa/Johannesburg
 Mnet:Asia/Seoul
 MNN:US/Eastern
+Moi & Cie:Canada/Eastern
 MOJO (US):US/Eastern
 Mondo TV:Europe/Rome
 MoonTV:Europe/Helsinki
@@ -2030,6 +2032,7 @@ TV4 Plus:Europe/Stockholm
 TV4 Science Fiction:Europe/Stockholm
 TV4:Europe/Stockholm
 TV4ME (AU):Australia/Sydney
+TV5:Canada/Eastern
 TV5 Monde:Europe/Paris
 TV5MONDE Europe (UK):Europe/London
 TV6:Europe/Stockholm
