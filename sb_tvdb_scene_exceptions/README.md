@@ -4,7 +4,7 @@
     * get the TVDB ID of the show
     * search for any similar shows that could conflict, note them
 
-2. Check NewzNab provider
+2. Check NewzNab or torrent provider
     * find all scene names of the correct show
     * find any shows which may conflict because of similar names
 
