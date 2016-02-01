@@ -1,3 +1,20 @@
+### 2016.01.31-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.01.23-1...2016.01.31-1)
+
+* Fix restart not reloading page
+* Added UHD quality support (4k, 8k, etc)
+* Updated subliminal to latest version
+* Updated guessit to v2
+* Fix some missing imports and undefined variables
+* Fix boxcar2/freemobile sms
+* Fix null season numbers being added to db
+* Fix adding anime shows causing mako errors
+* New icons on the status page
+* Fix several providers
+* Many small random fixes
+* Add an "Add from anidb popular list" page
+
 ### 2016.01.23-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/2016.01.20-1...2016.01.23-1)
