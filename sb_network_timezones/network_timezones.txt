@@ -1144,6 +1144,7 @@ M-Net:Africa/Johannesburg
 Mnet:Asia/Seoul
 MNN:US/Eastern
 Moi & Cie:Canada/Eastern
+Mojo:US/Eastern
 MOJO (US):US/Eastern
 Mondo TV:Europe/Rome
 MoonTV:Europe/Helsinki
