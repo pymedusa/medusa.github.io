@@ -1,8 +1,38 @@
+### 2016.02.09-2
+
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.02.08-1...2016.02.09-1)
+
+* Use xem absolute numbers for tvdb mapping if tvdb doesnt provide them, fixes american dad if you disable scene numbering
+* Dont pass q on rss update, use sickbeard.USENET_RETENTION directly regardless of mode
+* Set search string for subsequent scene exceptions after tvdbid has been popped
+* Fix provider log message by decoding to utf-8 instead
+* Fix daily search issues with ABNormal
+
+### 2016.02.08-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.02.07-1...2016.02.08-1)
+
+* Make sickbeard.gh work even when github login settings are incorrect
+* Display exception text from NameParser in validateDir
+* Fix for nzb indexers who dont support tvdbid or happen to have missed a tvdbid mapping for some shows/episodes
+* Fix "No processable items found in folder" by building name cache on startup... /slap miigotu and his miibugs
+* Swap settings order "Alternate search mode as fallback is fine" and "Season search mode"
+* Update nzbToMedia to V10.13 thanks to @clinton-hall
+* Standardize providers
+* Add log message to warn user and/or help debug possible issues
+* Dont unpack again if files were previously unpacked when
+* Fix issue when release is RARred
+* Revert "Fetch only current branch. Not all branches"
+* Fix schedule so it doesnt bork when db upgrade
+* Fix bug that caused plex server/client password to be set to all * when saving notifications if you did not type them in after loading the page
+* Fix small mistake in name_parser, use better variable names in quality pills
+* Various code and mako updates and optimizations
+
 ### 2016.02.07-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/2016.01.31-1...2016.02.07-1)
 
-* encode io.open in helper with ek() 
+* Encode io.open in helper with ek() 
 * Updated subliminal develop (f245383)
 * Updated guessit (28b6789)
 * Updated rebulk (68a4588)
