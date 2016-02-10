@@ -1,3 +1,29 @@
+### 2016.02.07-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.01.31-1...2016.02.07-1)
+
+* encode io.open in helper with ek() 
+* Updated subliminal develop (f245383)
+* Updated guessit (28b6789)
+* Updated rebulk (68a4588)
+* Re-enable cachecontrol
+* Fix testing providers search types manually
+* Fix log showing errors incorrectly
+* Change speed.cd url to use https
+* Use node 5.0.0 instead of 0.12 for build tests, make npm quiet during ci, updated npm deps
+* Replaced all menu icons and logos with colored versions
+* Fix bug in PP where rar'd files would say there were no processable items found in folder after extraction
+* Fix typeError breaking backlog/manual/failed searches
+* Add editorconfig
+* Dont show traceback if error sending torrent
+* Dont clear old snatch history in failed.db, see if that fixes some issues with fdh
+* Revert "Added add from popular anime list"
+* Revert "Added anidb http client"
+* Clean up recommended.py
+* Fix issues with various strings, changes to the help and info page
+* Various group and provider updates (incl. bitcannon, legendastv)
+* Various codefixes and optimizations
+
 ### 2016.01.31-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/2016.01.23-1...2016.01.31-1)
