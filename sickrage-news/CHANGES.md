@@ -1,3 +1,13 @@
+### 2016.02.10-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.02.09-1...2016.02.10-1)
+
+* Use json scene exceptions
+* Set "Authentication Failed" as a warning
+* Fix issue where MTV doesn't download
+* Various bug fixes
+
+
 ### 2016.02.09-2
 
 [full changelog](https://github.com/SickRage/SickRage/compare/2016.02.08-1...2016.02.09-1)
