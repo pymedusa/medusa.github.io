@@ -327,6 +327,7 @@ Canal Once:America/Mexico_City
 Canal Sur:Europe/Madrid
 Canal Vie:Canada/Eastern
 Canal+ (ES):Europe/Madrid
+Canal+ (FR):Europe/Paris
 Canal+:Europe/Paris
 Canale 5:Europe/Rome
 Cancao News (US):US/Eastern
