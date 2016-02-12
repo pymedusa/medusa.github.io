@@ -1,3 +1,19 @@
+### 2016.02.11-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.02.10-1...2016.02.11-1)
+
+* Fix SickRage/sickrage-issues#818
+* Fix SickRage/sickrage-issues#824
+* Fix SickRage/sickrage-issues#852
+* Partial fix of SickRage/sickrage-issues#12
+* Fix anime bluray qualities
+* Added network logos for RMC decouverte and UP TV
+* Use .eu for podnapisi
+* Don't show CC button for 'snatched' episodes that used to be 'downloaded' but failed
+* Updated subliminal and legendastv provider
+* Plex notifier improvements
+* Various code fixes and improvements
+
 ### 2016.02.10-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/2016.02.09-1...2016.02.10-1)
