@@ -179,18 +179,70 @@
         },
         "72553": {
             "-1": [
-                "Mighty Morphin Power Rangers",
-                "Power Rangers Zeo",
-                "Power Rangers Turbo",
-                "Power Rangers in Space",
-                "Power Rangers Lost Galaxy",
-                "Power Rangers Ninja Storm",
-                "Power Rangers Operation Overdrive",
-                "Power Rangers Samurai",
-                "Power Rangers Super Samurai",
-                "Power Rangers Megaforce",
-                "Power Rangers Super Megaforce",
+                "Mighty Morphin Power Rangers"
+            ],
+            "4": [
+                "Power Rangers Zeo"
+            ],
+            "5": [
+                "Power Rangers Turbo"
+            ],
+            "6": [
+                "Power Rangers in Space"
+            ],
+            "7": [
+                "Power Rangers Lost Galaxy"
+            ],
+            "8": [
+                "Power Rangers Lightspeed Rescue"
+            ],
+            "9": [
+                "Power Rangers Time Force"
+            ],
+            "10": [
+                "Power Rangers Wild Force"
+            ],
+            "11": [
+                "Power Rangers Ninja Storm"
+            ],
+            "12": [
+                "Power Rangers Dino Thunder"
+            ],
+            "13": [
+                "Power Rangers S.P.D."
+            ],
+            "14":[
+                "Power Rangers Mystic Force"
+            ],
+            "15": [
+                "Power Rangers Operation Overdrive"
+            ],
+            "16": [
+                "Power Rangers Jungle Fury"
+            ],
+            "17": [
+                "Power Rangers RPM"
+            ],
+            "18": [
+                "Power Rangers Samurai"
+            ],
+            "19": [
+                "Power Rangers Super Samurai"
+            ],
+            "20": [
+                "Power Rangers Megaforce"
+            ],
+            "21": [
+                "Power Rangers Super Megaforce"
+            ],
+            "22": [
                 "Power Rangers Dino Charge"
+            ],
+            "23": [
+                "Power Rangers Dino Super Charge"
+            ],
+            "24": [
+                "Power Rangers Ninja Steel"
             ]
         },
         "72663": {
@@ -323,13 +375,27 @@
         "74768": {
             "-1": [
                 "The Block",
-                "The Block AU",
+                "The Block AU"
+            ],
+            "6": [
                 "The Block All Stars",
                 "The Block All Stars AU",
-                "The Block AU All Stars",
-                "The Block AU Sky High",
-                "The Block AU Fans vs Faves",
+                "The Block AU All Stars"
+            ],
+            "7": [
+                "The Block AU Sky High"
+            ],
+            "8": [
+                "The Block AU Fans vs Faves"
+            ],
+            "9": [
                 "The Block AU Glasshouse"
+            ],
+            "10": [
+                "The Block Triple Threat"
+            ],
+            "11": [
+                "The Block Blocktagon"
             ]
         },
         "74806": {
@@ -695,8 +761,8 @@
         },
         "80994": {
             "-1": [
-                "National Geographic Channel Naked Science",
-                "National Geographic Naked Science"
+                "National Geographic Naked Science",
+                "National Geographic Channel Naked Science"
             ]
         },
         "81230": {
@@ -708,12 +774,22 @@
             "-1": [
                 "Underbelly",
                 "The Underbelly Files",
-                "Underbelly Files",
+                "Underbelly Files"
+            ],
+            "2": [
                 "Underbelly A Tale of Two Cities",
-                "Underbelly A Tale Of Two Cities UNCUT",
-                "Underbelly Razor",
-                "Underbelly The Golden Mile",
-                "Underbelly Badness",
+                "Underbelly A Tale Of Two Cities UNCUT"
+            ],
+            "3": [
+                "Underbelly The Golden Mile"
+            ],
+            "4": [
+                "Underbelly Razor"
+            ],
+            "5": [
+                "Underbelly Badness"
+            ],
+            "6": [
                 "Underbelly Squizzy"
             ]
         },
@@ -841,8 +917,8 @@
         },
         "83462": {
             "-1": [
-                "Castle (2009)",
                 "Castle",
+                "Castle (2009)",
                 "Castle 2009"
             ]
         },
@@ -865,8 +941,8 @@
         },
         "83774": {
             "-1": [
-                "Antiques Roadshow (UK)",
-                "Antiques Roadshow UK"
+                "Antiques Roadshow UK",
+                "Antiques Roadshow (UK)"
             ]
         },
         "83897": {
@@ -923,9 +999,9 @@
         "88771": {
             "-1": [
                 "The Apprentice: You're Fired!",
+                "The Apprentice Youre Fired",
                 "The Apprentice UK Youre Fired",
-                "The Apprentice UK Your Fired",
-                "The Apprentice Youre Fired"
+                "The Apprentice UK Your Fired"
             ]
         },
         "89991": {
