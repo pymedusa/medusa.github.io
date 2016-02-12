@@ -1,0 +1,18 @@
+language: node_js
+
+node_js:
+  - "5.0.0"
+
+install:
+  - npm install -g jsonlint
+  - npm install -g jshint
+
+script:
+  - jsonlint -q scene_exceptions/scene_exceptions.json
+  - jshint scene_exceptions/scene_exceptions.json
+ 
+notifications:
+  irc: "irc.freenode.net#sickrage-builds"
+  email:
+    on_success: change
+    on_failure: change
