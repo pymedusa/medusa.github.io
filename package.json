@@ -1,0 +1,31 @@
+{
+  "name": "sickrage.github.io",
+  "version": "1.0.0",
+  "description": "Site and support files for SickRage",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt-cli": "^0.1.13",
+    "grunt-contrib-jshint": "^0.12.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-jsonlint": "^1.0.7"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "scripts": {
+    "test" : "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SickRage/sickrage.github.io.git"
+  },
+  "keywords": [
+    "SickRage"
+  ],
+  "author": "miigotu",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/SickRage/sickrage.github.io/issues"
+  },
+  "homepage": "https://github.com/SickRage/sickrage.github.io#readme"
+}
