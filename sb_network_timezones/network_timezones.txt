@@ -351,6 +351,7 @@ CBC (CA):Canada/Eastern
 CBC (JP):Asia/Tokyo
 CBC:Canada/Eastern
 CBCnews network (CA):Canada/Eastern
+CBC News Network:Canada/Eastern
 CBeebies (US):US/Eastern
 CBeebies:Europe/London
 CBN (AU):Australia/Sydney
