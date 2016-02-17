@@ -2,7 +2,7 @@
 
 [full changelog](https://github.com/SickRage/SickRage/compare/2016.02.11-1...2016.02.16-1)
 
-* Fix SickRage/sickrage-issues/issues/892 Replaces #1027
+* Fix SickRage/sickrage-issues/issues/892
 * Fix SickRage/sickrage-issues/issues/914
 * Fix SickRage/sickrage-issues/issues/902
 * Fix SickRage/sickrage-issues/issues/269
