@@ -1,3 +1,23 @@
+### 2016.02.16-1
+
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.02.11-1...2016.02.16-1)
+
+* Fix SickRage/sickrage-issues/issues/892 Replaces #1027
+* Fix SickRage/sickrage-issues/issues/914
+* Fix SickRage/sickrage-issues/issues/902
+* Fix SickRage/sickrage-issues/issues/269
+* Potentially fixed SickRage/sickrage-issues/issues/862
+* Fix anime bluray detection
+* Add option to ini to allow PMS update without token or user/pass when you dont require authentication - config.ini only option for now
+* Dont run FINDSUBTITLES thread right on SR start
+* Allow passing arguments future= and past= for range of weeks from today to add to the webcal http://localhost:8081/calendar?past=2&future=3 - both default to 52
+* Allow file globs in "Sync File Extensions" setting to postpone postprocessing
+* Reduce subtitle score to match only Series, Season, Episode and Year
+* Allow changing categories for default newznab providers. Caveat: They are on the "Custom Newznab Providers" tab where you change the categories, until the js can be fixed
+* Use generic exceptions for all seasons, not just season 1
+* Various fixes for several search providers including: BinSearch, TPB, Alpharation, AbNormal Updates, KAT, TorrentLeech, Bitcannon, TorrentBytes, BTDigg, RARBG.
+* Various bug fixes and code optimizations
+
 ### 2016.02.11-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/2016.02.10-1...2016.02.11-1)
