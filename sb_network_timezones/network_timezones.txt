@@ -1465,6 +1465,7 @@ QQQ (AU):Australia/Sydney
 QTQ (AU):Australia/Sydney
 QTV:Asia/Karachi
 qubo (US):US/Eastern
+Quest:Europe/London
 QUEST (UK):Europe/London
 QVC (UK):Europe/London
 QVC Beauty (UK):Europe/London
