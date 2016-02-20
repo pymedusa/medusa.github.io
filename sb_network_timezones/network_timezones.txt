@@ -407,6 +407,7 @@ CHELSEA TV (UK):Europe/London
 Chérie 25:Europe/Paris
 Chiba TV (JP):Asia/Tokyo
 chiller (US):US/Eastern
+Chiller (US):US/Eastern
 Chorus Sports:Europe/Dublin
 Christian (UK):Europe/London
 Christian Television Network (US):US/Eastern
