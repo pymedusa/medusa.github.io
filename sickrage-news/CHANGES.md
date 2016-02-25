@@ -1,3 +1,21 @@
+### 2016.02.22-1: 
+
+[full changelog](https://github.com/SickRage/SickRage/compare/2016.02.16-1...2016.02.22-1)
+
+* Fixed https://github.com/SickRage/sickrage-issues/issues/1028
+* Fixed https://github.com/SickRage/sickrage-issues/issues/1042
+* Fixed https://github.com/SickRage/sickrage-issues/issues/235#issuecomment-185068695
+* Fixes url encoded censored items in logs not being censored.
+* Force "Subtitles Multi-Language" if more than one wanted subtitle language
+* Add option to keep only wanted subs
+* Other Various subtitle ralted fixes
+* Add PR/Issue templates
+* Fix TPB when using an invalid proxy
+* Improved show updater job logic
+* Add "(musicbolt.com)" to removewordslist
+* Minor cleanup and improvement to numerous search providers
+* Various fixes and code optimization
+
 ### 2016.02.16-1
 
 [full changelog](https://github.com/SickRage/SickRage/compare/2016.02.11-1...2016.02.16-1)
