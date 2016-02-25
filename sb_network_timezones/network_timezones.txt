@@ -521,6 +521,7 @@ CÚLA4 (IE):Europe/Dublin
 Current TV:US/Eastern
 CW Seed:US/Eastern
 CWSEED.com (US):US/Eastern
+C More:Europe/Copenhagen
 D8:Europe/Paris
 DaAi TV:Asia/Taipei
 Dailymotion:US/Eastern
