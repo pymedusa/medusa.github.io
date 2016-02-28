@@ -2165,6 +2165,7 @@ VH1 Classics:US/Eastern
 VH1 Soul (US):US/Eastern
 VH1:US/Eastern
 Viasat 4:Europe/Oslo
+Viceland:US/Eastern
 Victory Television Network (US):US/Eastern
 Videoland Television Network:Asia/Taipei
 Viên Thao TV (US):US/Eastern
