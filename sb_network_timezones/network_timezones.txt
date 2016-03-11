@@ -469,6 +469,7 @@ Comedy (CA):Canada/Eastern
 Comedy Central (DE):Europe/Berlin
 Comedy Central (NL):Europe/Amsterdam
 COMEDY CENTRAL (UK):Europe/London
+Comedy Central (UK):Europe/London
 Comedy Central (US):US/Eastern
 COMEDY CENTRAL EXTRA (UK):Europe/London
 Comedy Central:US/Eastern
