@@ -530,6 +530,7 @@ D8:Europe/Paris
 DaAi TV:Asia/Taipei
 Dailymotion:US/Eastern
 Dangerjane.tv (US):US/Eastern
+Danmarks Radio:Europe/Copenhagen
 Dare to Dream Network (US):US/Eastern
 Das Erste:Europe/Berlin
 Dating Channel (UK):Europe/London
@@ -1011,6 +1012,7 @@ Kanal 1 (SE):Europe/Stockholm
 Kanal 4:Europe/Copenhagen
 Kanal 5 (SE):Europe/Stockholm
 Kanal 5:Europe/Copenhagen
+Kanal 5 (DK):Europe/Copenhagen
 Kanal 7:Europe/Istanbul
 Kanal A (Turkey):Europe/Istanbul
 Kanal D:Europe/Istanbul
@@ -1234,6 +1236,7 @@ NAT GEO PEOPLE (AU):Australia/Sydney
 NAT GEO WILD (AU):Australia/Sydney
 NAT GEO WILD (UK):Europe/London
 Nat Geo Wild:US/Eastern
+National Geographic:US/Eastern
 National Geographic (UK):Europe/London
 National Geographic (US):US/Eastern
 National Geographic Adventure:US/Eastern
@@ -1995,6 +1998,7 @@ TV 2 Science Fiction:Europe/Oslo
 TV 2 Sport:Europe/Oslo
 TV 2 Zebra:Europe/Oslo
 TV 2 Zulu:Europe/Copenhagen
+TV2 Zulu:Europe/Copenhagen
 TV 2:Europe/Copenhagen
 TV 3:Europe/Copenhagen
 TV 4:Europe/Warsaw
