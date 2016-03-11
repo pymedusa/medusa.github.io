@@ -510,6 +510,7 @@ CSTV:Asia/Seoul
 CTC (AU):Australia/Sydney
 CTC (RU):Europe/Kaliningrad
 CTC:Asia/Tokyo
+CTC (JA):Asia/Tokyo
 CTi TV:Asia/Taipei
 CTS (TW):Asia/Taipei
 CTS:Asia/Tokyo
@@ -644,6 +645,7 @@ El Rey:US/Eastern
 El Trece:America/Buenos_Aires
 element14:US/Eastern
 Eleven (AU):Australia/Sydney
+Eleven:Australia/Sydney
 Emmanuel TV (US):US/Eastern
 eNCA Africa (UK):Europe/London
 Encore Westerns East (US):US/Eastern
@@ -1018,6 +1020,7 @@ KBS TV1:Asia/Seoul
 KBS TV2:Asia/Seoul
 KBS World:Asia/Seoul
 KBS:Asia/Seoul
+KBS Kyoto:Asia/Seoul
 KCET:US/Eastern
 Kenya Television Network (KE):Africa/Nairobi
 Kerrang! TV:Europe/London
@@ -1995,6 +1998,7 @@ TV 3:Europe/Copenhagen
 TV 4:Europe/Warsaw
 TV Aichi:Asia/Tokyo
 TV Asahi:Asia/Tokyo
+RTVE/TV Asahi:Asia/Tokyo
 TV Asia (US):US/Eastern
 TV Azteca:America/Mexico_City
 TV Cabo:Europe/Lisbon
