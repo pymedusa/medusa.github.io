@@ -408,6 +408,7 @@ Chérie 25:Europe/Paris
 Chiba TV (JP):Asia/Tokyo
 chiller (US):US/Eastern
 Chiller (US):US/Eastern
+Chiller:US/Eastern
 Chorus Sports:Europe/Dublin
 Christian (UK):Europe/London
 Christian Television Network (US):US/Eastern
