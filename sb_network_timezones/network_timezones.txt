@@ -1808,6 +1808,7 @@ SUN NEWS NETWORK (CA):Canada/Eastern
 SUN news:Asia/Kolkata
 SUN TV:Asia/Kolkata
 SundanceTV:US/Eastern
+Sundance:US/Eastern
 Sunrise TV (UK):Europe/London
 SUN-TV (JP):Asia/Tokyo
 SuoimiTV:Europe/Helsinki
