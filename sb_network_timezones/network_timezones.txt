@@ -490,7 +490,7 @@ Court TV:US/Eastern
 Cozi TV (US):US/Eastern
 CPAC:Canada/Eastern
 Crackle:US/Eastern
-Cravetv:Canada/Eastern
+CraveTV:Canada/Eastern
 create (US):US/Eastern
 Create and Craft (UK):Europe/London
 Credo TV (US):US/Eastern
