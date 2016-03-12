@@ -408,6 +408,7 @@ Chérie 25:Europe/Paris
 Chiba TV (JP):Asia/Tokyo
 chiller (US):US/Eastern
 Chiller (US):US/Eastern
+Chiller:US/Eastern
 Chorus Sports:Europe/Dublin
 Christian (UK):Europe/London
 Christian Television Network (US):US/Eastern
@@ -468,6 +469,7 @@ Comedy (CA):Canada/Eastern
 Comedy Central (DE):Europe/Berlin
 Comedy Central (NL):Europe/Amsterdam
 COMEDY CENTRAL (UK):Europe/London
+Comedy Central (UK):Europe/London
 Comedy Central (US):US/Eastern
 COMEDY CENTRAL EXTRA (UK):Europe/London
 Comedy Central:US/Eastern
@@ -490,6 +492,7 @@ Court TV:US/Eastern
 Cozi TV (US):US/Eastern
 CPAC:Canada/Eastern
 Crackle:US/Eastern
+CraveTV:Canada/Eastern
 create (US):US/Eastern
 Create and Craft (UK):Europe/London
 Credo TV (US):US/Eastern
@@ -508,6 +511,7 @@ CSTV:Asia/Seoul
 CTC (AU):Australia/Sydney
 CTC (RU):Europe/Kaliningrad
 CTC:Asia/Tokyo
+CTC (JA):Asia/Tokyo
 CTi TV:Asia/Taipei
 CTS (TW):Asia/Taipei
 CTS:Asia/Tokyo
@@ -526,6 +530,7 @@ D8:Europe/Paris
 DaAi TV:Asia/Taipei
 Dailymotion:US/Eastern
 Dangerjane.tv (US):US/Eastern
+Danmarks Radio:Europe/Copenhagen
 Dare to Dream Network (US):US/Eastern
 Das Erste:Europe/Berlin
 Dating Channel (UK):Europe/London
@@ -642,6 +647,7 @@ El Rey:US/Eastern
 El Trece:America/Buenos_Aires
 element14:US/Eastern
 Eleven (AU):Australia/Sydney
+Eleven:Australia/Sydney
 Emmanuel TV (US):US/Eastern
 eNCA Africa (UK):Europe/London
 Encore Westerns East (US):US/Eastern
@@ -1006,6 +1012,7 @@ Kanal 1 (SE):Europe/Stockholm
 Kanal 4:Europe/Copenhagen
 Kanal 5 (SE):Europe/Stockholm
 Kanal 5:Europe/Copenhagen
+Kanal 5 (DK):Europe/Copenhagen
 Kanal 7:Europe/Istanbul
 Kanal A (Turkey):Europe/Istanbul
 Kanal D:Europe/Istanbul
@@ -1016,6 +1023,7 @@ KBS TV1:Asia/Seoul
 KBS TV2:Asia/Seoul
 KBS World:Asia/Seoul
 KBS:Asia/Seoul
+KBS Kyoto:Asia/Seoul
 KCET:US/Eastern
 Kenya Television Network (KE):Africa/Nairobi
 Kerrang! TV:Europe/London
@@ -1228,6 +1236,7 @@ NAT GEO PEOPLE (AU):Australia/Sydney
 NAT GEO WILD (AU):Australia/Sydney
 NAT GEO WILD (UK):Europe/London
 Nat Geo Wild:US/Eastern
+National Geographic:US/Eastern
 National Geographic (UK):Europe/London
 National Geographic (US):US/Eastern
 National Geographic Adventure:US/Eastern
@@ -1802,6 +1811,7 @@ SUN NEWS NETWORK (CA):Canada/Eastern
 SUN news:Asia/Kolkata
 SUN TV:Asia/Kolkata
 SundanceTV:US/Eastern
+Sundance:US/Eastern
 Sunrise TV (UK):Europe/London
 SUN-TV (JP):Asia/Tokyo
 SuoimiTV:Europe/Helsinki
@@ -1988,11 +1998,13 @@ TV 2 Science Fiction:Europe/Oslo
 TV 2 Sport:Europe/Oslo
 TV 2 Zebra:Europe/Oslo
 TV 2 Zulu:Europe/Copenhagen
+TV2 Zulu:Europe/Copenhagen
 TV 2:Europe/Copenhagen
 TV 3:Europe/Copenhagen
 TV 4:Europe/Warsaw
 TV Aichi:Asia/Tokyo
 TV Asahi:Asia/Tokyo
+RTVE/TV Asahi:Asia/Tokyo
 TV Asia (US):US/Eastern
 TV Azteca:America/Mexico_City
 TV Cabo:Europe/Lisbon
@@ -2165,6 +2177,7 @@ VH1 Classics:US/Eastern
 VH1 Soul (US):US/Eastern
 VH1:US/Eastern
 Viasat 4:Europe/Oslo
+Viceland:US/Eastern
 Victory Television Network (US):US/Eastern
 Videoland Television Network:Asia/Taipei
 Viên Thao TV (US):US/Eastern

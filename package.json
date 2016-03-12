@@ -1,7 +1,7 @@
 {
-  "name": "sickrage.github.io",
+  "name": "Medusa.github.io",
   "version": "1.0.0",
-  "description": "Site and support files for SickRage",
+  "description": "Site and support files for Medusa",
   "main": "Gruntfile.js",
   "dependencies": {
     "grunt-cli": "^0.1.13",
@@ -17,15 +17,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SickRage/sickrage.github.io.git"
+    "url": "git+https://github.com/pymedusa/sickrage.github.io.git"
   },
   "keywords": [
-    "SickRage"
+    "Medusa"
   ],
   "author": "miigotu",
   "license": "GPL-2.0",
   "bugs": {
-    "url": "https://github.com/SickRage/sickrage.github.io/issues"
+    "url": "https://github.com/pymedusa/sickrage.github.io/issues"
   },
-  "homepage": "https://github.com/SickRage/sickrage.github.io#readme"
+  "homepage": "https://github.com/pymedusa/sickrage.github.io#readme"
 }
