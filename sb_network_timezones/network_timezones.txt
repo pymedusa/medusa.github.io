@@ -215,6 +215,7 @@ BBC ALBA:Europe/London
 BBC America:US/Eastern
 BBC Canada:Canada/Eastern
 BBC Four:Europe/London
+BBC FOUR:Europe/London
 BBC HD:Europe/London
 BBC iPlayer:Europe/London
 BBC Kids:Canada/Eastern
@@ -297,9 +298,11 @@ Bravo:US/Eastern
 bravotv.com (US):US/Eastern
 Brit Asia TV (UK):Europe/London
 British Eurosport 2:Europe/London
+BRTN:Europe/Brussels
 BS Fuji (JP):Asia/Tokyo
 BS11:Asia/Tokyo
 BS-i (JP):Asia/Tokyo
+BS-i:Asia/Tokyo
 BT Sport 1 (UK):Europe/London
 BT Sport 2 (UK):Europe/London
 BTQ (AU):Australia/Sydney
@@ -432,6 +435,7 @@ Classic Arts Showcase:US/Eastern
 Classic FM TV:Europe/London
 cloo (US):US/Eastern
 CLTV (US):US/Eastern
+Club Illico:Canada/Eastern
 Club RTL:Europe/Brussels
 Clubland (UK):Europe/London
 CMC (AU):Australia/Sydney
@@ -753,6 +757,7 @@ Fox Business:US/Eastern
 Fox Channel:Europe/Berlin
 Fox Channel (UK):Europe/London
 Fox Channel (BR):America/Sao_Paulo
+Fox Channel (IT):Europe/Rome
 FOX CLASSICS (AU):Australia/Sydney
 FOX COLLEGE SPORTS ATLANTIC (US):US/Eastern
 FOX COLLEGE SPORTS CENTRAL (US):US/Eastern
@@ -1401,6 +1406,7 @@ ORF III:Europe/Vienna
 ORF1 (DE):Europe/Berlin
 ORTF:Europe/Paris
 Outdoor Channel:US/Eastern
+Outdoor Life Network:US/Eastern
 Outside TELEVISION (US):US/Eastern
 OUTtv (CA):Canada/Eastern
 Ovation TV:US/Eastern
@@ -1441,6 +1447,7 @@ Phoenix:Europe/Berlin
 Pick TV:Europe/London
 Pitch TV (UK):Europe/London
 Pitch World (UK):Europe/London
+Pivot:US/Eastern
 pivot:US/Eastern
 PIX 11 (US):US/Eastern
 Planet Green:US/Eastern
@@ -1449,6 +1456,7 @@ Playboy TV:US/Eastern
 Playhouse Disney:US/Eastern
 PlayJam:Europe/London
 PlayStation Network:US/Eastern
+Play UK:Europe/London
 Plug RTL:Europe/Brussels
 Polsat:Europe/Warsaw
 POP (UK):Europe/London
@@ -1846,6 +1854,7 @@ Super Écran:Canada/Eastern
 Super RTL (DE):Europe/Berlin
 Super!:Europe/Rome
 Superstation WGN:US/Eastern
+Sveriges Television:Europe/Stockholm
 SVT:Europe/Stockholm
 SVT1:Europe/Stockholm
 SVT2:Europe/Stockholm
@@ -1869,6 +1878,7 @@ Syndication:US/Eastern
 tagesschau24 (DE):Europe/Berlin
 Tai Seng Sat TV (US):US/Eastern
 Takbeer TV (UK):Europe/London
+Talpa, RTL4:Europe/Amsterdam
 Tapesh TV (US):US/Eastern
 TBN (Trinity Broadcasting Network):US/Eastern
 TBN Enlace (US):US/Eastern
@@ -2040,6 +2050,7 @@ TV HiTS (AU):Australia/Sydney
 TV Hokkaido (JP):Asia/Tokyo
 TV JAPAN (US):US/Eastern
 TV Kanagawa (JP):Asia/Tokyo
+TV Kanagawa:Asia/Tokyo
 TV Land:US/Eastern
 TV Markíza (SK):Europe/Bratislava
 TV Net:Europe/Istanbul
@@ -2052,6 +2063,7 @@ TV One:US/Eastern
 TV Osaka:Asia/Tokyo
 TV Pública:America/Buenos_Aires
 TV Saitama (JP):Asia/Tokyo
+TV Saitama:Asia/Tokyo
 TV São Carlos:America/Buenos_Aires
 TV Setouchi (JP):Asia/Tokyo
 TV Shop (UK):Europe/London
@@ -2106,6 +2118,7 @@ TVGN:US/Eastern
 TVI:Europe/Lisbon
 tvK (US):US/Eastern
 tvk:Asia/Tokyo
+TVK:Asia/Tokyo
 TVM:Europe/Malta
 TVN (AU):Australia/Sydney
 TVN Style:Europe/Warsaw
@@ -2228,6 +2241,7 @@ VoxAfrica (UK):Europe/London
 Voyage:Europe/Paris
 VPRO:Europe/Amsterdam
 Vrak.TV:Canada/Eastern
+VRT:Europe/Brussels
 VT4:Europe/Brussels
 VTM:Europe/Brussels
 vtmKzoom:Europe/Brussels
