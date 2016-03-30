@@ -506,6 +506,7 @@ create (US):US/Eastern
 Create and Craft (UK):Europe/London
 Credo TV (US):US/Eastern
 crime & investigation network (AU):Australia/Sydney
+Crime & Investigation Network (AU):Australia/Sydney
 crime & investigation network (UK):Europe/London
 Crime & Investigation Network:US/Eastern
 C-Span:US/Eastern
@@ -890,6 +891,7 @@ Hallmark Channel:US/Eastern
 Hallmark MOVIES & MYSTERIES (US):US/Eastern
 halowaypoint.com (US):US/Eastern
 Harmony Channel (US):US/Eastern
+HBO Canada:Canada/Eastern
 HBO CANADA:Canada/Eastern
 HBO Europe:Europe/Budapest
 HBO Family (US):US/Eastern
