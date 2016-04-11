@@ -562,6 +562,7 @@ Deutsche Telekom (DE):Europe/Berlin
 Deutsche Welle (US):US/Eastern
 Deutsche Welle TV:Europe/Berlin
 DFamilia (US):US/Eastern
+DirecTV Japan:Asia/Tokyo
 Discovery Channel (Asia):Asia/Singapore
 Discovery CHANNEL (AU):Australia/Sydney
 Discovery Channel (Australia):Australia/Sydney
@@ -729,6 +730,7 @@ Fitness Channel (UK):Europe/London
 Five Life:Europe/London
 Five US:Europe/London
 Five:Europe/London
+five:Europe/London
 FLAVA (UK):Europe/London
 FLIX (US):US/Eastern
 Flow TV (US):US/Eastern
@@ -824,6 +826,7 @@ Fuji TV:Asia/Tokyo
 FUNimation Channel:US/Eastern
 funnyordie.com (US):US/Eastern
 fuse:US/Eastern
+Fuse:US/Eastern
 Fusion (US):US/Eastern
 FX (AU):Australia/Sydney
 FX (US):US/Eastern
@@ -993,6 +996,7 @@ itv WEST COUNTRY (UK):Europe/London
 itv YORKSHIRE (UK):Europe/London
 ITV:Europe/London
 ITV1:Europe/London
+ITV 1:Europe/London
 ITV2:Europe/London
 ITV3:Europe/London
 ITV4:Europe/London
@@ -1017,6 +1021,7 @@ jts.tv (US):US/Eastern
 JUCE TV (US):US/Eastern
 June:Europe/Paris
 Jupiter Broadcasting :US/Eastern
+Jupiter Broadcasting:US/Eastern
 JUS ONE (US):US/Eastern
 JUS PUNJABI (US):US/Eastern
 JUSTICE CENTRAL (US):US/Eastern
@@ -1024,6 +1029,7 @@ KABC-TV Los Angeles (US):US/Eastern
 Kabel1 (DE):Europe/Berlin
 Kampüs TV:Europe/Istanbul
 KanaalTwee:Europe/Brussels
+Kanaal 2:Europe/Brussels
 Kanal 1 (SE):Europe/Stockholm
 Kanal 4:Europe/Copenhagen
 Kanal 5 (SE):Europe/Stockholm
@@ -1143,6 +1149,7 @@ MavTV:US/Eastern
 Max (AU):Australia/Sydney
 MAX (NL):Europe/Amsterdam
 MBC Drama:Asia/Seoul
+MBC 1:Asia/Seoul
 MBC Every 1:Asia/Seoul
 MBC Plus Media:Asia/Seoul
 MBC Queen:Asia/Seoul
@@ -1544,6 +1551,7 @@ Revision3:US/Eastern
 REVOLT (US):US/Eastern
 RFD-TV (US):US/Eastern
 RHC (AU):Australia/Sydney
+RichardDawkins.net:US/Eastern
 Ricavision channel 7 (ES):Europe/Madrid
 Ríkisútvarpið (IS):Atlantic/Reykjavik
 RIPE TV (US):US/Eastern
@@ -1792,6 +1800,7 @@ SPORTSNET WORLD (CA):Canada/Eastern
 Sprout (US):US/Eastern
 spt tv (US):US/Eastern
 SR:Europe/Berlin
+SRC:Canada/Eastern
 SRF 1:Europe/Zurich
 Star Channel (GR):Europe/Athens
 STAR Chinese Channel:Asia/Taipei
@@ -1900,6 +1909,7 @@ Télé (CA):Canada/Eastern
 Tele 5:Europe/Berlin
 Tele Curacao (AN):America/Lower_Princes
 Télé Monte Carlo (FR):Europe/Paris
+Telefe:America/Buenos_Aires
 Teleac (NL):Europe/Amsterdam
 TELECARE (US):US/Eastern
 Telecinco 5 (ES):Europe/Madrid
@@ -2357,3 +2367,4 @@ ZUUS Latino (US):US/Eastern
 ערוץ הילדים‎:Asia/Jerusalem
 קשת:Asia/Jerusalem
 רשת:Asia/Jerusalem
+Vara:Europe/Amsterdam
