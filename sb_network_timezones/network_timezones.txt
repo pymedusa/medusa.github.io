@@ -1779,6 +1779,7 @@ Soundtrack Channel (US):US/Eastern
 Southern Cross TELEVISION (AU):Australia/Sydney
 Southern Cross Ten (AU):Australia/Sydney
 Space:Canada/Eastern
+SPACE:Canada/Eastern
 SPEED (AU):Australia/Sydney
 Speed:US/Eastern
 Spektrum:Europe/Budapest
