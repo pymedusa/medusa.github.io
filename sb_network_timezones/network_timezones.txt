@@ -426,6 +426,7 @@ Cielo:Europe/Rome
 Cine 5:Europe/Istanbul
 Cinelatino (US):US/Eastern
 Cinemax:US/Eastern
+CineMax:US/Eastern
 Citv (UK):Europe/London
 CITV:Europe/London
 City Channel:Europe/Dublin
@@ -1466,6 +1467,7 @@ Playhouse Disney:US/Eastern
 PlayJam:Europe/London
 PlayStation Network:US/Eastern
 Play UK:Europe/London
+Play UK, BBC Choice:Europe/London
 Plug RTL:Europe/Brussels
 Polsat:Europe/Warsaw
 POP (UK):Europe/London
@@ -1846,11 +1848,13 @@ STW (AU):Australia/Sydney
 Style (AU):Australia/Sydney
 style. NETWORK (UK):Europe/London
 Style:US/Eastern
+Style TV:US/Eastern
 Sub:Europe/Helsinki
 SUN music:Asia/Kolkata
 SUN NEWS NETWORK (CA):Canada/Eastern
 SUN news:Asia/Kolkata
 SUN TV:Asia/Kolkata
+Sun TV:Asia/Kolkata
 SundanceTV:US/Eastern
 Sundance:US/Eastern
 Sunrise TV (UK):Europe/London
@@ -1905,6 +1909,7 @@ TCN (AU):Australia/Sydney
 TCT (US):US/Eastern
 TCT Family (US):US/Eastern
 TDT (AU):Australia/Sydney
+TED.com:US/Eastern
 TeenNick:US/Eastern
 Télé (CA):Canada/Eastern
 Tele 5:Europe/Berlin
@@ -1970,6 +1975,7 @@ TheBlaze:US/Eastern
 this TV network (US):US/Eastern
 This TV:US/Eastern
 THRILLER MOVIES (AU):Australia/Sydney
+ТНТ:Europe/Kiev
 Tien (NL):Europe/Amsterdam
 Time Warner Cable News Austin (US):US/Eastern
 Time Warner Cable News Buffalo (US):US/Eastern
@@ -2084,6 +2090,7 @@ TV Tokjo (DE):Europe/Berlin
 TV Tokyo:Asia/Tokyo
 TV Venezuela (US):US/Eastern
 TV11:Europe/Stockholm
+Tv2:Europe/Oslo
 TV2 (NO):Europe/Oslo
 TV2:Pacific/Auckland
 TV3 (ES):Europe/Madrid
