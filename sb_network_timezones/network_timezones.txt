@@ -11,6 +11,7 @@
 24/7 (US):US/Eastern
 24:Europe/Istanbul
 2BE:Europe/Brussels
+2be:Europe/Brussels
 3+:Europe/Zurich
 31 DIGITAL (AU):Australia/Sydney
 360:Europe/Istanbul
@@ -111,6 +112,7 @@ Alpha TV:Europe/Athens
 Altitude sports (US):US/Eastern
 AMAZING FACTS (US):US/Eastern
 Amazon Prime Instant Video (UK):Europe/London
+Amazon Prime Instant Video:US/Eastern
 Amazon:US/Eastern
 amc (CA):Canada/Eastern
 AMC:US/Eastern
@@ -180,6 +182,7 @@ ATV:Europe/Vienna
 AT-X:Asia/Tokyo
 Audience Network:US/Eastern
 aurora (AU):Australia/Sydney
+Australian Broadcasting Corporation:Australia/Sydney
 Australian Christian Channel:Australia/Sydney
 aux (CA):Canada/Eastern
 AVRO:Europe/Amsterdam
@@ -1066,7 +1069,9 @@ KNXT (US):US/Eastern
 KO-AM TV (US):US/Eastern
 Koldcast.tv (US):US/Eastern
 Korean Channel (US):US/Eastern
+KRO-NCRV:Europe/Amsterdam
 KRO:Europe/Amsterdam
+KRO / NCRV:Europe/Amsterdam
 KTLA 5 (US):US/Eastern
 KTN:Asia/Karachi
 KTV (JP):Asia/Tokyo
@@ -1805,6 +1810,7 @@ spt tv (US):US/Eastern
 SR:Europe/Berlin
 SRC:Canada/Eastern
 SRF 1:Europe/Zurich
+Stan:Australia/Sydney
 Star Channel (GR):Europe/Athens
 STAR Chinese Channel:Asia/Taipei
 Star Gold (UK):Europe/London
@@ -2319,6 +2325,7 @@ yesSTARS (IL):Asia/Jerusalem
 YESTERDAY (UK):Europe/London
 YLE Fem (FI):Europe/Helsinki
 YLE:Europe/Helsinki
+Yle:Europe/Helsinki
 Yomiuri TV (JP):Asia/Tokyo
 Yorin (NL):Europe/Amsterdam
 York Channel (UK):Europe/London
