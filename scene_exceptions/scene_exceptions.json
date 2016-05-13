@@ -1,4 +1,3 @@
-
 {
     "tvdb": {
         "70327": {
@@ -2932,9 +2931,16 @@
                 "The Five UK"
             ]
         },
-        "309255": {
+        "309845": {
             "-1": [
-                "Vietnam- The War That Made Australia"
+                "Vietnam- The War That Made Australia",
+                "The War That Made Australia"
+            ]
+        },
+        "295696": {
+            "-1": [
+                "The Catch",
+                "The Catch US"
             ]
         }
     }
