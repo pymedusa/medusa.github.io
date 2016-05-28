@@ -5,7 +5,7 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 ####2016-05-23 - Medusa v0.1.0 released####
 
-## Welcome to **Medusa!**
+## Welcome to **Medusa**!
 
 We have worked really hard to bring you many improvement to our fork of SickRage/SickBeard.
 
