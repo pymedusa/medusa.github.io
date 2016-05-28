@@ -9,7 +9,7 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 We have worked really hard to bring you many improvement to our fork of SickRage/SickBeard.
 
-First, and foremost, we've added a new manual search so you can select the search result you want (Voted *the most desired feature* by SickRage users!) 
+First, and foremost, we've added a new manual search so you can select the search result you want (Voted **the most desired feature** by SickRage users!) 
 
 In addition detection of release qualities has been greatly improved by adding additional tags and improving detection of previous tags.
 
