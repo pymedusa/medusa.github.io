@@ -983,6 +983,7 @@ IQRA TV (UK):Europe/London
 ishop tv (AU):Australia/Sydney
 Islam Channel (UK):Europe/London
 Italia 1:Europe/Rome
+iTunes:US/Eastern
 iTunes (US):US/Eastern
 itv ANGLIA (UK):Europe/London
 itv BORDER (UK):Europe/London
@@ -1966,6 +1967,7 @@ That's Surrey (UK):Europe/London
 The Africa Channel:Europe/London
 The Amp:Europe/London
 The Box:Europe/London
+The Comedy Network:Canada/Eastern
 The CW:US/Eastern
 The Den:Europe/Dublin
 The Family Channel:US/Eastern
@@ -2017,6 +2019,7 @@ Travel + Escape (CA):Canada/Eastern
 travel CHANNEL (UK):Europe/London
 Travel Channel:US/Eastern
 The Travel Channel:US/Eastern
+Treehouse:Canada/Eastern
 Treehouse TV:Canada/Eastern
 Trend E:Asia/Seoul
 Trinity Broadcasting Network (US):US/Eastern
@@ -2383,3 +2386,11 @@ ZUUS Latino (US):US/Eastern
 קשת:Asia/Jerusalem
 רשת:Asia/Jerusalem
 Vara:Europe/Amsterdam
+RTL Crime:Europe/Berlin
+ProSieben Fun:Europe/Berlin
+Sat.1 Emotions:Europe/Berlin
+SyFy:Europe/Berlin
+SRF zwei:Europe/Berlin
+ProSieben MAXX:Europe/Berlin
+RTL Crime:Europe/Berlin
+Sat.1:Europe/Berlin
