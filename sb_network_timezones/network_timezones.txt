@@ -213,6 +213,7 @@ BAY NEWS 9 (US):US/Eastern
 Bay TV Clywd (UK):Europe/London
 Bay TV Liverpool (UK):Europe/London
 Bay TV Swansea (UK):Europe/London
+bbc:Europe/London
 BBC:Europe/London
 BBC ALBA:Europe/London
 BBC America:US/Eastern
@@ -386,6 +387,7 @@ Centric (US):US/Eastern
 Centric:US/Eastern
 Česká televize:Europe/Prague
 Ceskoslovenská televize:Europe/Prague
+Československá televize:Europe/Prague
 CGN TV (US):US/Eastern
 CGV:Asia/Seoul
 Challenge:Europe/London
@@ -1010,6 +1012,7 @@ itvBe (UK):Europe/London
 ITVBe:Europe/London
 ivfilms.net (US):US/Eastern
 Jak-TV (ID):Asia/Jakarta
+Jetix:Europe/Amsterdam
 Jetix (NL):Europe/Amsterdam
 Jeuxvideo.com:Europe/Paris
 Jewellery Channel (UK):Europe/London
@@ -2003,6 +2006,7 @@ TND (AU):Australia/Sydney
 TNQ (AU):Australia/Sydney
 TNT Serie:Europe/Berlin
 TNT:US/Eastern
+TNT (US):US/Eastern
 TNU:America/Montevideo
 Toei Channel:Asia/Tokyo
 Tokai TV (JP):Asia/Tokyo
