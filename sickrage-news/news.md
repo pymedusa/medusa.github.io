@@ -3,7 +3,7 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 <br/>
 
-####2016-05-23 - Medusa v0.1.0 released####
+####2016-05-23####
 
 ## Welcome to **Medusa**!
 
