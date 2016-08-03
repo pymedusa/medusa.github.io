@@ -1,5 +1,7 @@
 ### v0.1.3:
 
+[full changelog](https://github.com/pymedusa/SickRage/commits/master)
+
 - Added Logger improvements (Lazy logging) 
 - Added KAT to broken providers("!" next to name)
 - Added log when unwanted extension files were found
@@ -19,9 +21,9 @@
 - Fixed showing seeds/leechs in log when NZB
 - Fixed season special wrongly detected as season pack 
 
-New Features:
-
-- Added a refiner that will enrich the video information with tvdbid, imdb_id and other information present in our database instead of query indexer
+**New Features:**
+- Added a refiner that will enrich the video information with tvdbid, imdb_id and <br />
+  other information present in our database instead of query indexer
 - Added Guessit name parser implementation
 - Skip Paused show on Nightly Update
 - Added an option Display show banner and Fanart in the background
