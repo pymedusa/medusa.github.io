@@ -37,6 +37,8 @@
 - Delete any empty season folders after deletion of associated files (when episode gets deleted)
 - Added size and number of episode to footers in season tables
 
+<br />
+
 ### v0.1.0:
 
 [full changelog: part 1](https://github.com/pymedusa/SickRage/compare/initial-fork...e9b23aa) [part 2](https://github.com/pymedusa/SickRage/compare/e9b23aa...e1c7479) [part 3](https://github.com/pymedusa/SickRage/compare/e1c7479...v0.1.0)
