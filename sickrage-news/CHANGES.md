@@ -22,6 +22,7 @@
 - Fixed season special wrongly detected as season pack 
 
 **New Features:**
+
 - Added a refiner that will enrich the video information with tvdbid, imdb_id and <br />
   other information present in our database instead of query indexer
 - Added Guessit name parser implementation
