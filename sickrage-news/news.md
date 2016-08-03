@@ -3,10 +3,13 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 <br/>
 
-####2016-08-01####
+####2016-08-03####
 
-TO UPDATE
+## 0.1.3 is finally here!
 
+After nearly a month of hard work, the Medusa team is proud to bring you the biggest release to date, featuring many new features, bug fixes and improvements. The highlight of this release is without doubt the significant improvement made to the name parser. Thanks to [guessit](https://github.com/guessit-io/guessit) we now have a more accurate release name detection and a much more efficient proper detection. Show pages are now enriched with beautiful posters and contain more information about the amount of episodes present for each season, including their total size. Many providers have been fixed, some were added and a bunch were improved. Please have a look at the full changelog for more detailed information. We would like to thank everyone for the amazing support in the past few months and wish all of you relaxing summer holidays!
+
+<br />
 
 ####2016-05-23####
 
