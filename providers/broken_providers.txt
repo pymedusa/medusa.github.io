@@ -1,0 +1,1 @@
+{'btdigg', 'kickasstorrents', 'torrentz'}
