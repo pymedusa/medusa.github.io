@@ -1,5 +1,3 @@
-[
-'btdigg',
-'kickasstorrents',
-'torrentz'
-]
+btdigg
+kickasstorrents
+torrentz
