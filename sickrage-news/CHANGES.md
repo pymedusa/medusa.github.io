@@ -1,3 +1,46 @@
+### v0.1.4:
+
+[full changelog](https://github.com/pymedusa/SickRage/commits/master)
+
+**New Features:**
+- Get broken providers from github.io and force disable provider if is broken (avoid push changes when new broken provider)
+- Clean Kodi library when re-download|manualsearch another release from a episode (Kodi would have a link to a episode that doesn't exist anymore
+- Started to work in the API v2
+
+**Fixes:**
+
+- Fixed loging page not respecting redirection page
+- Fixed manual search providers only not having cache trimme
+- Fixed RARBG warning message when it should be DEBUG
+- Fixed episode refiner using wrong release name
+- Fixed several UI issues
+- Fixed Adding Shows not loading saved custom options
+- Fixed Seeders and leechers from transmitthenet provider
+- Fixed 'no space left' log message as ERROR. Should be warning.
+- Fixed UI showing two "date style" selects
+- Fixed issue causing threads to stop when Trakt notifications fails
+- Fixed IPT
+- Fixed ImdbPopular
+- Fixed multiple video formats in guessit parsing
+- Fixed guessit parser when show titles contains numbers and unicode chars
+- Fixed Release Groups with dash (ie. GROUP-BUYMORE will become GROUP)
+- Fixed not escaping html characters in logs view page
+- Fixed displayshow showing info from old status when new status is snatched
+- Fixed possible overlapping in PP by don't calling PP in postpone if auto PP is enabled
+- Improved the Recommended Lists
+- Improve providers codes
+- Improved tests/travis checks
+- Improved config general page loading (a lot faster now)
+- Added SxxEPxx pattern to guessit
+- Added base url to templates
+- Added pep8 naming config to tests/travis
+- Added notifications when blacklisting shows in Trakt recommended lists
+- Removed legacy parser
+- Remove option 'subtitles_download_in_pp' - when postpone enabled it will always download subtitle in PP folder
+- Updated jquery
+
+<br />
+
 ### v0.1.3:
 
 [full changelog](https://github.com/pymedusa/SickRage/commits/master)

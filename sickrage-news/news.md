@@ -3,6 +3,14 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 <br/>
 
+####2016-08-28####
+
+## 0.1.4 released!
+
+Another release with a lof of fixes and some new features. Checktout change log!
+
+<br />
+
 ####2016-08-03####
 
 ## 0.1.3 is finally here!
