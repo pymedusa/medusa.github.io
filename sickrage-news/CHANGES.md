@@ -3,32 +3,33 @@
 [full changelog](https://github.com/pymedusa/SickRage/commits/master)
 
 **New Features:**
-- Get broken providers from github.io and force disable provider if is broken (avoid push changes when new broken provider)
-- Clean Kodi library when re-download|manualsearch another release from a episode (Kodi would have a link to a episode that doesn't exist anymore
+
+- Get broken providers from GitHub and force disable broken providers (avoids having to push changes for new broken providers)
+- Clean Kodi library after re-download or manual search another release of an episode (Kodi would have a link to an episode that doesn't exist anymore)
 - Started to work in the API v2
 
 **Fixes:**
 
-- Fixed loging page not respecting redirection page
-- Fixed manual search providers only not having cache trimme
+- Fixed logging page not respecting redirection page
+- Fixed manual search providers only not having cache trimmed
 - Fixed RARBG warning message when it should be DEBUG
-- Fixed episode refiner using wrong release name
+- Fixed episode refiner using wrong release names
 - Fixed several UI issues
-- Fixed Adding Shows not loading saved custom options
-- Fixed Seeders and leechers from transmitthenet provider
+- Fixed adding Shows not loading after save in custom options
+- Fixed seeders and leechers from transmitthenet provider
 - Fixed 'no space left' log message as ERROR. Should be warning.
-- Fixed UI showing two "date style" selects
+- Fixed UI showing two 'date style' selects
 - Fixed issue causing threads to stop when Trakt notifications fails
-- Fixed IPT
-- Fixed ImdbPopular
+- Fixed IPTorrents provider
+- Fixed Imdb popular shows page
 - Fixed multiple video formats in guessit parsing
-- Fixed guessit parser when show titles contains numbers and unicode chars
+- Fixed guessit parser when show titles contain numbers and unicode chars
 - Fixed Release Groups with dash (ie. GROUP-BUYMORE will become GROUP)
 - Fixed not escaping html characters in logs view page
-- Fixed displayshow showing info from old status when new status is snatched
-- Fixed possible overlapping in PP by don't calling PP in postpone if auto PP is enabled
-- Improved the Recommended Lists
-- Improve providers codes
+- Fixed displayshow showing info of old status when new status is snatched
+- Fixed possible overlapping in PP by not calling PP in postpone if auto PP is enabled
+- Improved the Recommended Shows Lists
+- Improved providers code
 - Improved tests/travis checks
 - Improved config general page loading (a lot faster now)
 - Added SxxEPxx pattern to guessit
@@ -37,7 +38,7 @@
 - Added notifications when blacklisting shows in Trakt recommended lists
 - Removed legacy parser
 - Remove option 'subtitles_download_in_pp' - when postpone enabled it will always download subtitle in PP folder
-- Updated jquery
+- Updated JQuery
 
 <br />
 
