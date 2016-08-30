@@ -7,7 +7,7 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 ## 0.1.4 released!
 
-Another release with a lot of fixes and some new features. Check out the changelog for more information!
+Another release with a lot of fixes and some new features. The most noticeable change in this release is the improved 'Recommended Shows' page, which now features three options to add your favorite shows: IMDB's popular shows, Trakt lists and for the anime watchers among us, the brand new Anidb's hot anime list. This release consists mainly of under-the-hood changes, as always check out the changelog for more information. We hope you enjoy our efforts!
 
 <br />
 
