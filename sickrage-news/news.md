@@ -1,4 +1,4 @@
-####Please read the [Wiki/FAQ](https://github.com/pymedusa/SickRage-issues/wiki) before opening an issue####
+####Please read the [Wiki/FAQ](https://github.com/pymedusa/SickRage/wiki) before opening an issue####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/SickRage/issues)
 
 <br/>
