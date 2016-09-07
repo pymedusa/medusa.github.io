@@ -3,6 +3,14 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 <br/>
 
+####2016-09-07####
+
+## 0.1.4.1 released!
+
+We released earlier to fix some mako issues while saving PostProcessor and Notification settings
+
+<br />
+
 ####2016-08-30####
 
 ## 0.1.4 released!
