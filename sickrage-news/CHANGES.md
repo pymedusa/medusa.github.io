@@ -1,3 +1,19 @@
+### v0.1.4.1:
+
+[full changelog](https://github.com/pymedusa/SickRage/commits/master)
+
+**Fixes:**
+
+- A lot of JS improvements
+- Added provider Torrentz2 and removed old one
+- Fixed not saving PostProcessor and Notification pages
+- Fixed guessit when multiple formats
+- Fixed providers: SSC and Zooqle
+- Upgraded subliminal to 2.0.5
+- A lot of under the hood code improvements 
+
+<br />
+
 ### v0.1.4:
 
 [full changelog](https://github.com/pymedusa/SickRage/commits/master)
