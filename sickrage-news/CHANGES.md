@@ -10,6 +10,7 @@
 - Fixed guessit when multiple formats
 - Fixed providers: SSC and Zooqle
 - Upgraded subliminal to 2.0.5
+- Refactored issue submission and log files reader
 - A lot of under the hood code improvements 
 
 <br />
