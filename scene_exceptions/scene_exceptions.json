@@ -1627,26 +1627,6 @@
                 "The Renovators AU"
             ]
         },
-        "250487": {
-            "-1": [
-                "American Horror Story"
-            ],
-            "1": [
-                "American Horror Story Murder House"
-            ],
-            "2": [
-                "American Horror Story Asylum"
-            ],
-            "3": [
-                "American Horror Story Coven"
-            ],
-            "4": [
-                "American Horror Story Freak Show"
-            ],
-            "5": [
-                "American Horror Story Hotel"
-            ]
-        },
         "250525": {
             "-1": [
                 "Hamish And Andys Gap Year",
@@ -2971,6 +2951,83 @@
         "256179": {
             "-1": [
                 "Underworld Inc"
+            ]
+        },
+        "286943": {
+            "-1": [
+                "Powers (2015)",
+                "Powers US"
+            ]
+        },
+        "304262": {
+            "-1": [
+                "Animal Kingdom (2016)",
+                "Animal Kingdom US"
+            ]
+        },
+        "310555": {
+            "-1": [
+                "Wrecked (2016)",
+                "Wrecked"
+            ]
+        },
+        "295720": {
+            "-1": [
+                "Uncle Buck (2016)",
+                "Uncle Buck"
+            ]
+        },
+        "281537": {
+            "-1": [
+                "Aquarius (2015)",
+                "Aquarius US",
+                "Aquarius"
+            ]
+        },
+        "312278": {
+            "-1": [
+                "Las Vegas Law (2016)",
+                "Las Vegas Law"
+            ]
+        },
+        "294417": {
+            "-1": [
+                "Scream",
+                "Scream The TV Series"
+            ]
+        },
+        "267907": {
+            "-1": [
+                "The Fosters (2013)",
+                "The Fosters"
+            ]
+        },
+        "79360": {
+            "2": [
+                "Eureka Seven: AO",
+                "Eureka Seven: Astral Ocean",
+                "Eureka Seven AO",
+                "Eureka Seven Astral Ocean"
+            ]
+        },
+        "250487": {
+            "-1": [
+                "American Horror Story"
+            ],
+            "1": [
+                "American Horror Story Murder House"
+            ],
+            "2": [
+                "American Horror Story Asylum"
+            ],
+            "3": [
+                "American Horror Story Coven"
+            ],
+            "4": [
+                "American Horror Story Freak Show"
+            ],
+            "5": [
+                "American Horror Story Hotel"
             ]
         }
     }
