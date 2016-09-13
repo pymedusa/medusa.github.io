@@ -302,6 +302,7 @@ BR-alpha:Europe/Berlin
 Bravo (CA):Canada/Eastern
 Bravo (UK):Europe/London
 Bravo (US):US/Eastern
+Bravo (NZ):Pacific/Auckland
 Bravo!:Canada/Eastern
 Bravo:US/Eastern
 bravotv.com (US):US/Eastern
@@ -829,6 +830,7 @@ FRANCE24 (US):US/Eastern
 Fred TV:US/Eastern
 Freeform:US/Eastern
 Frost Great Outdoors (US):US/Eastern
+FSN:US/Eastern
 FSTV (US):US/Eastern
 FTV:Asia/Taipei
 FUEL TV (AU):Australia/Sydney
@@ -931,6 +933,7 @@ High Street TV (UK):Europe/London
 HKTV:Asia/Hong_Kong
 Hír TV:Europe/Budapest
 Historia:Canada/Eastern
+Historia (CA):Canada/Eastern
 HISTORY (AU):Australia/Sydney
 History (CA):Canada/Eastern
 HISTORY (UK):Europe/London
@@ -1427,6 +1430,7 @@ Open Heaven TV (UK):Europe/London
 Oprah Winfrey Network:US/Eastern
 Ora TV:US/Eastern
 Orbit Network (PK):Asia/Karachi
+ORF:Europe/Berlin
 ORF 1:Europe/Vienna
 ORF 2:Europe/Vienna
 ORF III:Europe/Vienna
@@ -1437,6 +1441,7 @@ Outdoor Channel:US/Eastern
 Outdoor Life Network:US/Eastern
 Outside TELEVISION (US):US/Eastern
 OUTtv (CA):Canada/Eastern
+OutTV:Canada/Eastern
 Ovation TV:US/Eastern
 ovationchannel.com.au:Australia/Sydney
 Overcomer Ministries (US):US/Eastern
@@ -2274,6 +2279,7 @@ VH1 Classics:US/Eastern
 VH1 Soul (US):US/Eastern
 VH1:US/Eastern
 Viasat 4:Europe/Oslo
+Viaplay:Europe/Stockholm
 Viceland:US/Eastern
 Victory Television Network (US):US/Eastern
 Videoland Television Network:Asia/Taipei
@@ -2362,6 +2368,7 @@ Yomiuri TV (JP):Asia/Tokyo
 Yorin (NL):Europe/Amsterdam
 York Channel (UK):Europe/London
 Yorkshire Coast TV (UK):Europe/London
+Yorkshire Television:Europe/London
 YourTV Blackpool & Preston (UK):Europe/London
 YourTV Manchester (UK):Europe/London
 youtoo SOCIAL TV (US):US/Eastern
