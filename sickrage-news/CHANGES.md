@@ -1,3 +1,41 @@
+### v0.1.5:
+
+[full changelog](https://github.com/pymedusa/SickRage/commits/master)
+
+**New Features:**
+ - Added proper tags using INFO icon in history page
+ - Added a PROPER codec check to avoid snatch proper when codec is different (i.e x265 propering x264)
+ - Added NZBget connection test
+ - Added proper tag info to history database
+ - Added CF bypass code (fixes Torrentz2)
+ 	
+**Fixes:**
+
+- Fixed checkversion error
+- Fixed Pretome provider seeders/leechers
+- Fixed tv_episode table not being updated with new snatch info
+- Fixed manual season pack search not using indexer number
+- Fixed footer stats not refreshing
+- Fixed issue submitter error
+- Fixed removing folder when they don't exist
+- Fixed mako error when restoring backup
+- Fixed not using encoding when parsing file
+- Fixed collapse button in manage status and missed subtitles page
+- Fixed "database or disk is full" showing as error. Should be warning
+- Fixed exception in anime with numbers and no season information
+- Fixed ExtraTorrent provider
+- Fixed using already processed propers when doing forced proper search 
+- Fixed reading .nfo when special chars in the filename
+- Fixed scene exceptions update if AniDB doesn't have the show
+- Fixed not being able to get new token when Trakt token expired
+- Added "git clean" for source folders and lib folder when git reset
+- Improve scene exceptions code
+- Improve show updater code
+- Improved all python "imports" 
+- Few optimizations in PP code
+
+<br />
+
 ### v0.1.4.1:
 
 [full changelog](https://github.com/pymedusa/SickRage/commits/master)
