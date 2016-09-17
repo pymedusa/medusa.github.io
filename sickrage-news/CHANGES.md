@@ -8,6 +8,7 @@
  - Added NZBget connection test
  - Added proper tag info to history database
  - Added CF bypass code (fixes Torrentz2)
+ - Add NZBget connection test
  	
 **Fixes:**
 
@@ -24,6 +25,11 @@
 - Fixed "database or disk is full" showing as error. Should be warning
 - Fixed exception in anime with numbers and no season information
 - Fixed ExtraTorrent provider
+- Fixed TorrentDay login
+- Fixed Kodi not creating metadata
+- Fix not able to get new pin when token expired
+- Fixed not discarding multi season torrents (not supported)
+- Fixed parsing of 'related torrents' for ExtraTorrent
 - Fixed using already processed propers when doing forced proper search 
 - Fixed reading .nfo when special chars in the filename
 - Fixed scene exceptions update if AniDB doesn't have the show
@@ -31,7 +37,8 @@
 - Added "git clean" for source folders and lib folder when git reset
 - Improve scene exceptions code
 - Improve show updater code
-- Improved all python "imports" 
+- Improved all python "imports"
+- Improve Github code
 - Few optimizations in PP code
 
 <br />
