@@ -4,16 +4,15 @@
 
 **New Features:**
  - Added proper tags using INFO icon in history page
- - Added a PROPER codec check to avoid snatch proper when codec is different (i.e x265 propering x264)
+ - Added a PROPER codec check to avoid snatching propers when codec is different (e.g. x265 propering x264)
  - Added NZBget connection test
- - Added proper tag info to history database
- - Added CF bypass code (fixes Torrentz2)
- - Add NZBget connection test
- 	
+ - Added faster and more reliable way of showing propers in history
+ - Added CloudFlare bypass code (fixes providers behind CF's protection, e.g. Torrentz2)
+
 **Fixes:**
 
 - Fixed checkversion error
-- Fixed Pretome provider seeders/leechers
+- Fixed Pretome provider's seeders/leechers
 - Fixed tv_episode table not being updated with new snatch info
 - Fixed manual season pack search not using indexer number
 - Fixed footer stats not refreshing
@@ -21,25 +20,27 @@
 - Fixed removing folder when they don't exist
 - Fixed mako error when restoring backup
 - Fixed not using encoding when parsing file
-- Fixed collapse button in manage status and missed subtitles page
+- Fixed collapse button in manage status and missed subtitles pages
 - Fixed "database or disk is full" showing as error. Should be warning
 - Fixed exception in anime with numbers and no season information
 - Fixed ExtraTorrent provider
 - Fixed TorrentDay login
 - Fixed Kodi not creating metadata
-- Fix not able to get new pin when token expired
-- Fixed not discarding multi season torrents (not supported)
-- Fixed parsing of 'related torrents' for ExtraTorrent
-- Fixed using already processed propers when doing forced proper search 
+- Fixed unable to get new pin when token expired situation
+- Fixed not discarding multi season torrents (not supported for now)
+- Fixed superfluous parsing of 'related torrents' for ExtraTorrent
+- Fixed using already processed propers when doing a forced proper search 
 - Fixed reading .nfo when special chars in the filename
 - Fixed scene exceptions update if AniDB doesn't have the show
 - Fixed not being able to get new token when Trakt token expired
-- Added "git clean" for source folders and lib folder when git reset
-- Improve scene exceptions code
-- Improve show updater code
+- Fixed shows losing show information after unsuccessful IMDb update
+- Added "git clean" for source folders and lib folder with git reset
+- Added proper tags info to history database
+- Improved scene exceptions code
+- Improved show updater code
 - Improved all python "imports"
-- Improve Github code
-- Few optimizations in PP code
+- Improved GitHub code
+- Improved post-processor code
 
 <br />
 
@@ -50,13 +51,13 @@
 **Fixes:**
 
 - A lot of JS improvements
-- Added provider Torrentz2 and removed old one
-- Fixed not saving PostProcessor and Notification pages
-- Fixed guessit when multiple formats
+- Added Torrentz2 provider and removed the old one
+- Fixed PostProcessor and Notification pages not saving
+- Fixed guessit parsing with multiple formats
 - Fixed providers: SSC and Zooqle
 - Upgraded subliminal to 2.0.5
 - Refactored issue submission and log files reader
-- A lot of under the hood code improvements 
+- A lot of under the hood code improvements
 
 <br />
 
