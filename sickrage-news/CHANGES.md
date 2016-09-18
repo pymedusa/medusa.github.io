@@ -3,6 +3,7 @@
 [full changelog](https://github.com/pymedusa/SickRage/commits/master)
 
 **New Features:**
+
  - Added proper tags using INFO icon in history page
  - Added a PROPER codec check to avoid snatching propers when codec is different (e.g. x265 propering x264)
  - Added NZBget connection test
