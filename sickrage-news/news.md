@@ -5,6 +5,14 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 ####2016-09-18####
 
+## 0.1.5.1 bugfix release
+
+This is just a bugfix release that will allow users to upgrade with other databases. Thanks to all bug reports that allowed us to handle this fairly quickly and sorry for the inconvenience. In the future, we will make sure this doesn't happen again.
+
+<br />
+
+####2016-09-18####
+
 ## 0.1.5 here!
 
 This week we are proud to bring you another important release, which focuses mainly on fixing annoying bugs and general code improvements. We worked hard to improve the History page, making it load noticeably faster than ever before. The page also contains proper information now, which should make it easier to distinguish between release types. The whole code behind proper detection and handling got improved as well. We've implemented a check that should prevent propering of different codecs, which was quite annoying. In addition to fixing and improving many providers, we now have an automatic bypass for the CloudFlare protection, which was preventing Medusa to scrape some of them. Last but not least: did you know that we have an extremely easy to use Windows installer now? Check it out [here](https://github.com/pymedusa/MedusaInstaller/releases). For the next release we'll be focusing mainly on rebranding and code refactoring. We hope you'll enjoy this release as much as we did working on it.

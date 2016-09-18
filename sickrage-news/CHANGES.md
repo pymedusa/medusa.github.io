@@ -1,3 +1,15 @@
+### v0.1.5.1:
+
+[full changelog](https://github.com/pymedusa/SickRage/commits/master)
+
+**Fixes:**
+
+ - Fixed database upgrade for users coming from SickRage
+ - Fixed mass update 'delete' action
+ - Improved various code sections
+
+<br />
+
 ### v0.1.5:
 
 [full changelog](https://github.com/pymedusa/SickRage/commits/master)
