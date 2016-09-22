@@ -1,3 +1,14 @@
+### v0.1.5.2:
+
+[full changelog](https://github.com/pymedusa/SickRage/commits/master)
+
+**Fixes:**
+
+ - Fixed expected titles should not contain number-only items
+ - Fixed canonical_name when dict has non-ascii characters
+
+<br />
+
 ### v0.1.5.1:
 
 [full changelog](https://github.com/pymedusa/SickRage/commits/master)

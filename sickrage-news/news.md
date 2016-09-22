@@ -3,6 +3,14 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 <br/>
 
+####2016-09-22####
+
+## 0.1.5.2 bugfix release
+
+This is just another bugfix release
+
+<br/>
+
 ####2016-09-18####
 
 ## 0.1.5.1 bugfix release
