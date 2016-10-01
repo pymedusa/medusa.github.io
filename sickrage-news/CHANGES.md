@@ -12,8 +12,8 @@
  - Fixed "Failed Downloads" paging not using correct sorting
  - Fixed a lot of errors reported by codacy
  - Fixed expected titles should not contain number-only items
- - Fixed error when reading image with 0 bytes. Medusa will deleted then
- - Fixed release names being cut off for Limetorrents
+ - Fixed error when reading image with 0 bytes and try to delete it (if fails warn user to delete it)
+ - Fixed release names being cut off for Limetorrents/ExtraTorrents
  - Fixed some CSS rules
  - Fixed submitting issues to Pull requests
  - Fixed unsafe attempt to load URL JS issue
