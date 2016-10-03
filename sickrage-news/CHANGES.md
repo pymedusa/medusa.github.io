@@ -17,6 +17,10 @@
  - Fixed some CSS rules
  - Fixed submitting issues to Pull requests
  - Fixed unsafe attempt to load URL JS issue
+ - Fixed custom guessit function should be loaded before other modules that depends on it
+ - Fixed unicode error when reading logs
+ - Fixed log_filter='SEARCHQUEUE' and 'SHOWQUEUE' not working
+ - Fixed several guessit enhancements/bug fixes
  - Upgraded DB to 44 (keep compatible with SickRage users that keep joining us)
  - Moved from sickbeard/sickrage folders to medusa
  - Moved search files to specific folder
