@@ -4,8 +4,8 @@
 
 **New Features:**
 
- - Executing git clean during update process
- - Saving sort in history page and enable to sort by "subtitles"
+ - Added git clean execution during update process
+ - Added the ability to save the sort in the history page and the ability sort by "subtitles"
  
 **Fixes:**
 
