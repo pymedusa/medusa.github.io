@@ -21,12 +21,14 @@
  - Fixed unicode error when reading logs
  - Fixed log_filter='SEARCHQUEUE' and 'SHOWQUEUE' not working
  - Fixed several guessit enhancements/bug fixes
+ - Fixed another multiple formats corner case in guessit
+ - Removed note in PP as We don't need quality anymore in naming pattern
  - Upgraded DB to 44 (keep compatible with SickRage users that keep joining us)
  - Moved from sickbeard/sickrage folders to medusa
  - Moved search files to specific folder
  - Recfatored all python imports
  - Rebranded all code to Medusa
- - Updated guessit to 57fe78f and rebulk to 0.7.6
+ - Updated guessit to hash:57fe78f and rebulk to 0.7.6
  - Move unittests to legacy folder
  - Reorganized tests
  - Dropped support for databases with version < 40
