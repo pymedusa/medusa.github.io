@@ -19,7 +19,7 @@
  - Fixed "unsafe attempt to load URL" JS issue
  - Fixed custom guessit function beeing loaded before other modules that depend on it
  - Fixed unicode error when reading logs
- - Fixed "SEARCHQUEUE" and "SHOWQUEUE" log filer not working
+ - Fixed "SEARCHQUEUE" and "SHOWQUEUE" log filter not working
  - Fixed several guessit bug fixes & did some enhancements to it
  - Fixed another multiple formats corner case in guessit
  - Removed note in PostProcessing settings regarding the need to have the quality in the naming pattern
