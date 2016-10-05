@@ -1,3 +1,41 @@
+### v0.1.6:
+
+[full changelog](https://github.com/pymedusa/SickRage/commits/master)
+
+**New Features:**
+
+ - Added git clean execution during update process
+ - Added the ability to save the sort in the history page and the ability to sort by "subtitles"
+ 
+**Fixes:**
+
+ - Fixed "Failed Downloads" page not using correct sorting
+ - Fixed a lot of errors reported by codacy
+ - Fixed expected titles which should not contain number-only items
+ - Fixed error when reading image with 0 bytes and try to delete it (if it fails warn user to delete it)
+ - Fixed release names being cut off for Limetorrents & ExtraTorrents
+ - Fixed some CSS rules
+ - Fixed issues beeing submitted to Pull Requests
+ - Fixed "unsafe attempt to load URL" JS issue
+ - Fixed custom guessit function beeing loaded before other modules that depend on it
+ - Fixed unicode error when reading logs
+ - Fixed "SEARCHQUEUE" and "SHOWQUEUE" log filter not working
+ - Fixed several guessit bug fixes & did some enhancements to it
+ - Fixed another multiple formats corner case in guessit
+ - Removed note in PostProcessing settings regarding the need to have the quality in the naming pattern
+ - Upgraded DB to 44 (to keep compatible with SickRage users that decide to move to Medusa)
+ - Moved from a Sickbeard/Sickrage directory structure to one named Medusa
+ - Moved "search" related files to their own directory
+ - Refactored all python imports
+ - Rebranded all code to Medusa
+ - Updated guessit to hash:57fe78f and rebulk to 0.7.6
+ - Move unittests to a "legacy" directory
+ - Reorganized tests
+ - Dropped support for databases with version prior to 40
+ - Improved DB version check
+ 
+<br />
+
 ### v0.1.5.2:
 
 [full changelog](https://github.com/pymedusa/SickRage/commits/master)
