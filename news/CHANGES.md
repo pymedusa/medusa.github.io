@@ -1,3 +1,40 @@
+### v0.1.7:
+
+[full changelog](https://github.com/pymedusa/SickRage/commits/master)
+
+**New Features:**
+
+ - Renamed repository name from 'SickRage' to 'Medusa' and renamed log and database files
+ - Encoding/decoding are better handled now (we removed a bad bad function called EK)
+ - Added manual subtitle search in displayShow (CC icon)
+ - Re-download existing subtitle (clicking in the existing language flag)
+ - Use posters from tvdb api v2 and not Trakt (they don't send images anymore in api)
+ - Added dogpile cache configuration for subliminal (reduces memory usage)
+
+**Fixes:**
+
+ - Use torrasave.top as torrent caching site
+ - Fixed ExtraTorrent not using custom url
+ - Fixed simpleanidb refresh cache
+ - Fixed TorrentProject provider always unavailable (not using api anymore)
+ - Fixed PP not replacing(deleting) existing file
+ - Fixed omgwtfnzbs url
+ - Fixed nyaatorrent provider
+ - Fixed editShow of anime, when it's changed to anime through massEdit
+ - Fixed api key in JS while not logged
+ - Fixed some providers parsing info (cropping title)
+ - Fixed URL link pointing to specific season
+ - Fix error, when a user switches back to master and then develop afte rebranding
+ - Fixed error while checking size of file
+ - Fixed cowercase lowercase for showlist sort
+ - Fixed subtitle search using scene numbering when it shouldn't
+ - Fixed various bugs in PostProcessor
+ - Added confirmed/ranked logs so you know when feature is enabled
+ - Added missing network images
+ - Removed thetorrent.org from torrent caching sites
+
+<br />
+
 ### v0.1.6:
 
 [full changelog](https://github.com/pymedusa/SickRage/commits/master)
