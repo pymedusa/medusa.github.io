@@ -3,6 +3,18 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 <br/>
 
+####2016-10-26####
+
+## 0.1.7
+
+Again some more fixes, a lot of code improvements!
+
+As promissed we renamed github repository from SickRage to Medusa. Its transparent to users as Github does the redirect.
+
+Also as planned we now have "Manual Subtitle search" (CC icon) e "Subtitle redownload" (lang flag icon). Please try and give us some feedback
+
+<br/>
+
 ####2016-10-05####
 
 ## 0.1.6
