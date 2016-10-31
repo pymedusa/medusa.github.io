@@ -156,6 +156,7 @@ Arizona NewsChannel (US):US/Eastern
 ART TV:Europe/Athens
 arte (DE):Europe/Berlin
 Arte:Europe/Paris
+Arte Creative:Europe/Paris
 ARTN (US):US/Eastern
 ARTV:Canada/Eastern
 ARY Digital (UK):Europe/London
@@ -1609,6 +1610,7 @@ RT (UK):Europe/London
 RT America (US):US/Eastern
 RT:Europe/Kaliningrad
 RTBF:Europe/Brussels
+RTBF Webcréation:Europe/Brussels
 RTE:Europe/Dublin
 rté jr (IE):Europe/Dublin
 RTÉjr:Europe/Dublin
@@ -2005,6 +2007,7 @@ The Family Channel:US/Eastern
 The Hub:US/Eastern
 The History Channel:US/Eastern
 The Movie Network:Canada/Eastern
+The N:Australia/Sydney
 The Sportsman Channel:US/Eastern
 The Verge:US/Eastern
 The WB:US/Eastern
