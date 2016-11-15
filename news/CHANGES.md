@@ -25,6 +25,7 @@
  - Added timeago JavaScript script
  - Added episode TvDB API (v2) rest endpoint
  - Added a more clear tooltip for failed downloads
+ - Added handling EnvironmentError to cover IOError and OSError
 
 **Fixes:**
 
@@ -66,8 +67,12 @@
  - Fixed language detection for subtitles
  - Fixed setting manual season scene numbering for special seasons
  - Fixed missing 'div' in config_search.mako
- 
- 
+ - Fixed switching TvDB show language
+ - Fixed unicodeDecode error, when opening shows with unicode names
+ - Fixed genre pills in displayShow.mako when show can't be mapped to IMDb
+ - Fixed None arg passed to guessit
+ - Fixed renaming log line
+
 <br />
 
 ### v0.1.7:
