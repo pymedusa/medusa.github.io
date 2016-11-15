@@ -1,3 +1,34 @@
+### v0.1.8:
+
+[full changelog](https://github.com/pymedusa/SickRage/commits/master)
+
+**New Features:**
+
+ - Replaced old TvDB API (v1) with new API version (v2)
+ - Removed hachoir and replaced it with [knowit](https://github.com/ratoaq2/knowit)
+ - Proper search days interval is now customizable
+ - Added new torrent cache sites
+ - Improved exceptions handling
+ - The configuration page new uses [Vue.js](https://github.com/vuejs/vue)
+ - Subtitles are also sorted by title now
+ - Improved check for broken providers
+ - Changed opensubtitles icon with a more recent version
+ - Added season search for MTV provider
+ - Added cookie login to bypass captcha for SceneTime and IPTorrents
+ - Upgraded certifi to version 2016.9.26
+ - Added season specific update for TvDB
+ - Improved language detection for subtitles
+ - Post-processing now uses relative paths where possible
+ - Improved startup logic
+ - Enhanced guessit detection support
+ - Updated base namings in episode naming
+
+**Fixes:**
+
+ - TODO
+
+<br />
+
 ### v0.1.7:
 
 [full changelog](https://github.com/pymedusa/SickRage/commits/master)
