@@ -2136,6 +2136,7 @@ Viên Thao TV (US):US/Eastern
 Viaplay:Europe/Stockholm
 Viasat 4:Europe/Oslo
 Viceland:US/Eastern
+Viceland (US):US/Eastern
 Victory Television Network (US):US/Eastern
 Videoland Television Network:Asia/Taipei
 VijfTV:Europe/Brussels
