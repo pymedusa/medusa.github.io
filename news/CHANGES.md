@@ -1,3 +1,80 @@
+### v0.1.8:
+
+[full changelog](https://github.com/pymedusa/SickRage/commits/master)
+
+**New Features:**
+
+ - Replaced old TvDB API (v1) with new API version (v2)
+ - Removed hachoir and replaced it with [knowit](https://github.com/ratoaq2/knowit)
+ - Proper search days interval is now customizable
+ - Added new torrent cache sites
+ - Improved exceptions handling
+ - The configuration page new uses [Vue.js](https://github.com/vuejs/vue)
+ - Subtitles are also sorted by title now
+ - Improved check for broken providers
+ - Changed opensubtitles icon with a more recent version
+ - Added season search for MTV provider
+ - Added cookie login to bypass captcha for SceneTime and IPTorrents
+ - Upgraded certifi to version 2016.9.26
+ - Added season specific update for TvDB
+ - Improved language detection for subtitles
+ - Post-processing now uses relative paths where possible
+ - Improved startup logic
+ - Enhanced guessit detection support
+ - Updated base namings in episode naming
+ - Added timeago JavaScript script
+ - Added episode TvDB API (v2) rest endpoint
+ - Added a more clear tooltip for failed downloads
+ - Added handling EnvironmentError to cover IOError and OSError
+
+**Fixes:**
+
+ - Fixed XO JavaScript style linter errors
+ - Logging results are avoided when they are null
+ - Fixed TorrentBytes's Freeleech torrent's having the tagging part of the name
+ - Renamed subtitle-missedPP.js to subtitle-missed-post-process.js
+ - Expected titles should be cached against show names and scene exception names
+ - Fixed metadata from TvDB
+ - Caching static configuration for TvDB API (v2)
+ - Always use EpisodePostProcessingFailedException for failing post-processing
+ - Fixed failed unrar not using EpisodePostProcessingFailedException
+ - Fixed API key in provider settings beeing shown in plain text
+ - Fixed omgwtfnzbs log line
+ - Fixed tooltips
+ - Added missing endsWith function for IE11
+ - Fixed notifications
+ - Moved TvDB API (v2) initialization
+ - Fixed hide Originally Airs, when it's not available in the indexer
+ - Removed legacy mainDB.py
+ - Fixed ajax-episode-search.js
+ - Finished refactoring
+ - Fixed failed actions in compact history
+ - Removed the cleanup function to use on tvshow information
+ - Remove useless check in torrent_provider
+ - Fixed rootDir/parent directory not saving
+ - Fixed showing show object in show updater
+ - Removed breaking .upper() for ints in tv.py
+ - Fixed matching unknown subs
+ - Fixed AttributeError: 'NoneType' object has no attribute 'name'
+ - Changed invalid Rarbg token log to debug
+ - Fixed missing network when value is empty
+ - Fixed DB logging level
+ - Added more guessit scenarios
+ - Added check if embedded subtitles are wanted to bypass postpone
+ - Multiple improvements and fixes to show season updating
+ - TvDB API (v2) exception handling and cleanups
+ - Replace wrong error message for EpisodeDeletedException
+ - Fixed language detection for subtitles
+ - Fixed setting manual season scene numbering for special seasons
+ - Fixed missing 'div' in config_search.mako
+ - Fixed switching TvDB show language
+ - Fixed unicodeDecode error, when opening shows with unicode names
+ - Fixed genre pills in displayShow.mako when show can't be mapped to IMDb
+ - Fixed None arg passed to guessit
+ - Fixed renaming log line
+
+<br />
+
 ### v0.1.7:
 
 [full changelog](https://github.com/pymedusa/SickRage/commits/master)
