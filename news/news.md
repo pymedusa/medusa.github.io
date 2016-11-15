@@ -3,6 +3,16 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 <br/>
 
+####2016-11-15####
+
+## 0.1.8
+
+Once again, it's that time of the month! We are pleased to announce the release of our latest effort.
+This release took some more time than usual, but for good reason. First of all, we finally have the new TvDB API up and running.
+It includes many improvements, like season specific updates, and we can make sure to have a future-proof implementation. We have also added a new library called [knowit](https://github.com/ratoaq2/knowit), that will allow to obtain very detailed information about the files in our library, like video quality and audio format for example. These information will be extrmely helpful in the future, as we are planning to extend the search possibilites. At the same time we are making progress with the Vue.js implementation, we don't have an ETA for the new user interface yet, but once [Vue.js](https://vuejs.org/) is added, it will be much easier to give Medusa a whole new look. Want something to look forward to in the near future? Support for [TVmaze](http://www.tvmaze.com/) and [TMDb](https://www.themoviedb.org/) indexers is finally coming in our next major relase! Like always, tons of tuning and bug fixes in this release as well. Make sure to check out the changelog for more detailed information.
+
+<br/>
+
 ####2016-10-27####
 
 ## 0.1.7
