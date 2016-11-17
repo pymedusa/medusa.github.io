@@ -8,6 +8,8 @@
  - Fixed Vue issue in config page
  - Fixed standard logging call in release name parser
  - Fixed relative path function in post processor logic
+ - Fixed AnimeBytes provider
+ - Fixed anime black/white list not saving
 
 <br />
 
