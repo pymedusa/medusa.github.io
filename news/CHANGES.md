@@ -1,3 +1,16 @@
+### v0.1.8.1:
+
+[full changelog](https://github.com/pymedusa/SickRage/commits/master)
+
+**Fixes:**
+
+ - Added exception handling for when tvdb api is unavailable
+ - Fix Vue issue in config page
+ - Fixed standard logging not used in rules.py
+ - Fix relative path function in PostProcessor
+
+<br />
+
 ### v0.1.8:
 
 [full changelog](https://github.com/pymedusa/SickRage/commits/master)
