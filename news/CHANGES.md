@@ -4,10 +4,10 @@
 
 **Fixes:**
 
- - Added exception handling for when tvdb api is unavailable
+ - Better exception handling when tvdb api is unavailable
  - Fixed Vue issue in config page
- - Fixed standard logging not used in rules.py
- - Fixed relative path function in PostProcessor
+ - Fixed standard logging call in release name parser
+ - Fixed relative path function in post processor logic
 
 <br />
 
