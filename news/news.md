@@ -3,6 +3,17 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 <br/>
 
+####2016-11-18####
+
+## 0.1.8.1
+
+This is just a bug fix release in order to bring you more stability.
+TVDB website was down for a few hours and that has caused issues that are now handled gracefully.
+Remember that reporting issues helps us making a better software.
+
+
+<br/>
+
 ####2016-11-15####
 
 ## 0.1.8

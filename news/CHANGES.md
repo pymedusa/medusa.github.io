@@ -1,3 +1,19 @@
+### v0.1.8.1:
+
+[full changelog](https://github.com/pymedusa/SickRage/commits/master)
+
+**Fixes:**
+
+ - Better exception handling when tvdb api is unavailable
+ - Fixed Vue issue in config page
+ - Fixed standard logging call in release name parser
+ - Fixed relative path function in post processor logic
+ - Fixed AnimeBytes provider
+ - Fixed anime black/white list not saving
+ - Fixed knowit (video metadata parser) when mediainfo returns no "general" track.
+
+<br />
+
 ### v0.1.8:
 
 [full changelog](https://github.com/pymedusa/SickRage/commits/master)
