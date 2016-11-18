@@ -10,6 +10,7 @@
  - Fixed relative path function in post processor logic
  - Fixed AnimeBytes provider
  - Fixed anime black/white list not saving
+ - Fixed knowit (video metadata parser) when mediainfo returns no "general" track.
 
 <br />
 
