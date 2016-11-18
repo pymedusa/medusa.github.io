@@ -9,7 +9,6 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 This is just a bug fix release in order to bring you more stability.
 TVDB website was down for a few hours and that has caused issues that are now handled gracefully.
-Our release name parser allow users to submit errors for some specific and problematic release names.
 Remember that reporting issues helps us making a better software.
 
 
