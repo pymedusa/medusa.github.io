@@ -584,6 +584,7 @@ DiSNEY Junior (US):US/Eastern
 DiSNEY XD (UK):Europe/London
 DiSNEY.com (US):US/Eastern
 DirecTV Japan:Asia/Tokyo
+Discovery Channel:US/Eastern
 Discovery CHANNEL (AU):Australia/Sydney
 Discovery CHANNEL (UK):Europe/London
 Discovery Channel (Asia):Asia/Singapore
