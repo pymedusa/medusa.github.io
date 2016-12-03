@@ -1654,6 +1654,7 @@ SciFi:US/Eastern
 Science Channel:US/Eastern
 Scuzz:Europe/London
 Seeso:US/Eastern
+SeeSo:US/Eastern
 Semerkand TV:Europe/Istanbul
 Servus TV:Europe/Vienna
 Setanta Ireland:Europe/Dublin
