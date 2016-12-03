@@ -1676,6 +1676,7 @@ Sjónvarpið (IS):Atlantic/Reykjavik
 Skai:Europe/Athens
 Skjár einn (IS):Atlantic/Reykjavik
 Skuff TV (AU):Australia/Sydney
+Sky Arte:Europe/Rome
 Sky Arts:Europe/London
 Sky Atlantic (IT):Europe/Rome
 Sky Atlantic (UK):Europe/London
