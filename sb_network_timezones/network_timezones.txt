@@ -222,6 +222,7 @@ B4U Music:Europe/London
 B92:Europe/Belgrade
 BANDAMAX (US):US/Eastern
 BAY NEWS 9 (US):US/Eastern
+BBC Alba:Europe/London
 BBC ALBA:Europe/London
 BBC America:US/Eastern
 BBC Canada:Canada/Eastern
