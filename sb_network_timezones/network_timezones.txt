@@ -1471,6 +1471,7 @@ RPN (PH):Asia/Manila
 RSC (US):US/Eastern
 RTÉ NEWS NOW (IE):Europe/Dublin
 RTÉ One:Europe/Dublin
+RTÉ ONE:Europe/Dublin
 RTÉ Two:Europe/Dublin
 RTÉjr:Europe/Dublin
 RT (UK):Europe/London
