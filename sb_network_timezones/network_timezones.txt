@@ -104,6 +104,7 @@ ACN (US):US/Eastern
 ACTION MOVIES (AU):Australia/Sydney
 ADS (AU):Australia/Sydney
 AHC:US/Eastern
+American Heroes Channel:US/Eastern
 AIT International (UK):Europe/London
 AMAZING FACTS (US):US/Eastern
 AMC:US/Eastern
