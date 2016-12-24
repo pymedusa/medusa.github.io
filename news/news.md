@@ -3,6 +3,18 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 <br/>
 
+####2016-12-24####
+
+## 0.1.9
+
+After over a month of hard work, we are proud to bring you one more present for your Christmas tree! We promised it and here
+it is: indexer support for [TVmaze](http://www.tvmaze.com/) and [TMDb](https://www.themoviedb.org/). You can now choose your
+favorite indexer, making sure you will never have to deal with missing shows or unreachable indexers again. As always we have
+also fixed many bugs and cleaned up a lot of code. Make sure to check the [full changelog](https://github.com/pymedusa/Medusa/compare/master...develop) (almost 400 commits!) for more details. We'd like to take this
+opportunity to wish everyone a Merry Christmas and a Happy New Year.
+
+<br/>
+
 ####2016-11-18####
 
 ## 0.1.8.1
@@ -10,7 +22,6 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 This is just a bug fix release in order to bring you more stability.
 TVDB website was down for a few hours and that has caused issues that are now handled gracefully.
 Remember that reporting issues helps us making a better software.
-
 
 <br/>
 
