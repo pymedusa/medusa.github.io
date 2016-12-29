@@ -31,6 +31,7 @@
 ערוץ 10:Asia/Jerusalem
 קשת:Asia/Jerusalem
 רשת:Asia/Jerusalem
+日本テレビ:Asia/Tokyo
 +Globosat:America/Sao_Paulo
 1+1:Europe/Kiev
 111 Greats (AU):Australia/Sydney
@@ -288,6 +289,7 @@ BS Fuji (JP):Asia/Tokyo
 BS-i (JP):Asia/Tokyo
 BS-i:Asia/Tokyo
 BS11:Asia/Tokyo
+BS Fuji:Asia/Tokyo
 BT Sport 1 (UK):Europe/London
 BT Sport 2 (UK):Europe/London
 BTQ (AU):Australia/Sydney
