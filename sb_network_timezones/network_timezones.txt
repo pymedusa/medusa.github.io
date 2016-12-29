@@ -212,8 +212,8 @@ Arena:Australia/Sydney
 Argos TV (UK):Europe/London
 Arizona Capitol Television (US):US/Eastern
 Arizona NewsChannel (US):US/Eastern
-Arte Creative:Europe/Paris
 Arte:Europe/Paris
+Arte Creative:Europe/Paris
 Associated Broadcasting Company (PH):Asia/Manila
 At the Races (UK):Europe/London
 Audience Network:US/Eastern
@@ -758,6 +758,7 @@ FOX Sports 2:US/Eastern
 FOX Türkiye:Europe/Istanbul
 FOX Traveller:Asia/Kolkata
 FOX:US/Eastern
+Fox (Latin America):America/Sao_Paulo
 FRANCE24 (US):US/Eastern
 FSN:US/Eastern
 FSTV (US):US/Eastern
