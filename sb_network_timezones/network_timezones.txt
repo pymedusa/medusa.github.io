@@ -444,6 +444,7 @@ Canal de las Estrellas:America/Mexico_City
 Canal+ (ES):Europe/Madrid
 Canal+ (FR):Europe/Paris
 Canal+:Europe/Paris
+Canal+ Cyfrowy:Poland/Warsaw
 Canale 5:Europe/Rome
 Cancao News (US):US/Eastern
 Canvas/Ketnet:Europe/Brussels
@@ -522,6 +523,7 @@ Comedy Central:US/Eastern
 Comedy Channel:US/Eastern
 Comedy MOVIES (AU):Australia/Sydney
 Comedy.tv (US):US/Eastern
+Comic-Con HQ:US/Pacific
 Community Channel:Europe/London
 Controversial TV (UK):Europe/London
 Cooking Channel:US/Eastern
@@ -664,6 +666,7 @@ ESPN Hong Kong:Asia/Hong_Kong
 ESPN India:Asia/Kolkata
 ESPN Philippines:Asia/Manila
 ESPN Taiwan:Asia/Taipei
+ESPN2:US/Eastern
 ESPN2 (AU):Australia/Sydney
 ESPN:US/Eastern
 ESPNEWS (US):US/Eastern
@@ -718,8 +721,8 @@ FOX 32 (US):US/Eastern
 FOX 5 (US):US/Eastern
 FOX CLASSICS (AU):Australia/Sydney
 FOX COLLEGE SPORTS ATLANTIC (US):US/Eastern
-FOX COLLEGE SPORTS CENTRAL (US):US/Eastern
-FOX COLLEGE SPORTS PACIFIC (US):US/Eastern
+FOX COLLEGE SPORTS CENTRAL (US):US/Central
+FOX COLLEGE SPORTS PACIFIC (US):US/Pacific
 FOX DEPORTES (US):US/Eastern
 FOX FOOTY (AU):Australia/Sydney
 FOX NEWS channel (US):US/Eastern
@@ -1746,6 +1749,7 @@ Sportsman Channel:US/Eastern
 Sportsnet 360 (CA):Canada/Eastern
 Sportsnet Ontario (CA):Canada/Eastern
 Sprout (US):US/Eastern
+Stöð 2:Atlantic/Reykjavik
 Stöð 2 (IS):Atlantic/Reykjavik
 Stan:Australia/Sydney
 Star Channel (GR):Europe/Athens
@@ -2150,6 +2154,7 @@ Viaplay:Europe/Stockholm
 Viasat 4:Europe/Oslo
 Viceland:US/Eastern
 Viceland (US):US/Eastern
+Viceland (CA):US/Eastern
 Victory Television Network (US):US/Eastern
 Videoland Television Network:Asia/Taipei
 VijfTV:Europe/Brussels
