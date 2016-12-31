@@ -1595,6 +1595,7 @@ SIC Notícias:Europe/Lisbon
 SIC Radical:Europe/Lisbon
 SIC Sempre Gold:Europe/Lisbon
 SIC:Europe/Lisbon
+Sky 1:Europe/London
 SKY Business TV (AU):Australia/Sydney
 SKY International (AU):Australia/Sydney
 SKY PerfecTV!:Asia/Tokyo
