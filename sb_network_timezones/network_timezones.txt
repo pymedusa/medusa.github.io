@@ -66,6 +66,7 @@
 7TWO (AU):Australia/Sydney
 7mate (AU):Australia/Sydney
 8TV (MY):Asia/Kuala_Lumpur
+9:Australia/Sydney
 9Live (DE):Europe/Berlin
 9XM (UK):Europe/London
 A Haber:Europe/Istanbul
