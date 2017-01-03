@@ -913,6 +913,7 @@ High Street TV (UK):Europe/London
 Historia (CA):Canada/Eastern
 Historia:Canada/Eastern
 History (CA):Canada/Eastern
+History Channel:US/Eastern
 History Television:Canada/Eastern
 History en Español (US):US/Eastern
 History:US/Eastern
