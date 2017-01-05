@@ -192,6 +192,7 @@ Alpha TV PUNJABI:Asia/Kolkata
 Alpha TV:Europe/Athens
 Altitude sports (US):US/Eastern
 Amazon Instant Video:US/Eastern
+Amazon Prime:US/Eastern
 Amazon Prime Instant Video (UK):Europe/London
 Amazon Prime Instant Video:US/Eastern
 Amazon:US/Eastern
@@ -1576,6 +1577,7 @@ SBS2 (AU):Australia/Sydney
 SBS:Asia/Seoul
 SBT:America/Sao_Paulo
 SBTN (US):US/Eastern
+Science:US/Eastern
 SEC ESPN NETWORK (US):US/Eastern
 SES (AU):Australia/Sydney
 SET MAX:Asia/Kolkata
