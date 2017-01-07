@@ -1371,6 +1371,7 @@ PBS AMERICA (UK):Europe/London
 PBS Kids Sprout:US/Eastern
 PBS Kids:US/Eastern
 PBS:US/Eastern
+Public Broadcasting Service:US/Eastern
 PCNC (US):US/Eastern
 PIX 11 (US):US/Eastern
 POP (UK):Europe/London
@@ -1745,6 +1746,7 @@ Space:Canada/Eastern
 Speed:US/Eastern
 Spektrum:Europe/Budapest
 Spiegel Geschichte (DE):Europe/Berlin
+Spike:US/Eastern
 Spike TV:US/Eastern
 Spirit (US):US/Eastern
 Spirit Word (US):US/Eastern
