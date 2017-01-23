@@ -353,6 +353,7 @@ CARTOON NETWORK TOO (UK):Europe/London
 CATHOLICTV (US):US/Eastern
 CBBC:Europe/London
 CBC (CA):Canada/Eastern
+CBC Television:Canada/Eastern
 CBC (JP):Asia/Tokyo
 CBC News Network:Canada/Eastern
 CBC:Canada/Eastern
