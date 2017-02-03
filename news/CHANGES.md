@@ -1,3 +1,21 @@
+### v0.1.10:
+
+[full changelog](https://github.com/pymedusa/SickRage/commits/master)
+
+**New Features:**
+ - Add option to erase subtitles cache file on next boot
+ - Transmission: Remove torrent from client when provider ratio has been reached
+ - Relative time in manual search updated date
+ - Add XEM column/icon in home
+ - Better logging in quality checks
+
+**Fixes:**
+ - Don't download subtitles when show is paused
+ - Fix manageTorrents not showing up if client url is not https
+ - Fix redownload when status SNATCHED BEST is replaced with DOWNLOADED
+
+<br />
+
 ### v0.1.8.1:
 
 [full changelog](https://github.com/pymedusa/SickRage/commits/master)
