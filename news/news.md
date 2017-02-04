@@ -12,7 +12,9 @@ tuning to our new indexers [TVmaze](http://www.tvmaze.com/) and [TMDb](https://w
 powers the shows information has been rewritten. Adding and updating shows should now be faster than ever before. Some fixes were 
 added to our [guessit](https://github.com/guessit-io/guessit) parser that will make the parsing of anime shows more reliable. Furthermore, the post-processing logic was improved. Processing epsiodes should be quicker and we also added some more detailed logs, that will help you understand what is going on exactly during the post-processing. Last but not least, we updated the main shows page, making it more visually appealing - more of this in the next release. As always, many bug fixes for our providers and indexers, including some old bug reports. We hope you enjoy this release. Make sure to report the bugs you find to our [Github issues tracker](https://github.com/pymedusa/Medusa/issues).
 
-We also added a feature that removes torrent from client when ratio (set for each provider) was reached (Search settings menu. Opt-in). For now it only log the removal but doesn't remove (so in case of a bad bug, you don't lose your torrents). It's only for Transmission client. If everything runs good and no issues reported by users, we will start adding for other clients. So we appreciate a feedback from Transmission users
+As for the users who are interested into new developments, we're working on a new feature for our Transmission torrent users.
+We've added a new feature that removes the torrent from the torrent client, when the ratio (configured per provider) has been reached. You'll find this setting in the "Search settings" menu, as an opt-in setting. For now it will only log the removal but will not remove the torrent.
+If your willing to help us out, please enable the setting and let us know if you notice a torrent removal is being logged when it shouldn't. We've started the implementation for the Transmission client. If this proves to be a useful addition, and no blocking issues pop up, we're planning to change the log to an actual removal and we'll also implement it for the other torrent clients.
 
 <br/>
 
