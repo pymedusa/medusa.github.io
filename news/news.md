@@ -12,7 +12,7 @@ tuning to our new indexers [TVmaze](http://www.tvmaze.com/) and [TMDb](https://w
 powers the shows information has been rewritten. Adding and updating shows should now be faster than ever before. Some fixes were 
 added to our [guessit](https://github.com/guessit-io/guessit) parser that will make the parsing of anime shows more reliable. Furthermore, the post-processing logic was improved. Processing epsiodes should be quicker and we also added some more detailed logs, that will help you understand what is going on exactly during the post-processing. Last but not least, we updated the main shows page, making it more visually appealing - more of this in the next release. As always, many bug fixes for our providers and indexers, including some old bug reports. We hope you enjoy this release. Make sure to report the bugs you find to our [Github issues tracker](https://github.com/pymedusa/Medusa/issues).
 
-We also added a feature that removes torrent from client when ratio (set for each provider) was reached. For now it only log the removal but doesn't remove (so in case of a bad bug, you don't lose your torrents). It's only for Transmission client. If everything runs good and no issues reported by users, we will start adding for other clients. So we appreciate a feedback from Transmission users
+We also added a feature that removes torrent from client when ratio (set for each provider) was reached (Search settings menu. Opt-in). For now it only log the removal but doesn't remove (so in case of a bad bug, you don't lose your torrents). It's only for Transmission client. If everything runs good and no issues reported by users, we will start adding for other clients. So we appreciate a feedback from Transmission users
 
 <br/>
 
