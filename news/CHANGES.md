@@ -1,3 +1,40 @@
+### v0.1.10:
+
+[full changelog](https://github.com/pymedusa/SickRage/commits/master)
+
+**New Features:**
+ - Added option to erase subtitles cache file on next boot
+ - Transmission: Added feature to remove torrent from client when provider ratio has been reached
+ - Added relative time in manual search updated date
+ - Added XEM column/icon in home
+ - Added Better logging in quality checks
+ - Improved show update to be smarter
+ - Started working on responsive UI
+ - Improved a lof of new indexer codes
+
+**Fixes:**
+ - Don't download subtitles when show is paused
+ - Fixed manageTorrents not showing up if client url is not https
+ - Fixed redownload when status SNATCHED BEST is replaced with DOWNLOADED
+ - Removed Torrentshack provider
+ - Removed womble's index 
+ - Fixed scene_exceptions usage for shows added through tvmaze or tmdb.
+ - Updated to latest Guessit
+ - Fixed anime detection
+ - Improve NameParserCache logic
+ - Fixed error while changing show language
+ - Fixed BTN search
+ - Fixed Anime search do use double/triple digit
+ - Fixed subtitle providers not being saved
+ - Updated trackers trackers list, removed dead ones and add the best and popular trackers
+ - Fixed NZBget test
+ - Fixed episodes wrongfully parsed as air-by-date
+ - Fixed history search
+ - Fixed score detection for itasa subtitle provider
+ 
+
+<br />
+
 ### v0.1.8.1:
 
 [full changelog](https://github.com/pymedusa/SickRage/commits/master)

@@ -3,6 +3,21 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 <br/>
 
+####2017-02-03####
+
+## 0.1.10
+
+New year, new release! This time we are proud to bring you a very polished release, containing mainly bug fixes and some fine
+tuning to our new indexers [TVmaze](http://www.tvmaze.com/) and [TMDb](https://www.themoviedb.org/). A big part of the code that
+powers the shows information has been rewritten. Adding and updating shows should now be faster than ever before. Some fixes were 
+added to our [guessit](https://github.com/guessit-io/guessit) parser that will make the parsing of anime shows more reliable. Furthermore, the post-processing logic was improved. Processing epsiodes should be quicker and we also added some more detailed logs, that will help you understand what is going on exactly during the post-processing. Last but not least, we updated the main shows page, making it more visually appealing - more of this in the next release. As always, many bug fixes for our providers and indexers, including some old bug reports. We hope you enjoy this release. Make sure to report the bugs you find to our [Github issues tracker](https://github.com/pymedusa/Medusa/issues).
+
+As for the users who are interested into new developments, we're working on a new feature for our Transmission torrent users.
+We've added a new feature that removes the torrent from the torrent client, when the ratio (configured per provider) has been reached. You'll find this setting in the "Search settings" menu, as an opt-in setting. For now it will only log the removal but will not remove the torrent.
+If your willing to help us out, please enable the setting and let us know if you notice a torrent removal is being logged when it shouldn't. We've started the implementation for the Transmission client. If this proves to be a useful addition, and no blocking issues pop up, we're planning to change the log to an actual removal and we'll also implement it for the other torrent clients.
+
+<br/>
+
 ####2016-12-24####
 
 ## 0.1.9
@@ -31,7 +46,7 @@ Remember that reporting issues helps us making a better software.
 
 Once again, it's that time of the month! We are pleased to announce the release of our latest effort.
 This release took some more time than usual, but for good reason. First of all, we finally have the new TvDB API up and running.
-It includes many improvements, like season specific updates, and we can make sure to have a future-proof implementation. We have also added a new library called [knowit](https://github.com/ratoaq2/knowit), that will allow to obtain very detailed information about the files in our library, like video quality and audio format for example. These information will be extremely helpful in the future, as we are planning to extend the search possibilites. At the same time we are making progress with the Vue.js implementation, we don't have an ETA for the new user interface yet, but once [Vue.js](https://vuejs.org/) is added, it will be much easier to give Medusa a whole new look. Want something to look forward to in the near future? Support for [TVmaze](http://www.tvmaze.com/) and [TMDb](https://www.themoviedb.org/) indexers is finally coming in our next major relase! Like always, tons of tuning and bug fixes in this release as well. Make sure to check out the changelog for more detailed information.
+It includes many improvements, like season specific updates, and we can make sure to have a future-proof implementation. We have also added a new library called [knowit](https://github.com/ratoaq2/knowit), that will allow to obtain very detailed information about the files in our library, like video quality and audio format for example. These information will be extremely helpful in the future, as we are planning to extend the search possibilites. At the same time we are making progress with the Vue.js implementation, we don't have an ETA for the new user interface yet, but once [Vue.js](https://vuejs.org/) is added, it will be much easier to give Medusa a whole new look. Want something to look forward to in the near future? Support for [TVmaze](http://www.tvmaze.com/) and [TMDb](https://www.themoviedb.org/) indexers is finally coming in our next major release! Like always, tons of tuning and bug fixes in this release as well. Make sure to check out the changelog for more detailed information.
 
 <br/>
 
