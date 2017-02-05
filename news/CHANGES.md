@@ -3,6 +3,7 @@
 [full changelog](https://github.com/pymedusa/SickRage/commits/master)
 
 **New Features:**
+
  - Added option to erase subtitles cache file on next boot
  - Transmission: Added feature to remove torrent from client when provider ratio has been reached
  - Added relative time in manual search updated date
@@ -13,6 +14,7 @@
  - Improved a lof of new indexer codes
 
 **Fixes:**
+
  - Don't download subtitles when show is paused
  - Fixed manageTorrents not showing up if client url is not https
  - Fixed redownload when status SNATCHED BEST is replaced with DOWNLOADED
@@ -31,7 +33,6 @@
  - Fixed episodes wrongfully parsed as air-by-date
  - Fixed history search
  - Fixed score detection for itasa subtitle provider
- 
 
 <br />
 
