@@ -1,14 +1,13 @@
 before_install:
-- openssl aes-256-cbc -K $encrypted_16ef2a8e0308_key -iv $encrypted_16ef2a8e0308_iv
-  -in .travis/deploy_static.pem.enc -out .travis/deploy_static.pem -d
+    - openssl aes-256-cbc -K $encrypted_16ef2a8e0308_key -iv $encrypted_16ef2a8e0308_iv -in .travis/deploy_static.pem.enc -out .travis/deploy_static.pem -d
 script:
-- echo "198.211.102.17 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBO+G8ELGG/NTCQ/3H2O7i8POqq9eKkeAnW2emTiEnBEgEFIfc5k/oUUWSFDniqN14tkpkL1t4tTOdaetqhJvxp0="
-  > ~/.ssh/known_hosts
-- eval "$(ssh-agent -s)"
-- chmod 600 .travis/deploy_static.pem
-- ssh-add .travis/deploy_static.pem
-- git remote add deploy dokku@198.211.102.17:cdn.pymedusa.com
-- git push deploy master
-- curl -X DELETE "https://api.cloudflare.com/client/v4/zones/1c1c0a6842e72232a6daa534eec42936/purge_cache" -H "X-Auth-Email: xo@wvvw.me" -H "X-Auth-Key: $CLOUDFLARE" -H "Content-Type: application/json" --data '{"purge_everything":true}'
+    - echo "198.211.102.17 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBO+G8ELGG/NTCQ/3H2O7i8POqq9eKkeAnW2emTiEnBEgEFIfc5k/oUUWSFDniqN14tkpkL1t4tTOdaetqhJvxp0="
+      > ~/.ssh/known_hosts
+    - eval "$(ssh-agent -s)"
+    - chmod 600 .travis/deploy_static.pem
+    - ssh-add .travis/deploy_static.pem
+    - git remote add deploy dokku@198.211.102.17:cdn.pymedusa.com
+    - git push deploy master
+    - curl -X DELETE "https://api.cloudflare.com/client/v4/zones/1c1c0a6842e72232a6daa534eec42936/purge_cache" -H "X-Auth-Email: xo@wvvw.me" -H "X-Auth-Key: $CLOUDFLARE" -H "Content-Type: application/json" --data '{"purge_everything":true}'
 dd:
   secure: OEjyqXQpGeNTvd+2IgowJ6cWUnz154Pw1Yc0JeZwaQKOTqBQDA9mI0spOVgryU5xTunXiSeYlTOPhbxd6oYpMYizbwBjWufqbZZHSfRJwUXacobQL0Kje8fBnNyBU2dnJc2pGkGNxBBd6zvKiFhI9JHWvuiU+4+Mj1yAMqACnb8PQgujMiDHlrit9yZzzPJHWV9npKaYp/ycMCSwXeZMhuEa/l+SOHmfa0fAYbHOPSLQDl3sBLTqeEgH5VFGa82LKXFhiGOrYGriNKtCEcos2xyCsj4zNroxhYuL+C+o6qA71EjYX9Dw00kcK4Hr3M0JXv4NQf2l/mOK9p9ewb8tGgjZ8YFOAY+nuEm1jzGI/1qGnyOLF/F7VlJlEi6eL0hjNan8GlTrIiScJcKpSND5fLW5c46n8U0HCESma1a9PJcXwZcQ7MK74BMwsOnBbAftiG+iLQdosePOGb6N08UT6swkfcNG8PPkVhKx3bXU/whzhr8+xHhlMhkkrfwqzZ8xMbwSyiFHxMuv7O718qi//5B0Bz2JKFkFZI2yddzX8XBzjQWt/326+2FfwlMOcHRCu+AnhHcZn2vZVBTDzTkhFKVmZhlVaSI0CTYoIoBy0A18ZOteQKyLHCsDW/KjpBHRrNWS81+y6nAQpk79XO9RUqVkeDJ9dAUKRvQFwbUz0G4=
