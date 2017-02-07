@@ -7,5 +7,5 @@ script:
     - eval "$(ssh-agent -s)"
     - chmod 600 .travis/deploy_static.pem
     - ssh-add .travis/deploy_static.pem
-    - git remote add deploy dokku@198.211.102.17:test.pymedusa.com
+    - git remote add deploy dokku@198.211.102.17:cdn.pymedusa.com
     - git push deploy master
