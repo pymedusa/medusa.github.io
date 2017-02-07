@@ -8,4 +8,3 @@ script:
     - ssh-add .travis/deploy_static.pem
     - git remote add deploy dokku@198.211.102.17:cdn.pymedusa.com
     - git push deploy master
-    - curl -X DELETE "https://api.cloudflare.com/client/v4/zones/1c1c0a6842e72232a6daa534eec42936/purge_cache" -H "X-Auth-Email: xo@wvvw.me" -H "X-Auth-Key: $CLOUDFLARE" -H "Content-Type: application/json" --data '{"purge_everything":true}'
