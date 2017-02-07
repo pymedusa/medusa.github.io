@@ -20,4 +20,4 @@ ADD Caddyfile /etc/Caddyfile
 
 EXPOSE 5000
 
-CMD ["caddy", "-quic", "--conf", "/etc/Caddyfile"]
+CMD ["caddy", "--conf", "/etc/Caddyfile"]
