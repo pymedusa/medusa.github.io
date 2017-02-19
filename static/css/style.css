@@ -39,7 +39,7 @@ a {
     text-decoration: none;
 }
 a:hover {
-    color: #6194c1;
+    color: #24ad44;
     text-decoration:none;
 }
 h1, h2, h3, h4, h5, h6 {
@@ -90,7 +90,7 @@ p {
     transition: border-color 1s ease;
 }
 .navbar .nav > li:hover> a, .navbar .nav > .active > a, .navbar .nav > .active > a:hover, .navbar .nav > .active > a:focus {
-    border: 1px solid #6194c1;
+    border: 1px solid #24ad44;
     color: #fff;
     background-color: #181A1C;
     transition: border-color 1s ease;
@@ -114,7 +114,7 @@ p {
 }
 .navbar .btn-navbar:hover, .navbar .btn-navbar {
     border-radius:0;
-    background:#6194c1;
+    background:#24ad44;
     color: #000;
 }
 /******
@@ -225,20 +225,20 @@ div.row-fluid div.span4 div.centered.service p a {
 }
 .button-sp, .button-sp:visited, .button-sp:focus {
     border:none;
-    background-color:#6194c1;
+    background-color:#24ad44;
     color:#181A1C;
 }
 .button-sp:hover, .button-sp:active {
     background-color:#181A1C;
-    color:#6194c1;
+    color:#24ad44;
 }
 .button-ps, .button-ps:visited, .button-ps:focus {
     border:none;
     background-color:#181A1C;
-    color:#6194c1;
+    color:#24ad44;
 }
 .button-ps:hover, .button-ps:active {
-    background-color:#6194c1;
+    background-color:#24ad44;
     color:#181A1C;
 }
 /*
@@ -289,7 +289,7 @@ div.row-fluid div.span4 div.centered.service p a {
     z-index:4;
 }
 .thumbnail h3 {
-    color: #6194c1;
+    color: #24ad44;
     margin-top:10px;
     font-size:20px;
 }
@@ -335,7 +335,7 @@ div.row-fluid div.span4 div.centered.service p a {
     padding:0;
     width:32px;
     height:32px;
-    color: #6194c1;
+    color: #24ad44;
 }
 .social li a:hover {
     color:#181A1C;
@@ -368,19 +368,19 @@ div.row-fluid div.span4 div.centered.service p a {
     background:#181A1C;
 }
 .primary-section .triangle {
-    border-top: 40px solid #6194c1;
+    border-top: 40px solid #24ad44;
 }
 .primary-section .title {
     border-bottom: 1px solid #FFF;
 }
 .primary-section, .primary-section .title p, .primary-section h3 {
-    color: #6194c1;
+    color: #24ad44;
 }
 .primary-section h1 {
     color:#FFF;
 }
 .secondary-section {
-    background:#6194c1;
+    background:#24ad44;
 }
 .secondary-section .title {
     border-bottom: 1px solid #181A1C;
@@ -392,7 +392,7 @@ div.row-fluid div.span4 div.centered.service p a {
 .third-section {
     padding-bottom: 70px;
     background: #181A1C url(../images/brand-bg.png) no-repeat center;
-    border-top:6px solid #6194c1;
+    border-top:6px solid #24ad44;
 }
 .third-section .container {
     padding-top:20px;
@@ -400,7 +400,7 @@ div.row-fluid div.span4 div.centered.service p a {
 }
 .third-section .title {
     border-bottom: 1px solid #A1AAB7;
-    color: #6194c1;
+    color: #24ad44;
 }
 .sub-section {
     margin-top:30px;
@@ -444,7 +444,7 @@ div.row-fluid div.span4 div.centered.service p a {
 .project-title {
     margin-top:15px;
     margin-bottom:15px;
-    border-bottom:1px solid #6194c1;
+    border-bottom:1px solid #24ad44;
 }
 .project-title h3 {
     float:left;
@@ -453,11 +453,11 @@ div.row-fluid div.span4 div.centered.service p a {
     width:80%;
 }
 .project-title .close {
-    color: #6194c1;
+    color: #24ad44;
     margin-top:10px;
 }
 .project-info span, .project-title h3 {
-    color:#6194c1;
+    color:#24ad44;
 }
 .project-info {
     font-weight:100;
@@ -497,7 +497,7 @@ div.row-fluid div.span4 div.centered.service p a {
     color:#fff;
 }
 .team .thumbnail .mask {
-    background: #6194c1;
+    background: #24ad44;
 }
 .team .thumbnail .mask h2 {
     margin-top:20%;
@@ -538,7 +538,7 @@ div.row-fluid div.span4 div.centered.service p a {
 .skills li .bar {
     height:40px;
     position:absolute;
-    background-color: #6194c1;
+    background-color: #24ad44;
 }
 /*
 3.4 Clients
@@ -547,7 +547,7 @@ div.row-fluid div.span4 div.centered.service p a {
     border:1px solid white;
 }
 .client-slider img:hover {
-    background-color:#6194c1;
+    background-color:#24ad44;
 }
 .client-nav {
     list-style:none;
@@ -561,7 +561,7 @@ div.row-fluid div.span4 div.centered.service p a {
 .client-nav li a {
     display:inherit;
     padding:5px;
-    background:#6194c1;
+    background:#24ad44;
     border-radius:3px;
     width:20px;
     height:20px;
@@ -571,14 +571,14 @@ div.row-fluid div.span4 div.centered.service p a {
 }
 .testimonial p {
     color:#181A1C;
-    background:#6194c1;
+    background:#24ad44;
     padding:15px;
     margin:0;
 }
 .testimonial .arrow {
     margin-left:10px;
     width:0;
-    border-top:10px solid #6194c1;
+    border-top:10px solid #24ad44;
     border-left: 20px outset transparent;
     border-right: 20px outset transparent;
 }
@@ -630,7 +630,7 @@ div.row-fluid div.span4 div.centered.service p a {
     background-color:#181A1C;
     text-transform:uppercase;
     text-align: center;
-    color:#6194c1;
+    color:#24ad44;
     padding:40px 0px;
     font-size: 36px;
     margin-top:0px;
@@ -693,7 +693,7 @@ div.row-fluid div.span4 div.centered.service p a {
 3.7 Contact
 ********************************************************************/
  .contact {
-    background: #6194c1;
+    background: #24ad44;
 }
 .contact h1, .contact h2, .contact h3, .contact h4, .contact h5, .contact h6, .contact .section .title > p, .contact .social > li > a {
     color: #181A1C;
@@ -781,7 +781,7 @@ div.row-fluid div.span4 div.centered.service p a {
     font-size:17px;
 }
 .message-btn:hover {
-    background-color:#6194c1;
+    background-color:#24ad44;
 }
 .contact-info {
     text-align:center;
@@ -824,7 +824,7 @@ div.row-fluid div.span4 div.centered.service p a {
     right:20px;
 	border:1px solid #fff;
     display:none;
-    background: #6194c1;
+    background: #24ad44;
 }
 .scrollup > a {
     position:relative;
