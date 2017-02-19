@@ -3,6 +3,7 @@
 [full changelog](https://github.com/pymedusa/SickRage/commits/master)
 
 **New Features**:
+
  - New logo
  - History and Schedule page are now responsive, plus a lot of new UI changes
  - Show series plot in display show and snatch selection
@@ -10,6 +11,7 @@
  - Added "Actions" to Backlog overview page (forced search, manual search and archive)
 
 **Fixes**:
+
  - Prevent periodic show updater to crash when an indexer is unavailable
  - Fix tvmaze & tmdb indexed shows not updating during period show update
  - Fixed season updates for tmdb
@@ -28,8 +30,7 @@
  - Fixed 'postpone when no subtitles' issue when we should move subtitle instead of hardlink (keep only original files)
  - Improved ExtraTorrent provider RSS
  - Fixed BTN provider and updated its url
- 
- 
+
 <br />
 
 ### v0.1.10:
