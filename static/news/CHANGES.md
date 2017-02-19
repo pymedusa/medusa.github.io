@@ -2,18 +2,23 @@
 
 [full changelog](https://github.com/pymedusa/SickRage/commits/master)
 
-**New Features:**
+**New Features**:
  - New logo
  - History and Schedule page are now responsive, plus a lof of new UI changes
- - Check, before saving, if your number of backlog episodes will increase/decrease while choosing qualities (edit show page)
- - Added plots to show page
- - Added "Actions" to Backlog overview page (forced search, manual search and archive) and better UI
+ - Show series plot in display show and snatch selection
+ - Show number of backlogged episodes when changing the shows preferred or allowed qualities
+ - Added "Actions" to Backlog overview page (forced search, manual search and archive)
 
-**Fixes:**
-
+**Fixes**:
+ - Prevent periodic show updater to crash when an indexer is unavailable
+ - Fix tvmaze & tmdb indexed shows not updating during period show update
  - Fixed season updates for tmdb
+ - Fix missing search results when searching for anime shows depending on scene numbering
+ - Improved caching of searched shows. Under some circumstances you had to perform a search twice, for it to start downloading through a forced search
+ - Fix multi episode downloads not getting marked as downloaded on the history page
+ - Prevent xem refresh during loading of a show. The xem refresh / update has been moved to the show updater.
+ - Use ImdbPie for obtaining imdb info, will speedup the indexing of new and existing shows. (but because of this we had to drop support for the show language countries)
  - Fixed multi episode downloads not getting marked as downloaded on the history page
- - Fixed TVMaze an TMdb show update
  - Fixed SNATCHED PROPER and SNATCHED BEST pills
  - Fixed proper tags sometimes appearing as "P.R.O.P.E.R"
  - Fixed associated files not recognized when torrent is RARed (when rar name is different from media name)
@@ -22,8 +27,6 @@
  - Fixed manually added file to show folder not detected when status is SNATCHED BEST
  - Fixed 'postpone when no subtitles' issue when we should move subtitle instead of hardlink (keep only original files)
  - Improved ExtraTorrent provider RSS
- - Improved IMDB data loading times by using another library (but we don't support show languague countries anymore)
- - Improved a lot o under the hood code
  
  
 <br />
