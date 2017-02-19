@@ -1,6 +1,18 @@
 ####Please read the [Wiki/FAQ](https://github.com/pymedusa/SickRage/wiki) before opening an issue####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/SickRage/issues)
 
+####2017-02-19####
+
+## 0.1.11
+
+Little time has passed, but a lot of work has been done. With most noticeable allot of user interface improvements. We’d like to thank wimpyrbx for his awesome work on the new logo as well as the many designs he has provided which have resulted in a new look & feel. Helping shaping up Medusa to what it’s now. You can expect to see more UI improvements in the coming months.
+
+As for easier management of backlogged episodes we’ve added controls for starting a manual or forced search in the backlog overview page. Regarding managing backlogged episodes, you will now see a real time warning when changing the desired quality for a show. Meaning you will now get some help, trying to prevent a huge backlog, when you change the quality for a show.
+
+With Medusa becoming more and more stable you can also expect to see shorter release cycles. We’re we have spent allot of time in increasing the overall stability, we will now be able to start focusing more on Medusa’s overall performance. Expect to see some performance improvements to overall startup time as well as faster loading of a show in the coming releases.
+
+As always we value the feedback we receiving, so keep up creating those issue reports!
+
 <br/>
 
 ####2017-02-03####
