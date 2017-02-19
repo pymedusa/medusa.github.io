@@ -27,7 +27,7 @@
  - Fixed manually added file to show folder not detected when status is SNATCHED BEST
  - Fixed 'postpone when no subtitles' issue when we should move subtitle instead of hardlink (keep only original files)
  - Improved ExtraTorrent provider RSS
- - Fixed BTN provider and updated it's url
+ - Fixed BTN provider and updated its url
  
  
 <br />
