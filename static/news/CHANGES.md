@@ -1,3 +1,33 @@
+### v0.1.11:
+
+[full changelog](https://github.com/pymedusa/SickRage/commits/master)
+
+**New Features:**
+ - New logo
+ - History and Schedule page are now responsive, plus a lof of new UI changes
+ - Check, before saving, if your number of backlog episodes will increase/decrease while choosing qualities (edit show page)
+ - Added plots to show page
+ - Added "Actions" to Backlog overview page (forced search, manual search and archive) and better UI
+
+**Fixes:**
+
+ - Fixed season updates for tmdb
+ - Fixed multi episode downloads not getting marked as downloaded on the history page
+ - Fixed TVMaze an TMdb show update
+ - Fixed SNATCHED PROPER and SNATCHED BEST pills
+ - Fixed proper tags sometimes appearing as "P.R.O.P.E.R"
+ - Fixed associated files not recognized when torrent is RARed (when rar name is different from media name)
+ - Fixed error message when changing show language to None
+ - Fixed Post Processing of season packs with nzbtomedia
+ - Fixed manually added file to show folder not detected when status is SNATCHED BEST
+ - Fixed 'postpone when no subtitles' issue when we should move subtitle instead of hardlink (keep only original files)
+ - Improved ExtraTorrent provider RSS
+ - Improved IMDB data loading times by using another library (but we don't support show languague countries anymore)
+ - Improved a lot o under the hood code
+ 
+ 
+<br />
+
 ### v0.1.10:
 
 [full changelog](https://github.com/pymedusa/SickRage/commits/master)
