@@ -4,7 +4,7 @@
 
 **New Features**:
  - New logo
- - History and Schedule page are now responsive, plus a lof of new UI changes
+ - History and Schedule page are now responsive, plus a lot of new UI changes
  - Show series plot in display show and snatch selection
  - Show number of backlogged episodes when changing the shows preferred or allowed qualities
  - Added "Actions" to Backlog overview page (forced search, manual search and archive)
