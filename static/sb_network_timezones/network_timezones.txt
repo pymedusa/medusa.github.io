@@ -1286,6 +1286,7 @@ Nagoya Broadcasting Network (JP):Asia/Tokyo
 Nagoya Broadcasting Network:Asia/Tokyo
 Nat Geo Wild:US/Eastern
 National Geographic Channel:US/Eastern
+National Geographic (AU):Australia/Sydney
 National Geographic (UK):Europe/London
 National Geographic (US):US/Eastern
 National Geographic Adventure:US/Eastern
@@ -2428,9 +2429,11 @@ sky SPORTS 4 (UK):Europe/London
 sky SPORTS 5 (UK):Europe/London
 sky SPORTS F1 (UK):Europe/London
 sky SPORTS NEWS HQ (UK):Europe/London
+space:Canada/Eastern
 spookyland.com (US):US/Eastern
 spt tv (US):US/Eastern
 startreknewvoyages.com (US):US/Eastern
+startrekcontinues.com:US/Eastern
 starz INBLACK (US):US/Eastern
 starz KIDS & FAMILY (US):US/Eastern
 style. NETWORK (UK):Europe/London
