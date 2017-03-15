@@ -145,6 +145,7 @@ ATN SPORTS (CA):Canada/Eastern
 ATN Service 1 (US):US/Eastern
 ATN Service 2 (US):US/Eastern
 ATV (AU):Australia/Sydney
+ATV (BE):Europe/Brussels
 ATV (DE):Europe/Berlin
 ATV Türkiye:Europe/Istanbul
 ATV:Europe/Vienna
@@ -309,6 +310,7 @@ Bay TV Clywd (UK):Europe/London
 Bay TV Liverpool (UK):Europe/London
 Bay TV Swansea (UK):Europe/London
 Bebo.com (US):US/Eastern
+Belgische Radio en Televisie (BRTN):Europe/Brussels
 Believe TV (UK):Europe/London
 Best Direct (UK):Europe/London
 Beyaz TV:Europe/Istanbul
@@ -626,6 +628,7 @@ Discovery turbo MAX (AU):Australia/Sydney
 Discovery:US/Eastern
 Dish TV:US/Eastern
 Disney Channel (Germany):Europe/Berlin
+Disney Channel (Latin America):America/Sao_Paulo
 Disney Channel (UK):Europe/London
 Disney Channel (US):US/Eastern
 Disney Channel:US/Eastern
@@ -1260,6 +1263,7 @@ NHL NETWORK (US):US/Eastern
 NHNZ:Pacific/Auckland
 NITV (AU):Australia/Sydney
 NOS:Europe/Amsterdam
+NPO 3:Europe/Amsterdam
 NPS (NL):Europe/Amsterdam
 NRB (US):US/Eastern
 NRJ 12:Europe/Paris
@@ -2040,6 +2044,7 @@ The Amp:Europe/London
 The Anime Network:US/Eastern
 The Box:Europe/London
 The CW:US/Eastern
+The Comedy Channel (AU):Australia/Sydney
 The Comedy Network:Canada/Eastern
 The Den:Europe/Dublin
 The Family Channel:US/Eastern
