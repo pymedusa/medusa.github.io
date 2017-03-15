@@ -366,6 +366,7 @@ CBS 4 (US):US/Eastern
 CBS Korean (US):US/Eastern
 CBS SPORTS NETWORK (US):US/Eastern
 CBS action (UK):Europe/London
+CBS All Access:US/Eastern
 CBS All Access (US):US/Eastern
 CBS drama (UK):Europe/London
 CBS reality (UK):Europe/London
