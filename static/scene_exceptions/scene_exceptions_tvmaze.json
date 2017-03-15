@@ -1,9 +1,62 @@
 {
     "tvmaze": {
+        "24": {
+            "-1": [
+                "Hawaii Five-O 2010",
+                "Hawaii Five-0 2010"
+            ]
+        },
+        "31": {
+            "-1": [
+                "Marvels Agents of S H I E L D",
+                "Marvel Agents Of SHIELD",
+                "Agents of S H I E L D"
+            ]
+        },
+        "49": {
+            "-1": [
+                "Brooklyn Nine Nine"
+            ]
+        },
+        "210": {
+            "-1": [
+                "Doctor Who 2005"
+            ]
+        },
+        "340": {
+            "-1": [
+                "The Librarians US"
+            ]
+        },
         "427": {
             "-1": [
                 "Buffy the Vampire Slayer",
                 "Buffy"
+            ]
+        },
+        "1851": {
+            "-1": [
+                "DCs Legends of Tomorrow"
+            ]
+        },
+        "3083": {
+            "-1": [
+                "The Magicians US"
+            ]
+        },
+        "3593": {
+            "-1": [
+                "Taboo UK"
+            ]
+        },
+        "5262" :{
+            "-1": [
+                "Riverdale US"
+            ]
+        },
+        "5397": {
+            "-1": [
+                "Jack Dees Election Helpdesk"
             ]
         },
         "7522": {
@@ -11,14 +64,9 @@
                 "Search Party 2016"
             ]
         },
-        "22671": {
+        "8873": {
             "-1": [
-                "The 1980s-The Deadliest Decade"
-            ]
-        },
-        "13423": {
-            "-1": [
-                "National Geographic To Catch A Smuggler"
+                "Timeless 2016"
             ]
         },
         "10525": {
@@ -31,19 +79,19 @@
                 "Ajin Second Season"
             ]
         },
-        "5397": {
+        "13423": {
             "-1": [
-                "Jack Dees Election Helpdesk"
-            ]
-        },
-        "3593": {
-            "-1": [
-                "Taboo UK"
+                "National Geographic To Catch A Smuggler"
             ]
         },
         "18661": {
             "-1": [
                 "How To Build Everything"
+            ]
+        },
+        "22671": {
+            "-1": [
+                "The 1980s-The Deadliest Decade"
             ]
         }
     }
