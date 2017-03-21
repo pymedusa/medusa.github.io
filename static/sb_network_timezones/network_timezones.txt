@@ -337,6 +337,7 @@ Bravo (US):US/Eastern
 Bravo!:Canada/Eastern
 Bravo:US/Eastern
 Brit Asia TV (UK):Europe/London
+British Broadcasting Corporation:Europe/London
 British Eurosport 2:Europe/London
 Bubble Hits:Europe/Dublin
 Business News Network (CA):Canada/Eastern
@@ -949,6 +950,7 @@ IQRA TV (UK):Europe/London
 IRIB TV1:Asia/Tehran
 ITV &  TVE:Europe/London
 ITV 1:Europe/London
+ITV Encore:Europe/London
 ITV Gold (US):US/Eastern
 ITV Granada:Europe/London
 ITV Wales:Europe/London
@@ -2148,6 +2150,7 @@ VH1 (UK):Europe/London
 VH1 Classics:US/Eastern
 VH1 Soul (US):US/Eastern
 VH1:US/Eastern
+VICELAND:US/Eastern
 VIER:Europe/Brussels
 VISION ZOOMER TELEVISION (CA):Canada/Eastern
 VIVA (DE):Europe/Berlin
