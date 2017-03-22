@@ -1952,6 +1952,7 @@ TV4:Europe/Stockholm
 TV4ME (AU):Australia/Sydney
 TV5 Monde:Europe/Paris
 TV5:Canada/Eastern
+TV5 (CA):Canada/Eastern
 TV5MONDE Europe (UK):Europe/London
 TV6:Europe/Stockholm
 TV7 (BG):Europe/Sofia
