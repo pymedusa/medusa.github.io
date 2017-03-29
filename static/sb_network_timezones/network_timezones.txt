@@ -2223,6 +2223,7 @@ Wakker Nederland (NL):Europe/Amsterdam
 Warner Channel (AR):America/Buenos_Aires
 Warner Channel:US/Eastern
 Watch:Europe/London
+Watch Disney Channel:US/Eastern
 WealthTV:US/Eastern
 Weather Network (CA):Canada/Eastern
 WeatherNation (US):US/Eastern
