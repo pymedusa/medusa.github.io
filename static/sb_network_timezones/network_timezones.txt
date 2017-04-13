@@ -2223,6 +2223,7 @@ Wakker Nederland (NL):Europe/Amsterdam
 Warner Channel (AR):America/Buenos_Aires
 Warner Channel:US/Eastern
 Watch:Europe/London
+Watch ABC:US/Eastern
 Watch Disney Channel:US/Eastern
 WealthTV:US/Eastern
 Weather Network (CA):Canada/Eastern
@@ -2367,6 +2368,7 @@ itv TYNE TEES (UK):Europe/London
 itv WEST COUNTRY (UK):Europe/London
 itv YORKSHIRE (UK):Europe/London
 itv play (UK):Europe/London
+itv:Europe/London
 itvBe (UK):Europe/London
 ivfilms.net (US):US/Eastern
 jTBC:Asia/Seoul
