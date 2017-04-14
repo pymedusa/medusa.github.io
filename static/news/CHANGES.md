@@ -47,6 +47,8 @@
  - Fixed showing provider image when Release group is equal to provider name
  - Fixed not showing correct default indexer
  - Fixed adding custom torrent provider
+ - Fixed missing "indexer" sorting option in poster view
+ - Fixed "indexer" sorting for banner and small poster
  - Fixed reverse proxy issues with basic auth
  - Added additional trackers to rarbg's magnets like all other providers
  - Reduced min time to update newznab providers
