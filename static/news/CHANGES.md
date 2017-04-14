@@ -14,6 +14,7 @@
 - Highlight selected rows in tables
 - Choose show's root at home page
 - Lazy loading of images
+- Add button in Trakt settings to force sync
  
 
 **Fixes**:
@@ -43,6 +44,12 @@
  - Fixed editing root dir in mass update, redirects to default home page
  - Fixed viewlog objects not working
  - Auto refresh page after change theme
+ - Fixed showing provider image when Release group is equal to provider name
+ - Fixed not showing correct default indexer
+ - Fixed adding custom torrent provider
+ - Added additional trackers to rarbg's magnets like all other providers
+ - Reduced min time to update newznab providers
+ - Added file size comparison to post-processing logs
  - Improved manual search results page loading
  - Removed contrib folder (nzbToMedia)
  - Added a lot of new network logos and timezones
