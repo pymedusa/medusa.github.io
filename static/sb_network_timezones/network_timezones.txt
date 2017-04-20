@@ -889,6 +889,7 @@ HBO CANADA:Canada/Eastern
 HBO Canada:Canada/Eastern
 HBO Europe:Europe/Budapest
 HBO Family (US):US/Eastern
+HBO Go:US/Eastern
 HBO Latin America:America/Sao_Paulo
 HBO Magyarország:Europe/Budapest
 HBO Nordic:Europe/Stockholm
