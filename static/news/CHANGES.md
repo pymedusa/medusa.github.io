@@ -49,6 +49,7 @@
  - Fixed adding custom torrent provider
  - Fixed missing "indexer" sorting option in poster view
  - Fixed "indexer" sorting for banner and small poster
+ - Fixed table filtering not working after page refresh
  - Fixed reverse proxy issues with basic auth
  - Added additional trackers to rarbg's magnets like all other providers
  - Reduced min time to update newznab providers
@@ -67,7 +68,8 @@
  - Fixed multiple dirs removed when delete pressed for RootDirs
  - A lot of under the hood fixes
  - Fixed air-by-date shows with same day special
- - Fix BTN when air by date but show is indexed with SxxExx
+ - Fixed BTN when air by date but show is indexed with SxxExx
+ - Fixed adding show with no runtime
 
 ### v0.1.11:
 
