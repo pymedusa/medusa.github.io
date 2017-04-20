@@ -68,7 +68,7 @@
  - Fixed multiple dirs removed when delete pressed for RootDirs
  - A lot of under the hood fixes
  - Fixed air-by-date shows with same day special
- - Fixed BTN when air by date but show is indexed with SxxExx
+ - Fixed BTN when show is air by date but the show is indexed under the SxxExx format
  - Fixed adding show with no runtime
 
 ### v0.1.11:
