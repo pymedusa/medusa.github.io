@@ -1,3 +1,75 @@
+### v0.1.12:
+
+[full changelog](https://github.com/pymedusa/Medusa/commits/master)
+
+**New Features**:
+
+- Transmission: removing torrents is now live. We used to only log the removal
+- Add Trakt logo in home and show page if Trakt enabled and trakt_id available
+- Change propers frequency without restart
+- Transmission and Deluge: move torrents to a given folder after post-processing
+- Added Trakt support to TMDB. TVmaze won't be supported by Trakt
+- New backlogOverview status filter and period filter
+- Added mobile view to a lot of Medusa pages and improve visual
+- Highlight selected rows in tables
+- Choose show's root from home page
+- Lazy loading of images
+- Add button in Trakt settings to force sync
+
+**Fixes**:
+
+ - Fixed get popular shows by using imdb-pie library
+ - Fixed showing the N/A quality when failed downloads
+ - Fixed T411 api url
+ - Fixed Trakt warnings when user didn't had Trakt enabled
+ - Rewrited entire Trakt code and improved log messags and warnings
+ - Added a warn in rename page saying remaing will broken symlinks
+ - Fix DVD Order and warn user if no DVD Order available to disable setting
+ - Improved already processed propers by storing only the needed amount of data
+ - Fixed episode saving to database when not needed
+ - Fixed mappings between shows not saving to database
+ - Added missed shows status in home page (normalize all to Continuing|Ended)
+ - Fixed root dir not changing on show add (when multiple show roots)
+ - Fixed not using default indexer in mass add shows if no indexer found in metadata
+ - Fixed deletion of extracted media file it file was postponed
+ - Fixed speed.cd always changing login URL
+ - Fixed view logs rendering as html
+ - Fix ugly mass update notification
+ - Fixed raising error if we can't create folder. Show a message instead
+ - Improve match of snatched NZB items in snatchSelection using size
+ - Updated Guessit with latest fixes
+ - Improved log when no results from NZB providers
+ - Fixed change show location not creating show folder
+ - Fixed editing root dir in mass update, redirects to default home page
+ - Fixed viewlog objects not working
+ - Auto refresh page after change theme
+ - Fixed showing provider image when Release group is equal to provider name
+ - Fixed not showing correct default indexer
+ - Fixed adding custom torrent provider
+ - Fixed missing "indexer" sorting option in poster view
+ - Fixed "indexer" sorting for banner and small poster
+ - Fixed table filtering not working after page refresh
+ - Fixed reverse proxy issues with basic auth
+ - Added additional trackers to rarbg's magnets like all other providers
+ - Reduced min time to update newznab providers
+ - Added file size comparison to post-processing logs
+ - Improved manual search results page loading
+ - Removed contrib folder (nzbToMedia)
+ - Added a lot of new network logos and timezones
+ - Fixed encoding error in notifications
+ - Fix multiple video files with nzb_name
+ - Don't use knowit quality to check for quality in history
+ - Added more categories to TorrentDay
+ - Fixed Deluge 1.3.14 new requirements
+ - Changed extratorrent to use new domain
+ - Fixed some show updater issues
+ - Added a check to prevent adding shows on recomended pages if no root dir set
+ - Fixed multiple dirs removed when delete pressed for RootDirs
+ - A lot of under the hood fixes
+ - Fixed air-by-date shows with same day special
+ - Fixed BTN when show is air by date but the show is indexed under the SxxExx format
+ - Fixed adding show with no runtime
+
 ### v0.1.11:
 
 [full changelog](https://github.com/pymedusa/SickRage/commits/master)
