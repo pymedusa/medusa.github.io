@@ -7,19 +7,18 @@
 - Transmission: removing torrents is now live. We used to only log the removal
 - Add Trakt logo in home and show page if Trakt enabled and trakt_id available
 - Change propers frequency without restart
-- Transmission and Deluge: move torrents to a given folder (seed folder) after Post-Processor (keep PP folder clean)
+- Transmission and Deluge: move torrents to a given folder after post-processing
 - Added Trakt support to TMDB. TVmaze won't be supported by Trakt
 - New backlogOverview status filter and period filter
-- Added mobile view to a lot of Medusa pages and improved visual
+- Added mobile view to a lot of Medusa pages and improve visual
 - Highlight selected rows in tables
-- Choose show's root at home page
+- Choose show's root from home page
 - Lazy loading of images
 - Add button in Trakt settings to force sync
- 
 
 **Fixes**:
 
- - Fixed get popular shows by using imdb pie library
+ - Fixed get popular shows by using imdb-pie library
  - Fixed showing the N/A quality when failed downloads
  - Fixed T411 api url
  - Fixed Trakt warnings when user didn't had Trakt enabled
