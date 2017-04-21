@@ -1,3 +1,15 @@
+### v0.1.13:
+
+[full changelog](https://github.com/pymedusa/Medusa/commits/master)
+
+**New Features**:
+
+- None for now
+
+**Fixes**:
+
+ - Fixed background image not changing in home
+ 
 ### v0.1.12:
 
 [full changelog](https://github.com/pymedusa/Medusa/commits/master)
