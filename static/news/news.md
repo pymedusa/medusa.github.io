@@ -1,5 +1,17 @@
-####Please read the [Wiki/FAQ](https://github.com/pymedusa/SickRage/wiki) before opening an issue####
-All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/SickRage/issues)
+####Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue####
+All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
+
+####2017-04-21####
+
+## 0.1.12
+
+This release contains many bug fixes and a few useful new features. First of all, we would like to say thank you to all users who took the time to report bugs. We take your feedback very seriously and we constantly try to improve Medusa.
+
+Let's talk about the new features now. A lot of users have reported slow loading times with huge libraries, this should be much better now with the lazy-loading of images. Your backlog has always been too messy? We made some substantial changes that give you more control over the overview, making it easier and more straightforward to manage your pending shows. An exclusive (for now) feature for Transamission and Deluge users has been added as well. Completed downloads can be moved to a seeding folder of choice, making it easier to handle files that are waiting to be processed. Make sure to check it out if interested. Now you can also update scene exceptions or sync Trakt shows manually if required. For developers: we have finally finished Medusas new REST API - if you have been thinking about integrating Medusa in your application, this is the moment. Read more about the new API [here](https://github.com/pymedusa/Medusa/wiki/API-v2).
+
+Users that require basic authentication to access their Medusa isntalls, rejoice! That annoying bug has been fixed now. Please check out the changelog to find out more about other bugs that got fixed in this release.
+
+<br/>
 
 ####2017-02-19####
 
@@ -81,7 +93,6 @@ Furthermore, as planned, we now have the "Manual Subtitle search" (CC icon) and 
 Again some more fixes, a lot of code improvements!
 
 We are planning to rename github repository from SickRage to Medusa. It will be transparent to users as Github does the redirect.
-
 For 0.1.7 we are planning to release a new feature "Manual Subtitle search"! If you are brave enough contact us to help test and give feedback.
 
 <br/>
