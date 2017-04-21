@@ -1086,6 +1086,7 @@ LifeStyle You. (AU):Australia/Sydney
 LifeStyle:Australia/Sydney
 LifeTalk Network (US):US/Eastern
 Lifetime (CA):Canada/Eastern
+Lifetime (US):US/Eastern
 Lifetime UK:Europe/London
 Lifetime Movie Network:US/Eastern
 Lifetime:US/Eastern
