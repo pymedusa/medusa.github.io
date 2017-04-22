@@ -9,7 +9,7 @@ This release contains many bug fixes and a few useful new features. First of all
 
 Let's talk about the new features now. A lot of users have reported slow loading times with huge libraries, this should be much better now with the lazy-loading of images. Your backlog has always been too messy? We made some substantial changes that give you more control over the overview, making it easier and more straightforward to manage your pending shows. An exclusive (for now) feature for Transmission and Deluge users has been added as well. Completed downloads can be moved to a seeding folder of choice, making it easier to handle files that are waiting to be processed. Make sure to check it out if interested. Now you can also update scene exceptions or sync Trakt shows manually if required.
 
-Users that require basic authentication to access their Medusa isntalls, rejoice! That annoying bug has been fixed now. Please check out the changelog to find out more about other bugs that got fixed in this release.
+Users that require basic authentication to access their Medusa installs, rejoice! That annoying bug has been fixed now. Please check out the changelog to find out more about other bugs that got fixed in this release.
 
 <br/>
 
