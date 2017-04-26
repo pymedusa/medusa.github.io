@@ -9,7 +9,12 @@
 **Fixes**:
 
  - Fixed background image not changing in home
- 
+ - Fixed old issue of episodes being converted to bare archived in show refresh and then archived (unknown) in boot
+ - Fixed not rebuild show name cache after scene exception change
+ - Fixed reusing "wrong" guessit cached name parsing after new numbering
+ - Change 'moving torrent' feature log message to debug (avoid warning spam)
+
+
 ### v0.1.12:
 
 [full changelog](https://github.com/pymedusa/Medusa/commits/master)
