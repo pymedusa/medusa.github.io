@@ -2227,6 +2227,7 @@ Warner Channel:US/Eastern
 Watch:Europe/London
 Watch ABC:US/Eastern
 Watch Disney Channel:US/Eastern
+WATCH Disney Junior:US/Eastern
 WealthTV:US/Eastern
 Weather Network (CA):Canada/Eastern
 WeatherNation (US):US/Eastern
