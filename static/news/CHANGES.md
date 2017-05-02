@@ -12,6 +12,8 @@
  - Fixed old issue of episodes being converted to bare archived in show refresh and then archived (unknown) in boot
  - Fixed not rebuild show name cache after scene exception change
  - Fixed reusing "wrong" guessit cached name parsing after new numbering
+ - Fixed associated files being deleted on rename
+ - Fixed some subtitle errors showing as ERROR instead of WARNING (e.g Out of disk space)
  - Change 'moving torrent' feature log message to debug (avoid warning spam)
 
 
