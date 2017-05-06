@@ -15,7 +15,7 @@
  - Fixed associated files being deleted on rename
  - Fixed some subtitle errors showing as ERROR instead of WARNING (e.g Out of disk space)
  - Change 'moving torrent' feature log message to debug (avoid warning spam)
- - Provider TransmitTheNet renamed to Nebulance
+ - Provider TransmitTheNet is now Nebulance
  - Fixed scaning/Refining video in the 'unpack' folder causing MalformedMKVError
 
 
