@@ -4,7 +4,7 @@
 
 **New Features**:
 
-- None for now
+- Added option to change web root in config/general 
 
 **Fixes**:
 
