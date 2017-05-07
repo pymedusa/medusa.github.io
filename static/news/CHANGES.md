@@ -4,7 +4,9 @@
 
 **New Features**:
 
-- Added option to change web root in config/general 
+- Added option to change web root in config/general
+- Added feature to fallback to Plex TVDB mirror when TVDB is down
+- Add HorribleSubs torrent provider
 
 **Fixes**:
 
@@ -17,6 +19,8 @@
  - Change 'moving torrent' feature log message to debug (avoid warning spam)
  - Provider TransmitTheNet is now Nebulance
  - Fixed scaning/Refining video in the 'unpack' folder causing MalformedMKVError
+ - Changed T411 to use new domain .al
+ - Fixed AnimeBytes login and download
 
 
 ### v0.1.12:
