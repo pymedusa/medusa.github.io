@@ -5,7 +5,7 @@
 **New Features**:
 
 - Added option to change web root in config/general
-- Add HorribleSubs torrent provider
+- Added HorribleSubs and AniDex torrent provider
 
 **Fixes**:
 
@@ -20,6 +20,7 @@
  - Fixed scaning/Refining video in the 'unpack' folder causing MalformedMKVError
  - Changed T411 to use new domain .al
  - Fixed AnimeBytes login and download
+ - Fixed HDBits search
 
 
 ### v0.1.12:
