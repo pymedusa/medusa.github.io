@@ -5,7 +5,6 @@
 **New Features**:
 
 - Added option to change web root in config/general
-- Added feature to fallback to Plex TVDB mirror when TVDB is down
 - Add HorribleSubs torrent provider
 
 **Fixes**:
