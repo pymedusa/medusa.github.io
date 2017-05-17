@@ -5,7 +5,7 @@
 **New Features**:
 
 - Added option to change web root in config/general
-- Added HorribleSubs and AniDex torrent provider
+- Added HorribleSubs, AniDex and Shanaproject torrent provider
 
 **Fixes**:
 
