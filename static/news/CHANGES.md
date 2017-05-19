@@ -21,8 +21,9 @@
  - Changed T411 to use new domain .al
  - Fixed AnimeBytes login and download
  - Fixed HDBits search
+ - Updated Xthor provider to use API instead of web scraping
  - Fixed uTorrent "bad request" error
-
+ 
 
 ### v0.1.12:
 
