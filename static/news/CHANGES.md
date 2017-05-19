@@ -23,6 +23,7 @@
  - Fixed HDBits search
  - Updated Xthor provider to use API instead of web scraping
  - Fixed uTorrent "bad request" error
+ - Fixed error when editing show and toggling DVD order setting
  
 
 ### v0.1.12:
