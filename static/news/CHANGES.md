@@ -14,6 +14,9 @@
  - Fixed background image not changing in home
  - Fixed old issue of episodes being converted to bare archived in show refresh and then archived (unknown) in boot
  - Fixed not rebuild show name cache after scene exception change
+ - Fixed the deletion all network timezones and creating a lot of errors
+ - Fixed 'unknown' status for 'continuing' status shows
+ - Changed to warning log - instead of error - when can't refresh show because of indexer issue
  - Fixed reusing "wrong" guessit cached name parsing after new numbering
  - Fixed associated files being deleted on rename
  - Fixed some subtitle errors showing as ERROR instead of WARNING (e.g Out of disk space)
@@ -23,6 +26,7 @@
  - Changed T411 to use new domain .al
  - Fixed AnimeBytes login and download
  - Fixed HDBits search
+ - Fixed mako error when user is adding his first show
  - Updated Xthor provider to use API instead of web scraping
  - Fixed uTorrent "bad request" error
  - Fixed error when editing show and toggling DVD order setting
