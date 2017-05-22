@@ -22,7 +22,7 @@
  - Fixed some subtitle errors showing as ERROR instead of WARNING (e.g Out of disk space)
  - Change 'moving torrent' feature log message to debug (avoid warning spam)
  - Provider TransmitTheNet is now Nebulance
- - Fixed scaning/Refining video in the 'unpack' folder causing MalformedMKVError
+ - Fixed scanning/Refining video in the 'unpack' folder causing MalformedMKVError
  - Changed T411 to use new domain .al
  - Fixed AnimeBytes login and download
  - Fixed HDBits search
