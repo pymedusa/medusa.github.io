@@ -6,6 +6,8 @@
 
 - Added option to change web root in config/general
 - Added HorribleSubs, AniDex and Shanaproject torrent provider
+- Added sorting and filtering in 'Missed Subtitles in PostProcess' page for users with 'Postpone PP if no subtitle' enabled
+
 
 **Fixes**:
 
@@ -24,6 +26,7 @@
  - Updated Xthor provider to use API instead of web scraping
  - Fixed uTorrent "bad request" error
  - Fixed error when editing show and toggling DVD order setting
+ - Improved T411 torrent provider (fixed returning a lot of bad results)
  
 
 ### v0.1.12:
