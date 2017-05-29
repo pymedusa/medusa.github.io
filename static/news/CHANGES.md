@@ -1,3 +1,41 @@
+### v0.1.13:
+
+[full changelog](https://github.com/pymedusa/Medusa/commits/master)
+
+**New Features**:
+
+- Added option to change web root in config/general
+- Added HorribleSubs, AniDex and Shanaproject torrent providers
+- Added sorting and filtering in 'Missed Subtitles in PostProcess' page for users with 'Postpone PP if no subtitle' enabled
+- Added a centralized improved publishing date parser for Limetorrents, Torrentz2, HDSpace, TorrentProject, GFTracker, HoundDawgs, Bit-HDTV, CPasBien
+
+
+
+**Fixes**:
+
+ - Fixed background image not changing in the home page
+ - Fixed issue of episodes being converted from downloaded (with quality) to archived (without a quality) when the source got deleted. It should maintain it's the original quality.
+ - Fixed rebuilding the show name cache after a change to the scene exceptions
+ - Fixed an occasional refresh of the network timezones causing a lot of errors
+ - Fixed some shows showing a show status of 'unknown' instead of 'continuing'
+ - Changed to log to warning instead of error when refreshing a show while experiencing indexer connectivity issues
+ - Fixed reusing "wrong" guessit cached name parsing after new numbering
+ - Fixed associated files being deleted on rename
+ - Fixed some subtitle errors showing as ERROR instead of WARNING (e.g Out of disk space)
+ - Change 'moving torrent' feature log message to debug
+ - Rebranded provider TransmitTheNet to Nebulance
+ - Fixed scanning/Refining video in the 'unpack' folder causing MalformedMKVError
+ - Changed T411 to use new domain .al
+ - Fixed AnimeBytes login and download
+ - Fixed HDBits search
+ - Fixed mako error when user is adding his first show
+ - Updated Xthor provider to use API instead of web scraping
+ - Fixed uTorrent "bad request" error, when sending torrents with a magnet url as well as allot of trackers
+ - Fixed error when editing show and toggling DVD order setting
+ - Improved T411 torrent provider (fixed returning a lot of bad results)
+ - Updated guessit to fix detection of show with 'True' in title
+ 
+
 ### v0.1.12:
 
 [full changelog](https://github.com/pymedusa/Medusa/commits/master)
