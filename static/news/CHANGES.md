@@ -7,18 +7,18 @@
 - Added option to change web root in config/general
 - Added HorribleSubs, AniDex and Shanaproject torrent providers
 - Added sorting and filtering in 'Missed Subtitles in PostProcess' page for users with 'Postpone PP if no subtitle' enabled
-- Added a centralized improved date parser for parsing of the publishing date for the providers: Limetorrents, Torrentz2, HDSpace, TorrentProject, GFTracker, HoundDawgs, Bit-HDTV, CPasBien
+- Added a centralized improved publishing date parser for Limetorrents, Torrentz2, HDSpace, TorrentProject, GFTracker, HoundDawgs, Bit-HDTV, CPasBien
 
 
 
 **Fixes**:
 
  - Fixed background image not changing in the home page
- - Fixed issue of episodes being converted from downloaded (with quality) to archived (without a quality) when the source got deleted. When it should maintain it's original quality.
+ - Fixed issue of episodes being converted from downloaded (with quality) to archived (without a quality) when the source got deleted. It should maintain it's the original quality.
  - Fixed rebuilding the show name cache after a change to the scene exceptions
  - Fixed an occasional refresh of the network timezones causing a lot of errors
  - Fixed some shows showing a show status of 'unknown' instead of 'continuing'
- - Changed to warning log - instead of error - when we can't refresh shows because of indexer connectivity issues
+ - Changed to log to warning instead of error when refreshing a show while experiencing indexer connectivity issues
  - Fixed reusing "wrong" guessit cached name parsing after new numbering
  - Fixed associated files being deleted on rename
  - Fixed some subtitle errors showing as ERROR instead of WARNING (e.g Out of disk space)
