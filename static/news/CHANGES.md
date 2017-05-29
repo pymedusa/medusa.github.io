@@ -31,6 +31,7 @@
  - Fixed uTorrent "bad request" error
  - Fixed error when editing show and toggling DVD order setting
  - Improved T411 torrent provider (fixed returning a lot of bad results)
+ - Updated guessit to fix detection of show with 'True' in title
  
 
 ### v0.1.12:
