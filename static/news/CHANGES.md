@@ -5,30 +5,32 @@
 **New Features**:
 
 - Added option to change web root in config/general
-- Added HorribleSubs, AniDex and Shanaproject torrent provider
+- Added HorribleSubs, AniDex and Shanaproject torrent providers
 - Added sorting and filtering in 'Missed Subtitles in PostProcess' page for users with 'Postpone PP if no subtitle' enabled
+- Added a centralized improved date parser for parsing of the publishing date for the providers: Limetorrents, Torrentz2, HDSpace, TorrentProject, GFTracker, HoundDawgs, Bit-HDTV, CPasBien
+
 
 
 **Fixes**:
 
- - Fixed background image not changing in home
- - Fixed old issue of episodes being converted to bare archived in show refresh and then archived (unknown) in boot
- - Fixed not rebuild show name cache after scene exception change
- - Fixed the deletion all network timezones and creating a lot of errors
- - Fixed 'unknown' status for 'continuing' status shows
- - Changed to warning log - instead of error - when can't refresh show because of indexer issue
+ - Fixed background image not changing in the home page
+ - Fixed issue of episodes being converted from downloaded (with quality) to archived (without a quality) when the source got deleted. When it should maintain it's original quality.
+ - Fixed rebuilding the show name cache after a change to the scene exceptions
+ - Fixed an accosional refresh of the network timezones causing a lot of errors
+ - Fixed some shows showing a show status of 'unknown' instead of 'continuing'
+ - Changed to warning log - instead of error - when we can't refresh shows because of indexer connectivity issues
  - Fixed reusing "wrong" guessit cached name parsing after new numbering
  - Fixed associated files being deleted on rename
  - Fixed some subtitle errors showing as ERROR instead of WARNING (e.g Out of disk space)
- - Change 'moving torrent' feature log message to debug (avoid warning spam)
- - Provider TransmitTheNet is now Nebulance
+ - Change 'moving torrent' feature log message to debug
+ - Rebranded provider TransmitTheNet to Nebulance
  - Fixed scanning/Refining video in the 'unpack' folder causing MalformedMKVError
  - Changed T411 to use new domain .al
  - Fixed AnimeBytes login and download
  - Fixed HDBits search
  - Fixed mako error when user is adding his first show
  - Updated Xthor provider to use API instead of web scraping
- - Fixed uTorrent "bad request" error
+ - Fixed uTorrent "bad request" error, when sending torrents with a magnet url as well as allot of trackers
  - Fixed error when editing show and toggling DVD order setting
  - Improved T411 torrent provider (fixed returning a lot of bad results)
  - Updated guessit to fix detection of show with 'True' in title
