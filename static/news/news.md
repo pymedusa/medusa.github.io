@@ -1,6 +1,15 @@
 ####Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
+####2017-05-29####
+
+## 0.1.13
+We managed to slip one release in for you guys in the month of May. During the past month we unfortunately saw some good trackers go. But on the bright sight, some other took the spotlight. We quickly adapted, and made these available for you guys. Especially for our anime loving users, we filled the void that NyaaTorrents left us, with new indexers like HorribleSubs, AniDex and Shanaproject. And in the foreseeable future we expect to have a nice replacement available for NyaaTorrents. The community has really stepped up there. So stay tuned for that.
+
+Besides some tuning on the providers we included allot of bugfixes. If you want to know more about these, we suggest you to take a look at the changelog, or spend some time on our GitHub page, which you can use to track or report issues.
+
+<br/>
+
 ####2017-04-21####
 
 ## 0.1.12
