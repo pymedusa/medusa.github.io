@@ -16,7 +16,7 @@
  - Fixed background image not changing in the home page
  - Fixed issue of episodes being converted from downloaded (with quality) to archived (without a quality) when the source got deleted. When it should maintain it's original quality.
  - Fixed rebuilding the show name cache after a change to the scene exceptions
- - Fixed an accosional refresh of the network timezones causing a lot of errors
+ - Fixed an occasional refresh of the network timezones causing a lot of errors
  - Fixed some shows showing a show status of 'unknown' instead of 'continuing'
  - Changed to warning log - instead of error - when we can't refresh shows because of indexer connectivity issues
  - Fixed reusing "wrong" guessit cached name parsing after new numbering
