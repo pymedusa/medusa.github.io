@@ -5,5 +5,5 @@ log / stdout "{combined}"
 git {
 	repo     https://github.com/pymedusa/medusa.github.io
 	branch   master
-	interval 86400
+	interval 3600
 }
