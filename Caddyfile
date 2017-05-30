@@ -3,8 +3,7 @@ root /var/www/html/
 tls off
 log / stdout "{combined}"
 git {
-	repo     git@github.com/pymedusa/medusa.github.io
+	repo     https://github.com/pymedusa/medusa.github.io
 	branch   master
-	path     /var/www/html/
 	interval 86400
 }
