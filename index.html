@@ -1,15 +1,343 @@
-<!DOCTYPE HTML>
-<html lang="en-US">
+<!DOCTYPE html>
+<html lang="en">
+
     <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="refresh" content="1; url=https://pymedusa.com">
-        <script type="text/javascript">
-            window.location.href = "https://pymedusa.com"
-        </script>
+        <meta charset=utf-8>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Medusa</title>
+        <!-- Load Roboto font -->
+        <link href='https://fonts.googleapis.com/css?family=Roboto:400,300,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+        <!-- Load css styles -->
+        <link rel="stylesheet" type="text/css" href="/css/bootstrap.css" />
+        <link rel="stylesheet" type="text/css" href="/css/bootstrap-responsive.css" />
+        <link rel="stylesheet" type="text/css" href="/css/style.css" />
+        <link rel="stylesheet" type="text/css" href="/css/pluton.css" />
+        <link rel="stylesheet" type="text/css" href="/css/lightbox.css" />
+        <!--[if IE 7]>
+            <link rel="stylesheet" type="text/css" href="/css/pluton-ie7.css" />
+        <![endif]-->
+        <link rel="stylesheet" type="text/css" href="/css/jquery.cslider.css" />
+        <link rel="stylesheet" type="text/css" href="/css/jquery.bxslider.css" />
+        <link rel="stylesheet" type="text/css" href="/css/animate.css" />
+
+        <link rel="shortcut icon" href="/images/ico/favicon.ico">
+        <link rel="icon" sizes="16x16 32x32 64x64" href="/images/ico/favicon.ico">
+        <link rel="icon" type="image/png" sizes="196x196" href="/images/ico/favicon-196.png">
+        <link rel="icon" type="image/png" sizes="160x160" href="/images/ico/favicon-160.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="/images/ico/favicon-96.png">
+        <link rel="icon" type="image/png" sizes="64x64" href="/images/ico/favicon-64.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="/images/ico/favicon-32.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="/images/ico/favicon-16.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/images/ico/favicon-152.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="/images/ico/favicon-144.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/images/ico/favicon-120.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="/images/ico/favicon-114.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="/images/ico/favicon-76.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="/images/ico/favicon-72.png">
+        <link rel="apple-touch-icon" href="/images/ico/favicon-57.png">
     </head>
+
     <body>
-        <!-- Note: don't tell people to `click` the link, just tell them that it is a link. -->
-        If you are not redirected automatically, follow this <a href='https://pymedusa.com'>link</a>.
+        <div class="navbar">
+            <div class="navbar-inner">
+                <div class="container">
+                    <a href="#" class="brand">
+                        <img src="/images/logo.png" width="auto" alt="Logo" />
+                        <!-- This is website logo -->
+                    </a>
+                    <!-- Navigation button, visible on small resolution -->
+                    <button type="button" class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+                        <i class="icon-menu"></i>
+                    </button>
+                    <!-- Main navigation -->
+                    <div class="nav-collapse collapse pull-right">
+                        <ul class="nav" id="top-navigation">
+                            <li class="active"><a href="#home">Home</a></li>
+                            <li><a href="#service">Features</a></li>
+                            <li><a href="#portfolio">Demo</a></li>
+                            <li><a href="#about">About</a></li>
+                            <li><a href="#download">Download</a></li>
+                        </ul>
+                    </div>
+                    <!-- End main navigation -->
+                </div>
+            </div>
+        </div>
+        <!-- Start home section -->
+        <div id="home">
+            <!-- Start cSlider -->
+            <div id="da-slider" class="da-slider">
+                <div class="triangle"></div>
+                <!-- mask element use for masking background image -->
+                <div class="mask"></div>
+                <!-- All slides centred in container element -->
+                <div class="container">
+                    <!-- Start first slide -->
+                    <div class="da-slide">
+                        <h2 class="fittext2">Welcome to Medusa</h2>
+                        <h4>Automation at its best</h4>
+                        <p>Automatic Video Library Manager for TV Shows.<br />It watches for new episodes of your favorite shows, and when they are posted it does its magic.</p>
+                        <div class="da-img">
+                            <img src="/images/screenshots/home.jpg" width="620" alt="home">
+                        </div>
+                    </div>
+                    <!-- End first slide -->
+                    <!-- Start second slide -->
+                    <div class="da-slide">
+                        <h2>Easy management</h2>
+                        <h4>Easy to use</h4>
+                        <p>Select the show you want to grab, add it and let Medusa handle the rest.</p>
+                        <div class="da-img">
+                            <img src="/images/screenshots/history.jpg" width="620" alt="history">
+                        </div>
+                    </div>
+                    <!-- End second slide -->
+                    <!-- Start third slide -->
+                    <div class="da-slide">
+                        <h2>Manage your shows</h2>
+                        <h4>Keep track of your episodes</h4>
+                        <p>See what Medusa holds in store for you.</p>
+                        <div class="da-img">
+                            <img src="images/screenshots/show.jpg" width="620" alt="show">
+                        </div>
+                    </div>
+                    <!-- Start third slide -->
+                    <!-- Start third slide -->
+                    <div class="da-slide">
+                        <h2>Don't get lost</h2>
+                        <h4>What's coming?</h4>
+                        <p>Medusa has a nice calendar which allows you to know what you will see next.</p>
+                        <div class="da-img">
+                            <img src="/images/screenshots/calendar.jpg" width="620" alt="show">
+                        </div>
+                    </div>
+                    <!-- Start third slide -->
+                    <!-- Start cSlide navigation arrows -->
+                    <div class="da-arrows">
+                        <span class="da-arrows-prev"></span>
+                        <span class="da-arrows-next"></span>
+                    </div>
+                    <!-- End cSlide navigation arrows -->
+                </div>
+            </div>
+        </div>
+        <!-- End home section -->
+        <!-- Service section start -->
+        <div class="section primary-section" id="service">
+            <div class="container">
+                <!-- Start title section -->
+                <div class="title">
+                    <h1>What does it do?</h1>
+                    <!-- Section's title goes here -->
+                    <p>Medusa is an automatic Video Library Manager for TV Shows.<br />It watches for new episodes of your favorite shows, and when they are posted it does its magic: automatic torrent/nzb searching, downloading, and processing at the qualities you want.</p>
+                    <!--Simple description for section goes here. -->
+                </div>
+                <div class="row-fluid">
+                    <div class="span4">
+                        <div class="centered service">
+                            <div class="circle-border zoom-in">
+                                <img src="/images/kodi.png" alt="service 1">
+                            </div>
+                            <h3>Integrated</h3>
+                            <p>Can notify Kodi, XBMC, Growl, Trakt, Twitter, WDTV and more when new episodes are available.</p>
+                        </div>
+                    </div>
+                    <div class="span4">
+                        <div class="centered service">
+                            <div class="circle-border zoom-in">
+                                <img src="/images/anime.png" alt="service 2" />
+                            </div>
+                            <h3>Animated</h3>
+                            <p>Anime is also supported.<br />Don't miss your weekly episodes!</p>
+                        </div>
+                    </div>
+                    <div class="span4">
+                        <div class="centered service">
+                            <div class="circle-border zoom-in">
+                                <img src="/images/subtitles.png" alt="service 3">
+                            </div>
+                            <h3>Subtitles</h3>
+                            <p>Automatic subtitle matching and downloads from Addic7ed, OpenSubtitles, Podnapisi, TVSubtitles and more.</p>
+                        </div>
+                    </div>
+                </div>
+        <div class="row-fluid">
+                    <div class="span4">
+                        <div class="centered service">
+                            <div class="circle-border zoom-in">
+                                <img src="/images/thepiratebay.png" alt="service 1">
+                            </div>
+                            <h3>Torrents</h3>
+                            <p>Lots of providers supported: TPB, RARBG, IPTorrents, T411 and <a href="https://github.com/pymedusa/Medusa/wiki/Medusa-Search-Providers">many more</a>.</p>
+                        </div>
+                    </div>
+                    <div class="span4">
+                        <div class="centered service">
+                            <div class="circle-border zoom-in">
+                                <img src="/images/nzb.png" alt="service 2" />
+                            </div>
+                            <h3>Usenet</h3>
+                            <p>In addition to torrent trackers, Medusa also supports usenet: NZBs, BinSearch, Usenet-Crawler and <a href="https://github.com/pymedusa/Medusa/wiki/Medusa-Search-Providers">many more</a> are available.</p>
+                        </div>
+                    </div>
+                    <div class="span4">
+                        <div class="centered service">
+                            <div class="circle-border zoom-in">
+                                <img src="images/Slider01.png" alt="service 3">
+                            </div>
+                            <h3>Cross platform</h3>
+                            <p>Available for all platforms, with a simple responsive web interface.</p>
+                        </div>
+                    </div>
+                </div>
+        <div class="about-text centered">
+            <h3>Wait! There's more...</h3>
+                        <p>
+            Poster/banner/fanart downloads, and NFO/TBN generation<br />
+                        Configurable automatic episode renaming, sorting, and other forms of processing<br />
+            Searches TheTVDB.com and AniDB.net for shows, seasons, episodes, and metadata<br />
+                        Episode status management allows for mass failing seasons/episodes to force retries<br />
+                        DVD Order numbering to return results in DVD order instead of Air-By-Date order<br />
+                        Allows you to choose which indexer to have Medusa fetch its show info from when importing<br />
+            Automatic XEM Scene Numbering/Naming for seasons/episodes<br />
+            Specials and multi-episode torrent/nzb support<br />
+                        Improved handling of failed downloads<br />
+            Real SSL certificate validation<br />
+            </p>
+                </div>
+            </div>
+        </div>
+        <!-- Service section end -->
+        <!-- Portfolio section start -->
+        <div class="section secondary-section " id="portfolio">
+            <div class="triangle"></div>
+            <div class="container">
+                <div class=" title">
+                    <h1>How does it work?</h1>
+                    <p>It's simpler than you imagine. Let's have a look.</p>
+                </div>
+                <!-- Start details for portfolio project 1 -->
+                <div id="single-project">
+                    <ul id="portfolio-grid" class="thumbnails row">
+                        <li class="span4 mix web">
+                            <div class="thumbnail">
+                <a href="/images/screenshots/home.jpg" data-lightbox="tour" data-title="All your shows in a blink."><img src="images/screenshots/home.jpg" alt="project 1" /></a>
+                                <h3>Homepage</h3>
+                                <p>All your shows in a blink.</p>
+                            </div>
+                        </li>
+                        <li class="span4 mix photo">
+                            <div class="thumbnail">
+                                <a href="/images/screenshots/show.jpg" data-lightbox="tour" data-title="See the details of a show."><img src="images/screenshots/show.jpg" alt="project 1" /></a>
+                                <h3>See a show</h3>
+                                <p>See the details of a show</p>
+                            </div>
+                        </li>
+                        <li class="span4 mix identity">
+                            <div class="thumbnail" id="calendar">
+                                <a href="/images/screenshots/calendar.jpg" data-lightbox="tour" data-title="Check what's coming next."><img src="images/screenshots/calendar.jpg" alt="project 1" /></a>
+                                <h3>Calendar</h3>
+                                <p>Check what's coming next.</p>
+                            </div>
+                        </li>
+                        <li class="span4 mix web">
+                            <div class="thumbnail">
+                                <a href="/images/screenshots/history.jpg" data-lightbox="tour" data-title="Keep track of your previous downloads."><img src="images/screenshots/history.jpg" alt="project 1" /></a>
+                                <h3>History</h3>
+                                <p>Keep track of your previous downloads.</p>
+                            </div>
+                        </li>
+                        <li class="span4 mix photo">
+                            <div class="thumbnail">
+                                <a href="/images/screenshots/add.jpg" data-lightbox="tour" data-title="Search for your show and select the quality you want."><img src="images/screenshots/add.jpg" alt="project 1" /></a>
+                                <h3>Add a new show</h3>
+                                <p>Search for your show and select the quality you want.</p>
+                            </div>
+                        </li>
+                        <li class="span4 mix identity">
+                            <div class="thumbnail">
+                                <a href="/images/screenshots/search.jpg" data-lightbox="tour" data-title="Select your search providers among a large list."><img src="images/screenshots/search.jpg" alt="project 1" /></a>
+                                <h3>Search providers</h3>
+                                <p>Select your search providers among a large list.</p>
+                            </div>
+                        </li>
+                </div>
+            </div>
+        </div>
+        <!-- Portfolio section end -->
+        <!-- About us section start -->
+        <div class="section primary-section" id="about">
+            <div class="triangle"></div>
+            <div class="container">
+                <div class="about-text centered">
+                    <h3>Important note</h3>
+                    <p>Before using this with your existing database (sickbeard.db) please make a backup copy of it and delete any other database files such as cache.db and failed.db if present.
+                    We HIGHLY recommend starting out with no database files at all to make this a fresh start but the choice is at your own risk</p>
+                </div>
+                <h3>Technologies used</h3>
+                <div class="row-fluid">
+                    <div class="span6">
+                        <ul class="skills">
+                            <li>
+                                <span class="bar" data-width="95%"></span>
+                                <h3>Python</h3>
+                            </li>
+                            <li>
+                                <span class="bar" data-width="60%"></span>
+                                <h3>Html & Css</h3>
+                            </li>
+                            <li>
+                                <span class="bar" data-width="30%"></span>
+                                <h3>jQuery</h3>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="span6">
+                        <div class="highlighted-box center">
+                            <h1>Do you want to join the team?</h1>
+                            <p>We're always looking for more hands to code. Don't hesitate to contribute by reporting an issue or pulling out some code!</p>
+                            <a href="https://github.com/pymedusa/Medusa" class="button">Join Us</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- About us section end -->
+        <div id="download" class="section secondary-section">
+            <div class="triangle"></div>
+            <div class="container centered">
+                <p class="large-text">Don't wait anymore. Try it. Adopt it.</p>
+                <a href="https://github.com/pymedusa/Medusa" class="button">Download now</a>
+            </div>
+        </div>
+        <!-- Footer section start -->
+        <div class="footer">
+            <p>&copy; 2016 <a href="https://pymedusa.github.io/">Medusa</a></p>
+        </div>
+        <!-- Footer section end -->
+        <!-- ScrollUp button start -->
+        <div class="scrollup">
+            <a href="#">
+                <i class="icon-up-open"></i>
+            </a>
+        </div>
+        <!-- ScrollUp button end -->
+        <!-- Include javascript -->
+        <script src="js/jquery.js"></script>
+        <script type="text/javascript" src="/js/jquery.mixitup.js"></script>
+        <script type="text/javascript" src="/js/bootstrap.js"></script>
+        <script type="text/javascript" src="/js/modernizr.custom.js"></script>
+        <script type="text/javascript" src="/js/jquery.bxslider.js"></script>
+        <script type="text/javascript" src="/js/jquery.cslider.js"></script>
+        <script type="text/javascript" src="/js/jquery.placeholder.js"></script>
+        <script type="text/javascript" src="/js/jquery.inview.js"></script>
+        <script type="text/javascript" src="/js/lightbox.js"></script>
+        <!-- Load google maps api and call initializeMap function defined in app.js -->
+        <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false&amp;callback=initializeMap"></script>
+        <!-- css3-mediaqueries.js for IE8 or older -->
+        <!--[if lt IE 9]>
+            <script src="/js/respond.min.js"></script>
+        <![endif]-->
+        <script type="text/javascript" src="/js/app.js"></script>
     </body>
 </html>
