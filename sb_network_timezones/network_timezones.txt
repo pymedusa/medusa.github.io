@@ -1850,6 +1850,7 @@ TED.com:US/Eastern
 TELECARE (US):US/Eastern
 TELEMUNDO PUERTO RICO (US):US/Eastern
 TEN Sports:Asia/Kolkata
+ten:Australia/Sydney
 TENNIS CHANNEL (US):US/Eastern
 TF1:Europe/Paris
 TF6 (FR):Europe/Paris
