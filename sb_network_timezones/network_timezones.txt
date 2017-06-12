@@ -85,6 +85,7 @@ ABC (US):US/Eastern
 ABC Family:US/Eastern
 ABC News 24:Australia/Sydney
 ABC iview:Australia/Sydney
+ABC Spark:Canada/Eastern
 ABC1:Australia/Sydney
 ABC2:Australia/Sydney
 ABC3:Australia/Sydney
