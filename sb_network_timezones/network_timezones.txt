@@ -828,6 +828,7 @@ France 3:Europe/Paris
 France 4:Europe/Paris
 France 5:Europe/Paris
 Fred TV:US/Eastern
+FreeForm:US/Eastern
 Freeform:US/Eastern
 Frost Great Outdoors (US):US/Eastern
 Fuel TV:US/Eastern
@@ -2084,6 +2085,7 @@ Tiny Pop (UK):Europe/London
 Toei Channel:Asia/Tokyo
 Tokai TV (JP):Asia/Tokyo
 Tokyo Broadcasting System:Asia/Tokyo
+Tokyo Metropolitan Television:Asia/Tokyo
 Tokyo MX:Asia/Tokyo
 Toon Disney:US/Eastern
 Total Living Network (US):US/Eastern
