@@ -9,7 +9,7 @@
 - Made the hardcoded undesired words, "internal" and "xvid", configurable
 - Improved releases filter and added tests
 - Improved searching and selection of results
-- Improved Danishbits to use it's search api
+- Improved Danishbits to use its search api
 - Forced daily search now always updates cache
 - Episodes with Unknown quality can be refreshed now
 - Various and improvements to providers
