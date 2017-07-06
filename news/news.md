@@ -1,6 +1,13 @@
 ####Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
+####2017-07-06####
+
+## 0.1.14
+This is mainly a bugfix release, focusing on enhancing the overall stability of the application. Nonetheless, we wanted to bring you some new providers to componsate the ones that sadly had to be removed. The new Nyaa provider was added for the anime fans out there, it is one of the most popular anime trackers out there. Torrent9 was added as well, it is a public french torrent tracker, that lists many dubbed releases. An additonal subtitles provider was added as well: Wizdom, bringing us quality Hebrew subtitles. The rest of the changes were mainly bug fixes and code cleanups. Make sure to check out the complete changelog for a detailed overview of the remaining changes.
+
+<br/>
+
 ####2017-05-29####
 
 ## 0.1.13
