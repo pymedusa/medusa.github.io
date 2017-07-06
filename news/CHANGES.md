@@ -53,7 +53,6 @@
 - Fixed HorribleSubs provider for torrents without magnet
 - Fixed log stack trace
 - Fixed TypeError: tuple indices must be integers, not unicode
-- Reverted tablesorter back to 2.28.1 (from 2.28.8)
 - Fixed Nyaatorrents and renamed to Nyaa
 - Removed Cpasbien, Extratorrent and Freshontv providers
 - Removed dead torrent cache providers
