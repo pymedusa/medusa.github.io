@@ -56,7 +56,7 @@
 - Reverted tablesorter back to 2.28.1 (from 2.28.8)
 - Fixed Nyaatorrents and renamed to Nyaa
 - Removed Cpasbien, Extratorrent and Freshontv providers
-- Remove dead torrent cache providers
+- Removed dead torrent cache providers
 
 ### v0.1.13:
 
