@@ -6,10 +6,10 @@
 
 - Added series ID to warning logs
 - Updated subliminal to the latest version
-- Changed "internal" and "xvid" to default undesired words
+- Made the hardcoded undesired words, "internal" and "xvid", configurable
 - Improved releases filter and added tests
-- Improved searching and choosing of results
-- Improved Danishbits provider search
+- Improved searching and selection of results
+- Improved Danishbits to use it's search api
 - Forced daily search now always updates cache
 - Episodes with Unknown quality can be refreshed now
 - Various and improvements to providers
