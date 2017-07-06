@@ -9,7 +9,7 @@
 - Changed "internal" and "xvid" to default undesired words
 - Improved releases filter and added tests
 - Improved searching and choosing of results
-- Improved Danishbits provider searc
+- Improved Danishbits provider search
 - Forced daily search now always updates cache
 - Episodes with Unknown quality can be refreshed now
 - Various and improvements to providers
@@ -22,7 +22,7 @@
 - Updated Pygithub to version 1.34
 - Updated dogpile.cache to version 0.6.4
 - Updated style adapter
-- Added Subscenter as custom subtitle provider
+- Fixed Subscenter URL and small fixes
 - Added Torrent9 torrent provider
 
 **Fixes**:
