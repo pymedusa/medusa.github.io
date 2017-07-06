@@ -23,6 +23,7 @@
 - Updated dogpile.cache to version 0.6.4
 - Updated style adapter
 - Added Subscenter as custom subtitle provider
+- Added Torrent9 torrent provider
 
 **Fixes**:
 
@@ -43,7 +44,7 @@
 - Fixed TorrentDay URL
 - Fixed knowit random provider order
 - Fixed selection with multiple locations
-- Fixed parsing of human date for Zooqle
+- Fixed download and parsing of human date for Zooqle
 - Fixed a TypeError in best results picking
 - Fixed a TypeError in Shana Project provider
 - Fixed missing posters, when the trakt folder hadn't been created
@@ -53,6 +54,9 @@
 - Fixed log stack trace
 - Fixed TypeError: tuple indices must be integers, not unicode
 - Reverted tablesorter back to 2.28.1 (from 2.28.8)
+- Fixed Nyaatorrents and renamed to Nyaa
+- Removed Cpasbien, Extratorrent and Freshontv providers
+- Remove dead torrent cache providers
 
 ### v0.1.13:
 
