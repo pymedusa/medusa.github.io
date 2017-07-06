@@ -22,7 +22,7 @@
 - Updated Pygithub to version 1.34
 - Updated dogpile.cache to version 0.6.4
 - Updated style adapter
-- Fixed Subscenter URL and small fixes
+- Fixed Subscenter URL and other minor issues
 - Added Torrent9 torrent provider
 
 **Fixes**:
