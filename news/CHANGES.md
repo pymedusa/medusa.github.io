@@ -1,3 +1,62 @@
+### v0.1.14:
+
+[full changelog](https://github.com/pymedusa/Medusa/commits/master)
+
+**New Features**:
+
+- Added series ID to warning logs
+- Updated subliminal to the latest version
+- Made the hardcoded undesired words, "internal" and "xvid", configurable
+- Improved releases filter and added tests
+- Improved searching and selection of results
+- Improved Danishbits to use its search api
+- Forced daily search now always updates cache
+- Episodes with Unknown quality can be refreshed now
+- Various and improvements to providers
+- Updated knowit to latest version
+- Added moving and deleting torrents with Deluge
+- Added more torrent caching sites
+- Improved proper search code
+- Various fixes and improvements to LegendasTV
+- Added Wizdom custom provider for Hebrew subtitles
+- Updated Pygithub to version 1.34
+- Updated dogpile.cache to version 0.6.4
+- Updated style adapter
+- Fixed Subscenter URL and other minor issues
+- Added Torrent9 torrent provider
+
+**Fixes**:
+
+- Fixed trakt checker trying to get episodes that don't exist
+- Fixed a TypeError in manual search
+- Fixed a ValueError for Transmission client
+- Fixed season pack forced search
+- Fixed date parsing issue for TorrentProject provider
+- Fixed episode refresh which assumed same file if size is 0
+- Fixed warning logs for deprecated show attribute
+- Fixed BraceAdapter for version_checker
+- Fixed NullHandler in naming
+- Fixed KeyError for LegendasTV subtitles provider
+- Fixed processing issue with hard/symlinks
+- Fixed logging issue with multi-episode searches
+- Fixed manage torrents not working because of mixed content blocking
+- Fixed TypeError in custom providers config
+- Fixed TorrentDay URL
+- Fixed knowit random provider order
+- Fixed selection with multiple locations
+- Fixed download and parsing of human date for Zooqle
+- Fixed a TypeError in best results picking
+- Fixed a TypeError in Shana Project provider
+- Fixed missing posters, when the trakt folder hadn't been created
+- Fixed sorting by size in snatchSelection.mako
+- Removed T411 torrent provider
+- Fixed HorribleSubs provider for torrents without magnet
+- Fixed log stack trace
+- Fixed TypeError: tuple indices must be integers, not unicode
+- Fixed Nyaatorrents and renamed to Nyaa
+- Removed Cpasbien, Extratorrent and Freshontv providers
+- Removed dead torrent cache providers
+
 ### v0.1.13:
 
 [full changelog](https://github.com/pymedusa/Medusa/commits/master)
@@ -8,8 +67,6 @@
 - Added HorribleSubs, AniDex and Shanaproject torrent providers
 - Added sorting and filtering in 'Missed Subtitles in PostProcess' page for users with 'Postpone PP if no subtitle' enabled
 - Added a centralized improved publishing date parser for Limetorrents, Torrentz2, HDSpace, TorrentProject, GFTracker, HoundDawgs, Bit-HDTV, CPasBien
-
-
 
 **Fixes**:
 
@@ -34,7 +91,6 @@
  - Fixed error when editing show and toggling DVD order setting
  - Improved T411 torrent provider (fixed returning a lot of bad results)
  - Updated guessit to fix detection of show with 'True' in title
- 
 
 ### v0.1.12:
 
