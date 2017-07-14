@@ -1182,6 +1182,7 @@ Made in Teesside (UK):Europe/London
 Made in Tyne & Wear (UK):Europe/London
 Magic:Europe/London
 Magyar Televízió:Europe/Budapest
+Mainichi Broadcasting System:Asia/Tokyo
 Maori Television:Pacific/Auckland
 Marketplace (UK):Europe/London
 MavTV:US/Eastern
