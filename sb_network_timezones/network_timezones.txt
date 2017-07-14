@@ -92,6 +92,7 @@ ABC3:Australia/Sydney
 ABC4Kids:Australia/Sydney
 ABC7 Chicago (US):US/Eastern
 ABC:US/Eastern
+ABC.com:US/Eastern
 American Broadcasting Company:US/Eastern
 ABD (AU):Australia/Sydney
 ABN (AU):Australia/Sydney
