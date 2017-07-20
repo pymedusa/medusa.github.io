@@ -1,6 +1,16 @@
 ####Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
+####2017-07-20####
+
+Medusa is currently having issues because of a false DMCA request that was sent to Github. We have countered this notice and are waiting to hear back from them.
+
+Because of this none of the developers from Medusa, Sickrage and SickGear are able to access our repos so there won't be any updates at all until this is all sorted. We hope you all understand and we're very sorry for the current situation.
+
+If you'd like to keep up to date with what's going on please join our [IRC channel](https://kiwiirc.com/client/irc.freenode.net/#pymedusa).
+
+<br/>
+
 ####2017-07-06####
 
 ## 0.1.14
