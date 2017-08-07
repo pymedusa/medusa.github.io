@@ -427,6 +427,7 @@ CTS:Asia/Tokyo
 CTV (CN):Asia/Shanghai
 CTV (JP):Asia/Tokyo
 CTV News Channel (CA):Canada/Eastern
+CTV Television Network:Canada/Eastern
 CTV two (CA):Canada/Eastern
 CTV:Canada/Eastern
 CTi TV:Asia/Taipei
