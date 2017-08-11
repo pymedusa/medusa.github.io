@@ -1610,6 +1610,7 @@ SET Metro:Asia/Taipei
 SET TV:Asia/Taipei
 SETANTA SPORTS (AU):Australia/Sydney
 SETANTA SPORTS 1 (IE):Europe/Dublin
+SFR Play:Europe/Paris
 SHAW TV (CA):Canada/Eastern
 SHO NEXT (US):US/Eastern
 SHOWCASE (US):US/Eastern
@@ -1748,6 +1749,7 @@ Smart Live Casino (UK):Europe/London
 Smash Hits:Europe/London
 Smile of a Child TV (US):US/Eastern
 Smithsonian Channel:US/Eastern
+Smithsonian Channel (CA):Canada/Eastern
 Smooth (AU):Australia/Sydney
 SoHo:Australia/Sydney
 SonBeam Channel (US):US/Eastern
