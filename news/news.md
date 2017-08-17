@@ -1,6 +1,14 @@
 ####Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
+####2017-08-20####
+
+## 0.1.15
+
+ADD NEWS HERE
+
+<br/>
+
 ####2017-07-20####
 
 Medusa is currently having issues because of a false DMCA request that was sent to Github. We have countered this notice and are waiting to hear back from them.
