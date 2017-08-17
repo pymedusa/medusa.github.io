@@ -1,3 +1,15 @@
+### v0.1.15:
+
+[full changelog](https://github.com/pymedusa/Medusa/commits/master)
+
+**New Features**:
+
+- 
+
+**Fixes**:
+
+- 
+
 ### v0.1.14:
 
 [full changelog](https://github.com/pymedusa/Medusa/commits/master)
