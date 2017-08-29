@@ -7,7 +7,7 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 Again it took a while to get this release out. But in return we've managed to bring out a very stable release with lot's of new features. What to think of the new providers Torrenting and YggTorrent. Or the new notifier Slack. We've made some GUI improvements that should help the usability on devices with a smaller resolution like on mobile or tablet.
 
-We've also tried to make the recommended lists usable again, by implementing a cache. Meaning that the first time loading a recommended lists, still might timeout. But subsequent loads, should be remarkable faster.
+We've tried to make the recommended lists usable again by implementing a cache which means the first time we load a recommended list still might time out; but subsequent loads should be remarkable faster.
 
 We'd like to thank you guys for reporting the issues. As you helped us getting providers like SceneAccess, HoundDawgs, LimeTorrents, Shanaprojects and BIT-HDTV fixed. So keep up with the good work and we will too!
 
