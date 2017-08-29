@@ -1,3 +1,29 @@
+### v0.1.15:
+
+[full changelog](https://github.com/pymedusa/Medusa/commits/master)
+
+**New Features**:
+- Caching for the IMDB and Trakt recommended lists. First time load might take long. Subsequent load will load much faster
+- Add language code to language names in the missed subtitles page
+- Add provider Torrenting 
+- Add notifier Slack
+- Add provider Yggtorrent
+- Re-add shows originating country using TMDB
+- Implemented caching for IMDB and Trakt recommended lists. The first time we download the lists it may take a while but every time after that it'll load faster.
+
+**Fixes**:
+- Fix notifications sent multiple times, when multiple tabs have been opened
+- Fix not able to find subtitle when the release has a '+' in it
+- Fix date parsing for provider
+- Fix notifications when using a webroot
+- Fix provider SceneAccess
+- Fix provider HoundDawgs
+- Fix cookie authentication for provider BIT HDTV
+- Improved UI by adding buttons and scrollbars to pages with overflowing tables. This will make Medusa more usable on mobile devices.
+- Fix bug which causes a white page when opening the log page without having any shows added
+- Fix provider LimeTorrents
+- Fix torrents not sent to Transmission, because of temporary locks. Implemented a retry mechanism
+
 ### v0.1.14:
 
 [full changelog](https://github.com/pymedusa/Medusa/commits/master)
