@@ -19,8 +19,8 @@
 - Fix provider SceneAccess
 - Fix provider HoundDawgs
 - Fix cookie authentication for provider BIT HDTV
-- Improved UI, by adding buttons and scrollbars to pages with overflowing tables. This will make Medusa look better and more usable on mobile
-- Fix bug which causes a white page, when opening the log page without having any shows added
+- Improved UI by adding buttons and scrollbars to pages with overflowing tables. This will make Medusa more usable on mobile devices.
+- Fix bug which causes a white page when opening the log page without having any shows added
 - Fix provider LimeTorrents
 - Fix torrents not sent to Transmission, because of temporary locks. Implemented a retry mechanism
 
