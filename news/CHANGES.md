@@ -9,7 +9,7 @@
 - Add notifier Slack
 - Add provider Yggtorrent
 - Re-add shows originating country using TMDB
-- Implemented caching for IMDB and Trakt recommended lists. First load might still timeout though
+- Implemented caching for IMDB and Trakt recommended lists. The first time we download the lists it may take a while but every time after that it'll load faster.
 
 **Fixes**:
 - Fix notifications sent multiple times, when multiple tabs have been opened
