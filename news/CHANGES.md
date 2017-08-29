@@ -6,14 +6,14 @@
 - Caching for the IMDB and Trakt recommended lists. First time load might take long. Subsequent load will load much faster
 - Add language code to language names in the missed subtitles page
 - Add provider Torrenting 
-- Add notifier slack
+- Add notifier Slack
 - Add provider Yggtorrent
-- Re-add shows originating country using TMDB.
+- Re-add shows originating country using TMDB
 - Implemented caching for IMDB and Trakt recommended lists. First load might still timeout though
 
 **Fixes**:
-- Fix notifications send multiple times, when multiple tabs have been opened
-- ix not able to find subtitle when the release has a '+' in it
+- Fix notifications sent multiple times, when multiple tabs have been opened
+- Fix not able to find subtitle when the release has a '+' in it
 - Fix date parsing for provider
 - Fix notifications when using a webroot
 - Fix provider SceneAccess
@@ -21,7 +21,7 @@
 - Improved UI, by adding buttons and scrollbars to pages with overflowing tables. This will make Medusa look better and more usable on mobile
 - Fix bug which causes a white page, when opening the log page without having any shows added
 - Fix provider LimeTorrents
-- Fix torrents not send to Transmission, because of temporary locks. Implemented a retry mechanism
+- Fix torrents not sent to Transmission, because of temporary locks. Implemented a retry mechanism
 
 ### v0.1.14:
 
