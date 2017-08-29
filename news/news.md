@@ -9,7 +9,7 @@ Again it took a while to get this release out. But in return we've managed to br
 
 We've also tried to make the recommended lists usable again, by implementing a cache. Meaning that the first time loading a recommended lists, still might timeout. But subsequent loads, should be remarkable faster.
 
-We'd like to thank you guys for reporting the issues. As you helped us getting providers like SceneAccess, LimeTorrents, Shanaprojects and BIT-HDTV fixed. So keep up with the good work and we will to!
+We'd like to thank you guys for reporting the issues. As you helped us getting providers like SceneAccess, LimeTorrents, Shanaprojects and BIT-HDTV fixed. So keep up with the good work and we will too!
 
 <br/>
 
