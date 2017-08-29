@@ -5,7 +5,7 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 ## 0.1.15
 
-Again it took a while to get this release out. But in return we've managed to bring out a very stable release with lot's of new features. What to think of the new providers Torrenting and YggTorrent. Or the new notifier Slack. We've made some GUI improvements that should help the usability on devices with a smaller resolution like on mobile or tablet.
+Again it took a while to get this release out. But in return we've managed to bring out a very stable release with lot's of new features. What to think of the new providers, Torrenting and YggTorrent. And the new notifier, Slack. We've made some GUI improvements that should help with the usability on devices with a smaller resolution like on mobile or tablets.
 
 We've tried to make the recommended lists usable again by implementing a cache which means the first time we load a recommended list still might time out; but subsequent loads should be remarkable faster.
 
