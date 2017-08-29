@@ -1,11 +1,15 @@
 ####Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
-####2017-08-20####
+####2017-08-29####
 
 ## 0.1.15
 
-ADD NEWS HERE
+Again it took a while to get this release out. But in return we've managed to bring out a very stable release with lot's of new features. What to think of the new providers Torrenting and YggTorrent. Or the new notifier Slack. We've made some GUI improvements that should help the usability on devices with a smaller resolution like on mobile or tablet.
+
+We've also tried to make the recommended lists usable again, by implementing a cache. Meaning that the first time loading a recommended lists, still might timeout. But subsequent loads, should be remarkable faster.
+
+We'd also like to thank you guys for reporting the issues. As you helped us getting providers like SceneAccess, LimeTorrents, Shanaprojects and BIT-HDTV fixed. So keep up with the good work and we will to!
 
 <br/>
 
