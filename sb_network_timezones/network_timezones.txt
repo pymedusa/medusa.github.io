@@ -2179,6 +2179,7 @@ VODO (US):US/Eastern
 VOX:Europe/Berlin
 VPRO:Europe/Amsterdam
 VRT:Europe/Brussels
+VRV:US/Eastern
 VT4:Europe/Brussels
 VTM:Europe/Brussels
 VTV (AU):Australia/Sydney
