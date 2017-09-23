@@ -631,6 +631,7 @@ Discovery home & health (AU):Australia/Sydney
 Discovery turbo MAX (AU):Australia/Sydney
 Discovery:US/Eastern
 Dish TV:US/Eastern
+Disney Channel (DE):Europe/Berlin
 Disney Channel (Germany):Europe/Berlin
 Disney Channel (Latin America):America/Sao_Paulo
 Disney Channel (UK):Europe/London
