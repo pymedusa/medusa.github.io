@@ -2270,6 +2270,7 @@ York Channel (UK):Europe/London
 Yorkshire Coast TV (UK):Europe/London
 Yorkshire Television:Europe/London
 YouTube (UK):Europe/London
+YouTube Red:US/Eastern
 YouTube:US/Eastern
 YourTV Blackpool & Preston (UK):Europe/London
 YourTV Manchester (UK):Europe/London
