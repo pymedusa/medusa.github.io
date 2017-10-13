@@ -2191,6 +2191,7 @@ Velocity:US/Eastern
 Venevision:America/Caracas
 Venus TV (UK):Europe/London
 Veronica:Europe/Amsterdam
+Vessel:US/Eastern
 Viên Thao TV (US):US/Eastern
 Viaplay:Europe/Stockholm
 Viasat 4:Europe/Oslo
