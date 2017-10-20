@@ -609,6 +609,7 @@ Discovery Channel (Asia):Asia/Singapore
 Discovery Channel (Australia):Australia/Sydney
 Discovery Channel (CA):Canada/Eastern
 Discovery Channel (Canada):Canada/Eastern
+Discovery Channel (UK):Europe/London
 Discovery Family (US):US/Eastern
 Discovery Family:US/Eastern
 Discovery HD World:Asia/Singapore
