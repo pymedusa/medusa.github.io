@@ -1,6 +1,6 @@
 ### v0.1.16:
 
-[full changelog](https://github.com/pymedusa/Medusa/commits/master)
+[full changelog](https://github.com/pymedusa/Medusa/milestone/26?closed=1)
 
 **New Features**:
  - New provider HeBits
