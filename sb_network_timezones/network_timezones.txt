@@ -705,6 +705,7 @@ Emmanuel TV (US):US/Eastern
 Encore Westerns East (US):US/Eastern
 Encore:US/Eastern
 Encuentro:America/Buenos_Aires
+Epix:US/Eastern
 Epsilon TV:Europe/Athens
 Esperanza TV (US):US/Eastern
 Esquire Network:US/Eastern
