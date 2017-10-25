@@ -10,9 +10,9 @@
  - Fixed anidex url
  - Fixed cookies not being optional anymore for custom rss providers
  - Fixed provider Torrent9
- - Fixed connecting to search provider rtorrent
+ - Fixed connecting to torrent client rtorrent
  - Fixed 4k/2160p guessit detection
- - Fixed anime parsing for anime shows that relie on xem's season exceptions like, `Food wars season 3` and `Kekkai Sensen & Beyond`.
+ - Fixed anime parsing for anime shows that rely on xem's season exceptions like, `Food wars season 3` and `Kekkai Sensen & Beyond`.
  - Fix associated files (like .srt, nfo) not being deleted on replace
 
 ### v0.1.15:
