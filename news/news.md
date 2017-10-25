@@ -1,6 +1,20 @@
 ####Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
+####2017-10-21####
+
+## 0.1.16
+
+Not much has happened these last two months, but we thought that adding two new providers, and fixing a number of critical bugs warrants enough reason for a new release.
+
+So here you have it guys and gals. Thanks to a number of community contributions, we've been able to add the providers HeBits and EliteTracker. And of course, all the reported GitHub issues helped us allot in fixing some long outstanding bugs.
+
+Especially anime watchers will rejoice we've finally fixed a bug where some anime shows, which were going into a season that required a season scene exception, missing allot of results when the season just started.
+
+We'd also like to use this opportunity to emphasize that a project like this is very dependent on its community. So if you don't have any coding experience, please keep on submitting those bug reports. But also if you do have some coding experience, don't be afraid to pitch in. There are some more experienced devs, who are more than willing to help you out.
+
+<br/>
+
 ####2017-08-29####
 
 ## 0.1.15
