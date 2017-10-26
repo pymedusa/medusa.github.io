@@ -1,3 +1,10 @@
+### v0.1.17:
+
+[full changelog](https://github.com/pymedusa/Medusa/milestone/26?closed=1)
+
+**Fixes**:
+- Hot-Fixed Plex server host configuration
+
 ### v0.1.16:
 
 [full changelog](https://github.com/pymedusa/Medusa/milestone/26?closed=1)
