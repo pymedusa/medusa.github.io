@@ -1208,6 +1208,7 @@ More4:Europe/London
 Motors TV (UK):Europe/London
 Movie Central:Canada/Eastern
 Movie Extra (AU):Australia/Sydney
+Movistar+:Europe/spain
 Movies 24 (UK):Europe/London
 Movies4Men (UK):Europe/London
 Much (CA):Canada/Eastern
