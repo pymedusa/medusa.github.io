@@ -210,6 +210,7 @@ Animax (DE):Europe/Berlin
 Animax (SG):Asia/Singapore
 Animax:Asia/Tokyo
 Anime Network:US/Eastern
+Anime OAV:Asia/Tokyo
 Antena 3:Europe/Madrid
 Antenne 2:Europe/Paris
 Apostolic Oneness Network (US):US/Eastern
@@ -1429,6 +1430,7 @@ Paramount Comedy:Europe/London
 Paris Première (FR):Europe/Paris
 Pastor Scott (US):US/Eastern
 PaverShoes.tv (UK):Europe/London
+Pay-Per-View:US/Eastern
 Pay-Per-View (US):US/Eastern
 Peace TV (UK):Europe/London
 Peace TV Urdu (UK):Europe/London
