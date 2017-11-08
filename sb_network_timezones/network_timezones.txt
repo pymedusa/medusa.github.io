@@ -284,6 +284,7 @@ BIOGRAPHY CHANNEL (CA):Canada/Eastern
 BKN (AU):Australia/Sydney
 BLISS (UK):Europe/London
 BNN (NL):Europe/Amsterdam
+BNN-VARA:Europe/Amsterdam
 BNN:Canada/Eastern
 BNT1:Europe/Sofia
 BOS (NL):Europe/Amsterdam
@@ -1054,6 +1055,7 @@ Kix (UK):Europe/London
 Klear TV (UK):Europe/London
 Koldcast.tv (US):US/Eastern
 Korean Channel (US):US/Eastern
+KPN Presenteert:Europe/Amsterdam
 Kunskapskanalen:Europe/Stockholm
 Kyoto Broadcasting System:Asia/Tokyo
 Lâlegül TV:Europe/Istanbul
@@ -1452,6 +1454,7 @@ PlayJam:Europe/London
 PlayStation Network:US/Eastern
 Playboy TV:US/Eastern
 Playhouse Disney:US/Eastern
+Play More:Europe/Brussels
 Plug RTL:Europe/Brussels
 Polsat:Europe/Warsaw
 Pop Girl (UK):Europe/London
@@ -2204,6 +2207,7 @@ Viceland:US/Eastern
 Viceland (US):US/Eastern
 Viceland (CA):US/Eastern
 Victory Television Network (US):US/Eastern
+Videoland (NL):Europe/Amsterdam
 Videoland Television Network:Asia/Taipei
 VijfTV:Europe/Brussels
 Vimeo:US/Eastern
