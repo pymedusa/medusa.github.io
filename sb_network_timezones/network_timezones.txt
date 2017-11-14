@@ -236,6 +236,7 @@ BBC ALBA:Europe/London
 BBC America:US/Eastern
 BBC Canada:Canada/Eastern
 BBC Channel 4:Europe/London
+BBC First:Australia/Sydney
 BBC FOUR:Europe/London
 BBC Four:Europe/London
 BBC HD:Europe/London
