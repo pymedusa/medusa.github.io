@@ -896,6 +896,7 @@ Hír TV:Europe/Budapest
 H2 (CA):Canada/Eastern
 H2 (UK):Europe/London
 H2:US/Eastern
+HBO Asia:Asia/Singapore
 HBO CANADA:Canada/Eastern
 HBO Canada:Canada/Eastern
 HBO Europe:Europe/Budapest
@@ -1637,6 +1638,7 @@ SIC:Europe/Lisbon
 Sky 1:Europe/London
 SKY Business TV (AU):Australia/Sydney
 SKY International (AU):Australia/Sydney
+Sky Italia:Europe/Rome
 SKY PerfecTV!:Asia/Tokyo
 SKY Racing (AU):Australia/Sydney
 SKY Ringside (AU):Australia/Sydney
@@ -2100,6 +2102,7 @@ Tiny Pop (UK):Europe/London
 Toei Channel:Asia/Tokyo
 Tokai TV (JP):Asia/Tokyo
 Tokyo Broadcasting System:Asia/Tokyo
+Tokyo Broadcasting System Television:Asia/Tokyo
 Tokyo Metropolitan Television:Asia/Tokyo
 Tokyo MX:Asia/Tokyo
 Toon Disney:US/Eastern
@@ -2275,6 +2278,7 @@ YTV:Canada/Eastern
 Yahoo! Japan:Asia/Tokyo
 Yahoo! Screen:US/Eastern
 Yle:Europe/Helsinki
+Yomiuri Telecasting Corporation:Asia/Tokyo
 Yomiuri TV (JP):Asia/Tokyo
 Yomiuri TV:Asia/Tokyo
 Yorin (NL):Europe/Amsterdam
