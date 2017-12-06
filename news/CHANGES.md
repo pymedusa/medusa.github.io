@@ -3,44 +3,44 @@
 [full changelog](https://github.com/pymedusa/Medusa/milestone/29?closed=1)
 
 **New Features**:
- - Season search has been improved
- - Added 2 new network icons
- - Allow deleting files after copy for manual post-processing
- - Integrated Dockerfile for easier builds
- - Updated subliminal to latest version
+- Season search has been improved
+- Added 2 new network icons
+- Allow deleting files after copy for manual post-processing
+- Integrated Dockerfile for easier builds
+- Updated subliminal to latest version
 
 **Fixes**:
- - Fixed guessit parsing for group '20-40'
- - Fixed NZB categories not being saved properly
- - Fixed rTorrent incompatibility with new RPC commands
- - Fixed Yggtorrent provider URL
- - Fixed Xthor provider URL
- - Fixed cache folder restore
- - Fixed logging for NotifyMyAndroid
- - Fixed Jackett torrent download
- - Fixed TheTVDB not properly showing '&'
- - Fixed adding torrents with qBittorrent
- - Fixed remove torrents by idle timeout for Transmission
- - Fixed rare error when moving torrents
- - Fixed notifiers timeout by socket
- - Various improvements to Newpct provider
+- Fixed guessit parsing for group '20-40'
+- Fixed NZB categories not being saved properly
+- Fixed rTorrent incompatibility with new RPC commands
+- Fixed Yggtorrent provider URL
+- Fixed Xthor provider URL
+- Fixed cache folder restore
+- Fixed logging for NotifyMyAndroid
+- Fixed Jackett torrent download
+- Fixed TheTVDB not properly showing '&'
+- Fixed adding torrents with qBittorrent
+- Fixed remove torrents by idle timeout for Transmission
+- Fixed rare error when moving torrents
+- Fixed notifiers timeout by socket
+- Various improvements to Newpct provider
 
 ### v0.1.16:
 
 [full changelog](https://github.com/pymedusa/Medusa/milestone/26?closed=1)
 
 **New Features**:
- - New provider HeBits
- - New provider EliteTracker
+- New provider HeBits
+- New provider EliteTracker
 
 **Fixes**:
- - Fixed anidex url
- - Fixed cookies not being optional anymore for custom rss providers
- - Fixed provider Torrent9
- - Fixed connecting to torrent client rtorrent
- - Fixed 4k/2160p guessit detection
- - Fixed anime parsing for anime shows that rely on xem's season exceptions like, `Food wars season 3` and `Kekkai Sensen & Beyond`.
- - Fix associated files (like .srt, nfo) not being deleted on replace
+- Fixed anidex url
+- Fixed cookies not being optional anymore for custom rss providers
+- Fixed provider Torrent9
+- Fixed connecting to torrent client rtorrent
+- Fixed 4k/2160p guessit detection
+- Fixed anime parsing for anime shows that rely on xem's season exceptions like, `Food wars season 3` and `Kekkai Sensen & Beyond`.
+- Fix associated files (like .srt, nfo) not being deleted on replace
 
 ### v0.1.15:
 
