@@ -5,7 +5,7 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 ## 0.1.20
 
-This is mainly a bugfix release, addressing some annoying issues with a bunch of providers that had their addresses changed. Besides the usual bug-squashing (see changelog), we also managed to improve the season searches, which should now be better for some providers. We also added two new network icons that were requested. As always, we tried our best to enhance the overall stability of Medusa. In this regard your issue reports are fundamental, please keep on reporting the bugs and errors you find on our official issues tracker.
+This is mainly a bugfix release, addressing some annoying issues with a bunch of providers that had their addresses changed. Besides the usual bug-squashing (see changelog), we also managed to improve the season searches, which should now be better for some providers. We also added two new network icons that were requested. The subtitle module was updated and some old issues from OpenSubtitles, Addic7ed and LegendasTV errors when unavailable/timeout/too many requests were fixed. As always, we tried our best to enhance the overall stability of Medusa. In this regard your issue reports are fundamental, please keep on reporting the bugs and errors you find on our official issues tracker.
 
 <br/>
 
