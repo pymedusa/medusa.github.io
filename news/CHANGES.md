@@ -1,9 +1,29 @@
-### v0.1.17:
+### v0.1.20:
 
-[full changelog](https://github.com/pymedusa/Medusa/milestone/26?closed=1)
+[full changelog](https://github.com/pymedusa/Medusa/milestone/29?closed=1)
+
+**New Features**:
+ - Season search has been improved
+ - Added 2 new network icons
+ - Allow deleting files after copy for manual post-processing
+ - Integrated Dockerfile for easier builds
+ - Updated subliminal to latest version
 
 **Fixes**:
-- Hot-Fixed Plex server host configuration
+ - Fixed guessit parsing for group '20-40'
+ - Fixed NZB categories not being saved properly
+ - Fixed rTorrent incompatibilty with new RPC commands
+ - Fixed Yggtorrent provider URL
+ - Fixed Xthor provider URL
+ - Fixed cache folder restore
+ - Fixed logging for NotifyMyAndroid
+ - Fixed Jackett torrent download
+ - Fixed TheTVDB not properly showing '&'
+ - Fixed adding torrents with qBittorrent
+ - Fixed remove torrents by idle timeout for Transmission
+ - Fixed rare error when moving torrents
+ - Fixed notifiers timeout by socket
+ - Various improvements to Newpct provider
 
 ### v0.1.16:
 
