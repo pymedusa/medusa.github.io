@@ -12,7 +12,7 @@
 **Fixes**:
  - Fixed guessit parsing for group '20-40'
  - Fixed NZB categories not being saved properly
- - Fixed rTorrent incompatibilty with new RPC commands
+ - Fixed rTorrent incompatibility with new RPC commands
  - Fixed Yggtorrent provider URL
  - Fixed Xthor provider URL
  - Fixed cache folder restore
