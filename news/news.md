@@ -1,6 +1,14 @@
 ####Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
+####2017-12-06####
+
+## 0.1.20
+
+This is mainly a bugfix release, addressing some annoying issues with a bunch of providers that had their addresses changed. Besides the usual bug-squashing (see changelog), we also managed to improve the season searches, which should now be better for some providers. We also added two new network icons that were requested. As always, we tried our best to enhance the overall stability of Medusa. In this regard your issue reports are fundamental, please keep on reporting the bugs and errors you find on our official issues tracker.
+
+<br/>
+
 ####2017-10-21####
 
 ## 0.1.16
