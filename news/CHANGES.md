@@ -3,6 +3,7 @@
 [full changelog](https://github.com/pymedusa/Medusa/milestone/29?closed=1)
 
 **New Features**:
+
 - Season search has been improved
 - Added 2 new network icons
 - Allow deleting files after copy for manual post-processing
@@ -10,6 +11,7 @@
 - Updated subliminal to latest version
 
 **Fixes**:
+
 - Fixed guessit parsing for group '20-40'
 - Fixed NZB categories not being saved properly
 - Fixed rTorrent incompatibility with new RPC commands
@@ -30,10 +32,12 @@
 [full changelog](https://github.com/pymedusa/Medusa/milestone/26?closed=1)
 
 **New Features**:
+
 - New provider HeBits
 - New provider EliteTracker
 
 **Fixes**:
+
 - Fixed anidex url
 - Fixed cookies not being optional anymore for custom rss providers
 - Fixed provider Torrent9
@@ -47,6 +51,7 @@
 [full changelog](https://github.com/pymedusa/Medusa/commits/master)
 
 **New Features**:
+
 - Caching for the IMDB and Trakt recommended lists. First time load might take long. Subsequent load will load much faster
 - Add language code to language names in the missed subtitles page
 - Add provider Torrenting 
@@ -56,6 +61,7 @@
 - Implemented caching for IMDB and Trakt recommended lists. The first time we download the lists it may take a while but every time after that it'll load faster.
 
 **Fixes**:
+
 - Fix notifications sent multiple times, when multiple tabs have been opened
 - Fix not able to find subtitle when the release has a '+' in it
 - Fix date parsing for provider
