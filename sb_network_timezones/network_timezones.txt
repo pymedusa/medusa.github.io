@@ -554,6 +554,7 @@ Credo TV (US):US/Eastern
 Crime & Investigation Network (AU):Australia/Sydney
 Crime & Investigation Network:US/Eastern
 Cuatro:Europe/Madrid
+CuriosityStream:US/Eastern
 Current TV:US/Eastern
 D8:Europe/Paris
 DAYSTAR (US):US/Eastern
