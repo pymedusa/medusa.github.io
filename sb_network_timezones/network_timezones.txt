@@ -1432,6 +1432,7 @@ Pac-12 Washington (US):US/Eastern
 Pakapaka:America/Buenos_Aires
 Pakistan Television Corporation (PK):Asia/Karachi
 Paramount Comedy:Europe/London
+Paramount Network:US/Eastern
 Paris Première (FR):Europe/Paris
 Pastor Scott (US):US/Eastern
 PaverShoes.tv (UK):Europe/London
