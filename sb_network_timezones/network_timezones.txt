@@ -2290,6 +2290,7 @@ ZDF.Kultur:Europe/Berlin
 ZDF:Europe/Berlin
 ZDFneo:Europe/Berlin
 ZDTV (CA):Canada/Eastern
+ZED:Canada/Eastern
 ZEE TV (UK):Europe/London
 ZOOM:Asia/Kolkata
 ZTV (SE):Europe/Stockholm
