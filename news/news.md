@@ -1,6 +1,18 @@
 ####Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
+####2017-12-26####
+
+## 0.1.21
+
+We aimed for a Christmas release, and here it is! We'd like to thank everyone for the increased support with issues submissions an even a few new committers.
+
+This release can be remembered as the one when we added the much requested feature 'search delay'. It will allow you to delay snatches for a specific episode. This way you can prioritize that nzb provider over a torrent. Or make sure you only use that very valuable grab for a provider when absolutely needed. We hope you'll find good use for it.
+
+Of course we've again fixed allot of bugs. As for example YggTorrent should be usable again. And when adding new shows, it should now pick the highest rated image available. If you'd like to replace your current posters, banners or fanart, we've got you covered. You can use the mass update (Manage - Mass update) for that.
+
+You can expect from us to keep improving upon Medusa in 2018. So until then Merry Christmas and best wishes for 2018!
+
 ####2017-12-06####
 
 ## 0.1.20
