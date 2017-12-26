@@ -1,3 +1,44 @@
+### v0.1.21:
+
+[full changelog](https://github.com/pymedusa/Medusa/milestone/30?closed=1)
+
+**New Features**:
+- Delay downloads using a delay per provider. (#3360)
+- Replace show's images using the mass update page. (#3503)
+- Improved logs for missing hash (#3516)
+- Add network information while adding new shows (limited to tvdb) (#3430)
+- Added pubdate parsing for iptorrents. (#3494)
+- Log additional info in PP (#3492)
+- Re-download shows images on a force full update. (#3503)
+- Upgrade subliminal to 21e0e1b5810ac3d8346bea5a4269710e8cfd6c64 (#3509)
+
+Get speed.cd login URL instead of looping a list of URLs (#3497)
+
+- **Fixes**:
+- Fix for docker images using the Dockerfile, subtitles w/ Python 2.7 GDBM (#3514)
+- Fix not checking for RARed torrents in history because is not media file (#3515)
+- Fix Language convertion error when bad naming (#3498)
+- Fix pick the highest rated image, using the indexers image rating if available. (#3486)
+- Clean up image saving (#3487)
+- Fix a bug in API's (v1) root directories (#3485)
+- Fix Yggtorrent, revert to old url (#3477)
+- Clarify Jackett's configuration (#3472)
+- Fix download link for YGG provider (#3461)
+- Added paramount network logo (#3466)
+- Add support for Advanced Systems Format (#3463)
+- Adds support for self-hosted Slack instances. (#3426)
+- Feature/cleanpp (#3447)
+- Fix AlphaRatio provider login by using https URL (#3448)
+- Fix style adapter repr fallback (#3443)
+- Fix Issue report format (#3444)
+- Fix bad link to changes.MD (#3438)
+- Add missing mappings for YggTorrent, fixes #3427 (#3429)
+- Fix TMDB not returning `networks` in show search (#3434)
+- Fix rte logo (#3432)
+- Alternate docker repo. (#3425)
+- Fix postporocessing renaming subtitle to .srt.srt (#3518)
+
+
 ### v0.1.20:
 
 [full changelog](https://github.com/pymedusa/Medusa/milestone/29?closed=1)
