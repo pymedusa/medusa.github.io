@@ -9,7 +9,7 @@ We aimed for a Christmas release, and here it is! We'd like to thank everyone fo
 
 This release can be remembered as the one when we added the much requested feature 'search delay'. It will allow you to delay snatches for a specific episode. This way you can prioritize that nzb provider over a torrent. Or make sure you only use that very valuable grab for a provider when absolutely needed. We hope you'll find good use for it.
 
-Of course we've again fixed allot of bugs. As for example YggTorrent should be usable again. And when adding new shows, it should now pick the highest rated image available. If you'd like to replace your current posters, banners or fanart, we've got you covered. You can use the mass update (Manage - Mass update) for that.
+Of course we've again fixed a lot of bugs. As for example YggTorrent should be usable again. And when adding new shows, it should now pick the highest rated image available. If you'd like to replace your current posters, banners or fanart, we've got you covered. You can use the mass update (Manage - Mass update) for that.
 
 You can expect from us to keep improving upon Medusa in 2018. So until then Merry Christmas and best wishes for 2018!
 
