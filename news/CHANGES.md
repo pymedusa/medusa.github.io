@@ -3,6 +3,7 @@
 [full changelog](https://github.com/pymedusa/Medusa/milestone/30?closed=1)
 
 **New Features**:
+
 - Delay downloads using a delay per provider. (#3360)
 - Replace show's images using the mass update page. (#3503)
 - Improved logs for missing hash (#3516)
@@ -11,10 +12,10 @@
 - Log additional info in PP (#3492)
 - Re-download shows images on a force full update. (#3503)
 - Upgrade subliminal to 21e0e1b5810ac3d8346bea5a4269710e8cfd6c64 (#3509)
-
-Get speed.cd login URL instead of looping a list of URLs (#3497)
+- Get speed.cd login URL instead of looping a list of URLs (#3497)
 
 - **Fixes**:
+
 - Fix for docker images using the Dockerfile, subtitles w/ Python 2.7 GDBM (#3514)
 - Fix not checking for RARed torrents in history because is not media file (#3515)
 - Fix Language convertion error when bad naming (#3498)
@@ -37,7 +38,6 @@ Get speed.cd login URL instead of looping a list of URLs (#3497)
 - Fix rte logo (#3432)
 - Alternate docker repo. (#3425)
 - Fix postporocessing renaming subtitle to .srt.srt (#3518)
-
 
 ### v0.1.20:
 
