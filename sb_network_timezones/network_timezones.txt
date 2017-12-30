@@ -2110,6 +2110,7 @@ Tokyo MX:Asia/Tokyo
 Toon Disney:US/Eastern
 Total Living Network (US):US/Eastern
 Trace Sports (UK):Europe/London
+Travel+Escape:Canada/Eastern
 Travel + Escape (CA):Canada/Eastern
 Travel Channel:US/Eastern
 Treehouse TV:Canada/Eastern
