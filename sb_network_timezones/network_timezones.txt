@@ -489,6 +489,7 @@ Channel 7 (US):US/Eastern
 Channel 7:Asia/Bangkok
 Channel 8:Asia/Singapore
 Channel 9 (UK):Europe/London
+Channel A:Asia/Seoul
 Channel AKA (UK):Europe/London
 Channel S (UK):Europe/London
 Channel U:Asia/Singapore
@@ -1126,7 +1127,7 @@ MATV:Europe/London
 MAX (NL):Europe/Amsterdam
 MBC 1:Asia/Seoul
 MBC Drama:Asia/Seoul
-MBC Every 1:Asia/Seoul
+MBC Every1:Asia/Seoul
 MBC Plus Media:Asia/Seoul
 MBC Queen:Asia/Seoul
 MBC:Asia/Seoul
