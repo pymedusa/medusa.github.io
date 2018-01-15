@@ -3,12 +3,14 @@
 [full changelog](https://github.com/pymedusa/Medusa/milestone/32?closed=1)
 
 **New Features**:
+
 - [Docker] Rev alpine linux to 3.7 after testing (#3561)
 - Post-Processor ignore folders beginning with # (#3551)
 - Update imdbpie to release 5.2.0 (#3595)
 - Add option to split home page in tabs (#3548)
 
 **Fixes**:
+
 - Add config setting conversion for SUBTITLES_EXTRA and SUBTITLES_PRE_S… (#3604)
 - Don't wrap status column for medium devices and up (#3593)
 - Fix move torrent key error (#3598)
@@ -34,7 +36,6 @@
 - Fix leftovers from searchType refactor. (#3527)
 - Incorrect language code for `Chinese Simplified, People's Republic of China` (#3523)
 
-
 ### v0.1.21:
 
 [full changelog](https://github.com/pymedusa/Medusa/milestone/30?closed=1)
@@ -51,7 +52,7 @@
 - Upgrade subliminal to 21e0e1b5810ac3d8346bea5a4269710e8cfd6c64 (#3509)
 - Get speed.cd login URL instead of looping a list of URLs (#3497)
 
-- **Fixes**:
+**Fixes**:
 
 - Fix for docker images using the Dockerfile, subtitles w/ Python 2.7 GDBM (#3514)
 - Fix not checking for RARed torrents in history because is not media file (#3515)
