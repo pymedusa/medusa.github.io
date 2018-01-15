@@ -1,3 +1,40 @@
+### v0.1.23:
+
+[full changelog](https://github.com/pymedusa/Medusa/milestone/32?closed=1)
+
+**New Features**:
+- [Docker] Rev alpine linux to 3.7 after testing (#3561)
+- Post-Processor ignore folders beginning with # (#3551)
+- Update imdbpie to release 5.2.0 (#3595)
+- Add option to split home page in tabs (#3548)
+
+**Fixes**:
+- Add config setting conversion for SUBTITLES_EXTRA and SUBTITLES_PRE_S… (#3604)
+- Don't wrap status column for medium devices and up (#3593)
+- Fix move torrent key error (#3598)
+- Don't encode input for Windows (#3589)
+- Only apply UTF-8 monkey patch when necessary (#3573)
+- Fix typo in the image image_update summary. (#3588)
+- Show anime checkbox when adding existing shows (#3568)
+- Don't encode paths with UTF-8 for Windows. Fixes #3345 (#3581)
+- Remove broad exception for news. Remove duplicate log (#3543)
+- Fix BraceMessage KeyError (#3560)
+- Remove hounddawgs provider (#3557)
+- Ignore folders #recycle (DSM) (#3552)
+- Fix Torrentz2 being to strict on the category (#3553)
+- Decode msg from byte to unicode, to prevent error with unicode encode… (#3547)
+- Removed redundant if/then. (#3546)
+- Continue when there is no image in the sorted list. (#3545)
+- Fix anime split show layout (#3544)
+- replace boobysteel docker hub link with pymedusa's one (#3541)
+- Fix freeleech option not being saved. Fixes #3524 (#3538)
+- Fix IMDb's search by title (#3537)
+- Fix imdb search by updating imdb-pie (#3536)
+- Bump USER_AGENT version 0.1.23 (dev) (#3530)
+- Fix leftovers from searchType refactor. (#3527)
+- Incorrect language code for `Chinese Simplified, People's Republic of China` (#3523)
+
+
 ### v0.1.21:
 
 [full changelog](https://github.com/pymedusa/Medusa/milestone/30?closed=1)
