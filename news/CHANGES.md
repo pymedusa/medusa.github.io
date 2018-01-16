@@ -11,6 +11,7 @@
 
 **Fixes**:
 
+- Fix logging in massEditSubmit. Fixes #3160 (#3609)
 - Add config setting conversion for SUBTITLES_EXTRA and SUBTITLES_PRE_S… (#3604)
 - Don't wrap status column for medium devices and up (#3593)
 - Fix move torrent key error (#3598)
