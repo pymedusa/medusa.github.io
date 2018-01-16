@@ -1,6 +1,16 @@
 ####Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
+####2018-01-15####
+
+## 0.1.23
+
+This is our first release of the year. We have some big changes in the pipeline for your guys, but because IMDb made some changes in their api, we thought it was important to have that fixed asap.
+
+For the anime fans we've added an option that allows you to separate your list of anime with the list of series using tabs in the home page. Besides that, this release focuses mostly around bugfixes and some preparation towards a new big feature coming shortly after this one.
+
+This will also be the last semVer path update. Our next release will continue with 0.2.0.
+
 ####2017-12-26####
 
 ## 0.1.21
