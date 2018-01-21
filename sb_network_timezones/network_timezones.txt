@@ -222,6 +222,7 @@ BBC Parliament:Europe/London
 BBC Prime:Europe/London
 BBC RED BUTTON:Europe/London
 BBC Scotland:Europe/London
+BBC Three:Europe/London
 BBC THREE:Europe/London
 BBC TWO Northern Ireland:Europe/London
 BBC TWO Scotland:Europe/London
@@ -2152,6 +2153,7 @@ Veronica:Europe/Amsterdam
 Vessel:US/Eastern
 Viaplay:Europe/Stockholm
 Viasat 4:Europe/Oslo
+Viceland:US/Eastern
 Viceland (CA):US/Eastern
 Viceland (US):US/Eastern
 Victory Television Network (US):US/Eastern
