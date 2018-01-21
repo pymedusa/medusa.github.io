@@ -207,6 +207,7 @@ BBC Kids:Canada/Eastern
 BBC Knowledge (AU):Australia/Sydney
 BBC News:Europe/London
 BBC ONE:Europe/London
+BBC One:Europe/London
 BBC One East Midlands:Europe/London
 BBC One East:Europe/London
 BBC One North East & Cumbria:Europe/London
@@ -794,6 +795,7 @@ France 5:Europe/Paris
 France Ô:Europe/Paris
 Fred TV:US/Eastern
 FreeForm:US/Eastern
+Freeform:US/Eastern
 Frost Great Outdoors (US):US/Eastern
 Fuel TV:US/Eastern
 Fuji TV:Asia/Tokyo
