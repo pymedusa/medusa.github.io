@@ -1,4 +1,4 @@
-+Globosat:America/Sao_Paulo
+Cinemax+Globosat:America/Sao_Paulo
 1+1:Europe/Kiev
 111 Greats (AU):Australia/Sydney
 13TH STREET (AU):Australia/Sydney
@@ -468,6 +468,7 @@ Church Channel (US):US/Eastern
 Chérie 25:Europe/Paris
 Cielo:Europe/Rome
 Cine 5:Europe/Istanbul
+Cinemax:US/Eastern
 CineMax:US/Eastern
 Cinelatino (US):US/Eastern
 Citv (UK):Europe/London
