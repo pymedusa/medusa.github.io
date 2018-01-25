@@ -2177,6 +2177,7 @@ Viasat 4:Europe/Oslo
 Viceland (CA):US/Eastern
 Viceland (US):US/Eastern
 Viceland:US/Eastern
+Victor Entertainment:Asia/Tokyo
 Victory Television Network (US):US/Eastern
 Videoland (NL):Europe/Amsterdam
 Videoland Television Network:Asia/Taipei
