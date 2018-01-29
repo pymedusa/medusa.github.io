@@ -133,6 +133,7 @@ Abu Dhabi TV (UK):Europe/London
 Abu Dhabi TV:Asia/Dubai
 Acasă (RO):Europe/Bucharest
 AccuWeather Channel (US):US/Eastern
+Acorn TV:Europe/London
 Action:Canada/Eastern
 Active Channel (UK):Europe/London
 Adult Channel:Europe/London
