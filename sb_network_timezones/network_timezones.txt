@@ -2206,6 +2206,7 @@ WBZ-TV (US):US/Eastern
 WCCO Channel 4 (US):US/Eastern
 WCVB Channel 5 (US):US/Eastern
 WDR:Europe/Berlin
+We tv:US/Eastern
 WE tv:US/Eastern
 WFRZ-LD (US):US/Eastern
 WGN (US):US/Eastern
