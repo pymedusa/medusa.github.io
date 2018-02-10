@@ -44,6 +44,7 @@
 - Don't reuse indexer API if it differs from show indexer. Fixes #3626 (#3628)
 - Fix thumbnails not being generated on post-processing. Fixes #3539 (#3622)
 - Import tempfile early on to ensure it is monkey patched (#3619)
+- Fix for apiv1. get_all_episodes, cast season to list, if passed as integer (#3738)
 
 
 ### v0.1.23:
