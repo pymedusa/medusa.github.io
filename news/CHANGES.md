@@ -1,3 +1,50 @@
+### v0.2.0:
+
+[full changelog](https://github.com/pymedusa/Medusa/milestone/7?closed=1)
+
+**New Features**:
+- New themed frontend architecture. (#3566)
+- Add PrivateHD provider (#3636)
+
+**Fixes**:
+
+- image_cache.get_artwork() requires whole object. Fixes #3731 (#3733)
+- Torrentday: Switched back to the new rest api. (#3727)
+- Postprocess: Cut long filenames to 255 chars max. (#3729)
+- Only encode/decode if needed in subtitles.py. Fixes #3707 (#3718)
+- Fix apiv2 auth (#3726)
+- Update tornado to version 4.5.3. Fixes #3424 (#3723)
+- Feature/increment cache invalidation (#3714)
+- Fix ArcheTorrent (#3702)
+- Delete cache entry with series_id to support entries without indexer (#3701)
+- Update usenet-crawler url (#3700)
+- Fix download for Torrent9 provider (#3686)
+- Update torrent9 URL (#3684)
+- Use vanilla gntp and move to /ext folder, update certifi and pymediainfo (#3682)
+- Fixed td parsing. (#3674)
+- Fix Newpct download links for old torrents (#3672)
+- Add fromtimestamp to parse_pubdate, add pubdate to BTN (#3654)
+- Added Medusa Icon to Slack Notifications (#3650)
+- Show the seriesname when parsing episodes, for warnings regarding an … (#3667)
+- Attempt to fix td. (#3653)
+- Make sure season parameter is a string for get_all_episodes(). Fixes … (#3664)
+- Add is_rarfile() to patched functions. Fixes #3222 (#3657)
+- Remove Torrentproject (dead) (#3656)
+- Add pubdate to Torrentleech, improve code a bit (#3655)
+- Upgrade Subliminal to 4c0bcbfd68728241324f509317afdf6beb681f99 (#3652)
+- Fix a tiny typo in issue_submitter.py (#3651)
+- Fix image size not detected for jpegs without exim data. (#3649)
+- Fix connection exception at checking the version of news. (#3648)
+- Upgrade Subliminal to 044f781235b23dce3268831b35a23009db06a8cd (#3647)
+- Add name property to BaseIndexer to use name attribute for indexers (#3639)
+- Added a new function get_season_scene_exceptions() to retrieve scene … (#3638)
+- Replace images instead of removing at the start of a show full refresh (#3635)
+- Added eslint-config xo and eslint, to be used with ide's that support… (#3629)
+- Don't reuse indexer API if it differs from show indexer. Fixes #3626 (#3628)
+- Fix thumbnails not being generated on post-processing. Fixes #3539 (#3622)
+- Import tempfile early on to ensure it is monkey patched (#3619)
+
+
 ### v0.1.23:
 
 [full changelog](https://github.com/pymedusa/Medusa/milestone/32?closed=1)
