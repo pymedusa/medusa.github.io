@@ -3,6 +3,7 @@
 [full changelog](https://github.com/pymedusa/Medusa/milestone/7?closed=1)
 
 **New Features**:
+- Migrate all the db's to have the shows id included, making the db model multi-indexer safe (#3504)
 - New themed frontend architecture. (#3566)
 - Add PrivateHD provider (#3636)
 
