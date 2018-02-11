@@ -7,11 +7,11 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 As you might have noticed with this release we're bumping our version with a minor version bump according the semver rules. We did this for a couple of reasons. One, are happy to share with you that Medusa is finally a fully multi indexer PVR. And one of its kind in that. We know we supported the movie db and tvmaze for some time now, but it was never fully implemented. As such as it was not possible to add a show from tvdb with the same id as a show from tvmaze. At first we noticed that the different indexers where avoiding overlapping each others id's. But lately this was not anymore the case.
 
-This change also means that we had to rework our image caching, as we now store the images in a separate folder for each indexer. With this change we took te time to remove some long outstanding bugs. And we hope that with these changes all bugs related to image caching have been resolved.
+This change also means that we had to rework our image caching, as we now store the images in a separate folder for each indexer. With this change we took the time to remove some long outstanding bugs. And we hope that with these changes all bugs related to image caching have been resolved.
 
 Another new cool feature is atomically separated user interfaces. This means that it is now possible to add your own UI. Each UI is isolated into it's own folder structure. At the same time we've taken use of this new frondend structure, by create a fully IE11 supported `legacy` UI. The feature set for this legacy UI has been frozen. So new UI features will not make it into this UI. The other UI's `dark` and `light` are going to make use of modern browser technologies, so you can expect to see some cool UI features in the near future.
 
-We encourage anyone who has some or a lot of web design skills, to make use of our api v2 (and api v1 were needed), to start creating some cool themed UI's.
+We encourage anyone who has some or a lot of web design skills, to make use of our api v2 (and api v1 where needed), to start creating some cool themed UI's.
 
 Of course we've also included some bug fixes and provider maintenance. As one of the more popular providers `torrentday` made a change to its api. We've made adaptations to make the provider usable again. And if that's not enough, we've added the provideder `PrivateHD`.
 
