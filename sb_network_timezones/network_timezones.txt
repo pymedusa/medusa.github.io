@@ -75,6 +75,7 @@ ACTION MOVIES (AU):Australia/Sydney
 ADS (AU):Australia/Sydney
 AHC:US/Eastern
 AIT International (UK):Europe/London
+ALT Balaji:Asia/Kolkata
 AMAZING FACTS (US):US/Eastern
 AMC:US/Eastern
 AMERICAN HEROES CHANNEL (US):US/Eastern
@@ -2206,7 +2207,6 @@ WBZ-TV (US):US/Eastern
 WCCO Channel 4 (US):US/Eastern
 WCVB Channel 5 (US):US/Eastern
 WDR:Europe/Berlin
-We tv:US/Eastern
 WE tv:US/Eastern
 WFRZ-LD (US):US/Eastern
 WGN (US):US/Eastern
@@ -2230,6 +2230,7 @@ Warner Channel:US/Eastern
 Watch ABC:US/Eastern
 Watch Disney Channel:US/Eastern
 Watch:Europe/London
+We tv:US/Eastern
 WealthTV:US/Eastern
 Weather Network (CA):Canada/Eastern
 WeatherNation (US):US/Eastern
