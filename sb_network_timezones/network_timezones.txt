@@ -1774,6 +1774,7 @@ Star World (IN):Asia/Kolkata
 Star World (MV):Indian/Maldives
 Star World (SG):Asia/Singapore
 Star World:Asia/Hong_Kong
+Stargate Command:US/Eastern
 Starz TV (UK):Europe/London
 Starz!:US/Eastern
 Starz:US/Eastern
