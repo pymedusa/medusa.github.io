@@ -1,3 +1,36 @@
+### v0.2.1:
+
+[full changelog](https://github.com/pymedusa/Medusa/milestone/33?closed=1)
+
+**New Features**:
+- Recommended series: Use dogpile for caching of the imdb, trakt and anidb shows (#3768)
+- Added the ability to use an external CA Bundle for self-signed cert (#3774)
+
+**Fixes**:
+- Fix parsing of anime shows, when scene numberd. + Added unit tests. (#3809)
+- Fix ui tabs, use server provided url, instead of building the url client side. (#3815)
+- Fix systemd startup (#3816)
+- Fix Lazy load the anidb (simpleanidb) object on module level. (#3807)
+- Fix some anime shows not returning any results because of xem and (#3808)
+- Fix torrent_checker scheduler not working properly (#3805)
+- Fix Newpct download parsing, update domain (#3803)
+- Fix apiv1, passing insufficient params to find_by_id (#3800)
+- Replace jsonrpclib with Py3 compatible jsonrpclib-pelix, update msgpa… (#3794)
+- Upgrade sqlAlchemy to 1.2.3 (#3793)
+- Fix dvd order (#3790)
+- Fix xem_refresh not working (#3788)
+- Fix git origin.remote.pushurl invalid when using git_token (#3785)
+- Update Torrent9 domain, improve search query (#3787)
+- Update Medusa logo in readme.md (#3786)
+- Fix light theme when used icw a reverse proxy. (#3773)
+- Fix: shows with semi-colons in name return no results on Torrent9 (e.… (#3781)
+- Fix to allow dev to use triangular workflow (#3782)
+- Fix branches missing in list when using git token in General Configuration (#3775)
+- remove old vue files (#3765)
+- update xo to latest version (#3769)
+- Re-anabled api tests (#3761)
+- Fix exception when deleting a tvmaze show, with trakt enabled. (#3754)
+
 ### v0.2.0:
 
 [full changelog](https://github.com/pymedusa/Medusa/milestone/7?closed=1)
