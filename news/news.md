@@ -1,6 +1,18 @@
 ####Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
+####2018-03-1####
+
+## 0.2.1
+
+We've finally managed to release within a two week cycle. And we hope to be able to continue on this pace, for the coming releases. This release will give you two noticable new features and a load of bug fixes.
+
+We've finally implemented a proper caching system for the recommended shows. Opening a recommended shows page from trakt, anidb or imdb, might still take a while the first time. But all shows are stored on the filesystem. Meaning that the next load of a recommended show list should be fast. Shows are stored 7 days for now. But we might increase this in the future. The shows are stored in a standardized way, which enables us to start creating composite lists. We're not there yet, but you can expect it in one of the next releases.
+
+As for the second feature, we've provided the option to configure a CA bundle for when using a self signed SSL certificate. This will allow you to connect to external services like Transmission which have a self signed certificate configured, without needing to disable certificate verification.
+
+We'd like to thank everyone contributing through issues, pull requests and other channels.
+
 ####2018-02-17####
 
 ## 0.2.0
