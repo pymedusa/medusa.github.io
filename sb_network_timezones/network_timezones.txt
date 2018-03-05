@@ -850,6 +850,7 @@ GEO UK (UK):Europe/London
 GLOBO TV International (US):US/Eastern
 GLV (AU):Australia/Sydney
 GMA:Asia/Manila
+GMM One:Asia/Bangkok
 GNT:America/Sao_Paulo
 GO (ZA):Africa/Johannesburg
 GO! (AU):Australia/Sydney
