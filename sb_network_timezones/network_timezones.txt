@@ -1834,6 +1834,7 @@ Sun TV:Asia/Kolkata
 Sundance Channel:US/Eastern
 Sundance:US/Eastern
 SundanceTV:US/Eastern
+Sundance TV:US/Eastern
 Sunrise TV (UK):Europe/London
 SuoimiTV:Europe/Helsinki
 Super Casino (UK):Europe/London
