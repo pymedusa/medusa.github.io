@@ -1281,6 +1281,7 @@ NFL Redzone (US):US/Eastern
 NFL Sunday Ticket (US):US/Eastern
 NFL Sunday Ticket Redzone (US):US/Eastern
 NHK Animax:Asia/Tokyo
+NHK BS Premium:Asia/Tokyo
 NHK TV:Asia/Tokyo
 NHK World (HK):Asia/Hong_Kong
 NHK World (UK):Europe/London
