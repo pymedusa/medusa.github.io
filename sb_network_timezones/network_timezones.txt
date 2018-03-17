@@ -810,6 +810,7 @@ Fox (Latin America):America/Sao_Paulo
 Fox (NI):America/Managua
 Fox (SV):America/El_Salvador
 Fox 8 (NL):Europe/Amsterdam
+Fox Action Movies::US/Eastern
 Fox Broadcasting Company:US/Eastern
 Fox Business:US/Eastern
 Fox Channel (BR):America/Sao_Paulo
@@ -1833,9 +1834,9 @@ Stöð 2:Atlantic/Reykjavik
 Sub:Europe/Helsinki
 Sun TV:Asia/Kolkata
 Sundance Channel:US/Eastern
+Sundance TV:US/Eastern
 Sundance:US/Eastern
 SundanceTV:US/Eastern
-Sundance TV:US/Eastern
 Sunrise TV (UK):Europe/London
 SuoimiTV:Europe/Helsinki
 Super Casino (UK):Europe/London
