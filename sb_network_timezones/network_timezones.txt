@@ -2275,6 +2275,7 @@ WOWOW:Asia/Tokyo
 WPIX:US/Eastern
 WTV (AU):Australia/Sydney
 WWE Network (US):US/Eastern
+WWE Network:US/Eastern
 WWJ-TV Detroit (US):US/Eastern
 Wah Lai Toi (MY):Asia/Kuala_Lumpur
 Wakker Nederland (NL):Europe/Amsterdam
