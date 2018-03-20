@@ -1328,6 +1328,7 @@ National Geographic (US):US/Eastern
 National Geographic Adventure:US/Eastern
 National Geographic Channel:US/Eastern
 National Geographic Nederland-België:Europe/Amsterdam
+National Geographic WILD:US/Eastern
 National Geographic:US/Eastern
 National Jewish Television (US):US/Eastern
 Nejat TV (US):US/Eastern
