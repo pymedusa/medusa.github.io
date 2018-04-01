@@ -3,10 +3,12 @@
 [full changelog](https://github.com/pymedusa/Medusa/milestone/33?closed=1)
 
 **New Features**:
+
 - Recommended series: Use dogpile for caching of the imdb, trakt and anidb shows (#3768)
 - Added the ability to use an external CA Bundle for self-signed cert (#3774)
 
 **Fixes**:
+
 - Fix parsing of anime shows, when scene numberd. + Added unit tests. (#3809)
 - Fix ui tabs, use server provided url, instead of building the url client side. (#3815)
 - Fix systemd startup (#3816)
