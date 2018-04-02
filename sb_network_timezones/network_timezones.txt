@@ -198,6 +198,7 @@ Arte:Europe/Paris
 Associated Broadcasting Company (PH):Asia/Manila
 At the Races (UK):Europe/London
 Audience Network:US/Eastern
+Audience:US/Eastern
 Australian Broadcasting Corporation (ABC):Australia/Sydney
 Australian Broadcasting Corporation:Australia/Sydney
 Australian Christian Channel:Australia/Sydney
