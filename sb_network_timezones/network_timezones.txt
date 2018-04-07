@@ -1382,6 +1382,7 @@ ORF1 (DE):Europe/Berlin
 ORF:Europe/Berlin
 ORTF:Europe/Paris
 OUTtv (CA):Canada/Eastern
+OUTtv:Canada/Eastern
 OWN (CA):Canada/Eastern
 OWN:US/Eastern
 Oasis HD:Canada/Eastern
