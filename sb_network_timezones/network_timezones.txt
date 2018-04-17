@@ -2474,6 +2474,7 @@ ovationchannel.com.au:Australia/Sydney
 palladia (US):US/Eastern
 pivot:US/Eastern
 propellor (UK):Europe/London
+puhutv:Europe/Istanbul
 pursuit CHANNEL (US):US/Eastern
 qubo (US):US/Eastern
 radX:Canada/Eastern
