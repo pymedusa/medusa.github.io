@@ -1134,6 +1134,7 @@ MBC Plus Media:Asia/Seoul
 MBC Queen:Asia/Seoul
 MBC:Asia/Seoul
 MBN:Asia/Seoul
+MBS TV:Asia/Tokyo
 MBS:Asia/Tokyo
 MCM:Europe/Paris
 MDR:Europe/Berlin
