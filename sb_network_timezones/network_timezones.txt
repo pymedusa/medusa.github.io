@@ -1295,6 +1295,7 @@ NHL Center Ice (US):US/Eastern
 NHL NETWORK (US):US/Eastern
 NHNZ:Pacific/Auckland
 NITV (AU):Australia/Sydney
+NJPW World:Asia/Tokyo
 NOS:Europe/Amsterdam
 NPO 3:Europe/Amsterdam
 NPS (NL):Europe/Amsterdam
