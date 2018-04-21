@@ -2,6 +2,10 @@
 
 [full changelog](https://github.com/pymedusa/Medusa/milestone/34?closed=1)
 
+**Features**:
+- Add dedicated Torznab (Jackett) providers support #3513
+- Add CinemaZ provider (#3856)
+
 **Fixes**:
 
 - Fix norbits provider not returning results. Fixes #3846 (#4007)
