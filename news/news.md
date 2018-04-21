@@ -5,7 +5,7 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 ## 0.2.2
 
-Hi guys, when we finally were up to a two weekly release cycle, we're back to almost 2 months. But we guarantee you, we haven't been sitting still. 
+Hi all, when we finally were up to a two weekly release cycle, we're back to almost 2 months. But we guarantee you, we haven't been sitting still. 
 
 Let's start with mentioning our new Jackett section in the provider's config. You are now able to add dedicated Jackett providers. With that change, we took the time to fix a number of bugs we were experiencing with some Jackett providers and, for example, in combination with magnet links. Those issues should now be a thing of the past. As part of this new feature, using Newznab providers as Jackett (Torznab) providers is now deprecated. Switch them to [Jackett providers](https://github.com/pymedusa/Medusa/wiki/Using-Jackett-with-Medusa) as soon as possible for the best experience.
 
