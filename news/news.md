@@ -7,13 +7,13 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 Hi guys, when we finally were up to a two weekly release cycle, we're back to almost 2 months. But we guarantee you, we haven't been sitting still. 
 
-Let's start with mentioning our new Jacket section in the provider's config. You are now able to add dedicated jacket providers. With that change, we took the time to fix a number of bugs, we were experiencing with some jacket providers and for example in combination with magnet links. Those issues should be in the past.
+Let's start with mentioning our new Jackett section in the Providers Config. You are now able to add dedicated Jackett providers. With that change, we took the time to fix a number of bugs we were experiencing with some Jackett providers and, for example, in combination with magnet links. Those issues should now be a thing of the past.
 
-We haven't been able to add as many new features as we'd like to, and that's because a few months ago we started laying the foundation for a new frontend. This new frontend is based on the js framework vue.js. And we are working hard on rewriting the existing user interface into a componentized vue.js ui.
+We haven't been able to add as many new features as we'd like to, and that's because a few months ago we started laying the foundation for a new front-end. This new front-end is based on the JavaScript framework Vue.js. And we are working hard on rewriting the existing user interface into a componentized Vue.js UI.
 
-We will not only focus on migrating the old interface, but we will also improve where possible with little impact.
+We will not only focus on migrating the old interface, but we will also make improvements where possible, with little impact.
 
-When migrated to the new vue.js based ui, we will start development on a new responsive UI. And for that, we can use some help. So if your good with html, js, CSS, UX, Photoshop, whatever actually, let us know!
+When migrated to the new Vue.js based UI, we will start development on a new responsive UI. And for that, we can use some help. So if you're good with HTML, JS, CSS, UX, Photoshop, whatever actually, do let us know!
 
 ####2018-03-1####
 
