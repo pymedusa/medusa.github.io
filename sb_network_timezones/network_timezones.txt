@@ -949,6 +949,7 @@ Horror Channel (UK):Europe/London
 Horse & Country TV (UK):Europe/London
 Howard TV (US):US/Eastern
 Hrvatska radiotelevizija:Europe/Zagreb
+Hub Network:US/Eastern
 Hulu:US/Eastern
 Hunan TV:Asia/Shanghai
 Hír TV:Europe/Budapest
