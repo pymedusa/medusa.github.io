@@ -3,6 +3,7 @@
 [full changelog](https://github.com/pymedusa/Medusa/milestone/34?closed=1)
 
 **Features**:
+
 - Add dedicated Torznab (Jackett) providers support #3513
 - Add CinemaZ provider (#3856)
 
