@@ -819,6 +819,7 @@ Fox Channel (IT):Europe/Rome
 Fox Channel (UK):Europe/London
 Fox Channel:Europe/Berlin
 Fox Crime:Europe/Rome
+Fox España:Europe/Madrid
 Fox Family:US/Eastern
 Fox Life (IT):Europe/Rome
 Fox Life (NL):Europe/Amsterdam
