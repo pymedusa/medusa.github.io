@@ -1139,6 +1139,7 @@ MBN:Asia/Seoul
 MBS TV:Asia/Tokyo
 MBS:Asia/Tokyo
 MCM:Europe/Paris
+MCOT:Asia/Bangkok
 MDR:Europe/Berlin
 MDV (AU):Australia/Sydney
 MGM (UK):Europe/London
