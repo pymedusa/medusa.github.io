@@ -2,17 +2,15 @@
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
 
-
 ####2018-05-16####
 
 ## 0.2.3
 
-In our previous release, we starting refactoring allot of our user interface. But with that, we noticed a lot of bugs popped up, which we've been fixing for the last month.
+In our previous release, we started refactoring a lot of our user interface. With that, we noticed a few bugs popped up, which we've been fixing for the last month.
 
 With the exception of a new provider named AvistaZ we haven't added any new features.
 
 We did further improve the edit show page. Made it more responsive and improved the 'save' message.
-
 
 ####2018-04-21####
 
