@@ -3,6 +3,7 @@
 [full changelog](https://github.com/pymedusa/Medusa/milestone/35?closed=1)
 
 **Features**:
+
 - Add AvistaZ provider (#4119)
 
 **Fixes**:
@@ -73,7 +74,6 @@
 - More UI fixes for the release (#4179)
 - Fix Add New Show redirection (#4196)
 - Update Emby Notifier (#4199)
-
 
 ### v0.2.2:
 
@@ -162,7 +162,6 @@
 - Use future xmlrpc.client instead of six.moves.xmlrpc_client (#3832)
 - apiv1: Add error handling, for looking up show artwork through apiv1. (#3826)
 - added vue js libs (#3827)
-
 
 ### v0.2.1:
 
