@@ -1,3 +1,10 @@
+### v0.2.4
+
+**Hotfix**:
+
+- Fix changing status from displayShow
+
+
 ### v0.2.3:
 
 [full changelog](https://github.com/pymedusa/Medusa/milestone/35?closed=1)
