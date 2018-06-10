@@ -3,11 +3,13 @@
 [full changelog](https://github.com/pymedusa/Medusa/milestone/37?closed=1)
 
 **Features**:
+
 - Add new provider: BJ-Share (Brazillian) (#4197)
 - Add option to pass a label to download with utorrent (#4056)
 - Add support for AnimeBytes.tv scrape.php (#4242)
 
 **Fixes**:
+
 - Fix LogLine.format_to_html on Windows systems (#4321)
 - HeBits: Change BS4 parser to html.parser (#4319)
 - Unify coding style in show_queue (#4314)
