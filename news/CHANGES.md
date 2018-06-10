@@ -1,3 +1,59 @@
+### v0.2.5:
+
+[full changelog](https://github.com/pymedusa/Medusa/milestone/37?closed=1)
+
+**Features**:
+- Add new provider: BJ-Share (Brazillian) (#4197)
+- Add option to pass a label to download with utorrent (#4056)
+- Add support for AnimeBytes.tv scrape.php (#4242)
+
+**Fixes**:
+- Fix LogLine.format_to_html on Windows systems (#4321)
+- HeBits: Change BS4 parser to html.parser (#4319)
+- Unify coding style in show_queue (#4314)
+- switch config/search to vue (#4045)
+- Fix IndexerShowNotFound when adding existing shows (#4308)
+- Update Websocket (#4312)
+- Fix adding 2+ shows (that need searching) using Add Existing Show (#4298)
+- Fix ShowDirectoryNotFoundException on massEdit (#4307)
+- Update enzyme - fixes embedded English subs tagged as undetermined (#4309)
+- Fix changing status to Downloaded (#4310)
+- Split composite status into status and quality, add Unknown as valid quality (#4221)
+- Fix #3821 - anime naming %E with only absolute number (#4297)
+- Fix UnicodeDecodeError on guessit guess (#4295)
+- Fix sports shows not post-processing. Fixes #3708 (#4294)
+- Replace spaces with hyphens in network logo names (#4292)
+- Fixes for indexer show searching (#4260)
+- Add YouTube Red network icon (#4262)
+- TMDB: Utilize `append_to_response` to make fewer API calls (#4245)
+- Deluge: Check that the request didn't fail (#4268)
+- newShow: Fix #4256, Fix #3359 (#4235)
+- Remove NotifyMyAndroid (#4237)
+- Component prop watchers should fire only once (#4282)
+- enable vue perf stats for devs (#4269)
+- Update axios to v0.18.0 (#4283)
+- Fix TypeError: cannot serialize 6.9 (type float) (#4280)
+- Fix #3190 - cannot rollback - no transaction is active (#4261)
+- Fix show image retrieval when no show data was received (#4263)
+- Fix #3988 - API v2 pagination links (#4264)
+- Add axios api clients for apiv1 and the normal routes that return json (#4258)
+- Fix travis build (#4254)
+- Update imdbpie to 5.4.5 + builds failing (#4253)
+- Update frisbee to 2.0.4 (#4232)
+- add EPIX network logo (#4247)
+- Update root yarn.lock (#4236)
+- Catch BTN "524 Origin Time-out" error (#4240)
+- Fix missed class changes: btn -> btn-medusa (#4238)
+- imdb-popular: Only get 'year' item if available (#4239)
+- Encode the filename utf-8 before sending it to q-bittorrent. (#4219)
+- indexerApi.config: Fix sorting (#4233)
+- Small linting. (#4234)
+- app-link: Fix anonymised webcal and multiple location hashes (#4230)
+- Emby: Add info logs (#4231)
+- Add 2 new torrent cachers (#4217)
+- IssueSubmitter: Fix AttributeError (#4215)
+
+
 ### v0.2.4:
 
 **Hotfix**:

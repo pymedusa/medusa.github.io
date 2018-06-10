@@ -1,6 +1,15 @@
 ####Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
+####2018-06-10####
+
+## 0.2.5
+
+Release 0.2.4 was a critical bugfix. Whereas with 0.2.5 we're picking up the pace on the migration of the all pages to our new vue.js based user interface. We're still far away of finishing it, but at least we're making steady progress.
+
+This release is filled with some nice user contributions. Support for a new (Brazilian) torrent provider named BJ-Share was added. We've also fixed our support for the provider AnimeBytes. This should now also work properly without having to resort to Jacket for it.
+
+Besides a really long list of bugfixes, we've finally separated Medusa's qualities and status states. This was a piece of legacy which we wanted to get rid of for a long time. With this change we removed some technical debt, and we can now further improve on our quality handling. More improvements regarding the postprocessing coming soon.
 
 ####2018-05-16####
 
