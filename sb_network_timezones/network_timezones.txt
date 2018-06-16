@@ -2202,6 +2202,7 @@ Unknown (UK):Europe/London
 Unknown (US):US/Eastern
 Ustream:US/Eastern
 V Channel (UK):Europe/London
+V LIVE:Asia/Seoul
 V:Canada/Eastern
 VARA:Europe/Amsterdam
 VENEVISION INTERNATIONAL (US):US/Eastern
