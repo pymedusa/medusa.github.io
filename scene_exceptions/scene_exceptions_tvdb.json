@@ -1785,6 +1785,9 @@
                 "Ultimate Spiderman",
                 "Ultimate Spider man",
                 "Ultimate Spider-Man Web Warriors"
+            ],
+            "4": [
+                "Ultimate Spider-Man vs The Sinister 6"
             ]
         },
         "257804": {
@@ -2860,11 +2863,6 @@
                 "Tokyo Ghoul √A"
             ]
         },
-        "257645": {
-            "4": [
-                "Ultimate Spider-Man vs The Sinister 6"
-            ]
-        },
         "306937": {
             "1": [
                 "The Characters"
@@ -3079,17 +3077,13 @@
         },
         "256381": {
             "-1": [
-                "Buzz Aldrin What Happened to You in All the Confusion"
+                "Buzz Aldrin What Happened to You in All the Confusion",
+                "Buzz Aldrin"
             ]
         },
         "292157": {
             "-1": [
                 "Taboo UK"
-            ]
-        },
-        "256381": {
-            "-1": [
-                "Buzz Aldrin"
             ]
         },
         "318023": {
@@ -3148,7 +3142,7 @@
                 "Marvels Iron Fist"
             ]
         },
-        "317953": {
+        "324710": {
             "-1": [
                 "The Silver Guardian",
                 "Gin no Guardian"
