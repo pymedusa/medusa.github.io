@@ -1392,6 +1392,7 @@ OWN (CA):Canada/Eastern
 OWN:US/Eastern
 Oasis HD:Canada/Eastern
 Oireachtas TV (IE):Europe/Dublin
+oksusu:Asia/Seoul
 Olive TV (UK):Europe/London
 Olive:Asia/Seoul
 Omni:Canada/Eastern
