@@ -877,6 +877,7 @@ Gem (AU):Australia/Sydney
 Gem Shopping Network (US):US/Eastern
 Gems TV (UK):Europe/London
 Gems TV Extra (UK):Europe/London
+Genius Kitchen:US/Eastern
 Geo TV:Asia/Karachi
 Global:Canada/Eastern
 Globo International (AU):Australia/Sydney
