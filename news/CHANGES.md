@@ -1,3 +1,108 @@
+### v0.2.6:
+
+[full changelog](https://github.com/pymedusa/Medusa/milestone/39?closed=1)
+
+**Features:**
+
+- Vueify show selector ([#4481](https://github.com/pymedusa/Medusa/issues/4481))
+- Move desktop notifications ([#4357](https://github.com/pymedusa/Medusa/issues/4357))
+- Vueify Add New Show page ([#4267](https://github.com/pymedusa/Medusa/issues/4267))
+- Vueify Root Dirs ([#4059](https://github.com/pymedusa/Medusa/issues/4059))
+- add puex store and vuex websockets ([#4332](https://github.com/pymedusa/Medusa/issues/4332))
+- Refactor file-browser component and use in select pages ([#4348](https://github.com/pymedusa/Medusa/issues/4348))
+- Move Javascript to Vue for config pages: subtitles, backuprestore, and postProcessing ([#4055](https://github.com/pymedusa/Medusa/issues/4055))
+- Move Javascript to Vue for pages: history, schedule, config/notifications ([#4462](https://github.com/pymedusa/Medusa/issues/4462))
+- add more fields to config API including patch ([#4404](https://github.com/pymedusa/Medusa/issues/4404))
+- add more config fields to store ([#4383](https://github.com/pymedusa/Medusa/issues/4383))
+- Update TVDB urls ([#4455](https://github.com/pymedusa/Medusa/issues/4455))
+- Add vue component name-pattern.mako ([#4288](https://github.com/pymedusa/Medusa/issues/4288))
+- editShow: Replace checkboxes with toggle-button ([#4339](https://github.com/pymedusa/Medusa/issues/4339))
+- move more of schedule to vue ([#4361](https://github.com/pymedusa/Medusa/issues/4361))
+- Add a backstretch Vue component ([#4457](https://github.com/pymedusa/Medusa/issues/4457))
+
+**Fixes:**
+
+- Remove `app.ANON_REDIRECT` references from `mako` ([#4529](https://github.com/pymedusa/Medusa/issues/4529))
+- Fix proper search downloading multiple propers. Fixes [#4495](https://github.com/pymedusa/Medusa/issues/4495) ([#4509](https://github.com/pymedusa/Medusa/issues/4509))
+- Fix [#4518](https://github.com/pymedusa/Medusa/issues/4518) - TMDB unavailable when loading IMDB info ([#4524](https://github.com/pymedusa/Medusa/issues/4524))
+- Patch email notifier episode parsing. Fixes [#4159](https://github.com/pymedusa/Medusa/issues/4159) ([#4450](https://github.com/pymedusa/Medusa/issues/4450))
+- Change metadata file permission error to warning, use `errno` pkg ([#4505](https://github.com/pymedusa/Medusa/issues/4505))
+- Fix better allowed quality versions not being downloaded. Fixes [#4511](https://github.com/pymedusa/Medusa/issues/4511) ([#4514](https://github.com/pymedusa/Medusa/issues/4514))
+- Fix failing to create gist if log line wasn't found in log files ([#4503](https://github.com/pymedusa/Medusa/issues/4503))
+- Update pickManualSearch - fixes [#3134](https://github.com/pymedusa/Medusa/issues/3134) ([#4491](https://github.com/pymedusa/Medusa/issues/4491))
+- Simplify/Improve YggTorrent pubdate parsing ([#4507](https://github.com/pymedusa/Medusa/issues/4507))
+- Fix asset sizes ([#4506](https://github.com/pymedusa/Medusa/issues/4506))
+- WebSocket: Message class and configUpdated event ([#4456](https://github.com/pymedusa/Medusa/issues/4456))
+- Fix YggTorrent size parsing + enable tests ([#4485](https://github.com/pymedusa/Medusa/issues/4485))
+- Fix SceneTime and add missing pubdate ([#4480](https://github.com/pymedusa/Medusa/issues/4480))
+- remove unused isMeta ([#4479](https://github.com/pymedusa/Medusa/issues/4479))
+- Refactor search/core.py: Fixes [#4201](https://github.com/pymedusa/Medusa/issues/4201) & fixes [#4168](https://github.com/pymedusa/Medusa/issues/4168). Maybe fixes [#4208](https://github.com/pymedusa/Medusa/issues/4208) ([#4311](https://github.com/pymedusa/Medusa/issues/4311))
+- Fix bugs in schedule banner layout ([#4478](https://github.com/pymedusa/Medusa/issues/4478))
+- Fix missing Medusa Info on config page ([#4477](https://github.com/pymedusa/Medusa/issues/4477))
+- fix asset 404 ([#4376](https://github.com/pymedusa/Medusa/issues/4376))
+- EditShow: Fix saving dvdOrder ([#4460](https://github.com/pymedusa/Medusa/issues/4460))
+- Fix [#4408](https://github.com/pymedusa/Medusa/issues/4408) - Search delay UI bug with fractions ([#4453](https://github.com/pymedusa/Medusa/issues/4453))
+- Fix exception when Transmission is unreachable ([#4452](https://github.com/pymedusa/Medusa/issues/4452))
+- Fix TorrentDay not returning results with invalid JSON ([#4448](https://github.com/pymedusa/Medusa/issues/4448))
+- Improve detection of quality from filename ([#4410](https://github.com/pymedusa/Medusa/issues/4410))
+- TVDB: Fix exception when no updates are returned. Fixes [#4419](https://github.com/pymedusa/Medusa/issues/4419) ([#4445](https://github.com/pymedusa/Medusa/issues/4445))
+- Fix selecting episodes with Shift key not working ([#4417](https://github.com/pymedusa/Medusa/issues/4417))
+- Fix [#4402](https://github.com/pymedusa/Medusa/issues/4402) - Only Absolute Number broken for SxxExx format ([#4403](https://github.com/pymedusa/Medusa/issues/4403))
+- Fix Tornado request logging ([#4398](https://github.com/pymedusa/Medusa/issues/4398))
+- Fix issue submitter speed ([#4409](https://github.com/pymedusa/Medusa/issues/4409))
+- Fix [#4369](https://github.com/pymedusa/Medusa/issues/4369) - exception when getting TVDB actors ([#4379](https://github.com/pymedusa/Medusa/issues/4379))
+- Make sure the file exists before checking is_rarfile(). Fixes [#4405](https://github.com/pymedusa/Medusa/issues/4405) ([#4406](https://github.com/pymedusa/Medusa/issues/4406))
+- Fix [#4375](https://github.com/pymedusa/Medusa/issues/4375) - support unicode chars in censored items ([#4394](https://github.com/pymedusa/Medusa/issues/4394))
+- Improve shutil_custom. Should fix [#4362](https://github.com/pymedusa/Medusa/issues/4362) ([#4388](https://github.com/pymedusa/Medusa/issues/4388))
+- Render restart page before updating to prevent errors ([#4395](https://github.com/pymedusa/Medusa/issues/4395))
+- updated YGGtorrent provider for new URL ([#4384](https://github.com/pymedusa/Medusa/issues/4384))
+- BTN: Catch 500 Internal Server Error ([#4393](https://github.com/pymedusa/Medusa/issues/4393))
+- API v1 - Fix fetching history with type ([#4400](https://github.com/pymedusa/Medusa/issues/4400))
+- Ignore .@__thumb folders. ([#4392](https://github.com/pymedusa/Medusa/issues/4392))
+- fix assets not loading in some home layouts ([#4372](https://github.com/pymedusa/Medusa/issues/4372))
+- Add new values to the config API endpoint ([#4363](https://github.com/pymedusa/Medusa/issues/4363))
+- NZBget: Handle socket.error gracefully. Fixes [#4340](https://github.com/pymedusa/Medusa/issues/4340) ([#4366](https://github.com/pymedusa/Medusa/issues/4366))
+- BTN: Fix AttributeError on DownloadURL ([#4364](https://github.com/pymedusa/Medusa/issues/4364))
+- Strip more invalid filename characters - Fixes [#3839](https://github.com/pymedusa/Medusa/issues/3839) ([#4351](https://github.com/pymedusa/Medusa/issues/4351))
+- Fix WebSocket connection error message and gulp ([#4360](https://github.com/pymedusa/Medusa/issues/4360))
+- Handle exceptions on download method test web endpoints ([#4359](https://github.com/pymedusa/Medusa/issues/4359))
+- Update issue submitter ([#4352](https://github.com/pymedusa/Medusa/issues/4352))
+- Feature/always pp manual searched files ([#4313](https://github.com/pymedusa/Medusa/issues/4313))
+- Update bjshare.py - the url of the provider has been changed after server migration ([#4350](https://github.com/pymedusa/Medusa/issues/4350))
+- Make sure all boolean values are returned as boolean ([#4337](https://github.com/pymedusa/Medusa/issues/4337))
+- Fix [#4338](https://github.com/pymedusa/Medusa/issues/4338) - addExistingShows dupe + skipping shows ([#4336](https://github.com/pymedusa/Medusa/issues/4336))
+- Fix [#4327](https://github.com/pymedusa/Medusa/issues/4327) by converting quality to unsigned int ([#4328](https://github.com/pymedusa/Medusa/issues/4328))
+- Fix empty issue titles ([#4377](https://github.com/pymedusa/Medusa/issues/4377))
+
+**Known issues**:
+
+- Restarting Medusa pushes a WebSocket connection error notification
+- Black/White lists on Add New Show don't work
+- Jackett releases repeated in the manual search results
+
+**Meta & Tests:**
+
+- add vue linting to gulp ([#4523](https://github.com/pymedusa/Medusa/issues/4523))
+- Feature/misc vue changes ([#4522](https://github.com/pymedusa/Medusa/issues/4522))
+- Convert legacy restart/shutdown tests ([#4521](https://github.com/pymedusa/Medusa/issues/4521))
+- Update todo config to exclude vendored packages ([#4515](https://github.com/pymedusa/Medusa/issues/4515))
+- set todo config ([#4510](https://github.com/pymedusa/Medusa/issues/4510))
+- Update yarn.lock ([#4476](https://github.com/pymedusa/Medusa/issues/4476))
+- Fix bower ([#4472](https://github.com/pymedusa/Medusa/issues/4472))
+- Fix CI tests ([#4473](https://github.com/pymedusa/Medusa/issues/4473))
+- Fix build, sync themes ([#4494](https://github.com/pymedusa/Medusa/issues/4494))
+- Update .pyup.yml + Update requirements.txt ([#4493](https://github.com/pymedusa/Medusa/issues/4493))
+- Fix Travis JS tests & cleanup ([#4490](https://github.com/pymedusa/Medusa/issues/4490))
+- Refactor provider tests ([#4487](https://github.com/pymedusa/Medusa/issues/4487))
+- Add logs section to bug template ([#4470](https://github.com/pymedusa/Medusa/issues/4470))
+- Delete ISSUE_TEMPLATE.md ([#4469](https://github.com/pymedusa/Medusa/issues/4469))
+- Add bug report issue template ([#4464](https://github.com/pymedusa/Medusa/issues/4464))
+- Add feature request issue template ([#4465](https://github.com/pymedusa/Medusa/issues/4465))
+- Gulp sync ([#4397](https://github.com/pymedusa/Medusa/issues/4397))
+- Add Python3 blocker badge ([#4365](https://github.com/pymedusa/Medusa/issues/4365))
+- Fix some spelling mistakes in the code ([#4380](https://github.com/pymedusa/Medusa/issues/4380))
+
+
 ### v0.2.5:
 
 [full changelog](https://github.com/pymedusa/Medusa/milestone/37?closed=1)

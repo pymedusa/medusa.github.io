@@ -1,6 +1,39 @@
 ####Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
+<br/>
+
+####2018-07-03####
+
+## 0.2.6
+
+Today we are extremely proud to bring you our newest release.  
+For the past three weeks we have been working hard to fix as many reported bugs as we could.  
+With over 50 solved issues, this has been one of the most productive releases we have ever had.
+
+Just to name a few of the bugs that were fixed:
+* The code responsible for filtering releases based on preferred/undesired
+words has been almost completely rewritten, the logic behind it has been improved, making it faster and more reliable.
+* Season and Proper searches were causing multiple downloads on some occasions, that has been fixed as well.
+* In some setups, higher quality releases were not being downloaded, that should finally be a thing of the past.
+* Email notifications were not that pretty, were they? They should be beautiful again now.
+* We decided to make the quality detection for your existing episodes more flexible. It will now be easier to get your episodes correctly recognized even with minimal information available (the video resolution is all that's needed).
+* We are also planning on bringing back the manual quality selection. Sadly it didn't make it into this release.
+
+These and many more fixes were made possible by your bug reports, please keep them coming.  
+We have also given a boost to the issue submitter's speed and accuracy, so it should now be faster to submit any bugs you may encounter right from Medusa's web interface.
+
+On the frontend side of things, we have made much progress, although much of it is behind the scenes.  
+You should already notice some speed improvements while browsing around and it will only get better once we are done with the switch.  
+
+If you encounter a bug in the interface on any page, be sure to check the developer console for errors by clicking the `F12` key on most browsers, and add them to your bug report.
+
+That'd be all for now, make sure to check out the changelog to find out about all the other changes, fixes and improvements.
+
+If you like what we do and want to support us, spread the word and share the love for Medusa!
+
+<br/>
+
 ####2018-06-10####
 
 ## 0.2.5
@@ -11,6 +44,8 @@ This release is filled with some nice user contributions. Support for a new (Bra
 
 Besides a really long list of bugfixes, we've finally separated Medusa's qualities and status states. This was a piece of legacy which we wanted to get rid of for a long time. With this change we removed some technical debt, and we can now further improve on our quality handling. More improvements regarding the postprocessing coming soon.
 
+<br/>
+
 ####2018-05-16####
 
 ## 0.2.3
@@ -20,6 +55,8 @@ In our previous release, we started refactoring a lot of our user interface. Wit
 With the exception of a new provider named AvistaZ we haven't added any new features.
 
 We did further improve the edit show page. Made it more responsive and improved the 'save' message.
+
+<br/>
 
 ####2018-04-21####
 
@@ -35,6 +72,8 @@ We will not only focus on migrating the old interface, but we will also make imp
 
 When migrated to the new Vue.js based UI, we will start development on a new responsive UI. And for that, we can use some help. So if you're good with HTML, JS, CSS, UX, Photoshop, whatever actually, do let us know!
 
+<br/>
+
 ####2018-03-1####
 
 ## 0.2.1
@@ -47,6 +86,8 @@ As for the second feature, we've provided the option to configure a CA bundle fo
 
 We'd like to thank everyone contributing through issues, pull requests and other channels.
 
+<br/>
+
 ####2018-02-17####
 
 ## 0.2.0
@@ -55,11 +96,13 @@ As you might have noticed with this release we're bumping our version with a min
 
 This change also means that we had to rework our image caching, as we now store the images in a separate folder for each indexer. With this change we took the time to remove some long outstanding bugs. And we hope that with these changes all bugs related to image caching have been resolved.
 
-Another new cool feature is atomically separated user interfaces. This means that it is now possible to add your own UI. Each UI is isolated into it's own folder structure. At the same time we've taken use of this new frondend structure, by create a fully IE11 supported `legacy` UI. The feature set for this legacy UI has been frozen. So new UI features will not make it into this UI. The other UI's `dark` and `light` are going to make use of modern browser technologies, so you can expect to see some cool UI features in the near future.
+Another new cool feature is atomically separated user interfaces. This means that it is now possible to add your own UI. Each UI is isolated into it's own folder structure. At the same time we've taken use of this new frondend structure, by create a fully IE11 supported legacy UI. The feature set for this legacy UI has been frozen. So new UI features will not make it into this UI. The other UI's dark and light are going to make use of modern browser technologies, so you can expect to see some cool UI features in the near future.
 
 We encourage anyone who has some or a lot of web design skills, to make use of our api v2 (and api v1 where needed), to start creating some cool themed UI's.
 
-Of course we've also included some bug fixes and provider maintenance. As one of the more popular providers `torrentday` made a change to its api. We've made adaptations to make the provider usable again. And if that's not enough, we've added the provideder `PrivateHD`.
+Of course we've also included some bug fixes and provider maintenance. As one of the more popular providers torrentday made a change to its api. We've made adaptations to make the provider usable again. And if that's not enough, we've added the provider PrivateHD.
+
+<br/>
 
 ####2018-01-15####
 
@@ -70,6 +113,8 @@ This is our first release of the year. We have some big changes in the pipeline 
 For the anime fans we've added an option that allows you to separate your list of anime with the list of series using tabs in the home page. Besides that, this release focuses mostly around bugfixes and some preparation towards a new big feature coming shortly after this one.
 
 This will also be the last semVer path update. Our next release will continue with 0.2.0.
+
+<br/>
 
 ####2017-12-26####
 
@@ -82,6 +127,8 @@ This release can be remembered as the one when we added the much requested featu
 Of course we've again fixed a lot of bugs. As for example YggTorrent should be usable again. And when adding new shows, it should now pick the highest rated image available. If you'd like to replace your current posters, banners or fanart, we've got you covered. You can use the mass update (Manage - Mass update) for that.
 
 You can expect from us to keep improving upon Medusa in 2018. So until then Merry Christmas and best wishes for 2018!
+
+<br/>
 
 ####2017-12-06####
 
