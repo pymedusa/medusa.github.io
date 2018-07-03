@@ -72,6 +72,7 @@
 - Make sure all boolean values are returned as boolean ([#4337](https://github.com/pymedusa/Medusa/issues/4337))
 - Fix [#4338](https://github.com/pymedusa/Medusa/issues/4338) - addExistingShows dupe + skipping shows ([#4336](https://github.com/pymedusa/Medusa/issues/4336))
 - Fix [#4327](https://github.com/pymedusa/Medusa/issues/4327) by converting quality to unsigned int ([#4328](https://github.com/pymedusa/Medusa/issues/4328))
+- Fix empty issue titles ([#4377](https://github.com/pymedusa/Medusa/issues/4377))
 
 **Known issues**:
 
@@ -97,7 +98,6 @@
 - Delete ISSUE_TEMPLATE.md ([#4469](https://github.com/pymedusa/Medusa/issues/4469))
 - Add bug report issue template ([#4464](https://github.com/pymedusa/Medusa/issues/4464))
 - Add feature request issue template ([#4465](https://github.com/pymedusa/Medusa/issues/4465))
-- Fix similar issues tests and empty issue titles ([#4377](https://github.com/pymedusa/Medusa/issues/4377))
 - Gulp sync ([#4397](https://github.com/pymedusa/Medusa/issues/4397))
 - Add Python3 blocker badge ([#4365](https://github.com/pymedusa/Medusa/issues/4365))
 - Fix some spelling mistakes in the code ([#4380](https://github.com/pymedusa/Medusa/issues/4380))
