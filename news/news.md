@@ -11,14 +11,13 @@ Today we are extremely proud to bring you our newest release.
 For the past three weeks we have been working hard to fix as many reported bugs as we could.  
 With over 50 solved issues, this has been one of the most productive releases we have ever had.
 
-Just to name a few of the bugs that were fixed:
-* The code responsible for filtering releases based on preferred/undesired
-words has been almost completely rewritten, the logic behind it has been improved, making it faster and more reliable.
-* Season and Proper searches were causing multiple downloads on some occasions, that has been fixed as well.
-* In some setups, higher quality releases were not being downloaded, that should finally be a thing of the past.
-* Email notifications were not that pretty, were they? They should be beautiful again now.
-* We decided to make the quality detection for your existing episodes more flexible. It will now be easier to get your episodes correctly recognized even with minimal information available (the video resolution is all that's needed).
-* We are also planning on bringing back the manual quality selection. Sadly it didn't make it into this release.
+Just to name a few of the bugs that were fixed:  
+- The code responsible for filtering releases based on preferred/undesired words has been almost completely rewritten, the logic behind it has been improved, making it faster and more reliable.  
+- Season and Proper searches were causing multiple downloads on some occasions, that has been fixed as well.  
+- In some setups, higher quality releases were not being downloaded, that should finally be a thing of the past.  
+- Email notifications were not that pretty, were they? They should be beautiful again now.  
+- We decided to make the quality detection for your existing episodes more flexible. It will now be easier to get your episodes correctly recognized even with minimal information available (the video resolution is all that's needed).  
+- We are also planning on bringing back the manual quality selection. Sadly it didn't make it into this release.  
 
 These and many more fixes were made possible by your bug reports, please keep them coming.  
 We have also given a boost to the issue submitter's speed and accuracy, so it should now be faster to submit any bugs you may encounter right from Medusa's web interface.
