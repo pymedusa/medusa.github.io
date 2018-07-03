@@ -7,23 +7,29 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 ## 0.2.6
 
-Today we are extremely proud to bring you our newest release. For the past three weeks we have been working hard to fix
-as many reported bugs as we could. With over 50 solved issues, this has been one of the most productive releases we have
-ever had. 
+Today we are extremely proud to bring you our newest release.  
+For the past three weeks we have been working hard to fix as many reported bugs as we could.  
+With over 50 solved issues, this has been one of the most productive releases we have ever had.
 
-Just to name a few of the bugs that were fixed: the code responsible for filtering releases based on preferred/undesired
-words has been almost completely rewritten, the logic behind it has been improved, making it faster and more realiable. Season and 
-Proper searches were causing multiple downloads on some occasions, that has been fixed as well. In some setups, higher quality releases
-were not being downloaded, that should finally be an thing of the past. Email notications were not that pretty, were they? They should be beautiful again now. We decided to make the quality detection for your existing episodes more flexible. It will now be easier
-to get your episodes correctly recognized even with minimal information availible (the resolution is all that's needed). We are
-also going to bring back the manual quality selection, sadly it didn't make it into this release. These and many more fixes were
-made possible by your bug reports, please keep them coming. We have given a boost to the issue submitter, so it should be even
-easier to submit any bugs you may encounter.
+Just to name a few of the bugs that were fixed:
+* The code responsible for filtering releases based on preferred/undesired
+words has been almost completely rewritten, the logic behind it has been improved, making it faster and more reliable.
+* Season and Proper searches were causing multiple downloads on some occasions, that has been fixed as well.
+* In some setups, higher quality releases were not being downloaded, that should finally be a thing of the past.
+* Email notifications were not that pretty, were they? They should be beautiful again now.
+* We decided to make the quality detection for your existing episodes more flexible. It will now be easier to get your episodes correctly recognized even with minimal information available (the video resolution is all that's needed).
+* We are also planning on bringing back the manual quality selection. Sadly it didn't make it into this release.
 
-On the frontend side of things: we have almost completed our transaction to Vue.js!
-You should already notice some speed improvements while browings around and it will only get better once we are done with the switch.
+These and many more fixes were made possible by your bug reports, please keep them coming.  
+We have also given a boost to the issue submitter's speed and accuracy, so it should now be faster to submit any bugs you may encounter right from Medusa's web interface.
+
+On the frontend side of things, we have made much progress, although much of it is behind the scenes.  
+You should already notice some speed improvements while browsing around and it will only get better once we are done with the switch.  
+
+If you encounter a bug in the interface on any page, be sure to check the developer console for errors by clicking the <code>F12</code> key on most browsers, and add them to your bug report.
 
 That'd be all for now, make sure to check out the changelog to find out about all the other changes, fixes and improvements.
+
 If you like what we do and want to support us, spread the word and share the love for Medusa!
 
 <br/>
