@@ -1543,6 +1543,7 @@ RTBF:Europe/Brussels
 RTE:Europe/Dublin
 RTL 2 (DE):Europe/Berlin
 RTL 4:Europe/Amsterdam
+RTL4:Europe/Amsterdam
 RTL 5:Europe/Amsterdam
 RTL 7:Europe/Amsterdam
 RTL 8:Europe/Amsterdam
