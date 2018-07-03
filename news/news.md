@@ -100,7 +100,7 @@ Another new cool feature is atomically separated user interfaces. This means tha
 
 We encourage anyone who has some or a lot of web design skills, to make use of our api v2 (and api v1 where needed), to start creating some cool themed UI's.
 
-Of course we've also included some bug fixes and provider maintenance. As one of the more popular providers torrentday made a change to its api. We've made adaptations to make the provider usable again. And if that's not enough, we've added the provideder PrivateHD.
+Of course we've also included some bug fixes and provider maintenance. As one of the more popular providers torrentday made a change to its api. We've made adaptations to make the provider usable again. And if that's not enough, we've added the provider PrivateHD.
 
 <br/>
 
