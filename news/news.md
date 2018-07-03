@@ -26,7 +26,7 @@ We have also given a boost to the issue submitter's speed and accuracy, so it sh
 On the frontend side of things, we have made much progress, although much of it is behind the scenes.  
 You should already notice some speed improvements while browsing around and it will only get better once we are done with the switch.  
 
-If you encounter a bug in the interface on any page, be sure to check the developer console for errors by clicking the <code>F12</code> key on most browsers, and add them to your bug report.
+If you encounter a bug in the interface on any page, be sure to check the developer console for errors by clicking the `F12` key on most browsers, and add them to your bug report.
 
 That'd be all for now, make sure to check out the changelog to find out about all the other changes, fixes and improvements.
 
