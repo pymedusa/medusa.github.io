@@ -103,7 +103,6 @@
 - Fix some spelling mistakes in the code ([#4380](https://github.com/pymedusa/Medusa/issues/4380))
 
 
-
 ### v0.2.5:
 
 [full changelog](https://github.com/pymedusa/Medusa/milestone/37?closed=1)
