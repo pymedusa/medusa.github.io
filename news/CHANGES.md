@@ -66,7 +66,6 @@
 - Fix WebSocket connection error message and gulp ([#4360](https://github.com/pymedusa/Medusa/issues/4360))
 - Handle exceptions on download method test web endpoints ([#4359](https://github.com/pymedusa/Medusa/issues/4359))
 - Update issue submitter ([#4352](https://github.com/pymedusa/Medusa/issues/4352))
-- Fix Series.to_json ([#4353](https://github.com/pymedusa/Medusa/issues/4353))
 - Feature/always pp manual searched files ([#4313](https://github.com/pymedusa/Medusa/issues/4313))
 - Update bjshare.py - the url of the provider has been changed after server migration ([#4350](https://github.com/pymedusa/Medusa/issues/4350))
 - Make sure all boolean values are returned as boolean ([#4337](https://github.com/pymedusa/Medusa/issues/4337))
