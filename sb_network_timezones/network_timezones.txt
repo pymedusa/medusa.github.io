@@ -789,6 +789,7 @@ FYI:US/Eastern
 Faith World TV (UK):Europe/London
 Family (CA):Canada/Eastern
 Family Friendly Entertainment (US):US/Eastern
+Family Gekijo:Asia/Tokyo
 Family Gekijou (JP):Asia/Tokyo
 Family:Canada/Eastern
 Fashion TV:Europe/Paris
