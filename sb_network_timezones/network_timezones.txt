@@ -1361,6 +1361,7 @@ NickToons:US/Eastern
 Nickelodeon (DE):Europe/Berlin
 Nickelodeon (NL):Europe/Amsterdam
 Nickelodeon:US/Eastern
+Nicktoons:US/Eastern
 Nicktoons Network:US/Eastern
 Niconico:Asia/Tokyo
 Nine Network Australia:Australia/Sydney
