@@ -44,6 +44,7 @@ const validateJSON = (filePath, validator) => {
 
 /**
  * Validate the scene exceptions JSON files.
+ * @returns {boolean} Validation result.
  */
 const validateSceneExceptions = () => {
   const validator = new Validator();
@@ -103,6 +104,7 @@ const validateSceneExceptions = () => {
 
 /**
  * Validate the scene exceptions JSON files.
+ * @returns {boolean} Validation result.
  */
 const validateBrokenProviders = () => {
   const filePath = path.join(__dirname, 'providers', 'broken_providers.json');
