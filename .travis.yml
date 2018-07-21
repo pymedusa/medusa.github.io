@@ -1,10 +1,7 @@
-before_install:
-    - openssl aes-256-cbc -K $encrypted_16ef2a8e0308_key -iv $encrypted_16ef2a8e0308_iv -in .travis/deploy_static.pem.enc -out .travis/deploy_static.pem -d
+language: node_js
+node_js: 10.1.0
+cache:
+  yarn: true
 script:
-    - echo "198.211.102.17 ecdsa-sha2-nistp256 AAAAE2VjZHNhLXNoYTItbmlzdHAyNTYAAAAIbmlzdHAyNTYAAABBBO+G8ELGG/NTCQ/3H2O7i8POqq9eKkeAnW2emTiEnBEgEFIfc5k/oUUWSFDniqN14tkpkL1t4tTOdaetqhJvxp0="
-      > ~/.ssh/known_hosts
-    - eval "$(ssh-agent -s)"
-    - chmod 600 .travis/deploy_static.pem
-    - ssh-add .travis/deploy_static.pem
-    - git remote add deploy dokku@198.211.102.17:cdn.pymedusa.com
-    - git push deploy master
+  - yarn run validate
+  - yarn run lint
