@@ -13,6 +13,6 @@ git {
 	path     /var/www/medusa
 	branch   develop
 	interval 86400
-	hook     {%MEDUSA_WEBHOOK_PATH%} {%MEDUSA_WEBHOOK_SECRET%}
+	hook     {%WEBHOOK_PATH%} {%WEBHOOK_SECRET%}
 	then     cp /var/www/medusa/CHANGELOG.md /var/www/html/news/CHANGELOG.md
 }
