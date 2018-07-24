@@ -6,5 +6,5 @@ git {
 	repo     https://github.com/pymedusa/medusa.github.io
 	branch   master
 	interval 86400
-	hook {$WEBHOOK_PATH} {$WEBHOOK_SECRET}
+	hook {%WEBHOOK_PATH%} {%WEBHOOK_SECRET%}
 }
