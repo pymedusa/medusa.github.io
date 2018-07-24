@@ -6,5 +6,13 @@ git {
 	repo     https://github.com/pymedusa/medusa.github.io
 	branch   master
 	interval 86400
-	hook {%WEBHOOK_PATH%} {%WEBHOOK_SECRET%}
+	hook     {%WEBHOOK_PATH%} {%WEBHOOK_SECRET%}
+}
+git {
+	repo     https://github.com/pymedusa/Medusa
+	path     /var/www/medusa
+	branch   develop
+	interval 86400
+	hook     {%WEBHOOK_PATH%} {%WEBHOOK_SECRET%}
+	then     cp /var/www/medusa/CHANGELOG.md /var/www/html/news/CHANGELOG.md
 }
