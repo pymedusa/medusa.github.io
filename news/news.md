@@ -7,7 +7,17 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 ## 0.2.7
 
-Enter text here
+Version 0.2.7 is out, with a number of new features/improvements and some important bugs squashed. Let's start with a much-requested feature. As of today, it is "again" possible to manually change the existing episode quality with support for the qualities downloaded and archived. Yes, we've heard you. And we've made sure you can overwrite the quality when in some exceptions getting the quality from the filename and reading the quality from the media, isn't working as expected.
+
+A few months ago, we've introduced themes. We did this to enable the possibility of adding and versioning atomically separated frontend themes. At first, we wanted to keep support for IE11. But we changed our mind for a number of reasons. But with this change, it was not possible to hot-swap themes. Meaning you would need to restart Medusa, for the change to have any effect. Hot swapping themes should be possible again.
+
+Most of our efforts are going into the frontend side of things, as we're working on a modern "componentized" frontend. This means that we are working hard to a real single page application (SPA). And part of that, means we need to transform more than 100 pages into vue.js components. In this release, we've again added allot of components. And there is light at the end of the tunnel.
+
+On the providers, we've made sure that YggTorrents, NorBits, and Abnormal are working again.
+
+We'd like to share you the new location for our changelog. We've made the [CHANGELOG.md](https://github.com/pymedusa/Medusa/blob/master/CHANGELOG.md) part of the codebase. It will still be visible from Medusa (the tools icon - changelog), but you can now keep track of all the new features/fixes in our develop branch's [CHANGELOG.md](https://github.com/pymedusa/Medusa/blob/develop/CHANGELOG.md) if you want to know what's coming.
+
+Last but not least we'd like to have your attention for a Kodi addon we're developing, that will let you re-download episodes from your seat, using a Kodi context menu. If you feel like experimenting a little, you can manually install this addon, and share your experiences on the addon's [kodi forum](https://forum.kodi.tv/showthread.php?tid=333091&highlight=medusa+addon). You can find more on the addon itself on the addon's Github page: [kodi-failed-downloads-addon](https://github.com/pymedusa/kodi-failed-downloads-addon). Let us know if we need to improve the addon in some way, or work on the installation instructions. Any feedback is welcome!
 
 <br/>
 
