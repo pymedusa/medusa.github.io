@@ -1,9 +1,9 @@
-####Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue####
+#### Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue ####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
 <br/>
 
-####2018-07-03####
+#### 2018-07-03 ####
 
 ## 0.2.6
 
@@ -33,7 +33,7 @@ If you like what we do and want to support us, spread the word and share the lov
 
 <br/>
 
-####2018-06-10####
+#### 2018-06-10 ####
 
 ## 0.2.5
 
@@ -45,7 +45,7 @@ Besides a really long list of bugfixes, we've finally separated Medusa's qualiti
 
 <br/>
 
-####2018-05-16####
+#### 2018-05-16 ####
 
 ## 0.2.3
 
@@ -57,7 +57,7 @@ We did further improve the edit show page. Made it more responsive and improved 
 
 <br/>
 
-####2018-04-21####
+#### 2018-04-21 ####
 
 ## 0.2.2
 
@@ -73,7 +73,7 @@ When migrated to the new Vue.js based UI, we will start development on a new res
 
 <br/>
 
-####2018-03-1####
+#### 2018-03-1 ####
 
 ## 0.2.1
 
@@ -87,7 +87,7 @@ We'd like to thank everyone contributing through issues, pull requests and other
 
 <br/>
 
-####2018-02-17####
+#### 2018-02-17 ####
 
 ## 0.2.0
 
@@ -103,7 +103,7 @@ Of course we've also included some bug fixes and provider maintenance. As one of
 
 <br/>
 
-####2018-01-15####
+#### 2018-01-15 ####
 
 ## 0.1.23
 
@@ -115,7 +115,7 @@ This will also be the last semVer path update. Our next release will continue wi
 
 <br/>
 
-####2017-12-26####
+#### 2017-12-26 ####
 
 ## 0.1.21
 
@@ -129,7 +129,7 @@ You can expect from us to keep improving upon Medusa in 2018. So until then Merr
 
 <br/>
 
-####2017-12-06####
+#### 2017-12-06 ####
 
 ## 0.1.20
 
@@ -137,7 +137,7 @@ This is mainly a bugfix release, addressing some annoying issues with a bunch of
 
 <br/>
 
-####2017-10-21####
+#### 2017-10-21 ####
 
 ## 0.1.16
 
@@ -151,7 +151,7 @@ We'd also like to use this opportunity to emphasize that a project like this is 
 
 <br/>
 
-####2017-08-29####
+#### 2017-08-29 ####
 
 ## 0.1.15
 
@@ -163,7 +163,7 @@ We'd like to thank you guys for reporting the issues. As you helped us getting p
 
 <br/>
 
-####2017-07-20####
+#### 2017-07-20 ####
 
 Medusa is currently having issues because of a false DMCA request that was sent to Github. We have countered this notice and are waiting to hear back from them.
 
@@ -173,7 +173,7 @@ If you'd like to keep up to date with what's going on please join our [IRC chann
 
 <br/>
 
-####2017-07-06####
+#### 2017-07-06 ####
 
 ## 0.1.14
 
@@ -181,7 +181,7 @@ This is mainly a bugfix release, focusing on enhancing the overall stability of 
 
 <br/>
 
-####2017-05-29####
+#### 2017-05-29 ####
 
 ## 0.1.13
 
@@ -191,7 +191,7 @@ In addition to fine-tuning providers, we implemented a lot of bug fixes. If you 
 
 <br/>
 
-####2017-04-21####
+#### 2017-04-21 ####
 
 ## 0.1.12
 
@@ -203,7 +203,7 @@ Users that require basic authentication to access their Medusa installs, rejoice
 
 <br/>
 
-####2017-02-19####
+#### 2017-02-19 ####
 
 ## 0.1.11
 
@@ -217,7 +217,7 @@ As always we value the feedback we receive, so keep creating those issue reports
 
 <br/>
 
-####2017-02-03####
+#### 2017-02-03 ####
 
 ## 0.1.10
 
@@ -232,7 +232,7 @@ If your willing to help us out, please enable the setting and let us know if you
 
 <br/>
 
-####2016-12-24####
+#### 2016-12-24 ####
 
 ## 0.1.9
 
@@ -244,7 +244,7 @@ opportunity to wish everyone a Merry Christmas and a Happy New Year.
 
 <br/>
 
-####2016-11-18####
+#### 2016-11-18 ####
 
 ## 0.1.8.1
 
@@ -254,7 +254,7 @@ Remember that reporting issues helps us making a better software.
 
 <br/>
 
-####2016-11-15####
+#### 2016-11-15 ####
 
 ## 0.1.8
 
@@ -264,7 +264,7 @@ It includes many improvements, like season specific updates, and we can make sur
 
 <br/>
 
-####2016-10-27####
+#### 2016-10-27 ####
 
 ## 0.1.7
 
@@ -276,7 +276,7 @@ Furthermore, as planned, we now have the "Manual Subtitle search" (CC icon) and 
 
 <br/>
 
-####2016-10-05####
+#### 2016-10-05 ####
 
 ## 0.1.6
 
@@ -287,7 +287,7 @@ For 0.1.7 we are planning to release a new feature "Manual Subtitle search"! If 
 
 <br/>
 
-####2016-09-22####
+#### 2016-09-22 ####
 
 ## 0.1.5.2 bugfix release
 
@@ -295,7 +295,7 @@ This is just another bugfix release.
 
 <br/>
 
-####2016-09-18####
+#### 2016-09-18 ####
 
 ## 0.1.5.1 bugfix release
 
@@ -303,7 +303,7 @@ This is just a bugfix release that will allow users to upgrade with other databa
 
 <br />
 
-####2016-09-18####
+#### 2016-09-18 ####
 
 ## 0.1.5 here!
 
@@ -311,7 +311,7 @@ This week we are proud to bring you another important release, which focuses mai
 
 <br />
 
-####2016-09-07####
+#### 2016-09-07 ####
 
 ## 0.1.4.1 released!
 
@@ -319,7 +319,7 @@ We released earlier to fix some mako issues while saving PostProcessor and Notif
 
 <br />
 
-####2016-08-30####
+#### 2016-08-30 ####
 
 ## 0.1.4 released!
 
@@ -327,7 +327,7 @@ Another release with a lot of fixes and some new features. The most noticeable c
 
 <br />
 
-####2016-08-03####
+#### 2016-08-03 ####
 
 ## 0.1.3 is finally here!
 
@@ -335,7 +335,7 @@ After nearly a month of hard work, the Medusa team is proud to bring you the big
 
 <br />
 
-####2016-05-23####
+#### 2016-05-23 ####
 
 ## Welcome to **Medusa**!
 
