@@ -5,6 +5,16 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 #### 2018-07-27 ####
 
+## 0.2.8
+
+This version fixes two issues:  
+1. The web interface not loading after the last update, and requiring a "hard" page refresh (using Ctrl + F5).  
+2. The home page tabs being broken, when the setting for "Split home in tabs" is enabled.
+
+<br/>
+
+#### 2018-07-27 ####
+
 ## 0.2.7
 
 Version 0.2.7 is out, with a number of new features/improvements and some important bugs squashed.  
