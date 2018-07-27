@@ -3,6 +3,17 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 <br/>
 
+#### 2018-07-28 ####
+
+## 0.2.8
+
+This version fixes the following bugs:  
+- The web interface not loading after the last update, and requiring a "hard" page refresh (using Ctrl + F5).
+- The home page tabs being broken, when the setting for "Split home in tabs" is enabled
+- Error when trying to rename episodes
+
+<br/>
+
 #### 2018-07-27 ####
 
 ## 0.2.7
