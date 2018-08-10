@@ -3,7 +3,7 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 <br/>
 
-#### 2018-07-10 ####
+#### 2018-08-10 ####
 
 ## Prevent errors when using Medusa with service restarters
 
