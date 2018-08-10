@@ -3,6 +3,27 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 <br/>
 
+#### 2018-07-10 ####
+
+## Prevent errors when using Medusa with service restarters
+
+**TL;DR:**  
+Are you using a service restarter for Medusa, the Medusa Docker container, or the Windows installer?  
+Enable the **No Restart** option under General Configuration -> Advanced Settings.
+
+If you're using a service restarter of any kind to keep Medusa running at all times,  
+there's a good chance it's colliding with Medusa's own restart system.  
+This can affect everything from your database, your configuration and the application's cache files.  
+
+Medusa restarts by spawning (creating) a new process of itself after the shutting down the application.  
+Service restarters watch the main process, and when it is terminated they spawn a new instance. **Medusa's Docker container and Windows installer both use a service restarter as well.**
+Because of that feature, Medusa is trying to load **two instances** of itself **at the same time**, which can cause errors.  
+
+If you fall under any of the categories specified above,  
+we suggest enabling the **No Restart** option under General Configuration -> Advanced Settings.
+
+<br/>
+
 #### 2018-07-28 ####
 
 ## 0.2.8
