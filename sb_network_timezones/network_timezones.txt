@@ -80,6 +80,7 @@ AHC:US/Eastern
 AIT International (UK):Europe/London
 ALT Balaji:Asia/Kolkata
 AMAZING FACTS (US):US/Eastern
+AMC Premiere:US/Eastern
 AMC:US/Eastern
 AMERICAN HEROES CHANNEL (US):US/Eastern
 AMGTV (US):US/Eastern
@@ -1361,8 +1362,8 @@ NickToons:US/Eastern
 Nickelodeon (DE):Europe/Berlin
 Nickelodeon (NL):Europe/Amsterdam
 Nickelodeon:US/Eastern
-Nicktoons:US/Eastern
 Nicktoons Network:US/Eastern
+Nicktoons:US/Eastern
 Niconico:Asia/Tokyo
 Nine Network Australia:Australia/Sydney
 Nine Network:Australia/Sydney
@@ -1395,7 +1396,6 @@ OWN (CA):Canada/Eastern
 OWN:US/Eastern
 Oasis HD:Canada/Eastern
 Oireachtas TV (IE):Europe/Dublin
-oksusu:Asia/Seoul
 Olive TV (UK):Europe/London
 Olive:Asia/Seoul
 Omni:Canada/Eastern
@@ -1545,7 +1545,6 @@ RTBF:Europe/Brussels
 RTE:Europe/Dublin
 RTL 2 (DE):Europe/Berlin
 RTL 4:Europe/Amsterdam
-RTL4:Europe/Amsterdam
 RTL 5:Europe/Amsterdam
 RTL 7:Europe/Amsterdam
 RTL 8:Europe/Amsterdam
@@ -1558,6 +1557,7 @@ RTL Passion (DE):Europe/Berlin
 RTL TVI:Europe/Brussels
 RTL Television:Europe/Berlin
 RTL Televizija:Europe/Zagreb
+RTL4:Europe/Amsterdam
 RTL:Europe/Luxembourg
 RTM2 (MY):Asia/Kuala_Lumpur
 RTP Açores:Europe/Lisbon
@@ -2480,6 +2480,7 @@ nickelodeon (AU):Australia/Sydney
 nickelodeon (CA):Canada/Eastern
 nickelodeon (UK):Europe/London
 nova (CZ):Europe/Prague
+oksusu:Asia/Seoul
 one (AU):Australia/Sydney
 ovationchannel.com.au:Australia/Sydney
 palladia (US):US/Eastern
