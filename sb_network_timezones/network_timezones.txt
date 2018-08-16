@@ -450,6 +450,7 @@ Canvas/Ketnet:Europe/Brussels
 Capital TV (UK):Europe/London
 Caracol TV:America/Bogota
 Carlton Television:Europe/London
+Cartoon Hangover:US/Pacific
 Cartoon Network (CA):Canada/Eastern
 Cartoon Network Australia:Australia/Sydney
 Cartoon Network:US/Eastern
@@ -787,6 +788,7 @@ FX:US/Eastern
 FXX:US/Eastern
 FYI Network:US/Eastern
 FYI:US/Eastern
+Facebook Watch:US/Pacific
 Faith World TV (UK):Europe/London
 Family (CA):Canada/Eastern
 Family Friendly Entertainment (US):US/Eastern
