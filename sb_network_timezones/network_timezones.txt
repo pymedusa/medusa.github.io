@@ -1775,6 +1775,7 @@ Sky Living:Europe/London
 Sky Movies:Europe/London
 Sky News Ireland:Europe/Dublin
 Sky News:Europe/London
+Sky One:Europe/London
 Sky Sports:Europe/London
 Sky Travel:Europe/London
 Sky Uno:Europe/Rome
@@ -1790,6 +1791,7 @@ Smash Hits:Europe/London
 Smile of a Child TV (US):US/Eastern
 Smithsonian Channel (CA):Canada/Eastern
 Smithsonian Channel:US/Eastern
+Smithsonian Earth:US/Eastern
 Smooth (AU):Australia/Sydney
 SoHo:Australia/Sydney
 SonBeam Channel (US):US/Eastern
