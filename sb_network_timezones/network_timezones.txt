@@ -1191,6 +1191,7 @@ MTV Networks:US/Eastern
 MTV Poland:Europe/Warsaw
 MTV ROCKS (UK):Europe/London
 MTV network:US/Eastern
+MTV.com:US/Eastern
 MTV2 (CA):Canada/Eastern
 MTV2:US/Eastern
 MTV3:Europe/Helsinki
