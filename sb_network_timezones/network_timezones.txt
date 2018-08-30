@@ -1165,6 +1165,7 @@ MSG+ (US):US/Eastern
 MSNBC:US/Eastern
 MTA Muslim TV (UK):Europe/London
 MTN (AU):Australia/Sydney
+MTV.com:US/Eastern
 MTV (AU):Australia/Sydney
 MTV (CA):Canada/Eastern
 MTV (FI):Europe/Helsinki
