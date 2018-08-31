@@ -8,6 +8,7 @@ const winston = require('winston');
 const { Validator } = require('jsonschema');
 const dupKeyValidator = require('json-dup-key-validator');
 const moment = require('moment-timezone');
+const isEqual = require('lodash/isEqual');
 
 const log = winston.createLogger({
   transports: [new winston.transports.Console()],
@@ -138,8 +139,9 @@ const validateBrokenProviders = () => {
  * @returns {boolean} Validation result.
  */
 const validateNetworkTimezones = () => {
-  const filePath = path.join(__dirname, 'sb_network_timezones', 'network_timezones.txt');
-  log.info(`Validating: sb_network_timezones/network_timezones.txt`);
+  const relFile = 'sb_network_timezones/network_timezones.txt';
+  const filePath = path.resolve(__dirname, relFile);
+  log.info(`Validating: ${relFile}`);
 
   let errors = 0;
   const data = fs.readFileSync(filePath, 'utf-8');
@@ -202,10 +204,22 @@ const validateNetworkTimezones = () => {
     }
   });
 
-  // @TODO: Check list order
+  const sortedLines = lines.slice().filter(Boolean);
+  sortedLines.sort();
+  sortedLines.push('');
+
+  const sorted = isEqual(lines, sortedLines);
+  if (!sorted) {
+    if (process.argv.includes('--fix')) {
+      log.info(`Writing sorted lines to ${relFile}.`);
+      fs.writeFileSync(filePath, sortedLines.join('\n'));
+    } else {
+      log.error('Lines are unsorted. Run `yarn validate --fix` to fix.');
+    }
+  }
 
   console.log();
-  return errors === 0;
+  return errors === 0 && sorted;
 };
 
 const results = [
