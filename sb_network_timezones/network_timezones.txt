@@ -548,6 +548,7 @@ Current TV:US/Eastern
 CÚLA4 (IE):Europe/Dublin
 D8:Europe/Paris
 DAYSTAR (US):US/Eastern
+DC Universe:US/Pacific
 DD-Gujarati:Asia/Kolkata
 DDR1:Europe/Berlin
 DFamilia (US):US/Eastern
@@ -1165,7 +1166,6 @@ MSG+ (US):US/Eastern
 MSNBC:US/Eastern
 MTA Muslim TV (UK):Europe/London
 MTN (AU):Australia/Sydney
-MTV.com:US/Eastern
 MTV (AU):Australia/Sydney
 MTV (CA):Canada/Eastern
 MTV (FI):Europe/Helsinki
@@ -1191,6 +1191,7 @@ MTV Networks:US/Eastern
 MTV Poland:Europe/Warsaw
 MTV ROCKS (UK):Europe/London
 MTV network:US/Eastern
+MTV.com:US/Eastern
 MTV2 (CA):Canada/Eastern
 MTV2:US/Eastern
 MTV3:Europe/Helsinki
