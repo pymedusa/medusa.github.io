@@ -442,7 +442,7 @@ Canal de las Estrellas Latinoamerica (US):US/Eastern
 Canal de las Estrellas:America/Mexico_City
 Canal+ (ES):Europe/Madrid
 Canal+ (FR):Europe/Paris
-Canal+ Cyfrowy:Poland/Warsaw
+Canal+ Cyfrowy:Europe/Warsaw
 Canal+:Europe/Paris
 Canale 5:Europe/Rome
 Cancao News (US):US/Eastern
@@ -1232,7 +1232,7 @@ Movie Central:Canada/Eastern
 Movie Extra (AU):Australia/Sydney
 Movies 24 (UK):Europe/London
 Movies4Men (UK):Europe/London
-Movistar+:Europe/Spain
+Movistar+:Europe/Madrid
 Much (CA):Canada/Eastern
 Much TV:Asia/Taipei
 MuchMusic (CA):Canada/Eastern
