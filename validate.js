@@ -7,6 +7,7 @@ const glob = require('glob');
 const winston = require('winston');
 const { Validator } = require('jsonschema');
 const dupKeyValidator = require('json-dup-key-validator');
+const moment = require('moment-timezone');
 
 const log = winston.createLogger({
   transports: [new winston.transports.Console()],
@@ -132,9 +133,85 @@ const validateBrokenProviders = () => {
   return true;
 };
 
+/**
+ * Validate the network timezones list.
+ * @returns {boolean} Validation result.
+ */
+const validateNetworkTimezones = () => {
+  const filePath = path.join(__dirname, 'sb_network_timezones', 'network_timezones.txt');
+  log.info(`Validating: sb_network_timezones/network_timezones.txt`);
+
+  let errors = 0;
+  const data = fs.readFileSync(filePath, 'utf-8');
+  const linePattern = /^.+:[\w/]+$/;
+
+  // https://stackoverflow.com/a/5202185/7597273
+  const rsplit = (str, sep, maxsplit) => {
+    const split = str.split(sep);
+    return maxsplit ?
+      [split.slice(0, -maxsplit).join(sep)].concat(split.slice(-maxsplit)) :
+      split;
+  };
+
+  const logError = (message, index, line) => {
+    if (line) {
+      log.error(`Line #${index}: ${message}\n\t\`${line}\``);
+    } else {
+      log.error(`Line #${index}: ${message}`);
+    }
+    errors++;
+  };
+
+  const timezones = moment.tz.names();
+  const lines = data.split('\n');
+
+  if (!data.trim() || lines.length === 0) {
+    log.warn('File is empty.');
+    return true;
+  }
+
+  lines.forEach((line, index) => {
+    const lineIndex = index + 1;
+    const trimmedLine = line.trim();
+
+    if (lineIndex === lines.length) {
+      if (trimmedLine) {
+        logError('Please leave one empty line at the end of the file.', lineIndex);
+      } else {
+        // Last line should not be processed.
+        return;
+      }
+    }
+
+    if (!trimmedLine) {
+      logError('Please remove empty lines.', lineIndex);
+      return;
+    }
+
+    if (line.includes('\r')) {
+      logError('`\\r` found - please only use Linux EOL (`\\n`).', lineIndex);
+    }
+
+    if (!linePattern.test(line)) {
+      logError('Line format invalid, please use: `Network Name:Timezone`', lineIndex, line);
+    }
+
+    const timezone = rsplit(line, ':', 1)[1];
+    if (!timezones.includes(timezone)) {
+      logError(`Timezone \`${timezone}\` is invalid.`, lineIndex, line);
+    }
+  });
+
+  // @TODO: Check list order
+
+  console.log();
+  return errors === 0;
+};
+
 const results = [
   validateSceneExceptions(),
-  validateBrokenProviders()
+  validateBrokenProviders(),
+  validateNetworkTimezones()
 ];
 process.exit(
   Number(
