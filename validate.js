@@ -6,7 +6,7 @@ const path = require('path');
 const glob = require('glob');
 const winston = require('winston');
 const { Validator } = require('jsonschema');
-const jsonHandler = require('json-dup-key-validator');
+const dupKeyValidator = require('json-dup-key-validator');
 
 const log = winston.createLogger({
   transports: [new winston.transports.Console()],
@@ -24,9 +24,9 @@ const log = winston.createLogger({
  * @returns {(string|null)} Error if failed, null if passed
  */
 const validateJSON = (filePath, validator) => {
-  const data = fs.readFileSync(filePath, 'utf8');
+  const data = fs.readFileSync(filePath, 'utf-8');
 
-  const isInvalid = jsonHandler.validate(data, false);
+  const isInvalid = dupKeyValidator.validate(data, false);
   if (isInvalid !== undefined) {
     return isInvalid.replace(/\n/g, '\\n');
   }
@@ -107,8 +107,9 @@ const validateSceneExceptions = () => {
  * @returns {boolean} Validation result.
  */
 const validateBrokenProviders = () => {
-  const filePath = path.join(__dirname, 'providers', 'broken_providers.json');
-  log.info(`Validating: providers/broken_providers.json`);
+  const relFile = 'providers/broken_providers.json';
+  const filePath = path.resolve(__dirname, relFile);
+  log.info(`Validating: ${relFile}`);
 
   const validator = new Validator();
   validator.addSchema({
