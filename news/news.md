@@ -10,6 +10,7 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 Bulletpoints:
 
 - Now bundling the web application using Webpack, so it should become a bit faster to load the web interface.
+- The Post Processing Config page is now fully converted to Vue.
 - Fixed issues with anime shows - calls to AniDB.net should now be less frequent, and the web interface should be a bit more responsive.
 - Fixed UI not loading using edge browser, when using a reverse proxy (without an alternative port).
 - Fixed error when changing episode status from episode status management.
