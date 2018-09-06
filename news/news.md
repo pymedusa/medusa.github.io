@@ -3,6 +3,23 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 <br/>
 
+#### 2018-09-06 ####
+
+## 0.2.9
+
+Bulletpoints:
+
+- Now bundling the web application using Webpack, so it should become a bit faster to load the web interface.
+- The Post Processing Config page is now fully converted to Vue.
+- Fixed issues with anime shows - calls to AniDB.net should now be less frequent, and the web interface should be a bit more responsive.
+- Fixed UI not loading using edge browser, when using a reverse proxy (without an alternative port).
+- Fixed error when changing episode status from episode status management.
+- Fixed multi-episode snatches not being marked as snatched in history.
+- Fixed whole seasons being downloaded as multi-episode replacement.
+- A bunch of other bug fixes, check the changelog for details.
+
+<br/>
+
 #### 2018-07-28 ####
 
 ## 0.2.8
