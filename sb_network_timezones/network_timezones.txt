@@ -320,6 +320,7 @@ Bravo (US):US/Eastern
 Bravo!:Canada/Eastern
 Bravo:US/Eastern
 Brit Asia TV (UK):Europe/London
+BritBox:US/Eastern
 British Broadcasting Corporation (BBC):Europe/London
 British Broadcasting Corporation:Europe/London
 British Eurosport 2:Europe/London
@@ -1516,6 +1517,7 @@ QVC Beauty (UK):Europe/London
 QVC Extra (UK):Europe/London
 QVC Style (UK):Europe/London
 QVC:US/Eastern
+Quest Red:Europe/London
 Quest:Europe/London
 RAI:Europe/Rome
 RBB:Europe/Berlin
