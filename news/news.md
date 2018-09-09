@@ -3,6 +3,15 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 <br/>
 
+#### 2018-09-09 ####
+
+## 0.2.10
+
+A hotfix release, containing some much needed bug fixes.  
+You may refer to the changelog for the specific details.
+
+<br/>
+
 #### 2018-09-06 ####
 
 ## 0.2.9
