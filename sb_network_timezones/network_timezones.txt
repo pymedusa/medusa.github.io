@@ -1781,6 +1781,7 @@ Sky News Ireland:Europe/Dublin
 Sky News:Europe/London
 Sky One:Europe/London
 Sky Sports:Europe/London
+Sky Sports F1:Europe/London
 Sky Travel:Europe/London
 Sky Uno:Europe/Rome
 Sky1:Europe/London
