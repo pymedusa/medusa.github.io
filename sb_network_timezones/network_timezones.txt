@@ -1092,6 +1092,7 @@ LRS (AU):Australia/Sydney
 La Cinq:Europe/Paris
 La Deux:Europe/Brussels
 La Familia Cosmovision (US):US/Eastern
+La Red:Europe/Madrid
 La Siete:Europe/Madrid
 La Trois:Europe/Brussels
 La Une:Europe/Brussels
