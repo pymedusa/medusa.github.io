@@ -818,6 +818,7 @@ Fox (NI):America/Managua
 Fox (SV):America/El_Salvador
 Fox 8 (NL):Europe/Amsterdam
 Fox Action Movies:US/Eastern
+Fox Brasil:America/Sao_Paulo
 Fox Broadcasting Company:US/Eastern
 Fox Business:US/Eastern
 Fox Channel (BR):America/Sao_Paulo
