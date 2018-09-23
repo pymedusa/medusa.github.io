@@ -925,6 +925,7 @@ HKTV:Asia/Hong_Kong
 HLN:US/Eastern
 HOT:Asia/Jerusalem
 HR (DE):Europe/Berlin
+HRT 1:Europe/Zagreb
 HRT2 (HR):Europe/Zagreb
 HRTV (US):US/Eastern
 HSN (US):US/Eastern
