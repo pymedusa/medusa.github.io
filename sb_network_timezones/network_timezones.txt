@@ -958,6 +958,7 @@ Horror Channel (UK):Europe/London
 Horse & Country TV (UK):Europe/London
 Howard TV (US):US/Eastern
 Hrvatska radiotelevizija:Europe/Zagreb
+HTB:Asia/Tokyo
 Hub Network:US/Eastern
 Hulu:US/Eastern
 Hunan TV:Asia/Shanghai
@@ -1137,6 +1138,7 @@ MAD World (AU):Australia/Sydney
 MAIN EVENT (AU):Australia/Sydney
 MASTERPIECE MOVIES (AU):Australia/Sydney
 MATV:Europe/London
+MAX (NL):Europe/Oslo
 MAX (NL):Europe/Amsterdam
 MBC 1:Asia/Seoul
 MBC Drama:Asia/Seoul
