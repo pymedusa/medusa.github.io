@@ -929,6 +929,7 @@ HRT2 (HR):Europe/Zagreb
 HRTV (US):US/Eastern
 HSN (US):US/Eastern
 HSV (AU):Australia/Sydney
+HTB:Asia/Tokyo
 HUMAN (NL):Europe/Amsterdam
 Hakka TV:Asia/Taipei
 Hallmark Channel, The:US/Eastern
@@ -958,7 +959,6 @@ Horror Channel (UK):Europe/London
 Horse & Country TV (UK):Europe/London
 Howard TV (US):US/Eastern
 Hrvatska radiotelevizija:Europe/Zagreb
-HTB:Asia/Tokyo
 Hub Network:US/Eastern
 Hulu:US/Eastern
 Hunan TV:Asia/Shanghai
@@ -1079,6 +1079,7 @@ LATV (US):US/Eastern
 LCI:Europe/Paris
 LFC TV (UK):Europe/London
 LFN (US):US/Eastern
+LINE TV (TH):Asia/Bangkok
 LLBN Arabic (US):US/Eastern
 LLBN Chinese (US):US/Eastern
 LLBN English (US):US/Eastern
@@ -1118,7 +1119,6 @@ Lifetime Movie Network:US/Eastern
 Lifetime Television:US/Eastern
 Lifetime UK:Europe/London
 Lifetime:US/Eastern
-LINE TV (TH):Asia/Bangkok
 Liquidation Channel (US):US/Eastern
 Live Well NETWORK (US):US/Eastern
 Living Asia Channel (PH):Asia/Manila
@@ -1139,8 +1139,8 @@ MAD World (AU):Australia/Sydney
 MAIN EVENT (AU):Australia/Sydney
 MASTERPIECE MOVIES (AU):Australia/Sydney
 MATV:Europe/London
-MAX (NL):Europe/Oslo
 MAX (NL):Europe/Amsterdam
+MAX:Europe/Oslo
 MBC 1:Asia/Seoul
 MBC Drama:Asia/Seoul
 MBC Every1:Asia/Seoul
