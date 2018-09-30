@@ -1901,6 +1901,7 @@ TBN Russia (US):US/Eastern
 TBS (DE):Europe/Berlin
 TBS (JP):Asia/Tokyo
 TBS Superstation:US/Eastern
+TBS.com:US/Eastern
 TBS:US/Eastern
 TCM:Europe/London
 TCN (AU):Australia/Sydney
