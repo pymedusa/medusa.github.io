@@ -302,6 +302,7 @@ Bid (UK):Europe/London
 Bid Plus (UK):Europe/London
 Big Ten Network (US):US/Eastern
 Biography Channel:US/Eastern
+Blackpills:Europe/Paris
 Blip:US/Eastern
 Bloomberg TELEVISION (US):US/Eastern
 Bloomberg Television (UK):Europe/London
@@ -1631,6 +1632,7 @@ Russia Today:Europe/Kaliningrad
 RÚV:Europe/London
 Ríkisútvarpið (IS):Atlantic/Reykjavik
 S4/C:Europe/London
+S4C:Europe/London
 S4C2:Europe/London
 SAB tv (UK):Europe/London
 SABC 1 (ZA):Africa/Johannesburg
@@ -1855,6 +1857,7 @@ Starz:US/Eastern
 Steel:Europe/Rome
 Store (UK):Europe/London
 Studio 23:Asia/Manila
+Studio 4:Europe/London
 Style (AU):Australia/Sydney
 Style TV:US/Eastern
 Style:US/Eastern
