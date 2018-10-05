@@ -1632,8 +1632,8 @@ Russia Today:Europe/Kaliningrad
 RÚV:Europe/London
 Ríkisútvarpið (IS):Atlantic/Reykjavik
 S4/C:Europe/London
-S4C:Europe/London
 S4C2:Europe/London
+S4C:Europe/London
 SAB tv (UK):Europe/London
 SABC 1 (ZA):Africa/Johannesburg
 SABC1:Africa/Johannesburg
