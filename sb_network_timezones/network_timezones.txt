@@ -1865,6 +1865,7 @@ Stöð 2 (IS):Atlantic/Reykjavik
 Stöð 2:Atlantic/Reykjavik
 Sub:Europe/Helsinki
 Sun TV:Asia/Kolkata
+Sun Television:Asia/Tokyo
 Sundance Channel:US/Eastern
 Sundance TV:US/Eastern
 Sundance:US/Eastern
