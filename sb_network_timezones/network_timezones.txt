@@ -603,6 +603,7 @@ Discovery (US):US/Eastern
 Discovery CHANNEL (AU):Australia/Sydney
 Discovery CHANNEL (UK):Europe/London
 Discovery Channel (Asia):Asia/Singapore
+Discovery Channel (AU):Australia/Sydney
 Discovery Channel (Australia):Australia/Sydney
 Discovery Channel (CA):Canada/Eastern
 Discovery Channel (Canada):Canada/Eastern
