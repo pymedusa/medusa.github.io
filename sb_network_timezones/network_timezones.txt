@@ -32,6 +32,7 @@
 7NBC (US):US/Eastern
 7TWO (AU):Australia/Sydney
 7mate (AU):Australia/Sydney
+7mate:Australia/Sydney
 8TV (MY):Asia/Kuala_Lumpur
 9:Australia/Sydney
 9Live (DE):Europe/Berlin
@@ -602,8 +603,8 @@ DirecTV Japan:Asia/Tokyo
 Discovery (US):US/Eastern
 Discovery CHANNEL (AU):Australia/Sydney
 Discovery CHANNEL (UK):Europe/London
-Discovery Channel (Asia):Asia/Singapore
 Discovery Channel (AU):Australia/Sydney
+Discovery Channel (Asia):Asia/Singapore
 Discovery Channel (Australia):Australia/Sydney
 Discovery Channel (CA):Canada/Eastern
 Discovery Channel (Canada):Canada/Eastern
@@ -645,6 +646,7 @@ Disney Junior:US/Eastern
 Disney XD (CA):Canada/Eastern
 Disney XD:US/Eastern
 Disney-ABC Domestic Television:US/Eastern
+DisneyNOW:US/Eastern
 Divine TV (US):US/Eastern
 Doordarshan National:Asia/Kolkata
 Doordarshan News:Asia/Kolkata
