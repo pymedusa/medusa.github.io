@@ -35,7 +35,7 @@ Please include the following when opening a new ticket:
 4. Save changes
 
 **Note:** Synology users can use WinSCP to gain access/browse to the root where the Medusa log is located.  
-`/volume1/@appstore/sickbeard-custom/var/Logs/sickrage.log`
+`/volume1/@appstore/sickbeard-custom/var/Logs/application.log`
 
 ## [Frequently Asked Questions (FAQ)](https://github.com/pymedusa/Medusa/wiki/Frequently-Asked-Questions)
 
