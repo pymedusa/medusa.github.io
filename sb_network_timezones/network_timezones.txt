@@ -966,6 +966,7 @@ Howard TV (US):US/Eastern
 Hrvatska radiotelevizija:Europe/Zagreb
 Hub Network:US/Eastern
 Hulu:US/Eastern
+Hulu Japan:Asia/Tokyo
 Hunan TV:Asia/Shanghai
 Hír TV:Europe/Budapest
 IBC (PH):Asia/Manila
