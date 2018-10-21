@@ -1495,6 +1495,7 @@ Play UK, BBC Choice:Europe/London
 Play UK:Europe/London
 PlayJam:Europe/London
 PlayStation Network:US/Eastern
+Playstation:US/Eastern
 Playboy TV:US/Eastern
 Playhouse Disney:US/Eastern
 Playstation:US/Eastern
