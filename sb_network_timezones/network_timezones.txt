@@ -967,8 +967,8 @@ Horse & Country TV (UK):Europe/London
 Howard TV (US):US/Eastern
 Hrvatska radiotelevizija:Europe/Zagreb
 Hub Network:US/Eastern
-Hulu:US/Eastern
 Hulu Japan:Asia/Tokyo
+Hulu:US/Eastern
 Hunan TV:Asia/Shanghai
 Hír TV:Europe/Budapest
 IBC (PH):Asia/Manila
@@ -1495,9 +1495,9 @@ Play UK, BBC Choice:Europe/London
 Play UK:Europe/London
 PlayJam:Europe/London
 PlayStation Network:US/Eastern
-Playstation:US/Eastern
 Playboy TV:US/Eastern
 Playhouse Disney:US/Eastern
+Playstation:US/Eastern
 Plug RTL:Europe/Brussels
 Polsat:Europe/Warsaw
 Pop Girl (UK):Europe/London
