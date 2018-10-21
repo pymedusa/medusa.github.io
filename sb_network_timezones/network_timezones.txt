@@ -1498,7 +1498,6 @@ PlayStation Network:US/Eastern
 Playboy TV:US/Eastern
 Playhouse Disney:US/Eastern
 Playstation:US/Eastern
-Playstation:US/Eastern
 Plug RTL:Europe/Brussels
 Polsat:Europe/Warsaw
 Pop Girl (UK):Europe/London
