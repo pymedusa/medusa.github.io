@@ -52,6 +52,7 @@ ABC (PH):Asia/Manila
 ABC (UK):Europe/London
 ABC (US):US/Eastern
 ABC Family:US/Eastern
+ABC ME:Australia/Sydney
 ABC News 24:Australia/Sydney
 ABC Spark:Canada/Eastern
 ABC Television Network:US/Eastern
@@ -545,6 +546,7 @@ Create and Craft (UK):Europe/London
 Credo TV (US):US/Eastern
 Crime & Investigation Network (AU):Australia/Sydney
 Crime & Investigation Network:US/Eastern
+Crunchyroll:US/Pacific
 Cuatro:Europe/Madrid
 CuriosityStream:US/Eastern
 Current TV:US/Eastern
@@ -965,6 +967,7 @@ Horse & Country TV (UK):Europe/London
 Howard TV (US):US/Eastern
 Hrvatska radiotelevizija:Europe/Zagreb
 Hub Network:US/Eastern
+Hulu Japan:Asia/Tokyo
 Hulu:US/Eastern
 Hunan TV:Asia/Shanghai
 Hír TV:Europe/Budapest
@@ -1494,6 +1497,7 @@ PlayJam:Europe/London
 PlayStation Network:US/Eastern
 Playboy TV:US/Eastern
 Playhouse Disney:US/Eastern
+Playstation:US/Eastern
 Plug RTL:Europe/Brussels
 Polsat:Europe/Warsaw
 Pop Girl (UK):Europe/London
@@ -1721,6 +1725,7 @@ SUN TV:Asia/Kolkata
 SUN music:Asia/Kolkata
 SUN news:Asia/Kolkata
 SUN-TV (JP):Asia/Tokyo
+SUN-TV:Asia/Kolkata
 SUPER ÉCRAN (CA):Canada/Eastern
 SVT Drama:Europe/Stockholm
 SVT1:Europe/Stockholm
@@ -1854,6 +1859,7 @@ Star World (MV):Indian/Maldives
 Star World (SG):Asia/Singapore
 Star World:Asia/Hong_Kong
 Stargate Command:US/Eastern
+Starz Play:Asia/Dubai
 Starz TV (UK):Europe/London
 Starz!:US/Eastern
 Starz:US/Eastern
@@ -2064,6 +2070,7 @@ TVNZ:Pacific/Auckland
 TVNorge:Europe/Oslo
 TVO:Canada/Eastern
 TVOne Global:Asia/Karachi
+TVOntario:Canada/Eastern
 TVP SA:Europe/Warsaw
 TVP1:Europe/Warsaw
 TVP2:Europe/Warsaw
