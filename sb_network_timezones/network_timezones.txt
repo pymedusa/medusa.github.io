@@ -219,6 +219,7 @@ BBC Channel 4:Europe/London
 BBC Drama Productions:Europe/London
 BBC FOUR:Europe/London
 BBC First:Australia/Sydney
+BBC Five:Europe/London
 BBC Four:Europe/London
 BBC HD:Europe/London
 BBC Kids:Canada/Eastern
