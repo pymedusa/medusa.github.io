@@ -7,15 +7,15 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 ## 0.2.11
 
-It took as some time, but with a wave of new users, we also recieved a wave of bug reports and feature requests. So let's start with welcoming everyone who boarded the ship and thanks for all the contributions in whatever shape or format.
+It took us some time, but with a wave of new users, we also recieved a wave of bug reports and feature requests. So let's start with welcoming everyone who boarded the ship and thanks for all the contributions in whatever shape or format.
 
-This release can be highlighted with a major version upgrade of Guessit to version 3.x. Guessit is our release name parsing tool. Version 2 was already very good at "guessing" release names. In version 3.x, a number of buys have been fixed. Especially titles with short language codes and releases with the word 'line' in the title, should be parsed correctly now.
+This release can be highlighted with a major version upgrade of Guessit to version 3.x. Guessit is our release name parsing tool. Version 2 was already very good at "guessing" release names. In version 3.x, a number of bugs have been fixed. Especially titles with short language codes and releases with the word 'line' in the title, should be parsed correctly now.
 
-We've also improved our apiv2 webserver, which should now run multithreaded. This will result in faster loading times on numerous pages.
+We've also improved our APIv2 webserver, which should now run multithreaded. This will result in faster loading times on numerous pages.
 
-The list of bugfixes too long to mention here. But to mention a few, we've fixed an issue where you could not save the metadata config and the config postprocessing frequency. Also, there was an issue with opening an anime show with anidb release groups. That should be something of past.
+The list of bugfixes is too long to mention here. But to mention a few, we've fixed an issue where you could not save the metadata config and the config postprocessing frequency. Also, there was an issue with opening an anime show with anidb release groups. That should be something of the past.
 
-We've noticed a number of pull requests from new contributors. We'll try to include those for the next release. And in the meantime, keep those bug reports and pull request coming.
+We've noticed a number of pull requests from new contributors. We'll try to include those for the next release. And in the meantime, keep those bug reports and pull requests coming.
 
 #### 2018-09-09 ####
 
