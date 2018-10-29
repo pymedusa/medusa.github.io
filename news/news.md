@@ -17,6 +17,8 @@ The list of bugfixes is too long to mention here. But to mention a few, we've fi
 
 We've noticed a number of pull requests from new contributors. We'll try to include those for the next release. And in the meantime, keep those bug reports and pull requests coming.
 
+For a list of all the latest changes, you can take a look at v0.2.11 [changelog.md](https://github.com/pymedusa/Medusa/blob/v0.2.11/CHANGELOG.md)
+
 <br/>
 
 #### 2018-09-09 ####
