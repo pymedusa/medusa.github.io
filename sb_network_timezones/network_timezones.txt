@@ -2509,6 +2509,7 @@ neonalley.com (US):US/Eastern
 nick jr. (AU):Australia/Sydney
 nick jr. (UK):Europe/London
 nick jr. 2. (UK):Europe/London
+nick.com:US/Eastern
 nick@nite (US):US/Eastern
 nickToons (UK):Europe/London
 nickelodeon (AU):Australia/Sydney
