@@ -2219,6 +2219,7 @@ Ummah Channel (UK):Europe/London
 Universal Cable Productions:US/Eastern
 Universal Channel:America/Sao_Paulo
 Universal Christian (US):US/Eastern
+Universal Kids:US/Eastern
 University of California Television (US):US/Eastern
 University of Washington Television (US):US/Eastern
 Univision:US/Eastern
