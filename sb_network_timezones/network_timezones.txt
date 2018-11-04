@@ -1452,6 +1452,7 @@ PBS:US/Eastern
 PCNC (US):US/Eastern
 PIX 11 (US):US/Eastern
 POP (UK):Europe/London
+PPTV:Asia/Bangkok
 PREMIERE MOVIES (AU):Australia/Sydney
 PRO TV:Europe/Bucharest
 PRiME7 (AU):Australia/Sydney
