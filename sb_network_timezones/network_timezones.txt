@@ -1,3 +1,4 @@
+#0:Europe/Madrid
 +Globosat:America/Sao_Paulo
 1+1:Europe/Kiev
 111 Greats (AU):Australia/Sydney
