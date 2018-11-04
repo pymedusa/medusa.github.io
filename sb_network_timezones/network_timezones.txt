@@ -497,6 +497,7 @@ Chiller:US/Eastern
 Chorus Sports:Europe/Dublin
 Christian (UK):Europe/London
 Christian Television Network (US):US/Eastern
+Chubu-Nippon Broadcasting:Asia/Tokyo
 Chukyo TV (JP):Asia/Tokyo
 Church Channel (US):US/Eastern
 Chérie 25:Europe/Paris
