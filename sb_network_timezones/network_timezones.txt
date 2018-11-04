@@ -1085,6 +1085,7 @@ Koldcast.tv (US):US/Eastern
 Korean Channel (US):US/Eastern
 Kunskapskanalen:Europe/Stockholm
 Kyoto Broadcasting System:Asia/Tokyo
+Kyushu Asahi Broadcasting:Asia/Tokyo
 L!VETV (UK):Europe/London
 L1 (NL):Europe/Amsterdam
 LATV (US):US/Eastern
