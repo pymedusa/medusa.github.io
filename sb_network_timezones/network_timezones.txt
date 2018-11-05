@@ -2125,6 +2125,8 @@ Television Osaka:Asia/Tokyo
 Televisió de Catalunya (ES):Europe/Madrid
 Televisión de Galicia:Europe/Madrid
 Tempo Network (US):US/Eastern
+Tencent QQ:Asia/Shanghai
+Tencent Video:Asia/Shanghai
 TestTube:US/Eastern
 TevéCiudad:America/Montevideo
 Thames Television:Europe/London
