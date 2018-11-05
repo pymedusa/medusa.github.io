@@ -655,6 +655,7 @@ Disney XD:US/Eastern
 Disney-ABC Domestic Television:US/Eastern
 DisneyNOW:US/Eastern
 Divine TV (US):US/Eastern
+Dlife:Asia/Tokyo
 Doordarshan National:Asia/Kolkata
 Doordarshan News:Asia/Kolkata
 Doordarshan Sports:Asia/Kolkata
