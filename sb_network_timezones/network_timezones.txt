@@ -697,6 +697,7 @@ ESPN2:US/Eastern
 ESPN:US/Eastern
 ESPNEWS (US):US/Eastern
 ESPNU (US):US/Eastern
+ETB2:Europe/Madrid
 ETTV Yoyo:Asia/Taipei
 ETTV:Asia/Taipei
 ETV Gujarati:Asia/Kolkata
