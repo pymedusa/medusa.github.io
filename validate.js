@@ -172,6 +172,8 @@ const validateNetworkTimezones = () => {
     return true;
   }
 
+  const networkNames = {};
+
   lines.forEach((line, index) => {
     const lineIndex = index + 1;
     const trimmedLine = line.trim();
@@ -198,9 +200,16 @@ const validateNetworkTimezones = () => {
       logError('Line format invalid, please use: `Network Name:Timezone`', lineIndex, line);
     }
 
-    const timezone = rsplit(line, ':', 1)[1];
+    const [network, timezone] = rsplit(line, ':', 1);
     if (!timezones.includes(timezone)) {
       logError(`Timezone \`${timezone}\` is invalid.`, lineIndex, line);
+    }
+
+    if (networkNames[network] === undefined) {
+      networkNames[network] = lineIndex;
+    } else {
+      logError(`Duplicate entry found.`, lineIndex, line);
+      logError(`First entry.`, networkNames[network], lines[networkNames[network] - 1]);
     }
   });
 
