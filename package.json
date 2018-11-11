@@ -2,8 +2,8 @@
   "name": "medusa.github.io",
   "private": true,
   "scripts": {
-    "lint": "xo ./*.js",
-    "validate": "node validate.js"
+    "validate": "node validate.js",
+    "fix": "node validate.js --fix"
   },
   "devDependencies": {
     "glob": "^7.1.3",
@@ -15,6 +15,9 @@
     "xo": "^0.21.1"
   },
   "xo": {
+    "ignores": [
+      "js/**"
+    ],
     "rules": {
       "quotes": [
         "error",
