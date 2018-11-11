@@ -2630,7 +2630,6 @@ youtoo SOCIAL TV (US):US/Eastern
 ТВ6 (RU):Europe/Kaliningrad
 ТВС:Europe/Kaliningrad
 ТНТ:Europe/Kaliningrad
-ТНТ:Europe/Kiev
 הערוץ הראשון:Asia/Jerusalem
 טלעד:Asia/Jerusalem
 ערוץ 10:Asia/Jerusalem
