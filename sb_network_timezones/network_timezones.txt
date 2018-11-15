@@ -660,6 +660,7 @@ Doordarshan National:Asia/Kolkata
 Doordarshan News:Asia/Kolkata
 Doordarshan Sports:Asia/Kolkata
 Dost TV:Europe/Istanbul
+Dplay:Europe/Stockholm
 Dragon TV:Asia/Shanghai
 DuMont Television Network:US/Eastern
 Duna TV:Europe/Budapest
@@ -2039,6 +2040,7 @@ TV4 (SE):Europe/Stockholm
 TV4 Fakta:Europe/Stockholm
 TV4 Guld:Europe/Stockholm
 TV4 Komedi:Europe/Stockholm
+TV4 Play:Europe/Stockholm
 TV4 Plus:Europe/Stockholm
 TV4 Science Fiction:Europe/Stockholm
 TV4:Europe/Stockholm
