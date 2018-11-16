@@ -7,15 +7,15 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 ## 0.2.12
 
-We are happy to deliver you this time some important bug fixes, nice enhancements, and a cool new feature, in the ability to send notifications to Join, a nice multi-platform notification platform by joaoapps.com.
+We are happy to deliver you some important bug fixes, nice enhancements, and a cool new feature: The ability to send notifications to Join, a nice multi-platform notification platform by joaoapps.com.
 
-Tnx to some very welcome new contributors, the ability to set a priority with Pushover notifications has been added. Also providers like Nyaa and Anidex, are not usable for other series then Anime.
+Thanks to some very welcome new contributors, the ability to set a priority with Pushover notifications has been added. Also providers like Nyaa and Anidex are not usable for other series than Anime anymore.
 
-As for the fixes, we fixed a bug where it was not possible to configure multiple metadata providers. This has been broken for a short period. Also, a small bug in registering with growl should be fixed now.
+As for the fixes, we fixed a bug where it was not possible to configure multiple metadata providers. This has been broken for a short period. Also, a small bug in registering with Growl should be fixed now.
 
-As an ongoing task of migrating the user interface to a new more responsive and modern framework, following the editShow and config -> notifications page we've also given the config -> search page a facelift. In following releases you will see more and more pages migrated, and with that the overall loading times reduce.
+As an ongoing task of migrating the user interface to a new, more responsive and modern framework, following the editShow and config -> notifications page we've also given the config -> search page a facelift. In the following releases you will see more and more pages migrated, and with that the overall loading times will be reduced.
 
-For a complete changelog please refer to https://github.com/pymedusa/Medusa/blob/v0.2.12/CHANGELOG.md
+For the complete changelog please refer to: https://github.com/pymedusa/Medusa/blob/v0.2.12/CHANGELOG.md
 
 <br/>
 
