@@ -3,6 +3,22 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 <br/>
 
+#### 2018-11-16 ####
+
+## 0.2.12
+
+We are happy to deliver you some important bug fixes, nice enhancements, and a cool new feature: The ability to send notifications to Join, a nice multi-platform notification platform by joaoapps.com.
+
+Thanks to some very welcome new contributors, the ability to set a priority with Pushover notifications has been added. Also providers like Nyaa and Anidex are not usable for other series than Anime anymore.
+
+As for the fixes, we fixed a bug where it was not possible to configure multiple metadata providers. This has been broken for a short period. Also, a small bug in registering with Growl should be fixed now.
+
+As an ongoing task of migrating the user interface to a new, more responsive and modern framework, following the editShow and config -> notifications page we've also given the config -> search page a facelift. In the following releases you will see more and more pages migrated, and with that the overall loading times will be reduced.
+
+For a complete list of changes please refer to the [changelog](https://github.com/pymedusa/Medusa/blob/v0.2.12/CHANGELOG.md).
+
+<br/>
+
 #### 2018-10-29 ####
 
 ## 0.2.11
@@ -17,7 +33,7 @@ The list of bugfixes is too long to mention here. But to mention a few, we've fi
 
 We've noticed a number of pull requests from new contributors. We'll try to include those for the next release. And in the meantime, keep those bug reports and pull requests coming.
 
-For a list of all the latest changes, you can take a look at v0.2.11 [changelog.md](https://github.com/pymedusa/Medusa/blob/v0.2.11/CHANGELOG.md)
+For a list of all the latest changes, you can take a look at the [changelog](https://github.com/pymedusa/Medusa/blob/v0.2.11/CHANGELOG.md).
 
 <br/>
 
