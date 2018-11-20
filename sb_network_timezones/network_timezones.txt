@@ -1597,9 +1597,11 @@ RTP Açores:Europe/Lisbon
 RTP Internacional:Europe/Lisbon
 RTP Madeira:Europe/Lisbon
 RTP N:Europe/Lisbon
+RTP Play:Europe/Lisbon
 RTP África:Europe/Lisbon
 RTP1:Europe/Lisbon
 RTP2 (PT):Europe/Lisbon
+RTP2:Europe/Lisbon
 RTQ (AU):Australia/Sydney
 RTS (AU):Australia/Sydney
 RTS Un:Europe/Zurich
