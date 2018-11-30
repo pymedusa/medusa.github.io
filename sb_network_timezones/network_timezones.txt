@@ -2275,6 +2275,7 @@ VODO (US):US/Eastern
 VOX:Europe/Berlin
 VPRO:Europe/Amsterdam
 VRT:Europe/Brussels
+VRV Select:US/Eastern
 VRV:US/Eastern
 VT4:Europe/Brussels
 VTM:Europe/Brussels
