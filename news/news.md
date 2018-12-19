@@ -3,6 +3,21 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 <br/>
 
+#### 2018-12-19 ####
+
+## 0.2.14
+
+Maybe you didn't hear from us in while, but we haven't been sitting still.
+
+This release has something a nice new provider named Nordicbits, useful for our Scandinavian users. As well as some nice daily and backlog search-related improvements. It should result in more search hits for fast-paced RSS providers.
+
+We've also addressed an old bug, where it was not possible to provide your banner or fanart replacing the images provided by your provider. That should now work, by configuring a metadata provider like Kodi 12+ and replacing the images in your series folder.
+
+For all the other goodies please refer to the full [changelog](https://github.com/pymedusa/Medusa/blob/v0.2.14/CHANGELOG.md).
+Keep providing us with those issue reports, and Happy Holidays!
+
+<br/>
+
 #### 2018-11-16 ####
 
 ## 0.2.12
