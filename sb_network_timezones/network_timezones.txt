@@ -1816,6 +1816,7 @@ Sky Sports F1:Europe/London
 Sky Sports:Europe/London
 Sky Travel:Europe/London
 Sky Uno:Europe/Rome
+Sky Witness:Europe/London
 Sky1:Europe/London
 Sky2:Europe/London
 Sky3:Europe/London
