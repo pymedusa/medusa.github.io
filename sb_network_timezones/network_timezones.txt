@@ -1947,6 +1947,7 @@ TF6 (FR):Europe/Paris
 TFO:Canada/Eastern
 TG4:Europe/Dublin
 TGRT Haber:Europe/Istanbul
+The Comedy Channel:US/Eastern
 THRILLER MOVIES (AU):Australia/Sydney
 TIME WARNER CABLE SPORTS CHANNEL (US):US/Eastern
 TITV:Asia/Taipei
