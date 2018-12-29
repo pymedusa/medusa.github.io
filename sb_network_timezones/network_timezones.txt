@@ -1332,6 +1332,7 @@ NHNZ:Pacific/Auckland
 NITV (AU):Australia/Sydney
 NJPW World:Asia/Tokyo
 NOS:Europe/Amsterdam
+NPO 1:Europe/Amsterdam
 NPO 3:Europe/Amsterdam
 NPS (NL):Europe/Amsterdam
 NRB (US):US/Eastern
@@ -1947,7 +1948,6 @@ TF6 (FR):Europe/Paris
 TFO:Canada/Eastern
 TG4:Europe/Dublin
 TGRT Haber:Europe/Istanbul
-The Comedy Channel:US/Eastern
 THRILLER MOVIES (AU):Australia/Sydney
 TIME WARNER CABLE SPORTS CHANNEL (US):US/Eastern
 TITV:Asia/Taipei
@@ -2154,6 +2154,7 @@ The Box:Europe/London
 The CW Network (The CW):US/Eastern:Canada/Eastern
 The CW:US/Eastern
 The Comedy Channel (AU):Australia/Sydney
+The Comedy Channel:US/Eastern
 The Comedy Network:Canada/Eastern
 The Den:Europe/Dublin
 The Family Channel:US/Eastern
