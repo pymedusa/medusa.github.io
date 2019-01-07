@@ -848,6 +848,7 @@ Fox Life:Europe/Rome
 Fox Network:US/Eastern
 Fox Reality:US/Eastern
 Fox Soccer Channel (CA):Canada/Eastern
+Fox Sports 1:US/Eastern
 Fox8:Australia/Sydney
 Fox:Europe/Rome
 France 24 (UK):Europe/London
@@ -2210,6 +2211,7 @@ UBC Channel 10 (TH):Asia/Bangkok
 UBC TV NETWORK (US):US/Eastern
 UCB TV (UK):Europe/London
 UFC FIGHT PASS (US):US/Eastern
+UFC FIGHT PASS:US/Eastern
 UK Entertainment Channel:Europe/London
 UKTV Drama:Europe/London
 UKTV Food:Europe/London
