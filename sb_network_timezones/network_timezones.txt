@@ -1339,6 +1339,7 @@ NPS (NL):Europe/Amsterdam
 NRB (US):US/Eastern
 NRJ 12:Europe/Paris
 NRK Super:Europe/Oslo
+NRK.no:Europe/Oslo
 NRK1:Europe/Oslo
 NRK2:Europe/Oslo
 NRK3:Europe/Oslo
