@@ -2187,6 +2187,7 @@ Tokyo MX:Asia/Tokyo
 Tokyo Metropolitan Television:Asia/Tokyo
 Toon Disney:US/Eastern
 Total Living Network (US):US/Eastern
+Tou.tv:Canada/Eastern
 Trace Sports (UK):Europe/London
 Travel + Escape (CA):Canada/Eastern
 Travel Channel:US/Eastern
