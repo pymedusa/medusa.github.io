@@ -2648,6 +2648,7 @@ youtoo SOCIAL TV (US):US/Eastern
 טלעד:Asia/Jerusalem
 ערוץ 10:Asia/Jerusalem
 ערוץ הילדים:Asia/Jerusalem
+קשת 12:Asia/Jerusalem
 קשת:Asia/Jerusalem
 רשת:Asia/Jerusalem
 日本テレビ:Asia/Tokyo
