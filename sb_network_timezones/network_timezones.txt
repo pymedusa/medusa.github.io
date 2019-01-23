@@ -312,6 +312,7 @@ Blip:US/Eastern
 Bloomberg TELEVISION (US):US/Eastern
 Bloomberg Television (UK):Europe/London
 Blue Ridge Communications (US):US/Eastern
+BluTV:Europe/Istanbul
 Book TELEVISION (CA):Canada/Eastern
 Boomerang (AU):Australia/Sydney
 Boomerang (DE):Europe/Berlin
