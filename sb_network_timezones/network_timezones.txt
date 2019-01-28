@@ -311,8 +311,8 @@ Blackpills:Europe/Paris
 Blip:US/Eastern
 Bloomberg TELEVISION (US):US/Eastern
 Bloomberg Television (UK):Europe/London
-Blue Ridge Communications (US):US/Eastern
 BluTV:Europe/Istanbul
+Blue Ridge Communications (US):US/Eastern
 Book TELEVISION (CA):Canada/Eastern
 Boomerang (AU):Australia/Sydney
 Boomerang (DE):Europe/Berlin
@@ -866,6 +866,7 @@ Fuel TV:US/Eastern
 Fuji TV:Asia/Tokyo
 Fuse:US/Eastern
 Fusion (US):US/Eastern
+Fusion:US/Eastern
 G4 Canada:Canada/Eastern
 G4:US/Eastern
 GBN (US):US/Eastern
