@@ -1239,6 +1239,7 @@ Maori Television:Pacific/Auckland
 Marketplace (UK):Europe/London
 MavTV:US/Eastern
 Max (AU):Australia/Sydney
+Maxdome:Europe/Berlin
 MeTV (US):US/Eastern
 Mega Channel:Europe/Athens
 Metro-Goldwyn-Mayer (MGM):US/Eastern
