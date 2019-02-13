@@ -1658,6 +1658,7 @@ Royal News:Asia/Karachi
 Russia Today:Europe/Kaliningrad
 RÚV:Europe/London
 Ríkisútvarpið (IS):Atlantic/Reykjavik
+Ríkisútvarpið:Atlantic/Reykjavik
 S4/C:Europe/London
 S4C2:Europe/London
 S4C:Europe/London
