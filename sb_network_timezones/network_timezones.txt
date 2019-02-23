@@ -2091,6 +2091,7 @@ TVN (AU):Australia/Sydney
 TVN Style:Europe/Warsaw
 TVN Turbo:Europe/Warsaw
 TVN:Europe/Warsaw
+TVNZ 2:Pacific/Auckland
 TVNZ:Pacific/Auckland
 TVNorge:Europe/Oslo
 TVO:Canada/Eastern
