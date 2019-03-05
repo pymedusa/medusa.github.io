@@ -1891,6 +1891,7 @@ Steel:Europe/Rome
 Store (UK):Europe/London
 Studio 23:Asia/Manila
 Studio 4:Europe/London
+Studio+:US/Eastern
 Style (AU):Australia/Sydney
 Style TV:US/Eastern
 Style:US/Eastern
