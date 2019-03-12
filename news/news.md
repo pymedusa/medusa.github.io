@@ -3,6 +3,25 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 <br/>
 
+#### 2019-03-12 ####
+
+## 0.3.0
+
+With a lot of hard work from many contributors, i'm happy to announce that medusa finally is fully python 3.5 and up compatible. We've taken the time to properly implement and test python 3 support, as some of you already tested the waters with the develop branch, in which many bugs have been fixed.
+
+Before you start updating your run scripts, please check out this wiki page first, as there are some things to consider, when migrating from a running python 2 installation. For this please check out this [wiki](https://github.com/pymedusa/Medusa/put_link_to_wiki_here) page. For now, you will need to have python 3.5 or higher installed, and preferably python 3.7, as this seems to be the fastest version. A windows installer with python 3.7 embedded should be released in the coming days.
+
+Well, for the last four months, did we only work on python 3 support, you may ask your self? Absolutely not! We've added the option to configure a search offset per show. You have this particular show, which always releases 1 day early compared to the day it's aired? It is now possible to configure an offset, that will allow medusa to start searching early (or later if that suits your usecase).
+
+Another nice feature we've added is the possibility to exclude specific preferred words for a show, instead of only the ability to add to the global list of preferred words.
+
+Together with a few bug fixes, we are very proud of this release, as this is the very first sick* clone that is python 3 compatible. Which is something we have been working on for a number of years. With this out of the way, expect us to increase our release frequency with lots of nice features to come.
+
+With kind regards,
+The Medusa team.
+
+<br/>
+
 #### 2018-12-19 ####
 
 ## 0.2.14
