@@ -351,6 +351,7 @@ CATHOLICTV (US):US/Eastern
 CBBC:Europe/London
 CBC (CA):Canada/Eastern
 CBC (JP):Asia/Tokyo
+CBC Gem:Canada/Eastern
 CBC News Network:Canada/Eastern
 CBC Television:Canada/Eastern
 CBC:Canada/Eastern
