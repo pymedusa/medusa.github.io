@@ -9,7 +9,7 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 With a lot of hard work from many contributors, i'm happy to announce that medusa finally is fully python 3.5 and up compatible. We've taken the time to properly implement and test python 3 support, as some of you already tested the waters with the develop branch, in which many bugs have been fixed.
 
-Before you start updating your run scripts, please check out this wiki page first, as there are some things to consider, when migrating from a running python 2 installation. For this please check out this [wiki](https://github.com/pymedusa/Medusa/put_link_to_wiki_here) page. For now, you will need to have python 3.5 or higher installed, and preferably python 3.7, as this seems to be the fastest version. A windows installer with python 3.7 embedded should be released in the coming days.
+Before you start updating your run scripts, please check out this wiki page first, as there are some things to consider, when migrating from a running python 2 installation. For this please check out this [wiki](https://github.com/pymedusa/Medusa/wiki/Switch-to-Python-3) page. For now, you will need to have python 3.5 or higher installed, and preferably python 3.7, as this seems to be the fastest version. A windows installer with python 3.7 embedded should be released in the coming days.
 
 Well, for the last four months, did we only work on python 3 support, you may ask your self? Absolutely not! We've added the option to configure a search offset per show. You have this particular show, which always releases 1 day early compared to the day it's aired? It is now possible to configure an offset, that will allow medusa to start searching early (or later if that suits your usecase).
 
