@@ -1509,6 +1509,7 @@ Pitch World (UK):Europe/London
 Pivot:US/Eastern
 Planet Green:US/Eastern
 Planet POP (UK):Europe/London
+Planète+:Europe/Paris
 Play More:Europe/Brussels
 Play UK, BBC Choice:Europe/London
 Play UK:Europe/London
@@ -1858,6 +1859,7 @@ Soundtrack Channel (US):US/Eastern
 Southern Cross TELEVISION (AU):Australia/Sydney
 Southern Cross Ten (AU):Australia/Sydney
 Space:Canada/Eastern
+Spectrum:US/Eastern
 Speed:US/Eastern
 Spektrum:Europe/Budapest
 Spiegel Geschichte (DE):Europe/Berlin
