@@ -1794,6 +1794,7 @@ Showcase Television:US/Eastern
 Showcase:Canada/Eastern
 Showtime Networks:US/Eastern
 Showtime:US/Eastern
+Shudder:US/Eastern
 Sikh Channel (UK):Europe/London
 Sino TV (US):US/Eastern
 Sirasa:Asia/Colombo
