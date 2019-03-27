@@ -552,6 +552,7 @@ CraveTV:Canada/Eastern
 Create and Craft (UK):Europe/London
 Credo TV (US):US/Eastern
 Crime & Investigation Network (AU):Australia/Sydney
+Crime & Investigation Network (UK):Europe/London
 Crime & Investigation Network:US/Eastern
 Crunchyroll:US/Pacific
 Cuatro:Europe/Madrid
