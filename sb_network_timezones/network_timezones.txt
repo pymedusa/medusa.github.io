@@ -2045,6 +2045,7 @@ TV Venezuela (US):US/Eastern
 TV11:Europe/Stockholm
 TV1:Europe/Stockholm
 TV2 (NO):Europe/Oslo
+TV2 (NZ):Pacific/Auckland
 TV2 Zulu:Europe/Copenhagen
 TV2:Pacific/Auckland
 TV3 (ES):Europe/Madrid
