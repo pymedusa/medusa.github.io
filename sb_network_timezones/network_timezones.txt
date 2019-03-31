@@ -732,6 +732,7 @@ Esquire Network:US/Eastern
 Estuary TV (UK):Europe/London
 Eternal Word Television Network (US):US/Eastern
 EuroWorld Sport (CA):Canada/Eastern
+European Broadcasting Union (EBU):CET
 Eurosport:Europe/London
 Exitos TV (US):US/Eastern
 Explora:Canada/Eastern
