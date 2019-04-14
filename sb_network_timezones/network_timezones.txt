@@ -967,6 +967,7 @@ High Street TV (UK):Europe/London
 Historia (CA):Canada/Eastern
 Historia:Canada/Eastern
 History (CA):Canada/Eastern
+History (UK):Europe/London
 History Channel:US/Eastern
 History Television:Canada/Eastern
 History en Español (US):US/Eastern
@@ -1661,6 +1662,7 @@ Romance MOVIES (AU):Australia/Sydney
 Rooster Teeth:US/Eastern
 Royal News:Asia/Karachi
 Russia Today:Europe/Kaliningrad
+Russia-1:Europe/Moscow
 RÚV:Europe/London
 Ríkisútvarpið (IS):Atlantic/Reykjavik
 Ríkisútvarpið:Atlantic/Reykjavik
@@ -2204,6 +2206,7 @@ Total Living Network (US):US/Eastern
 Tou.tv:Canada/Eastern
 Trace Sports (UK):Europe/London
 Travel + Escape (CA):Canada/Eastern
+Travel + Escape:Canada/Eastern
 Travel Channel:US/Eastern
 Travel+Escape:Canada/Eastern
 Treehouse TV:Canada/Eastern
