@@ -658,6 +658,7 @@ Disney XD (CA):Canada/Eastern
 Disney XD:US/Eastern
 Disney-ABC Domestic Television:US/Eastern
 DisneyNOW:US/Eastern
+Disney+:US/Eastern
 Divine TV (US):US/Eastern
 Dlife:Asia/Tokyo
 Doordarshan National:Asia/Kolkata
