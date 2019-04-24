@@ -2227,6 +2227,7 @@ Télé (CA):Canada/Eastern
 Télé Monte Carlo (FR):Europe/Paris
 Télé-Québec:Canada/Eastern
 Télétoon:Europe/Paris
+T+E:Canada/Eastern
 UBC Channel 10 (TH):Asia/Bangkok
 UBC TV NETWORK (US):US/Eastern
 UCB TV (UK):Europe/London
