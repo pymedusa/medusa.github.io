@@ -333,6 +333,7 @@ British Broadcasting Corporation (BBC):Europe/London
 British Broadcasting Corporation:Europe/London
 British Eurosport 2:Europe/London
 British Sky Broadcasting (BSkyB):Europe/London
+Broadcast Syndication:US/Eastern
 Bubble Hits:Europe/Dublin
 Buena Vista Television:US/Eastern
 Business News Network (CA):Canada/Eastern
@@ -656,9 +657,9 @@ Disney Junior:US/Eastern
 Disney Play:US/Eastern
 Disney XD (CA):Canada/Eastern
 Disney XD:US/Eastern
+Disney+:US/Eastern
 Disney-ABC Domestic Television:US/Eastern
 DisneyNOW:US/Eastern
-Disney+:US/Eastern
 Divine TV (US):US/Eastern
 Dlife:Asia/Tokyo
 Doordarshan National:Asia/Kolkata
@@ -1941,6 +1942,7 @@ Syndicated:US/Eastern
 Syndication (CA):Canada/Eastern
 Syndication:US/Eastern
 Séries+:Canada/Eastern
+T+E:Canada/Eastern
 TBN (Trinity Broadcasting Network):US/Eastern
 TBN Enlace (US):US/Eastern
 TBN Europe (UK):Europe/London
@@ -2227,7 +2229,6 @@ Télé (CA):Canada/Eastern
 Télé Monte Carlo (FR):Europe/Paris
 Télé-Québec:Canada/Eastern
 Télétoon:Europe/Paris
-T+E:Canada/Eastern
 UBC Channel 10 (TH):Asia/Bangkok
 UBC TV NETWORK (US):US/Eastern
 UCB TV (UK):Europe/London
