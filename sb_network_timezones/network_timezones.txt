@@ -562,7 +562,7 @@ Current TV:US/Eastern
 CÚLA4 (IE):Europe/Dublin
 D8:Europe/Paris
 DAYSTAR (US):US/Eastern
-DC Universe:US/Pacific
+DC Universe:US/Eastern
 DD-Gujarati:Asia/Kolkata
 DDR1:Europe/Berlin
 DFamilia (US):US/Eastern
