@@ -1005,6 +1005,7 @@ ITV 1:Europe/London
 ITV Encore:Europe/London
 ITV Gold (US):US/Eastern
 ITV Granada:Europe/London
+ITV Hub:Europe/London
 ITV Wales:Europe/London
 ITV1:Europe/London
 ITV2:Europe/London
