@@ -1974,6 +1974,7 @@ TITV:Asia/Taipei
 TLC (AU):Australia/Sydney
 TLC (UK):Europe/London
 TLC:US/Eastern
+TLCgo:US/Eastern
 TMC:Europe/Monaco
 TMF:Europe/Amsterdam
 TND (AU):Australia/Sydney
