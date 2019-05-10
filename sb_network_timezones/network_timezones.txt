@@ -454,6 +454,7 @@ Canal de las Estrellas:America/Mexico_City
 Canal+ (ES):Europe/Madrid
 Canal+ (FR):Europe/Paris
 Canal+ Cyfrowy:Europe/Warsaw
+Canal+ Poland:Europe/Warsaw
 Canal+:Europe/Paris
 Canale 5:Europe/Rome
 Cancao News (US):US/Eastern
