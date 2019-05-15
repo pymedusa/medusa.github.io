@@ -371,6 +371,7 @@ CBS Video:US/Eastern
 CBS action (UK):Europe/London
 CBS drama (UK):Europe/London
 CBS reality (UK):Europe/London
+CBS Reality (UK):Europe/London
 CBS.com (US):US/Eastern
 CBS:US/Eastern
 CBeebies (US):US/Eastern
