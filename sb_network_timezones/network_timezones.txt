@@ -365,13 +365,13 @@ CBS 4 (US):US/Eastern
 CBS All Access (US):US/Eastern
 CBS All Access:US/Eastern
 CBS Korean (US):US/Eastern
+CBS Reality (UK):Europe/London
 CBS SPORTS NETWORK (US):US/Eastern
 CBS Television Studios:US/Eastern
 CBS Video:US/Eastern
 CBS action (UK):Europe/London
 CBS drama (UK):Europe/London
 CBS reality (UK):Europe/London
-CBS Reality (UK):Europe/London
 CBS.com (US):US/Eastern
 CBS:US/Eastern
 CBeebies (US):US/Eastern
@@ -488,6 +488,7 @@ Channel 7 (US):US/Eastern
 Channel 7:Asia/Bangkok
 Channel 8:Asia/Singapore
 Channel 9 (UK):Europe/London
+Channel 9:Australia/Sydney
 Channel A:Asia/Seoul
 Channel AKA (UK):Europe/London
 Channel S (UK):Europe/London
