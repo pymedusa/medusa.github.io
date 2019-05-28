@@ -487,6 +487,7 @@ Channel 6:Europe/Dublin
 Channel 7 (US):US/Eastern
 Channel 7:Asia/Bangkok
 Channel 8:Asia/Singapore
+Channel 9:Australia/Sydney
 Channel 9 (UK):Europe/London
 Channel A:Asia/Seoul
 Channel AKA (UK):Europe/London
