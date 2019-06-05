@@ -7,7 +7,7 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 ## 0.3.2
 
-We're exited to bring you another minor release that adresses a few issues.
+We're exited to bring you another minor release that addresses a few issues.
 Especially noteworthy is a fix that should vastly increase the load speed of the home page. We know that loading big shows can be slow and are actively working on improving the show page loading. We have already made some good progress and are confident that we can include these changes in the next release. We've also added three new torrent providers, two private and one public. Make sure to check them out if you need more sources.
 
 We'd like to thank everyone contributing through issues, pull requests and other channels.
