@@ -3,6 +3,20 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 <br/>
 
+#### 2019-06-05 ####
+
+## 0.3.2
+
+We're exited to bring you another minor release that adresses a few issues.
+Especially noteworthy is a fix that should vastly increase the load speed of the home page. We know that loading big shows can be slow and are actively working on improving the show page loading. We have already made some good progress and are confident that we can include these changes in the next release. We've also added three new torrent providers, two private and one public. Make sure to check them out if you need more sources.
+
+We'd like to thank everyone contributing through issues, pull requests and other channels.
+Please make sure to use the appopriate [issue template](https://github.com/pymedusa/Medusa/issues/new?template=bug_report.md) when you report new issues. Failing to do so will result in the issue being closed. Please undertand that our time is limited and the information we request is needed. Without it, we can't possibly help you - it is in your own interest to provide as much information as possible.
+
+Finally, for a list of all the latest changes, you can take a look at the [changelog](https://github.com/pymedusa/Medusa/blob/master/CHANGELOG.md). Enjoy!
+
+<br/>
+
 #### 2019-03-20 ####
 
 ## 0.3.1
