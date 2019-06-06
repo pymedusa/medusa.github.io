@@ -2515,6 +2515,7 @@ iCHANNEL (CA):Canada/Eastern
 iQiyi:Asia/Shanghai
 iTunes (US):US/Eastern
 iTunes:US/Eastern
+inDEMAND:US/Eastern
 ingaylewetrust.com (US):US/Eastern
 insp (US):US/Eastern
 ion LIFE (US):US/Eastern
