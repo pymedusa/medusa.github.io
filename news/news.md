@@ -7,10 +7,10 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
        ^^ ^^
 ## Upcoming new Docker image version
 
-If you're using the [pymedusa/Medusa Docker image](https://hub.docker.com/r/pymedusa/Medusa), this message is for you!  
+If you're using the [pymedusa/Medusa Docker image](https://hub.docker.com/r/pymedusa/medusa), this message is for you!  
 Talking points: (**_make this nicer_**)
 - We are updating our Docker image to use Python 3.7.
-- By removing some unneeded files and folders, we are able to reduce the size of the image from around 230mb (on latest/master tag) down to around **_???mb_**.
+- By removing some unneeded files and folders, we are able to reduce the size of the image from around 230mb (on latest/master tag) down to around 160mb.
 - Please note that we are also removing the automatic restart functionality from our image.  
   We suggest using the built-in [restart policy feature](https://docs.docker.com/config/containers/start-containers-automatically/#use-a-restart-policy) when running the container instead.
 
