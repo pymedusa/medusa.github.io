@@ -4,7 +4,7 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 <br/>
 
 #### 2019-06-28 ####
-       ^^ ^^
+
 ## Upcoming update to our Docker image
 
 **If you're using the [pymedusa/Medusa Docker image](https://hub.docker.com/r/pymedusa/medusa), this message is for you!**  
