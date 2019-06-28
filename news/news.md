@@ -3,16 +3,22 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 <br/>
 
-#### 2019-$$-$$ ####
+#### 2019-06-28 ####
        ^^ ^^
-## Upcoming new Docker image version
+## Upcoming update to our Docker image
 
-If you're using the [pymedusa/Medusa Docker image](https://hub.docker.com/r/pymedusa/medusa), this message is for you!  
-Talking points: (**_make this nicer_**)
-- We are updating our Docker image to use Python 3.7.
-- By removing some unneeded files and folders, we are able to reduce the size of the image from around 230mb (on latest/master tag) down to around 160mb.
-- Please note that we are also removing the automatic restart functionality from our image.  
-  We suggest using the built-in [restart policy feature](https://docs.docker.com/config/containers/start-containers-automatically/#use-a-restart-policy) when running the container instead.
+**If you're using the [pymedusa/Medusa Docker image](https://hub.docker.com/r/pymedusa/medusa), this message is for you!**  
+
+A week from today (_Friday, 2019-07-05_) we will be releasing an updated Docker image **to the `develop` branch**.  
+- The updated image will use the latest version of Python **3.7** (upgraded from **2.7**).  
+- By removing some unneeded files and folders, we shrinked the size of the container (after creation) from \~230mb down to \~160mb.
+- **Please note** that we are also removing the automatic restart functionality (s6 overlay) from our image.  
+  We suggest using the built-in [restart policy feature](https://docs.docker.com/config/containers/start-containers-automatically/#use-a-restart-policy) when running the container instead.  
+  Without a restart policy, restarting or shutting down Medusa from the Web UI will cause the container to stop.
+
+When this update is released, it will be available as the `develop` Docker image tag.  
+**When the next version of Medusa is released, the default `latest`/`master` image tag will be this updated Docker image.**  
+Apart from having to configure a restart policy for the new container, the migration to this new image should be smooth.
 
 <br/>
 
