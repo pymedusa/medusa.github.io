@@ -11,7 +11,7 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 A week from today (_Friday, 2019-07-05_) we will be releasing an updated Docker image **to the `develop` branch**.  
 - The updated image will use the latest version of Python **3.7** (upgraded from **2.7**).  
-- By removing some unneeded files and folders, we shrinked the size of the container (after creation) from \~230mb down to \~160mb.
+- By removing some unneeded files and folders, we shrinked the size of the container (after creation) from ~230mb down to ~160mb.
 
 - **Please note** that we are also removing the automatic restart functionality (s6 overlay) from our image.  
   We suggest using the built-in [restart policy feature](https://docs.docker.com/config/containers/start-containers-automatically/#use-a-restart-policy) when running the container instead.  
