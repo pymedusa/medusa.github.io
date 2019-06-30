@@ -499,6 +499,7 @@ Chart Show Dance (UK):Europe/London
 Chart Show TV:Europe/London
 Chat Box (UK):Europe/London
 Chiba TV (JP):Asia/Tokyo
+Chiba TV:Asia/Tokyo
 Chiller (US):US/Eastern
 Chiller:US/Eastern
 Chorus Sports:Europe/Dublin
