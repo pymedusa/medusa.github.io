@@ -1390,6 +1390,7 @@ National Geographic:US/Eastern
 National Jewish Television (US):US/Eastern
 Nejat TV (US):US/Eastern
 Nelonen:Europe/Helsinki
+Net5:Europe/Amsterdam
 Netflix (UK):Europe/London
 Netflix:US/Eastern
 Network Ten:Australia/Sydney
