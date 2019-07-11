@@ -1393,6 +1393,7 @@ Nelonen:Europe/Helsinki
 Net5:Europe/Amsterdam
 Netflix (UK):Europe/London
 Netflix:US/Eastern
+Network 10:Australia/Sydney
 Network Ten:Australia/Sydney
 New England Sports Network (US):US/Eastern
 New Greek TV (US):US/Eastern
