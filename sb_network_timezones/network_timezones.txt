@@ -1348,6 +1348,7 @@ NHNZ:Pacific/Auckland
 NITV (AU):Australia/Sydney
 NJPW World:Asia/Tokyo
 NOS:Europe/Amsterdam
+NOVA:Europe/Sofia
 NPO 1:Europe/Amsterdam
 NPO 2:Europe/Amsterdam
 NPO 3:Europe/Amsterdam
