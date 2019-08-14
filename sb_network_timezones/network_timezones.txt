@@ -31,6 +31,7 @@
 5* (UK):Europe/London
 5USA (UK):Europe/London
 6'eren:Europe/Copenhagen
+6ter:Europe/Paris
 7NBC (US):US/Eastern
 7TWO (AU):Australia/Sydney
 7mate (AU):Australia/Sydney
