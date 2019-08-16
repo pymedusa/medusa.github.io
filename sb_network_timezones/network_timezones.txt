@@ -1083,6 +1083,7 @@ Kampüs TV:Europe/Istanbul
 Kanaal 2:Europe/Brussels
 KanaalTwee:Europe/Brussels
 Kanal 1 (SE):Europe/Stockholm
+Kanal 4 (DK):Europe/Copenhagen
 Kanal 4:Europe/Copenhagen
 Kanal 5 (DK):Europe/Copenhagen
 Kanal 5 (SE):Europe/Stockholm
