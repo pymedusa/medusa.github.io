@@ -1520,6 +1520,7 @@ Phoenix TV:Asia/Shanghai
 Phoenix XNE (UK):Europe/London
 Phoenix:Europe/Berlin
 Pick TV:Europe/London
+Pick:Europe/London
 Pitch TV (UK):Europe/London
 Pitch World (UK):Europe/London
 Pivot:US/Eastern
