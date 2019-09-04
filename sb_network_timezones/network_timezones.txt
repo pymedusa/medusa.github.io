@@ -2399,6 +2399,7 @@ Word Network (UK):Europe/London
 Worship (US):US/Eastern
 XY TV:US/Eastern
 Xbox Video:US/Eastern
+Xee:Europe/Copenhagen
 YES (US):US/Eastern
 YESTERDAY (UK):Europe/London
 YLE Fem (FI):Europe/Helsinki
