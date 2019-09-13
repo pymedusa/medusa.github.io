@@ -195,6 +195,7 @@ Antena 3:Europe/Madrid
 Antenne 2:Europe/Paris
 Apostolic Oneness Network (US):US/Eastern
 Apple Music:US/Eastern
+Apple TV+:US/Eastern
 Arabic Channel (US):US/Eastern
 Arena:Australia/Sydney
 Argos TV (UK):Europe/London
