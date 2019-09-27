@@ -2430,6 +2430,7 @@ YourTV Manchester (UK):Europe/London
 Z LIVING (US):US/Eastern
 ZDF.Kultur:Europe/Berlin
 ZDF:Europe/Berlin
+ZDFinfo:Europe/Berlin
 ZDFneo:Europe/Berlin
 ZDTV (CA):Canada/Eastern
 ZED:Canada/Eastern
