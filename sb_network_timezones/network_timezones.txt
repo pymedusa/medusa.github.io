@@ -427,6 +427,7 @@ CTS (TW):Asia/Taipei
 CTS:Asia/Tokyo
 CTV (CN):Asia/Shanghai
 CTV (JP):Asia/Tokyo
+CTV (TW):Asia/Taipei
 CTV News Channel (CA):Canada/Eastern
 CTV Sci-Fi Channel:Canada/Eastern
 CTV Television Network:Canada/Eastern
@@ -941,6 +942,7 @@ HBO Family (US):US/Eastern
 HBO Go:US/Eastern
 HBO Latin America:America/Sao_Paulo
 HBO Magyarország:Europe/Budapest
+HBO Max:US/Eastern
 HBO Nordic:Europe/Stockholm
 HBO Signature (US):US/Eastern
 HBO2 (US):US/Eastern
@@ -1423,6 +1425,7 @@ Nicktoons:US/Eastern
 Niconico:Asia/Tokyo
 Nine Network Australia:Australia/Sydney
 Nine Network:Australia/Sydney
+Nippon Housou Kyoukai:Asia/Tokyo
 Nippon Television:Asia/Tokyo
 Noggin:US/Eastern
 Nolife:Europe/Paris
@@ -2643,6 +2646,7 @@ tr3s (US):US/Eastern
 travel CHANNEL (UK):Europe/London
 truTV (UK):Europe/London
 truTV:US/Eastern
+tv asahi:Asia/Tokyo
 tvK (US):US/Eastern
 tvN:Asia/Seoul
 tvb8 (US):US/Eastern
