@@ -879,6 +879,7 @@ Freeform:US/Eastern
 Frost Great Outdoors (US):US/Eastern
 Fuel TV:US/Eastern
 Fuji TV:Asia/Tokyo
+Fullscreen:US/Eastern
 Fuse:US/Eastern
 Fusion (US):US/Eastern
 Fusion:US/Eastern
