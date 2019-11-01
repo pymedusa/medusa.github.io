@@ -59,6 +59,7 @@ ABC ME:Australia/Sydney
 ABC News 24:Australia/Sydney
 ABC Spark:Canada/Eastern
 ABC Television Network:US/Eastern
+ABC iView:Australia/Sydney
 ABC iview:Australia/Sydney
 ABC.com:US/Eastern
 ABC1:Australia/Sydney
@@ -623,6 +624,7 @@ DirecTV Japan:Asia/Tokyo
 Discovery (US):US/Eastern
 Discovery CHANNEL (AU):Australia/Sydney
 Discovery CHANNEL (UK):Europe/London
+Discovery CHANNEL:US/Eastern
 Discovery Channel (AU):Australia/Sydney
 Discovery Channel (Asia):Asia/Singapore
 Discovery Channel (Australia):Australia/Sydney
