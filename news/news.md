@@ -8,6 +8,7 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 ## 0.3.6
 
 This release will bring you a modernized Display Show page, as well as the ability to add shows which do not yet have any episodes added to the indexers. The new "vueified" display show page also has some new interesting features, like:
+
  - Pagination;
  - Loading of the episodes per season. It will show you more seasons as they come in;
  - New sort and filter options;
