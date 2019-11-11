@@ -1,5 +1,22 @@
+
 #### Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue ####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
+
+<br/>
+
+#### 2019-11-11 ####
+
+## 0.3.6
+
+This release will bring you a modernized Display Show page, as also bring you the ability to add shows, which do not yet have any episodes added yet. The new "vueified" display show page also has some new interesting features. Like:
+ - Pagination;
+ - Loading of the episodes per season. It will show you more seasons as they come in;
+ - New sort and filter options;
+ - Directly change show config options like subtitles, anime, sports, season folders, by clicking on the red cross / green checkmark;
+
+With the help of our rapid expanding community we were also able to fix a number of bugs or repair some broken providers like: AnimeBytes, beyond-hd, BTDB and bj-share to name a few. So we'd like to encourage everyone to keep send in those bug reports, feature requests and pull requests.
+For a complete changelog, please refere to [changelog](https://github.com/pymedusa/Medusa/blob/master/CHANGELOG.md)
+
 
 <br/>
 
