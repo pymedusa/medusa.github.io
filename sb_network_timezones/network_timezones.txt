@@ -712,6 +712,7 @@ ESPN Hong Kong:Asia/Hong_Kong
 ESPN India:Asia/Kolkata
 ESPN Philippines:Asia/Manila
 ESPN Taiwan:Asia/Taipei
+ESPN+:US/Eastern
 ESPN2 (AU):Australia/Sydney
 ESPN2:US/Eastern
 ESPN:US/Eastern
@@ -2356,6 +2357,7 @@ VijfTV:Europe/Brussels
 Vimeo:US/Eastern
 Vintage TV (UK):Europe/London
 Virgin 1:Europe/London
+Virgin TV:Europe/London
 Vision (UK):Europe/London
 Vision 2 (UK):Europe/London
 Vision Heaven (US):US/Eastern
