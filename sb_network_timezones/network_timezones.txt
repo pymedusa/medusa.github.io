@@ -1157,10 +1157,10 @@ LifeStyle You. (AU):Australia/Sydney
 LifeStyle:Australia/Sydney
 LifeTalk Network (US):US/Eastern
 Lifetime (CA):Canada/Eastern
+Lifetime (UK):Europe/London
 Lifetime (US):US/Eastern
 Lifetime Movie Network:US/Eastern
 Lifetime Television:US/Eastern
-Lifetime (UK):Europe/London
 Lifetime UK:Europe/London
 Lifetime:US/Eastern
 Liquidation Channel (US):US/Eastern
