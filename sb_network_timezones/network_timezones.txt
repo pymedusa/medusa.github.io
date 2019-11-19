@@ -498,6 +498,7 @@ Channel 9 (UK):Europe/London
 Channel 9:Australia/Sydney
 Channel A:Asia/Seoul
 Channel AKA (UK):Europe/London
+Channel One:Europe/Moscow
 Channel S (UK):Europe/London
 Channel U:Asia/Singapore
 Channel [V]:Asia/Shanghai
