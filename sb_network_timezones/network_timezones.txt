@@ -347,6 +347,7 @@ C-SPAN2 (US):US/Eastern
 C-SPAN3 (US):US/Eastern
 C-Span:US/Eastern
 C31:Australia/Sydney
+C8:Europe/Paris
 CAN TV19 (US):US/Eastern
 CARS.TV (US):US/Eastern
 CARTOON NETWORK (AU):Australia/Sydney
@@ -670,6 +671,7 @@ Disney XD (CA):Canada/Eastern
 Disney XD:US/Eastern
 Disney+:US/Eastern
 Disney-ABC Domestic Television:US/Eastern
+DisneyLife:US/Eastern
 DisneyNOW:US/Eastern
 Divine TV (US):US/Eastern
 Dlife:Asia/Tokyo
