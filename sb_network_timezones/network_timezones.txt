@@ -2361,6 +2361,7 @@ VijfTV:Europe/Brussels
 Vimeo:US/Eastern
 Vintage TV (UK):Europe/London
 Virgin 1:Europe/London
+Virgin TV Ultra HD:Europe/London
 Virgin TV:Europe/London
 Vision (UK):Europe/London
 Vision 2 (UK):Europe/London
