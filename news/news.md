@@ -9,9 +9,10 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 Fixes
 
-    Fixed broken TheTVDB caused by API v3 changes [(#7355)](https://github.com/pymedusa/Medusa/pull/7355)
-    DisplayShow: Fixed Xem and Medusa season exceptions not shown anymore [(#7360)](https://github.com/pymedusa/Medusa/pull/7360)
-    For a complete changelog, please refer to [changelog](https://github.com/pymedusa/Medusa/blob/master/CHANGELOG.md).
+ - Fixed broken TheTVDB caused by API v3 changes [(#7355)](https://github.com/pymedusa/Medusa/pull/7355)
+ - DisplayShow: Fixed Xem and Medusa season exceptions not shown anymore [(#7360)](https://github.com/pymedusa/Medusa/pull/7360)
+
+For a complete changelog, please refer to [changelog](https://github.com/pymedusa/Medusa/blob/master/CHANGELOG.md).
 
 #### 2019-11-11 ####
 
