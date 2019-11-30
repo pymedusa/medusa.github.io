@@ -1108,6 +1108,7 @@ Kansai TV:Asia/Tokyo
 Kashish TV:Asia/Karachi
 Kenya Television Network (KE):Africa/Nairobi
 Kerrang! TV:Europe/London
+Keshet 12:Asia/Jerusalem
 Ketnet (BE):Europe/Brussels
 Kids Station:Asia/Tokyo
 Kids and Teens TV:US/Eastern
