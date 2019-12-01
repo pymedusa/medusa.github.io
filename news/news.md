@@ -14,6 +14,8 @@ Fixes:
 
 For a complete changelog, please refer to [changelog](https://github.com/pymedusa/Medusa/blob/master/CHANGELOG.md).
 
+<br/>
+
 #### 2019-11-11 ####
 
 ## 0.3.6
