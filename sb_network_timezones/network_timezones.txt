@@ -235,6 +235,7 @@ BBC One East Midlands:Europe/London
 BBC One East:Europe/London
 BBC One North East & Cumbria:Europe/London
 BBC One North West:Europe/London
+BBC One Northern Ireland:Europe/London
 BBC One Oxfordshire:Europe/London
 BBC One Scotland:Europe/London
 BBC One South East:Europe/London
@@ -2429,6 +2430,7 @@ YTV (UK):Europe/London
 YTV:Canada/Eastern
 Yahoo! Japan:Asia/Tokyo
 Yahoo! Screen:US/Eastern
+Yesterday:Europe/London
 Yle:Europe/Helsinki
 Yomiuri TV (JP):Asia/Tokyo
 Yomiuri TV:Asia/Tokyo
