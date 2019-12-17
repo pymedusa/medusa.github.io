@@ -667,6 +667,7 @@ Disney Channel (US):US/Eastern
 Disney Channel:US/Eastern
 Disney Cinemagic:Europe/London
 Disney Junior (CA):Canada/Eastern
+Disney Junior (UK):Europe/London
 Disney Junior:US/Eastern
 Disney Play:US/Eastern
 Disney XD (CA):Canada/Eastern
