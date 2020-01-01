@@ -93,6 +93,7 @@ AMGTV (US):US/Eastern
 AMV (AU):Australia/Sydney
 ANIMAL PLANET (CA):Canada/Eastern
 ANIMAL PLANET (UK):Europe/London
+ANIMAX:Asia/Tokyo
 ANT1:Europe/Athens
 ANTENNA TV (US):US/Eastern
 AOL (US):US/Eastern
@@ -1355,6 +1356,7 @@ NFL Sunday Ticket (US):US/Eastern
 NFL Sunday Ticket Redzone (US):US/Eastern
 NHK Animax:Asia/Tokyo
 NHK BS Premium:Asia/Tokyo
+NHK BS2:Asia/Tokyo
 NHK TV:Asia/Tokyo
 NHK World (HK):Asia/Hong_Kong
 NHK World (UK):Europe/London
