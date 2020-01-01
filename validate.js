@@ -217,11 +217,12 @@ const validateNetworkTimezones = () => {
   sortedLines.sort();
   sortedLines.push('');
 
-  const sorted = isEqual(lines, sortedLines);
+  let sorted = isEqual(lines, sortedLines);
   if (!sorted) {
     if (process.argv.includes('--fix')) {
       log.info(`Writing sorted lines to ${relFile}.`);
       fs.writeFileSync(filePath, sortedLines.join('\n'));
+      sorted = true;
     } else {
       log.error('Lines are unsorted. Run `yarn validate --fix` to fix.');
     }
