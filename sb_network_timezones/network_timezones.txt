@@ -141,6 +141,7 @@ AZN Television (US):US/Eastern
 Aaj TV:Asia/Karachi
 Aaj Tak (UK):Europe/London
 Aastha TV (UK):Europe/London
+Abema TV:Asia/Tokyo
 Abu Dhabi TV (UK):Europe/London
 Abu Dhabi TV:Asia/Dubai
 Acasă (RO):Europe/Bucharest
@@ -164,6 +165,7 @@ Al Jazeera Children's Channel (UK):Europe/London
 Al Jazeera English (UK):Europe/London
 Al Jazeera:Asia/Qatar
 Al Karma TV (US):US/Eastern
+All 4:Europe/London
 All Nations TV (US):US/Eastern
 AlloCiné:Europe/Paris
 Almavision (US):US/Eastern
