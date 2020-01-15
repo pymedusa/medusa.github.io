@@ -1145,6 +1145,7 @@ LONDON LIVE (UK):Europe/London
 LONGHORN NETWORK (US):US/Eastern
 LOOKBOOK.nu (US):US/Eastern
 LRS (AU):Australia/Sydney
+La 1:Europe/Madrid
 La Cinq:Europe/Paris
 La Deux:Europe/Brussels
 La Familia Cosmovision (US):US/Eastern
