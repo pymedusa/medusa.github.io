@@ -1857,6 +1857,7 @@ Sky Cinema (IT):Europe/Rome
 Sky Cinema (UK):Europe/London
 Sky Cinema:Europe/London
 Sky Deutschland:Europe/Berlin
+Sky Go (DE):Europe/Berlin
 Sky Go:Europe/London
 Sky Italia:Europe/Rome
 Sky Link TV (US):US/Eastern
