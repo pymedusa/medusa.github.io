@@ -816,6 +816,7 @@ FOX Sports 1:US/Eastern
 FOX Sports 2:US/Eastern
 FOX Traveller:Asia/Kolkata
 FOX Türkiye:Europe/Istanbul
+FOX+:US/Eastern
 FOX:US/Eastern
 FRANCE24 (US):US/Eastern
 FSN:US/Eastern
