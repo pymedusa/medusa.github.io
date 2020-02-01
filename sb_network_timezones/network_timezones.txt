@@ -4,6 +4,7 @@
 1+1:Europe/Kiev
 111 Greats (AU):Australia/Sydney
 13TH STREET (AU):Australia/Sydney
+13e rue:Europe/Paris
 13th Street (NL):Europe/Amsterdam
 13th Street Germany:Europe/Berlin
 2 (NZ):Pacific/Auckland
@@ -284,6 +285,7 @@ BNT1:Europe/Sofia
 BOS (NL):Europe/Amsterdam
 BOSTEL (US):US/Eastern
 BOUNCE TV (US):US/Eastern
+BR Fernsehen:Europe/Berlin
 BR-alpha:Europe/Berlin
 BR:Europe/Berlin
 BRTN:Europe/Brussels
@@ -513,6 +515,7 @@ Chart Show TV:Europe/London
 Chat Box (UK):Europe/London
 Chiba TV (JP):Asia/Tokyo
 Chiba TV:Asia/Tokyo
+Chilevisión:America/Santiago
 Chiller (US):US/Eastern
 Chiller:US/Eastern
 Chorus Sports:Europe/Dublin
@@ -970,6 +973,7 @@ HISTORY (UK):Europe/London
 HITN (US):US/Eastern
 HKTV:Asia/Hong_Kong
 HLN:US/Eastern
+HOT3:Asia/Jerusalem
 HOT:Asia/Jerusalem
 HR (DE):Europe/Berlin
 HRT 1:Europe/Zagreb
@@ -1655,6 +1659,7 @@ RTP2 (PT):Europe/Lisbon
 RTP2:Europe/Lisbon
 RTQ (AU):Australia/Sydney
 RTS (AU):Australia/Sydney
+RTS Deux:Europe/Zurich
 RTS Un:Europe/Zurich
 RTV Noord (NL):Europe/Amsterdam
 RTV Noord-Holland (NL):Europe/Amsterdam
@@ -1842,6 +1847,7 @@ Sikh Channel (UK):Europe/London
 Sino TV (US):US/Eastern
 Sirasa:Asia/Colombo
 Sixx:Europe/Berlin
+Sjónvarp Símans:Atlantic/Reykjavik
 Sjónvarpið (IS):Atlantic/Reykjavik
 Skai:Europe/Athens
 Skjár einn (IS):Atlantic/Reykjavik
