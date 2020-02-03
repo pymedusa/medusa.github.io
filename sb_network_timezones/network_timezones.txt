@@ -166,6 +166,7 @@ Al Jazeera Children's Channel (UK):Europe/London
 Al Jazeera English (UK):Europe/London
 Al Jazeera:Asia/Qatar
 Al Karma TV (US):US/Eastern
+Alibi:Europe/London
 All 4:Europe/London
 All Nations TV (US):US/Eastern
 AlloCiné:Europe/Paris
@@ -2253,6 +2254,7 @@ Tokyo MX:Asia/Tokyo
 Tokyo Metropolitan Television:Asia/Tokyo
 Toon Disney:US/Eastern
 Total Living Network (US):US/Eastern
+Total Variety Network:Asia/Seoul
 Tou.tv:Canada/Eastern
 Trace Sports (UK):Europe/London
 Travel + Escape (CA):Canada/Eastern
