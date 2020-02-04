@@ -2447,6 +2447,7 @@ YTV (UK):Europe/London
 YTV:Canada/Eastern
 Yahoo! Japan:Asia/Tokyo
 Yahoo! Screen:US/Eastern
+Yes:Asia/Jerusalem
 Yesterday:Europe/London
 Yle:Europe/Helsinki
 Yomiuri TV (JP):Asia/Tokyo
