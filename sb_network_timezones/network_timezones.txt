@@ -570,6 +570,7 @@ Country Music Television (US):US/Eastern
 Court TV:US/Eastern
 Cozi TV (US):US/Eastern
 Crackle:US/Eastern
+Crave:Canada/Eastern
 CraveTV:Canada/Eastern
 Create and Craft (UK):Europe/London
 Credo TV (US):US/Eastern
@@ -1019,7 +1020,10 @@ Hulu:US/Eastern
 Hunan TV:Asia/Shanghai
 Hír TV:Europe/Budapest
 IBC (PH):Asia/Manila
+ICI ARTV:Canada/Eastern
 ICI Explora:Canada/Eastern
+ICI Radio-Canada Télé:Canada/Eastern
+ICI TOU.TV:Canada/Eastern
 ICI Tou.tv:Canada/Eastern
 ICTV (AU):Australia/Sydney
 ICTV:Europe/Kiev
@@ -1601,6 +1605,7 @@ QVC Style (UK):Europe/London
 QVC:US/Eastern
 Quest Red:Europe/London
 Quest:Europe/London
+Quibi:US/Pacific
 RAI:Europe/Rome
 RBB:Europe/Berlin
 RCN TV:America/Bogota
@@ -2307,6 +2312,7 @@ USA Network:US/Eastern
 UTV (UK):Europe/London
 UTV:Europe/Dublin
 Ummah Channel (UK):Europe/London
+Unis TV:Canada/Eastern
 Universal Cable Productions:US/Eastern
 Universal Channel:America/Sao_Paulo
 Universal Christian (US):US/Eastern
@@ -2334,6 +2340,7 @@ Unknown (US):US/Eastern
 Ustream:US/Eastern
 V Channel (UK):Europe/London
 V LIVE:Asia/Seoul
+V télé:Canada/Eastern
 V:Canada/Eastern
 VARA:Europe/Amsterdam
 VENEVISION INTERNATIONAL (US):US/Eastern
@@ -2464,6 +2471,7 @@ YouTube:US/Eastern
 YourTV Blackpool & Preston (UK):Europe/London
 YourTV Manchester (UK):Europe/London
 Z LIVING (US):US/Eastern
+Z:Canada/Eastern
 ZDF.Kultur:Europe/Berlin
 ZDF:Europe/Berlin
 ZDFinfo:Europe/Berlin
