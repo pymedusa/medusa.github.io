@@ -1846,6 +1846,7 @@ Showcase (UK):Europe/London
 Showcase 2 (UK):Europe/London
 Showcase Television:US/Eastern
 Showcase:Canada/Eastern
+Showmax:Africa/Johannesburg
 Showtime Networks:US/Eastern
 Showtime:US/Eastern
 Shudder:US/Eastern
