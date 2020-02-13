@@ -1023,6 +1023,7 @@ IBC (PH):Asia/Manila
 ICI ARTV:Canada/Eastern
 ICI Explora:Canada/Eastern
 ICI Radio-Canada Télé:Canada/Eastern
+ICI TOU.TV Extra:Canada/Eastern
 ICI TOU.TV:Canada/Eastern
 ICI Tou.tv:Canada/Eastern
 ICTV (AU):Australia/Sydney
