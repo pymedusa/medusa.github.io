@@ -1866,6 +1866,7 @@ Sky Arts:Europe/London
 Sky Atlantic (IT):Europe/Rome
 Sky Atlantic (UK):Europe/London
 Sky Atlantic HD (DE):Europe/Berlin
+Sky Atlantic :Europe/London
 Sky Atlantic:Europe/London
 Sky Box Office:Europe/London
 Sky Cinema (IT):Europe/Rome
