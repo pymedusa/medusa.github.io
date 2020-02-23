@@ -56,6 +56,7 @@ ABC (PH):Asia/Manila
 ABC (UK):Europe/London
 ABC (US):US/Eastern
 ABC Family:US/Eastern
+ABC KIDS:Australia/Sydney
 ABC ME:Australia/Sydney
 ABC News 24:Australia/Sydney
 ABC Spark:Canada/Eastern
@@ -1865,8 +1866,8 @@ Sky Arte:Europe/Rome
 Sky Arts:Europe/London
 Sky Atlantic (IT):Europe/Rome
 Sky Atlantic (UK):Europe/London
-Sky Atlantic HD (DE):Europe/Berlin
 Sky Atlantic :Europe/London
+Sky Atlantic HD (DE):Europe/Berlin
 Sky Atlantic:Europe/London
 Sky Box Office:Europe/London
 Sky Cinema (IT):Europe/Rome
