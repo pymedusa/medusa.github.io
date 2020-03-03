@@ -578,6 +578,7 @@ Credo TV (US):US/Eastern
 Crime & Investigation Network (AU):Australia/Sydney
 Crime & Investigation Network (UK):Europe/London
 Crime & Investigation Network:US/Eastern
+Crime & Investigation:US/Eastern
 Crunchyroll:US/Pacific
 Cuatro:Europe/Madrid
 CuriosityStream:US/Eastern
