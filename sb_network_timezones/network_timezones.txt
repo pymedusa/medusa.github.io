@@ -751,6 +751,7 @@ El Rey:US/Eastern
 El Trece:America/Buenos_Aires
 Eleven (AU):Australia/Sydney
 Eleven:Australia/Sydney
+Elisa Viihde:Europe/Helsinki
 Emmanuel TV (US):US/Eastern
 Encore Westerns East (US):US/Eastern
 Encore:US/Eastern
