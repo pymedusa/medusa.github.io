@@ -1692,6 +1692,7 @@ Radio-Canada:Canada/Eastern
 Rai 1:Europe/Rome
 Rai 2:Europe/Rome
 Rai 3:Europe/Rome
+Rai Gulp:Europe/Rome
 Real Hip-Hop Network (US):US/Eastern
 Really:Europe/London
 Record TV (UK):Europe/London
@@ -2387,6 +2388,7 @@ Viceland (US):US/Eastern
 Viceland:US/Eastern
 Victor Entertainment:Asia/Tokyo
 Victory Television Network (US):US/Eastern
+VidAngel (USA):US/Eastern
 Videoland (NL):Europe/Amsterdam
 Videoland Television Network:Asia/Taipei
 VijfTV:Europe/Brussels
@@ -2576,6 +2578,7 @@ heartland (US):US/Eastern
 heat (UK):Europe/London
 here!:US/Eastern
 home (UK):Europe/London
+hulu Japan:Asia/Tokyo
 iCHANNEL (CA):Canada/Eastern
 iQiyi:Asia/Shanghai
 iTunes (US):US/Eastern
