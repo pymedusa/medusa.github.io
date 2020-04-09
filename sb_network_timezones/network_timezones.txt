@@ -911,6 +911,7 @@ GEB AMERICA (US):US/Eastern
 GEO News (UK):Europe/London
 GEO Super:Asia/Karachi
 GEO UK (UK):Europe/London
+Globoplay:America/Sao_Paulo
 GLOBO TV International (US):US/Eastern
 GLV (AU):Australia/Sydney
 GMA:Asia/Manila
