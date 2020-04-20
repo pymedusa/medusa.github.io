@@ -911,7 +911,6 @@ GEB AMERICA (US):US/Eastern
 GEO News (UK):Europe/London
 GEO Super:Asia/Karachi
 GEO UK (UK):Europe/London
-Globoplay:America/Sao_Paulo
 GLOBO TV International (US):US/Eastern
 GLV (AU):Australia/Sydney
 GMA:Asia/Manila
@@ -943,6 +942,7 @@ Genius Kitchen:US/Eastern
 Geo TV:Asia/Karachi
 Global:Canada/Eastern
 Globo International (AU):Australia/Sydney
+Globoplay:America/Sao_Paulo
 Glory TV (UK):Europe/London
 Go90:US/Eastern
 God Channel (UK):Europe/London
