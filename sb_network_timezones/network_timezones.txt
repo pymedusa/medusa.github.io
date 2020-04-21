@@ -931,6 +931,7 @@ GWN7 (AU):Australia/Sydney
 Gaiam TV:US/Eastern
 Galavisión (US):US/Eastern
 Gamavision (MX):America/Mexico_City
+Game Show Network:US/Eastern
 Game Show Network (US):US/Eastern
 Gay Network (UK):Europe/London
 GayXChange (UK):Europe/London
