@@ -931,8 +931,8 @@ GWN7 (AU):Australia/Sydney
 Gaiam TV:US/Eastern
 Galavisión (US):US/Eastern
 Gamavision (MX):America/Mexico_City
-Game Show Network:US/Eastern
 Game Show Network (US):US/Eastern
+Game Show Network:US/Eastern
 Gay Network (UK):Europe/London
 GayXChange (UK):Europe/London
 Gem (AU):Australia/Sydney
@@ -991,6 +991,7 @@ HSV (AU):Australia/Sydney
 HTB:Asia/Tokyo
 HUMAN (NL):Europe/Amsterdam
 Hakka TV:Asia/Taipei
+Hallmark Channel Everywhere:US/Eastern
 Hallmark Channel, The:US/Eastern
 Hallmark Channel:US/Eastern
 Hallmark MOVIES & MYSTERIES (US):US/Eastern
@@ -1307,6 +1308,7 @@ MoonTV:Europe/Helsinki
 More Than Movies (UK):Europe/London
 More4:Europe/London
 Motor Trend On Demand:US/Eastern
+MotorTrendOnDemand:US/Eastern
 Motors TV (UK):Europe/London
 Movie Central:Canada/Eastern
 Movie Extra (AU):Australia/Sydney
