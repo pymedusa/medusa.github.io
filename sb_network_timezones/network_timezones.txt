@@ -604,6 +604,7 @@ DR Ramasjang:Europe/Copenhagen
 DR1:Europe/Copenhagen
 DR2:Europe/Copenhagen
 DR3:Europe/Copenhagen
+DR:Europe/Copenhagen
 DRAMA (UK):Europe/London
 DRAMAcube:Asia/Seoul
 DTD (AU):Australia/Sydney
@@ -2070,6 +2071,7 @@ TTV:Asia/Taipei
 TUFF TV (US):US/Eastern
 TURNER CLASSIC MOVIES (AU):Australia/Sydney
 TURNER CLASSIC MOVIES (US):US/Eastern
+TV 2 (DK):Europe/Copenhagen
 TV 2 Charlie:Europe/Copenhagen
 TV 2 Filmkanalen:Europe/Oslo
 TV 2 Nyhetskanalen:Europe/Oslo
@@ -2587,6 +2589,7 @@ iCHANNEL (CA):Canada/Eastern
 iQiyi:Asia/Shanghai
 iTunes (US):US/Eastern
 iTunes:US/Eastern
+id discovery:US/Eastern
 inDEMAND:US/Eastern
 ingaylewetrust.com (US):US/Eastern
 insp (US):US/Eastern
