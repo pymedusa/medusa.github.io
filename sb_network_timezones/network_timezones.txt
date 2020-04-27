@@ -2397,6 +2397,7 @@ Victory Television Network (US):US/Eastern
 VidAngel (USA):US/Eastern
 Videoland (NL):Europe/Amsterdam
 Videoland Television Network:Asia/Taipei
+Videoland:Europe/Amsterdam
 VijfTV:Europe/Brussels
 Vimeo:US/Eastern
 Vintage TV (UK):Europe/London
