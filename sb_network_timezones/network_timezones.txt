@@ -1909,6 +1909,7 @@ Smile of a Child TV (US):US/Eastern
 Smithsonian Channel (CA):Canada/Eastern
 Smithsonian Channel:US/Eastern
 Smithsonian Earth:US/Eastern
+Smithsonian:US/Eastern
 Smooth (AU):Australia/Sydney
 SoHo:Australia/Sydney
 SonBeam Channel (US):US/Eastern
