@@ -58,6 +58,7 @@ ABC (US):US/Eastern
 ABC Family:US/Eastern
 ABC KIDS:Australia/Sydney
 ABC ME:Australia/Sydney
+ABC Me:Australia/Sydney
 ABC News 24:Australia/Sydney
 ABC Spark:Canada/Eastern
 ABC Television Network:US/Eastern
@@ -880,6 +881,7 @@ Fox Channel:Europe/Berlin
 Fox Crime:Europe/Rome
 Fox España:Europe/Madrid
 Fox Family:US/Eastern
+Fox Kids:US/Eastern
 Fox Life (IT):Europe/Rome
 Fox Life (NL):Europe/Amsterdam
 Fox Life:Europe/Rome
@@ -1579,6 +1581,7 @@ PlayStation Network:US/Eastern
 Playboy TV:US/Eastern
 Playhouse Disney:US/Eastern
 Playstation:US/Eastern
+Playz:Europe/Madrid
 Plug RTL:Europe/Brussels
 Polsat:Europe/Warsaw
 Pop Girl (UK):Europe/London
