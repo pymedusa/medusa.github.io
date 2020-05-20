@@ -2277,6 +2277,7 @@ Tokyo MX:Asia/Tokyo
 Tokyo Metropolitan Television:Asia/Tokyo
 Toon Disney:US/Eastern
 Total Living Network (US):US/Eastern
+Total Variety Network (tvN):Asia/Seoul
 Total Variety Network:Asia/Seoul
 Tou.tv:Canada/Eastern
 Trace Sports (UK):Europe/London
