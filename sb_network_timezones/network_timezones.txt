@@ -125,6 +125,7 @@ ATN CRICKET PLUS (CA):Canada/Eastern
 ATN SPORTS (CA):Canada/Eastern
 ATN Service 1 (US):US/Eastern
 ATN Service 2 (US):US/Eastern
+ATRESplayer Premium:Europe/Madrid
 ATV (AU):Australia/Sydney
 ATV (BE):Europe/Brussels
 ATV (DE):Europe/Berlin
@@ -190,6 +191,7 @@ American Broadcasting Company:US/Eastern
 American Heroes Channel:US/Eastern
 American Liberty (US):US/Eastern
 American Movie Classics (AMC):US/Eastern
+América TV:America/Buenos_Aires
 Angel One (US):US/Eastern
 Angel Two (US):US/Eastern
 Anhui TV:Asia/Shanghai
@@ -616,6 +618,7 @@ Dailymotion:US/Eastern
 Dangerjane.tv (US):US/Eastern
 Danmarks Radio:Europe/Copenhagen
 Dare to Dream Network (US):US/Eastern
+Dark:Europe/Madrid
 Das Erste:Europe/Berlin
 Dating Channel (UK):Europe/London
 Dave:Europe/London
@@ -857,6 +860,7 @@ Fitness Channel (UK):Europe/London
 Five Life:Europe/London
 Five US:Europe/London
 Five:Europe/London
+Flooxer:Europe/Madrid
 Flow TV (US):US/Eastern
 Food Network (UK):Europe/London
 Food Network Canada:Canada/Eastern
@@ -1854,6 +1858,7 @@ Sheffield Live! (UK):Europe/London
 Shepherd's Chapel Network (US):US/Eastern
 Shopping Channel (CA):Canada/Eastern
 Show TV:Europe/Istanbul
+ShowMax:Africa/Johannesburg
 Showcase (AU):Australia/Sydney
 Showcase (CA):Canada/Eastern
 Showcase (UK):Europe/London
@@ -1932,6 +1937,7 @@ Soul of the South Television Network (US):US/Eastern
 Soundtrack Channel (US):US/Eastern
 Southern Cross TELEVISION (AU):Australia/Sydney
 Southern Cross Ten (AU):Australia/Sydney
+Space (Latin America):America/Buenos_Aires
 Space:Canada/Eastern
 Spectrum On Demand:US/Eastern
 Spectrum:US/Eastern
@@ -2049,6 +2055,7 @@ TND (AU):Australia/Sydney
 TNQ (AU):Australia/Sydney
 TNT (US):US/Eastern
 TNT Serie:Europe/Berlin
+TNT Spain:Europe/Madrid
 TNT:US/Eastern
 TNU:America/Montevideo
 TPC (US):US/Eastern
