@@ -1177,6 +1177,7 @@ La Red:Europe/Madrid
 La Siete:Europe/Madrid
 La Trois:Europe/Brussels
 La Une:Europe/Brussels
+La Uno (TVE1):Europe/Madrid
 La7:Europe/Rome
 LaSexta:Europe/Rome
 Latest TV (UK):Europe/London
