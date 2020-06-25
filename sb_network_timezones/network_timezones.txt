@@ -1122,6 +1122,7 @@ KTV (JP):Asia/Tokyo
 KYW-TV (US):US/Eastern
 Kabel1 (DE):Europe/Berlin
 Kampüs TV:Europe/Istanbul
+Kan 11:Asia/Jerusalem
 Kanaal 2:Europe/Brussels
 KanaalTwee:Europe/Brussels
 Kanal 1 (SE):Europe/Stockholm
@@ -2764,6 +2765,7 @@ youtoo SOCIAL TV (US):US/Eastern
 ТНТ:Europe/Kaliningrad
 הערוץ הראשון:Asia/Jerusalem
 טלעד:Asia/Jerusalem
+כאן (Kan):Asia/Jerusalem
 ערוץ 10:Asia/Jerusalem
 ערוץ הילדים:Asia/Jerusalem
 קשת 12:Asia/Jerusalem
