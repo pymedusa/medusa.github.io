@@ -479,6 +479,7 @@ Canal+:Europe/Paris
 Canale 5:Europe/Rome
 Cancao News (US):US/Eastern
 Canvas/Ketnet:Europe/Brussels
+Canvas:Europe/Brussels
 Capital TV (UK):Europe/London
 Caracol TV:America/Bogota
 Carlton Television:Europe/London
