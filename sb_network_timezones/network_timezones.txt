@@ -139,6 +139,7 @@ AXN (HK):Asia/Hong_Kong
 AXN (JP):Asia/Tokyo
 AXN (PL):Europe/Warsaw
 AXN (SG):Asia/Singapore
+AXN España:Europe/Madrid
 AXN:US/Eastern
 AXS TV:US/Eastern
 AXStv (US):US/Eastern
