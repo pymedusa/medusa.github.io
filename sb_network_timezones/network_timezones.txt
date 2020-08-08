@@ -446,6 +446,7 @@ CTV (JP):Asia/Tokyo
 CTV (TW):Asia/Taipei
 CTV Drama (Bravo):Canada/Eastern
 CTV News Channel (CA):Canada/Eastern
+CTV Sci-Fi (Space):Canada/Eastern
 CTV Sci-Fi Channel:Canada/Eastern
 CTV Television Network:Canada/Eastern
 CTV two (CA):Canada/Eastern
@@ -1036,6 +1037,7 @@ Hub Network:US/Eastern
 Hulu Japan:Asia/Tokyo
 Hulu:US/Eastern
 Hunan TV:Asia/Shanghai
+Hungama:Asia/Kolkata
 Hír TV:Europe/Budapest
 IBC (PH):Asia/Manila
 ICI ARTV:Canada/Eastern
@@ -1241,6 +1243,7 @@ MCM:Europe/Paris
 MCOT:Asia/Bangkok
 MDR:Europe/Berlin
 MDV (AU):Australia/Sydney
+MEGA:America/Santiago
 MGM (UK):Europe/London
 MGM HD (US):US/Eastern
 MGS (AU):Australia/Sydney
