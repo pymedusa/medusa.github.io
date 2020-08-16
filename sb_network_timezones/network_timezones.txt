@@ -252,6 +252,7 @@ BBC One Oxfordshire:Europe/London
 BBC One Scotland:Europe/London
 BBC One South East:Europe/London
 BBC One South West:Europe/London
+BBC One Wales:Europe/London
 BBC One West Midlands:Europe/London
 BBC One West:Europe/London
 BBC One Yorkshire & Lincolnshire:Europe/London
