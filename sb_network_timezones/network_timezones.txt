@@ -252,6 +252,7 @@ BBC One Oxfordshire:Europe/London
 BBC One Scotland:Europe/London
 BBC One South East:Europe/London
 BBC One South West:Europe/London
+BBC One Wales:Europe/London
 BBC One West Midlands:Europe/London
 BBC One West:Europe/London
 BBC One Yorkshire & Lincolnshire:Europe/London
@@ -971,6 +972,7 @@ H2 (CA):Canada/Eastern
 H2 (UK):Europe/London
 H2:US/Eastern
 HBO Asia:Asia/Singapore
+HBO Brasil:America/Sao_Paulo
 HBO CANADA:Canada/Eastern
 HBO Canada:Canada/Eastern
 HBO Europe:Europe/Budapest
@@ -1023,6 +1025,7 @@ History Channel:US/Eastern
 History Television:Canada/Eastern
 History en Español (US):US/Eastern
 History:US/Eastern
+Hoichoi:Asia/Kolkata
 Holiday & Cruise (UK):Europe/London
 Home Box Office (HBO):US/Eastern
 Home Team Networks (US):US/Eastern
@@ -1493,6 +1496,7 @@ OCN:Canada/Eastern
 OCS:Europe/Paris
 OLN:Canada/Eastern
 OMNI TELEVISION (CA):Canada/Eastern
+ONDirecTV (Latin America):America/Buenos_Aires
 ONE (NZ):Pacific/Auckland
 ORF 1:Europe/Vienna
 ORF 2:Europe/Vienna
@@ -2064,6 +2068,7 @@ TMF:Europe/Amsterdam
 TND (AU):Australia/Sydney
 TNQ (AU):Australia/Sydney
 TNT (US):US/Eastern
+TNT Latin America:America/Buenos_Aires
 TNT Serie:Europe/Berlin
 TNT Spain:Europe/Madrid
 TNT:US/Eastern
