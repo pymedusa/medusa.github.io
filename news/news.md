@@ -1,6 +1,48 @@
 #### Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue ####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
+#### 2020-08-18 ####
+
+## 0.4.1
+
+- Fixed show titles displayed in white text on the schedule page ([#8338](https://github.com/pymedusa/Medusa/pull/8338))
+- Fixed Series show list title shown, also when it's the only show list used ([#8338](https://github.com/pymedusa/Medusa/pull/8338))
+- Fixed home table layouts Downloads sorting ([#8338](https://github.com/pymedusa/Medusa/pull/8338))
+- Fixed home table layouts previous and next episode sorting ([#8337](https://github.com/pymedusa/Medusa/pull/8337))
+- Fixed show's show lists not stored after restart ([#8337](https://github.com/pymedusa/Medusa/pull/8337))
+
+<br/>
+
+#### 2020-08-15 ####
+
+## 0.4.0
+
+Version 0.4.0 will be a (minor) version bump, going from 3 to 4. The reason for this, is that we've worked hard on Medusa's new frontend. With version 0.4.0 the most used pages have been transitioned to vue.js. This will allow you to load Medusa once, and reuse the list of shows and other data, when switching to different (also transitioned) pages. Overall it should result in faster and more user-friendly application. We haven't transitioned all pages, so we still have a lot of work to do.
+
+Maybe you'll notice that some user interface features have been removed. Don't fear, most of them will return eventually.
+
+We'd still like to know what you think of the "new" UI. So let us know through the usual channels like ([Discord](https://discord.gg/zMdAdUK)) or you can always create a GitHub ticket.
+
+#### New Features
+- Added Search shows by id ([#8308](https://github.com/pymedusa/Medusa/pull/8308))
+- Added UI option to create your own show list categories ([#8308](https://github.com/pymedusa/Medusa/pull/8308))
+- Add the ability to modify the Discord bot username ([#8148](https://github.com/pymedusa/Medusa/pull/8148))
+
+#### Improvements
+- Vueified Home page (Poster, small poster, banner, simple layouts) ([5345](https://github.com/pymedusa/Medusa/pull/5345))
+- Vueified Snatch Selection page ([7345](https://github.com/pymedusa/Medusa/pull/7345))
+- Add the save path option for qBittorrent version > 3.2 ([8304](https://github.com/pymedusa/Medusa/pull/8304))
+- show-header: mark indexer used for adding show with star ([8286](https://github.com/pymedusa/Medusa/pull/8286))
+- Utilize season search results from cache ([8281](https://github.com/pymedusa/Medusa/pull/8281))
+- Improve season scene name handling for non-anime shows ([8155](https://github.com/pymedusa/Medusa/pull/8155))
+
+#### Fixes
+- Disable forcing of the scene option when adding shows ([8316](https://github.com/pymedusa/Medusa/pull/8316))
+- Fix associated files matching more files than wanted ([8152](https://github.com/pymedusa/Medusa/pull/8152))
+For a complete changelog, please refer to [changelog](https://github.com/pymedusa/Medusa/blob/master/CHANGELOG.md).
+
+<br/>
+
 #### 2019-12-08 ####
 
 ## 0.3.8
