@@ -769,6 +769,7 @@ Encore:US/Eastern
 Encuentro:America/Buenos_Aires
 Epix:US/Eastern
 Epsilon TV:Europe/Athens
+Eros Now:Asia/Kolkata
 Esperanza TV (US):US/Eastern
 Esquire Network:US/Eastern
 Estuary TV (UK):Europe/London
