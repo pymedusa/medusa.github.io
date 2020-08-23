@@ -856,6 +856,7 @@ FYI:US/Eastern
 Facebook Watch:US/Pacific
 Faith World TV (UK):Europe/London
 Family (CA):Canada/Eastern
+Family CHRGD:Canada/Eastern
 Family Friendly Entertainment (US):US/Eastern
 Family Gekijo:Asia/Tokyo
 Family Gekijou (JP):Asia/Tokyo
