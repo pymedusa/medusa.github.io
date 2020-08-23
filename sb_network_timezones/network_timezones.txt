@@ -977,6 +977,7 @@ HBO Asia:Asia/Singapore
 HBO Brasil:America/Sao_Paulo
 HBO CANADA:Canada/Eastern
 HBO Canada:Canada/Eastern
+HBO España:Europe/Madrid
 HBO Europe:Europe/Budapest
 HBO Family (US):US/Eastern
 HBO Go:US/Eastern
