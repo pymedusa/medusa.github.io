@@ -287,9 +287,9 @@ BIOGRAPHY CHANNEL (CA):Canada/Eastern
 BKN (AU):Australia/Sydney
 BLISS (UK):Europe/London
 BNN (NL):Europe/Amsterdam
-BNNVARA:Europe/Amsterdam
 BNN-VARA:Europe/Amsterdam
 BNN:Canada/Eastern
+BNNVARA:Europe/Amsterdam
 BNT1:Europe/Sofia
 BOS (NL):Europe/Amsterdam
 BOSTEL (US):US/Eastern
