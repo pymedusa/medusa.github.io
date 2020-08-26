@@ -288,6 +288,7 @@ BKN (AU):Australia/Sydney
 BLISS (UK):Europe/London
 BNN (NL):Europe/Amsterdam
 BNN-VARA:Europe/Amsterdam
+BNNVARA:Europe/Amsterdam
 BNN:Canada/Eastern
 BNT1:Europe/Sofia
 BOS (NL):Europe/Amsterdam
