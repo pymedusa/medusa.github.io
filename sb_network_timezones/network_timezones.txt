@@ -514,6 +514,7 @@ Channel 7 (US):US/Eastern
 Channel 7:Asia/Bangkok
 Channel 8:Asia/Singapore
 Channel 9 (UK):Europe/London
+Channel 9 MCOT HD:Asia/Bangkok
 Channel 9:Australia/Sydney
 Channel A:Asia/Seoul
 Channel AKA (UK):Europe/London
@@ -931,6 +932,7 @@ GLOBO TV International (US):US/Eastern
 GLV (AU):Australia/Sydney
 GMA:Asia/Manila
 GMM One:Asia/Bangkok
+GMM25:Asia/Bangkok
 GNT:America/Sao_Paulo
 GO (ZA):Africa/Johannesburg
 GO! (AU):Australia/Sydney
@@ -1122,6 +1124,7 @@ KCET:US/Eastern
 KICC TV (UK):Europe/London
 KIKA:Europe/Berlin
 KING-TV (US):US/Eastern
+KKTV:Asia/Bangkok
 KMTV (UK):Europe/London
 KNLJ (US):US/Eastern
 KNXT (US):US/Eastern
@@ -1172,6 +1175,7 @@ LCI:Europe/Paris
 LFC TV (UK):Europe/London
 LFN (US):US/Eastern
 LINE TV (TH):Asia/Bangkok
+LINE TV:Asia/Taipei
 LLBN Arabic (US):US/Eastern
 LLBN Chinese (US):US/Eastern
 LLBN English (US):US/Eastern
@@ -1502,6 +1506,7 @@ OLN:Canada/Eastern
 OMNI TELEVISION (CA):Canada/Eastern
 ONDirecTV (Latin America):America/Buenos_Aires
 ONE (NZ):Pacific/Auckland
+ONE 31:Asia/Bangkok
 ORF 1:Europe/Vienna
 ORF 2:Europe/Vienna
 ORF III:Europe/Vienna
@@ -2431,6 +2436,7 @@ Videoland (NL):Europe/Amsterdam
 Videoland Television Network:Asia/Taipei
 Videoland:Europe/Amsterdam
 VijfTV:Europe/Brussels
+Viki:US/Eastern
 Vimeo:US/Eastern
 Vintage TV (UK):Europe/London
 Virgin 1:Europe/London
