@@ -1124,7 +1124,7 @@ KCET:US/Eastern
 KICC TV (UK):Europe/London
 KIKA:Europe/Berlin
 KING-TV (US):US/Eastern
-KKTV:Asia/Bangkok
+KKTV:Asia/Taipei
 KMTV (UK):Europe/London
 KNLJ (US):US/Eastern
 KNXT (US):US/Eastern
