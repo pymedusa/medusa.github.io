@@ -1040,6 +1040,7 @@ Hope CHANNEL (US):US/Eastern
 Hope Church Channel (US):US/Eastern
 Horror Channel (UK):Europe/London
 Horse & Country TV (UK):Europe/London
+Hotstar:Asia/Kolkata
 Howard TV (US):US/Eastern
 Hrvatska radiotelevizija:Europe/Zagreb
 Hub Network:US/Eastern
