@@ -1,6 +1,7 @@
 #0:Europe/Madrid
 &TV:Asia/Kolkata
 +Globosat:America/Sao_Paulo
+- None:US/Eastern
 1+1:Europe/Kiev
 111 Greats (AU):Australia/Sydney
 13TH STREET (AU):Australia/Sydney
