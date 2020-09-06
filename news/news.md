@@ -3,12 +3,12 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 #### 2020-09-06 ####
 
-We are moving closer to a version 0.5.0, where we will drop python 2 support. This and the coming 1 or 2 releases will focus at delivering a stable version, which can be used by users who can't upgrade to python 3.6 or higher. We've worked hard on improving the update process. Using Medusa's UI to switch between the master and develop branch should also be fixed. Let us know if there are any issues we should address.
+We are moving closer to version 0.5.0, where we will drop Python 2 support. This and the coming 1 or 2 releases will focus at delivering a stable version, which can be used by users who can't upgrade to Python 3.6 or higher. We've worked hard on improving the update process. Using Medusa's UI to switch between the master and develop branch should also be fixed. Let us know if there are any issues we should address.
 
 ## 0.4.2
 
 #### Improvements
-- Added new page "restart", for restarting and shutting down medusa ([8399 ](https://github.com/pymedusa/Medusa/pull/8399 ))
+- Added new page "restart", for restarting and shutting down medusa ([8399 ](https://github.com/pymedusa/Medusa/pull/8399))
 - Added new page "update", for updating medusa to a new version ([8437](https://github.com/pymedusa/Medusa/pull/8437))
 
 #### Fixes
