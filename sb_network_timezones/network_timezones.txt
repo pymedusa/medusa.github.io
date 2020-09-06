@@ -1227,6 +1227,7 @@ Living Faith TV (US):US/Eastern
 Living:Europe/London
 LivingTV:Europe/London
 Local 4 (US):US/Eastern
+Logo TV:US/Eastern
 Logo:US/Eastern
 London Weekend Television (LWT):Europe/London
 Loveworld TV (UK):Europe/London
