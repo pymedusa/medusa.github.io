@@ -1,6 +1,25 @@
 #### Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue ####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
+#### 2020-09-06 ####
+
+We are moving closer to version 0.5.0, where we will drop Python 2 support. This and the coming 1 or 2 releases will focus at delivering a stable version, which can be used by users who can't upgrade to Python 3.6 or higher. We've worked hard on improving the update process. Using Medusa's UI to switch between the master and develop branch should also be fixed. Let us know if there are any issues we should address.
+
+## 0.4.2
+
+#### Improvements
+- Added new page "restart", for restarting and shutting down medusa ([8399](https://github.com/pymedusa/Medusa/pull/8399))
+- Added new page "update", for updating medusa to a new version ([8437](https://github.com/pymedusa/Medusa/pull/8437))
+
+#### Fixes
+- Fix show-selector using the show lists ([8426](https://github.com/pymedusa/Medusa/pull/8426))
+- Fix home poster layout. Re-add the search by show title ([8415](https://github.com/pymedusa/Medusa/pull/8415))
+- Fix backlog search ignoring cached search results ([8395](https://github.com/pymedusa/Medusa/pull/8395))
+- Fix guessit parsing numbered episode titles as multi season ([8413](https://github.com/pymedusa/Medusa/pull/8413))
+- Fix History page showing black text (on black) when using dark theme ([8375](https://github.com/pymedusa/Medusa/pull/8375))
+
+<br/>
+
 #### 2020-08-18 ####
 
 ## 0.4.1
