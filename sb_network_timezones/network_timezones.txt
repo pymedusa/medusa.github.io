@@ -1492,6 +1492,7 @@ Niconico:Asia/Tokyo
 Nine Network Australia:Australia/Sydney
 Nine Network:Australia/Sydney
 Nippon Housou Kyoukai:Asia/Tokyo
+Nippon TV:Asia/Tokyo
 Nippon Television:Asia/Tokyo
 Noggin:US/Eastern
 Nolife:Europe/Paris
