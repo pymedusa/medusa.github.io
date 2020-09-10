@@ -447,6 +447,7 @@ CTS:Asia/Tokyo
 CTV (CN):Asia/Shanghai
 CTV (JP):Asia/Tokyo
 CTV (TW):Asia/Taipei
+CTV Comedy:Canada/Eastern
 CTV Drama (Bravo):Canada/Eastern
 CTV News Channel (CA):Canada/Eastern
 CTV Sci-Fi (Space):Canada/Eastern
