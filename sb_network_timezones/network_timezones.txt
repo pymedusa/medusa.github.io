@@ -2795,6 +2795,7 @@ youtoo SOCIAL TV (US):US/Eastern
 הערוץ הראשון:Asia/Jerusalem
 טלעד:Asia/Jerusalem
 כאן (Kan):Asia/Jerusalem
+כאן 11:Asia/Jerusalem
 ערוץ 10:Asia/Jerusalem
 ערוץ הילדים:Asia/Jerusalem
 קשת 12:Asia/Jerusalem
