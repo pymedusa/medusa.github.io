@@ -933,6 +933,7 @@ GEO UK (UK):Europe/London
 GLOBO TV International (US):US/Eastern
 GLV (AU):Australia/Sydney
 GMA:Asia/Manila
+GMM 25:Asia/Bangkok
 GMM One:Asia/Bangkok
 GMM25:Asia/Bangkok
 GNT:America/Sao_Paulo
