@@ -1114,6 +1114,7 @@ Jewellery Channel (UK):Europe/London
 Jewellery Maker (UK):Europe/London
 Jiangsu TV:Asia/Shanghai
 Joi:Europe/Rome
+Joyn (Germany):Europe/Berlin
 June:Europe/Paris
 Jupiter Broadcasting :US/Eastern
 Jupiter Broadcasting:US/Eastern
@@ -2168,6 +2169,7 @@ TV3 (IE):Europe/Dublin
 TV3 (NO):Europe/Oslo
 TV3 (NZ):Pacific/Auckland
 TV3 (SE):Europe/Stockholm
+TV3 Danmark:Europe/Copenhagen
 TV3 Puls:Europe/Copenhagen
 TV3+:Europe/Copenhagen
 TV3:Europe/Stockholm
@@ -2214,6 +2216,7 @@ TVN Style:Europe/Warsaw
 TVN Turbo:Europe/Warsaw
 TVN:Europe/Warsaw
 TVNZ 2:Pacific/Auckland
+TVNZ OnDemand:Pacific/Auckland
 TVNZ:Pacific/Auckland
 TVNorge:Europe/Oslo
 TVO:Canada/Eastern
@@ -2374,6 +2377,7 @@ Universal Cable Productions:US/Eastern
 Universal Channel:America/Sao_Paulo
 Universal Christian (US):US/Eastern
 Universal Kids:US/Eastern
+Universal Television:US/Eastern
 University of California Television (US):US/Eastern
 University of Washington Television (US):US/Eastern
 Univision:US/Eastern
@@ -2431,6 +2435,7 @@ Veronica:Europe/Amsterdam
 Vertigo:US/Eastern
 Vessel:US/Eastern
 Viacom:US/Eastern
+Viafree:Europe/Stockholm
 Viaplay:Europe/Stockholm
 Viasat 4:Europe/Oslo
 Viceland (CA):US/Eastern
