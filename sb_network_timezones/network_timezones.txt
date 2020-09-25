@@ -1721,6 +1721,7 @@ RTV Rijnmond (NL):Europe/Amsterdam
 RTV Utrecht (NL):Europe/Amsterdam
 RTV West (NL):Europe/Amsterdam
 RTVE/TV Asahi:Asia/Tokyo
+RTVS:Europe/Bratislava
 RTÉ NEWS NOW (IE):Europe/Dublin
 RTÉ ONE:Europe/Dublin
 RTÉ One:Europe/Dublin
