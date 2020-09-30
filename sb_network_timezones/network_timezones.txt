@@ -665,6 +665,7 @@ Discovery Channel:US/Eastern
 Discovery Communications:US/Eastern
 Discovery Family (US):US/Eastern
 Discovery Family:US/Eastern
+Discovery GO:US/Eastern
 Discovery HD World:Asia/Singapore
 Discovery HISTORY (UK):Europe/London
 Discovery Kids:US/Eastern
