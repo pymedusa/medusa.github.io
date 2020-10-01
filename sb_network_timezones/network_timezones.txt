@@ -1923,6 +1923,7 @@ Sky Cinema (IT):Europe/Rome
 Sky Cinema (UK):Europe/London
 Sky Cinema:Europe/London
 Sky Deutschland:Europe/Berlin
+Sky Documentaries:Europe/London
 Sky Go (DE):Europe/Berlin
 Sky Go:Europe/London
 Sky Italia:Europe/Rome
