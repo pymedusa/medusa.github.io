@@ -987,6 +987,7 @@ HBO Canada:Canada/Eastern
 HBO España:Europe/Madrid
 HBO Europe:Europe/Budapest
 HBO Family (US):US/Eastern
+HBO Go CEE:Europe/Budapest
 HBO Go:US/Eastern
 HBO Latin America:America/Sao_Paulo
 HBO Magyarország:Europe/Budapest
@@ -1509,6 +1510,7 @@ Nou Televisió:Europe/Madrid
 Nova TV (HR):Europe/Zagreb
 NovaTV:Europe/Sofia
 OCN:Canada/Eastern
+OCS City:Europe/Paris
 OCS:Europe/Paris
 OLN:Canada/Eastern
 OMNI TELEVISION (CA):Canada/Eastern
