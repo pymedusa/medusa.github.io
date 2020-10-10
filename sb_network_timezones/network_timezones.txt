@@ -965,6 +965,7 @@ Genius Kitchen:US/Eastern
 Geo TV:Asia/Karachi
 Global:Canada/Eastern
 Globo International (AU):Australia/Sydney
+Globo Play:America/Sao_Paulo
 Globoplay:America/Sao_Paulo
 Glory TV (UK):Europe/London
 Go90:US/Eastern
