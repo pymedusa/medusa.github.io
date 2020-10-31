@@ -1062,6 +1062,7 @@ ICI Radio-Canada Télé:Canada/Eastern
 ICI TOU.TV Extra:Canada/Eastern
 ICI TOU.TV:Canada/Eastern
 ICI Tou.tv:Canada/Eastern
+ICI:Canada/Eastern
 ICTV (AU):Australia/Sydney
 ICTV:Europe/Kiev
 IFC (CA):Canada/Eastern
@@ -2124,6 +2125,7 @@ TURNER CLASSIC MOVIES (US):US/Eastern
 TV 2 (DK):Europe/Copenhagen
 TV 2 Charlie:Europe/Copenhagen
 TV 2 Filmkanalen:Europe/Oslo
+TV 2 Fri:Europe/Copenhagen
 TV 2 Nyhetskanalen:Europe/Oslo
 TV 2 Science Fiction:Europe/Oslo
 TV 2 Sport:Europe/Oslo
