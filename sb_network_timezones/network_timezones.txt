@@ -1062,6 +1062,7 @@ ICI Radio-Canada Télé:Canada/Eastern
 ICI TOU.TV Extra:Canada/Eastern
 ICI TOU.TV:Canada/Eastern
 ICI Tou.tv:Canada/Eastern
+ICI:Canada/Eastern
 ICTV (AU):Australia/Sydney
 ICTV:Europe/Kiev
 IFC (CA):Canada/Eastern
