@@ -659,6 +659,7 @@ Discovery Channel (Asia):Asia/Singapore
 Discovery Channel (Australia):Australia/Sydney
 Discovery Channel (CA):Canada/Eastern
 Discovery Channel (Canada):Canada/Eastern
+Discovery Channel (SE):Europe/Stockholm
 Discovery Channel (UK):Europe/London
 Discovery Channel Canada:Canada/Eastern
 Discovery Channel:US/Eastern
@@ -2171,6 +2172,7 @@ TV11:Europe/Stockholm
 TV1:Europe/Stockholm
 TV2 (NO):Europe/Oslo
 TV2 (NZ):Pacific/Auckland
+TV2 Sumo:Europe/Oslo
 TV2 Zulu:Europe/Copenhagen
 TV2:Pacific/Auckland
 TV3 (ES):Europe/Madrid
