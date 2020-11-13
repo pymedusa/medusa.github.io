@@ -1721,6 +1721,7 @@ RTQ (AU):Australia/Sydney
 RTS (AU):Australia/Sydney
 RTS Deux:Europe/Zurich
 RTS Un:Europe/Zurich
+RTS1:Europe/Belgrade
 RTV Noord (NL):Europe/Amsterdam
 RTV Noord-Holland (NL):Europe/Amsterdam
 RTV Oost (NL):Europe/Amsterdam
