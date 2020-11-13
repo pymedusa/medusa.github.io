@@ -1641,6 +1641,7 @@ Primetime (UK):Europe/London
 ProSieben Fun:Europe/Berlin
 ProSieben MAXX:Europe/Berlin
 ProSieben:Europe/Berlin
+Prva Srpska Televizija:Europe/Belgrade
 Psychic Today (UK):Europe/London
 Pub Channel:Europe/London
 Public Broadcasting Service:US/Eastern
@@ -1721,6 +1722,7 @@ RTQ (AU):Australia/Sydney
 RTS (AU):Australia/Sydney
 RTS Deux:Europe/Zurich
 RTS Un:Europe/Zurich
+RTS1:Europe/Belgrade
 RTV Noord (NL):Europe/Amsterdam
 RTV Noord-Holland (NL):Europe/Amsterdam
 RTV Oost (NL):Europe/Amsterdam
