@@ -964,6 +964,7 @@ Gems TV (UK):Europe/London
 Gems TV Extra (UK):Europe/London
 Genius Kitchen:US/Eastern
 Geo TV:Asia/Karachi
+Global TV:Canada/Eastern
 Global:Canada/Eastern
 Globo International (AU):Australia/Sydney
 Globo Play:America/Sao_Paulo
