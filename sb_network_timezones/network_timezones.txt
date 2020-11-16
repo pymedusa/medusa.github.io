@@ -1287,6 +1287,7 @@ MSNBC:US/Eastern
 MTA Muslim TV (UK):Europe/London
 MTN (AU):Australia/Sydney
 MTV (AU):Australia/Sydney
+MTV (AU/NZ):Australia/Sydney
 MTV (CA):Canada/Eastern
 MTV (FI):Europe/Helsinki
 MTV (UK):Europe/London
