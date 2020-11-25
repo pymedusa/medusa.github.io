@@ -1,6 +1,21 @@
 #### Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue ####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
+
+#### 2020-11-25 ####
+
+Finally, this is it. Our last release that will run on python 2. We've been working to this point for a while now. And removing python 2 support, will help us as developers a lot, because we can now remove all the python 2 hacks that were in place to allow Medusa to run on python 2 and 3.
+
+Note, that you can still start Medusa using release 0.4.6. But the upgrade notification will be blocked until you upgrade to python 3.
+
+This release is not only about python versions. But we've also added a brand new add show and add existing show page. It may look the same at first glance. But we've added a number of nice improvements to both pages.
+
+Last, we've fixed the Provider TVChaosUK.
+
+For a complete change log, please refer to [changelog](https://github.com/pymedusa/Medusa/blob/master/CHANGELOG.md).
+
+Enjoy!
+
 #### 2020-09-06 ####
 
 We are moving closer to version 0.5.0, where we will drop Python 2 support. This and the coming 1 or 2 releases will focus at delivering a stable version, which can be used by users who can't upgrade to Python 3.6 or higher. We've worked hard on improving the update process. Using Medusa's UI to switch between the master and develop branch should also be fixed. Let us know if there are any issues we should address.
