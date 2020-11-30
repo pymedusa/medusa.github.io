@@ -1,6 +1,19 @@
 #### Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue ####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
+#### 2020-11-30 ####
+
+Our first Python 3 release. We've fixed some critical bugs that where introduced in v. 0.4.6. That's why we're releasing soon after 0.4.6.
+
+#### New Features
+- Separate proxy configs for Providers, Indexers, CLients (torrent/nzb) and others ([8605](https://github.com/pymedusa/Medusa/pull/8605))
+
+#### Improvements
+- Add absolute numbering to indexers tvmaze and tmdb, making them suitable for anime ([8777](https://github.com/pymedusa/Medusa/pull/8777))
+
+#### Fixes
+- Provider Nyaa.si: Correct the category that is used for anime searches ([8777](https://github.com/pymedusa/Medusa/pull/8777))
+- Indexer TMDB: Fix adding show using an alternative language ([8784](https://github.com/pymedusa/Medusa/pull/8784))
 
 #### 2020-11-25 ####
 
