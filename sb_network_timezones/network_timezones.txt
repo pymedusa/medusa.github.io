@@ -93,6 +93,7 @@ ALT Balaji:Asia/Kolkata
 AMAZING FACTS (US):US/Eastern
 AMC Premiere:US/Eastern
 AMC:US/Eastern
+AMC+:US/Eastern
 AMERICAN HEROES CHANNEL (US):US/Eastern
 AMGTV (US):US/Eastern
 AMV (AU):Australia/Sydney
@@ -915,6 +916,7 @@ France 3:Europe/Paris
 France 4:Europe/Paris
 France 5:Europe/Paris
 France Ô:Europe/Paris
+france.tv:Europe/Paris
 Fred TV:US/Eastern
 FreeForm:US/Eastern
 Freeform:US/Eastern
