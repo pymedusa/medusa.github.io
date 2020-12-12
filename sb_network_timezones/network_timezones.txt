@@ -92,8 +92,8 @@ AIT International (UK):Europe/London
 ALT Balaji:Asia/Kolkata
 AMAZING FACTS (US):US/Eastern
 AMC Premiere:US/Eastern
-AMC:US/Eastern
 AMC+:US/Eastern
+AMC:US/Eastern
 AMERICAN HEROES CHANNEL (US):US/Eastern
 AMGTV (US):US/Eastern
 AMV (AU):Australia/Sydney
@@ -916,7 +916,6 @@ France 3:Europe/Paris
 France 4:Europe/Paris
 France 5:Europe/Paris
 France Ô:Europe/Paris
-france.tv:Europe/Paris
 Fred TV:US/Eastern
 FreeForm:US/Eastern
 Freeform:US/Eastern
@@ -1176,6 +1175,7 @@ Kids and Teens TV:US/Eastern
 Kiss:Europe/London
 Kix (UK):Europe/London
 Klear TV (UK):Europe/London
+Knowledge Network:Canada/Eastern
 Koldcast.tv (US):US/Eastern
 Korean Channel (US):US/Eastern
 Kunskapskanalen:Europe/Stockholm
@@ -2639,6 +2639,7 @@ euronews (UK):Europe/London
 extra (AU):Australia/Sydney
 family MOVIES (AU):Australia/Sydney
 five:Europe/London
+france.tv:Europe/Paris
 fullscreen:US/Eastern
 funnyordie.com (US):US/Eastern
 fuse:US/Eastern
