@@ -206,6 +206,7 @@ Animax (SG):Asia/Singapore
 Animax:Asia/Tokyo
 Anime Network:US/Eastern
 Anime OAV:Asia/Tokyo
+Antena 1:Europe/Bucharest
 Antena 3:Europe/Madrid
 Antenne 2:Europe/Paris
 Apostolic Oneness Network (US):US/Eastern
