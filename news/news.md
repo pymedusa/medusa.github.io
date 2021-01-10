@@ -1,6 +1,19 @@
 #### Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue ####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
+#### 2021-01-10 ####
+
+A new year a new release. One of our New Year's resolutions, was adding lots of cool features for 2021. So let's kick off with an improved Trakt library, which should fix a lot of the trakt authentication issues, we experienced with the old implementation. Next we made sure that changing settings to thread (backend) related functionality, does not need a restart anymore. And last, we added a feature that will allow you to save torrent hash (magnet) to a .magnet file, if the torrent cannot be located through one of the magnet cache sites. In the meantime we also threw in a couple of bug fixes.
+
+#### Improvements
+- Replace trakt lib with PyTrakt (and switch to OAuth device authentication). ([8916](https://github.com/pymedusa/Medusa/pull/8916))
+- Make all thread schedulers hot-reload when enabled/disabled. ([8948](https://github.com/pymedusa/Medusa/pull/8948))
+- Add an option to create .magnet files when a torrent can't be downloaded from a magnet URI, using one of the magnet cache registries. ([8955](https://github.com/pymedusa/Medusa/pull/8955))
+
+#### Fixes
+- Fix setting default episode status (after) when adding a new show. ([8918](https://github.com/pymedusa/Medusa/pull/8918))
+- Fix provider anidex. Add a bypass to it's DDOS-Gaurd protection. ([8955](https://github.com/pymedusa/Medusa/pull/8955))
+
 #### 2020-11-30 ####
 
 Our first Python 3 release. We've fixed some critical bugs that where introduced in v. 0.4.6. That's why we're releasing soon after 0.4.6.
