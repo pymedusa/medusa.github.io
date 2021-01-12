@@ -1979,6 +1979,7 @@ Sony Entertainment Television (IN):Asia/Kolkata
 Sony Entertainment Television (PE):America/Lima
 Sony Entertainment Television Asia (UK):Europe/London
 Sony Entertainment Television:US/Eastern
+Sony Liv:Asia/Kolkata
 Sony TV:Asia/Kolkata
 Sony:US/Eastern
 Soul of the South Television Network (US):US/Eastern
