@@ -330,6 +330,7 @@ BiZ TELEVISION (US):US/Eastern
 Bid (UK):Europe/London
 Bid Plus (UK):Europe/London
 Big Ten Network (US):US/Eastern
+Bilibili:Asia/Shanghai
 Biography Channel:US/Eastern
 Blackpills:Europe/Paris
 Blip:US/Eastern
@@ -1978,6 +1979,7 @@ Sony Entertainment Television (IN):Asia/Kolkata
 Sony Entertainment Television (PE):America/Lima
 Sony Entertainment Television Asia (UK):Europe/London
 Sony Entertainment Television:US/Eastern
+Sony Liv:Asia/Kolkata
 Sony TV:Asia/Kolkata
 Sony:US/Eastern
 Soul of the South Television Network (US):US/Eastern
