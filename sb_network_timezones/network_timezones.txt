@@ -715,6 +715,7 @@ Doordarshan Sports:Asia/Kolkata
 Dost TV:Europe/Istanbul
 Dplay:Europe/Stockholm
 Dragon TV:Asia/Shanghai
+DreamWorks Animation:US/Eastern
 DuMont Television Network:US/Eastern
 Duna TV:Europe/Budapest
 Dynamic Television:US/Eastern
