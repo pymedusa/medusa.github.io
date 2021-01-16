@@ -1112,6 +1112,7 @@ JIM:Europe/Helsinki
 JLTV (US):US/Eastern
 JML Direct (UK):Europe/London
 JML Living (UK):Europe/London
+JTBC:Asia/Seoul
 JUCE TV (US):US/Eastern
 JUS ONE (US):US/Eastern
 JUS PUNJABI (US):US/Eastern
