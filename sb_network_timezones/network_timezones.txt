@@ -186,6 +186,7 @@ Amazon (Japan):Asia/Tokyo
 Amazon Instant Video:US/Eastern
 Amazon Prime Instant Video (UK):Europe/London
 Amazon Prime Instant Video:US/Eastern
+Amazon Prime Video:US/Eastern
 Amazon Prime:US/Eastern
 Amazon Studios:US/Eastern
 Amazon:US/Eastern
