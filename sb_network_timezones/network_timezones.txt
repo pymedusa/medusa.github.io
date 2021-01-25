@@ -2364,6 +2364,7 @@ Turner Broadcasting System (TBS):US/Eastern
 Turner South:US/Eastern
 Tv2:Europe/Oslo
 Twitch:US/Eastern
+Twitter:US/Eastern
 Télé (CA):Canada/Eastern
 Télé Monte Carlo (FR):Europe/Paris
 Télé-Québec:Canada/Eastern
@@ -2631,6 +2632,7 @@ crime & investigation network (UK):Europe/London
 daybreak2012.com (US):US/Eastern
 de película (US):US/Eastern
 de película clásico (US):US/Eastern
+discovery+:US/Eastern
 diva tv (UK):Europe/London
 diy network (CA):Canada/Eastern
 dk4:Europe/Copenhagen
