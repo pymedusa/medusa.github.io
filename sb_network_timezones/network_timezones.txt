@@ -868,6 +868,7 @@ Facebook Watch:US/Pacific
 Faith World TV (UK):Europe/London
 Family (CA):Canada/Eastern
 Family CHRGD:Canada/Eastern
+Family Channel:Canada/Eastern
 Family Friendly Entertainment (US):US/Eastern
 Family Gekijo:Asia/Tokyo
 Family Gekijou (JP):Asia/Tokyo
@@ -1175,6 +1176,7 @@ Kenya Television Network (KE):Africa/Nairobi
 Kerrang! TV:Europe/London
 Keshet 12:Asia/Jerusalem
 Ketnet (BE):Europe/Brussels
+KiKa:Europe/Berlin
 Kids Station:Asia/Tokyo
 Kids and Teens TV:US/Eastern
 Kiss:Europe/London
@@ -2740,6 +2742,7 @@ rox.com (US):US/Eastern
 rté jr (IE):Europe/Dublin
 sho.com (US):US/Eastern
 showcase (AU):Australia/Sydney
+showcase:US/Eastern
 sky 3D (UK):Europe/London
 sky ARTS 2 (UK):Europe/London
 sky LIVING LOVES (UK):Europe/London
