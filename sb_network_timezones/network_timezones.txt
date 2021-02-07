@@ -2244,6 +2244,7 @@ TVN (AU):Australia/Sydney
 TVN Style:Europe/Warsaw
 TVN Turbo:Europe/Warsaw
 TVN:Europe/Warsaw
+TVNOW:Europe/Berlin
 TVNZ 2:Pacific/Auckland
 TVNZ OnDemand:Pacific/Auckland
 TVNZ:Pacific/Auckland
