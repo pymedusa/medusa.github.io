@@ -1561,6 +1561,7 @@ Online - www.cad-series.com:US/Eastern
 Online:Europe/London
 Open Heaven TV (UK):Europe/London
 Oprah Winfrey Network:US/Eastern
+Opto:Europe/Lisbon
 Ora TV:US/Eastern
 Orbit Network (PK):Asia/Karachi
 OutTV:Canada/Eastern
