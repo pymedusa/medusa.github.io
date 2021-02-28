@@ -1,6 +1,24 @@
 #### Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue ####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
+#### 2021-02-28 (0.5.9) ####
+
+This release is about our new postprocessing method named Download Handler. For a long time postprocessing has always been something that ran in the background. But always had an imppact on the rest of the app, in a way that it lead to locking the UI. We've introduced the (async) download handler to fix this issue once and for all.
+It can be used instead of scheduled postprocessing or nzbToMedia/torrentToMedia. But you'll get some added benefits. For example, torrent users will now be able to configure an action like "pause torrent" or "remove torrent" after their seeding has finished. There are a number of other benefits, but we'd like to redirect you to our ([wiki](https://github.com/pymedusa/Medusa/wiki/Post-Processing#download-handler)) for more info.
+
+As of release 0.5.8 we've introduced feature flagging. Which means that certain new features will be hidden behind a setting. To start using the Download Handler you'll have to first enable experimental features in config -> general -> advanced. After enabling this setting, you will be able to find Download Handler in config -> postprocessing.
+
+Please be aware, this is an experimental feature. So if you encounter any issues using it, we'd appreciate it if you could raise a new GitHub issue for it. That way we can try to fix it asap.
+
+#### New Features
+- Added new postprocessing method download handler. Check ([wiki](https://github.com/pymedusa/Medusa/wiki/Post-Processing#download-handler)) for more info. ([8485](https://github.com/pymedusa/Medusa/pull/8485))
+- Add async postprocessing to manual postprocessing ([8485](https://github.com/pymedusa/Medusa/pull/8485))
+- Add postprocessing to apiv2. sabToNzb uses apiv2 when fork=medusa-apiv2. ([9212](https://github.com/pymedusa/Medusa/pull/9212))
+
+#### Fixes
+- Fix setStatus in manage/episodeStatuses page. ([9228](https://github.com/pymedusa/Medusa/pull/9228))
+- Fix error when using manage/backlogOverview page. ([9208](https://github.com/pymedusa/Medusa/pull/9208))
+
 #### 2021-01-10 ####
 
 A new year a new release. One of our New Year's resolutions, was adding lots of cool features for 2021. So let's kick off with an improved Trakt library, which should fix a lot of the trakt authentication issues, we experienced with the old implementation. Next we made sure that changing settings to thread (backend) related functionality, does not need a restart anymore. And last, we added a feature that will allow you to save torrent hash (magnet) to a .magnet file, if the torrent cannot be located through one of the magnet cache sites. In the meantime we also threw in a couple of bug fixes.
