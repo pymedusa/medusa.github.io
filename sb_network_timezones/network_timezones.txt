@@ -1880,6 +1880,7 @@ SUN-TV (JP):Asia/Tokyo
 SUN-TV:Asia/Kolkata
 SUPER ÉCRAN (CA):Canada/Eastern
 SVT Drama:Europe/Stockholm
+SVT Play:Europe/Stockholm
 SVT1:Europe/Stockholm
 SVT24:Europe/Stockholm
 SVT2:Europe/Stockholm
