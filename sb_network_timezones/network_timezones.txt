@@ -1038,6 +1038,7 @@ Heart TV (UK):Europe/London
 Het Gesprek (NL):Europe/Amsterdam
 Hidayat TV (UK):Europe/London
 High Street TV (UK):Europe/London
+Hikari TV:Asia/Tokyo
 Historia (CA):Canada/Eastern
 Historia:Canada/Eastern
 History (CA):Canada/Eastern
