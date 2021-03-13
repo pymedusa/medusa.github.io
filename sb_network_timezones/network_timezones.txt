@@ -603,6 +603,7 @@ Current TV:US/Eastern
 CÚLA4 (IE):Europe/Dublin
 D8:Europe/Paris
 DAYSTAR (US):US/Eastern
+DC Comics:US/Eastern
 DC Universe:US/Eastern
 DD-Gujarati:Asia/Kolkata
 DDR1:Europe/Berlin
@@ -1722,6 +1723,7 @@ RTL Passion (DE):Europe/Berlin
 RTL TVI:Europe/Brussels
 RTL Television:Europe/Berlin
 RTL Televizija:Europe/Zagreb
+RTL Télé:Europe/Luxembourg
 RTL4:Europe/Amsterdam
 RTL5:Europe/Amsterdam
 RTL:Europe/Luxembourg
