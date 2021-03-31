@@ -2106,6 +2106,7 @@ TF6 (FR):Europe/Paris
 TFO:Canada/Eastern
 TG4:Europe/Dublin
 TGRT Haber:Europe/Istanbul
+Three:Pacific/Auckland
 THRILLER MOVIES (AU):Australia/Sydney
 TIME WARNER CABLE SPORTS CHANNEL (US):US/Eastern
 TITV:Asia/Taipei
