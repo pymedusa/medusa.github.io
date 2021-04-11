@@ -222,6 +222,7 @@ Arte Creative:Europe/Paris
 Arte:Europe/Paris
 Associated Broadcasting Company (PH):Asia/Manila
 At the Races (UK):Europe/London
+Atomic Network:US/Eastern
 Audience Network:US/Eastern
 Audience:US/Eastern
 Australian Broadcasting Corporation (ABC):Australia/Sydney
@@ -690,8 +691,8 @@ Discovery en Español (US):US/Eastern
 Discovery fit&health (US):US/Eastern
 Discovery home & health (AU):Australia/Sydney
 Discovery turbo MAX (AU):Australia/Sydney
-Discovery+:US/Eastern
 Discovery+ (SE):Europe/Stockholm
+Discovery+:US/Eastern
 Discovery:US/Eastern
 Dish TV:US/Eastern
 Disney Channel (DE):Europe/Berlin
@@ -1277,6 +1278,7 @@ MBN:Asia/Seoul
 MBS TV:Asia/Tokyo
 MBS:Asia/Tokyo
 MCM:Europe/Paris
+MCOT HD:Asia/Bangkok
 MCOT:Asia/Bangkok
 MDR:Europe/Berlin
 MDV (AU):Australia/Sydney
@@ -2106,7 +2108,6 @@ TF6 (FR):Europe/Paris
 TFO:Canada/Eastern
 TG4:Europe/Dublin
 TGRT Haber:Europe/Istanbul
-Three:Pacific/Auckland
 THRILLER MOVIES (AU):Australia/Sydney
 TIME WARNER CABLE SPORTS CHANNEL (US):US/Eastern
 TITV:Asia/Taipei
@@ -2340,6 +2341,7 @@ The WB:US/Eastern
 The Weather Channel:US/Eastern
 TheBlaze:US/Eastern
 This TV:US/Eastern
+Three:Pacific/Auckland
 Tien (NL):Europe/Amsterdam
 Time Warner Cable News Austin (US):US/Eastern
 Time Warner Cable News Buffalo (US):US/Eastern
