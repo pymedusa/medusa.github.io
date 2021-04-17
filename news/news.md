@@ -1,6 +1,28 @@
 #### Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue ####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
+#### 0.5.11 (17-04-2021) ####
+
+For this release the biggest change is the rewrite of the history page. We have transitioned the page to a vue.js page. Some features may have been removed, but we plan to keep improving the page based on the feedback we get.
+
+#### New Features
+- Added new provicer TvRoad. (credits to IamMika23) ([9424](https://github.com/pymedusa/Medusa/pull/9424))
+
+#### Improvements
+- Vueify history page. ([9201](https://github.com/pymedusa/Medusa/pull/9201))
+- Nebulance: Prevent duplicate results for provider. ([9333](https://github.com/pymedusa/Medusa/pull/9333))
+- Add Cloudflare BFM detection. ([9407](https://github.com/pymedusa/Medusa/pull/9407))
+
+#### Fixes
+- AnimeBytes: Fix exception when processing multi-ep BD specials. ([9396](https://github.com/pymedusa/Medusa/pull/9396))
+- Fix issue with sending torrents to Synology downloadstation. ([9401](https://github.com/pymedusa/Medusa/pull/9401))
+- Fix a number of issues with trakt sync. ([9319](https://github.com/pymedusa/Medusa/pull/9319))
+- Fix shows enriched with wrong IMDB show data. ([9435](https://github.com/pymedusa/Medusa/pull/9435))
+- Fix configured provider ratio getting lost after restart. ([9413](https://github.com/pymedusa/Medusa/pull/9413))
+- Fix sending torrents to Synology Download Station from version 3.8.16.-3566. (credits to BenjV). ([9401](https://github.com/pymedusa/Medusa/pull/9401))
+
+
+
 #### 2021-02-28 (0.5.9) ####
 
 This release is about our new postprocessing method named Download Handler. For a long time postprocessing has always been something that ran in the background. But always had an imppact on the rest of the app, in a way that it lead to locking the UI. We've introduced the (async) download handler to fix this issue once and for all.
