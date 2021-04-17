@@ -21,8 +21,6 @@ For this release the biggest change is the rewrite of the history page. We have 
 - Fix configured provider ratio getting lost after restart. ([9413](https://github.com/pymedusa/Medusa/pull/9413))
 - Fix sending torrents to Synology Download Station from version 3.8.16.-3566. (credits to BenjV). ([9401](https://github.com/pymedusa/Medusa/pull/9401))
 
-
-
 #### 2021-02-28 (0.5.9) ####
 
 This release is about our new postprocessing method named Download Handler. For a long time postprocessing has always been something that ran in the background. But always had an imppact on the rest of the app, in a way that it lead to locking the UI. We've introduced the (async) download handler to fix this issue once and for all.
