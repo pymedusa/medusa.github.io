@@ -990,6 +990,7 @@ Great American Country:US/Eastern
 Greatest Hits (UK):Europe/London
 Guardian Television Network:US/Eastern
 Gulli:Europe/Paris
+Gunma TV:Asia/Tokyo
 H2 (CA):Canada/Eastern
 H2 (UK):Europe/London
 H2:US/Eastern
