@@ -31,6 +31,7 @@
 4SD (US):US/Eastern
 5 abc (US):US/Eastern
 5* (UK):Europe/London
+5Star:Europe/London
 5USA (UK):Europe/London
 6'eren:Europe/Copenhagen
 6ter:Europe/Paris
