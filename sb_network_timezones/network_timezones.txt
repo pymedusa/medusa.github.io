@@ -1161,6 +1161,7 @@ KRO:Europe/Amsterdam
 KTLA 5 (US):US/Eastern
 KTN:Asia/Karachi
 KTV (JP):Asia/Tokyo
+KTV:Africa/Nairobi
 KYW-TV (US):US/Eastern
 Kabel1 (DE):Europe/Berlin
 Kampüs TV:Europe/Istanbul
@@ -1368,6 +1369,7 @@ MoonTV:Europe/Helsinki
 More Than Movies (UK):Europe/London
 More4:Europe/London
 Motor Trend On Demand:US/Eastern
+MotorTrend On Demand:US/Eastern
 MotorTrend:US/Eastern
 MotorTrendOnDemand:US/Eastern
 Motors TV (UK):Europe/London
