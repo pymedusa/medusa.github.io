@@ -999,7 +999,6 @@ HBO Asia:Asia/Singapore
 HBO Brasil:America/Sao_Paulo
 HBO CANADA:Canada/Eastern
 HBO Canada:Canada/Eastern
-HBO Česká Republika:Europe/Prague
 HBO España:Europe/Madrid
 HBO Europe:Europe/Budapest
 HBO Family (US):US/Eastern
@@ -1010,6 +1009,7 @@ HBO Magyarország:Europe/Budapest
 HBO Max:US/Eastern
 HBO Nordic:Europe/Stockholm
 HBO Signature (US):US/Eastern
+HBO Česká Republika:Europe/Prague
 HBO2 (US):US/Eastern
 HBO:US/Eastern
 HDNet:US/Eastern
@@ -1084,6 +1084,7 @@ ICTV:Europe/Kiev
 IFC (CA):Canada/Eastern
 IFC:US/Eastern
 IKON:Europe/Amsterdam
+IMDb TV:US/Eastern
 INVESTIGATION DISCOVERY (UK):Europe/London
 IQRA TV (UK):Europe/London
 IRIB TV1:Asia/Tehran
