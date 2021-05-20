@@ -1037,6 +1037,7 @@ Hallmark Channel, The:US/Eastern
 Hallmark Channel:US/Eastern
 Hallmark MOVIES & MYSTERIES (US):US/Eastern
 Hallmark Movies & Mysteries:US/Eastern
+Hallmark Movies Now:US/Eastern
 Harmony Channel (US):US/Eastern
 Headline News (US):US/Eastern
 Healthy Living Network (US):US/Eastern
