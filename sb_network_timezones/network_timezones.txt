@@ -2045,6 +2045,7 @@ Starz!:US/Eastern
 Starz:US/Eastern
 Steel:Europe/Rome
 Store (UK):Europe/London
+Stream.cz:Europe/Prague
 Streamz:Europe/Brussels
 Studio 23:Asia/Manila
 Studio 4:Europe/London
