@@ -761,6 +761,7 @@ ESPN2:US/Eastern
 ESPN:US/Eastern
 ESPNEWS (US):US/Eastern
 ESPNU (US):US/Eastern
+ETB1:Europe/Madrid
 ETB2:Europe/Madrid
 ETTV Yoyo:Asia/Taipei
 ETTV:Asia/Taipei
@@ -851,6 +852,7 @@ FOX SPORTS:Australia/Sydney
 FOX Sports 1:US/Eastern
 FOX Sports 2:US/Eastern
 FOX Traveller:Asia/Kolkata
+FOX Türkiye (TR):Europe/Istanbul
 FOX Türkiye:Europe/Istanbul
 FOX+:US/Eastern
 FOX:US/Eastern
@@ -880,6 +882,7 @@ Family Gekijou (JP):Asia/Tokyo
 Family:Canada/Eastern
 Fashion TV:Europe/Paris
 Filles TV:Europe/Paris
+Filmin:Europe/Madrid
 Fire Hit TV (UK):Europe/London
 Fitness Channel (UK):Europe/London
 Five Life:Europe/London
@@ -1047,6 +1050,7 @@ Hidayat TV (UK):Europe/London
 High Street TV (UK):Europe/London
 Hikari TV:Asia/Tokyo
 Historia (CA):Canada/Eastern
+Historia (ES):Europe/Madrid
 Historia:Canada/Eastern
 History (CA):Canada/Eastern
 History (UK):Europe/London
@@ -1923,6 +1927,7 @@ Semerkand TV:Europe/Istanbul
 Servus TV:Europe/Vienna
 Setanta Ireland:Europe/Dublin
 Seven Network:Australia/Sydney
+Shahid (UAE):Asia/Dubai
 Shalom TV (US):US/Eastern
 Shaw Media:Canada/Eastern
 Sheffield Live! (UK):Europe/London
@@ -2237,6 +2242,7 @@ TV6:Europe/Stockholm
 TV7 (BG):Europe/Sofia
 TV7 (SE):Europe/Stockholm
 TV7:Europe/Stockholm
+TV8 (TR):Europe/Istanbul
 TV8:Europe/Stockholm
 TVA (JP):Asia/Tokyo
 TVA:Canada/Eastern
@@ -2725,6 +2731,7 @@ machinima.com (US):US/Eastern
 maniaTV.com (US):US/Eastern
 meGa tv (US):US/Eastern
 mid-atlantic sports network (US):US/Eastern
+more.tv:Europe/Moscow
 movieplex (US):US/Eastern
 mp (CA):Canada/Eastern
 mstv entertainment (UK):Europe/London
