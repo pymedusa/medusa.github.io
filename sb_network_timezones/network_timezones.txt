@@ -1800,6 +1800,7 @@ RichardDawkins.net:US/Eastern
 Rishtey (UK):Europe/London
 Rocks & Co. (UK):Europe/London
 Rogers Media:Canada/Eastern
+Roku:US/Eastern
 Romance MOVIES (AU):Australia/Sydney
 Rooster Teeth:US/Eastern
 Royal News:Asia/Karachi
