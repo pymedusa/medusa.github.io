@@ -57,6 +57,7 @@ ABC (JA):Asia/Tokyo
 ABC (PH):Asia/Manila
 ABC (UK):Europe/London
 ABC (US):US/Eastern
+ABC Comedy:Australia/Sydney
 ABC Family:US/Eastern
 ABC KIDS:Australia/Sydney
 ABC Kids:Australia/Sydney
@@ -2518,6 +2519,7 @@ Vision Heaven (US):US/Eastern
 Viên Thao TV (US):US/Eastern
 Vme (US):US/Eastern
 Volksmusik TV:Europe/Berlin
+Voot:Asia/Kolkata
 VoxAfrica (UK):Europe/London
 Voyage:Europe/Paris
 Vrak.TV:Canada/Eastern
@@ -2569,6 +2571,7 @@ Worship (US):US/Eastern
 XY TV:US/Eastern
 Xbox Video:US/Eastern
 Xee:Europe/Copenhagen
+YAHOO! View:US/Eastern
 YES (US):US/Eastern
 YESTERDAY (UK):Europe/London
 YLE Fem (FI):Europe/Helsinki
