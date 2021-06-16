@@ -1,6 +1,15 @@
 #### Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue ####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
+#### 0.5.13 (16-06-2021) ####
+
+#### Fixes
+- Add support for new synology download station api. Credits to Benjv. ([9555](https://github.com/pymedusa/Medusa/pull/9555))
+- Fix shows not being removed from UI. ([9563](https://github.com/pymedusa/Medusa/pull/9563))
+- Fix provider torrentday. Needs additional cookie cf_clearance. ([9628](https://github.com/pymedusa/Medusa/pull/9628))
+- Fix provider animebytes. Fixed issue with parsing releases with absolute episode numbering. ([9620](https://github.com/pymedusa/Medusa/pull/9620))
+- Fix transmission authentication. ([9598](https://github.com/pymedusa/Medusa/pull/9598))
+
 #### 0.5.11 (17-04-2021) ####
 
 For this release the biggest change is the rewrite of the history page. We have transitioned the page to a vue.js page. Some features may have been removed, but we plan to keep improving the page based on the feedback we get.
