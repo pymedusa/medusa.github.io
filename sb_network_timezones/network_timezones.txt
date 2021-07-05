@@ -110,6 +110,7 @@ APTN:Canada/Eastern
 ARD:Europe/Berlin
 ARISE News (UK):Europe/London
 ART TV:Europe/Athens
+ARTE.tv:Europe/Paris
 ARTN (US):US/Eastern
 ARTV:Canada/Eastern
 ARY Digital (UK):Europe/London
@@ -477,6 +478,7 @@ Canal 13:America/Santiago
 Canal 4 Montecarlo:America/Montevideo
 Canal 5:America/Mexico_City
 Canal 9 (AR):America/Buenos_Aires
+Canal Brasil:America/Sao_Paulo
 Canal D:Canada/Eastern
 Canal Famille:Canada/Eastern
 Canal J:Europe/Paris
@@ -1470,6 +1472,7 @@ NPS (NL):Europe/Amsterdam
 NRB (US):US/Eastern
 NRJ 12:Europe/Paris
 NRK Super:Europe/Oslo
+NRK TV:Europe/Oslo
 NRK.no:Europe/Oslo
 NRK1:Europe/Oslo
 NRK2:Europe/Oslo
