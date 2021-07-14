@@ -132,6 +132,7 @@ ATN SPORTS (CA):Canada/Eastern
 ATN Service 1 (US):US/Eastern
 ATN Service 2 (US):US/Eastern
 ATRESplayer Premium:Europe/Madrid
+ATRESplayer PREMIUM:Europe/Madrid
 ATV (AU):Australia/Sydney
 ATV (BE):Europe/Brussels
 ATV (DE):Europe/Berlin
@@ -1767,6 +1768,7 @@ RTV Oost (NL):Europe/Amsterdam
 RTV Rijnmond (NL):Europe/Amsterdam
 RTV Utrecht (NL):Europe/Amsterdam
 RTV West (NL):Europe/Amsterdam
+RTVE:Europe/Madrid
 RTVE/TV Asahi:Asia/Tokyo
 RTVS:Europe/Bratislava
 RTÉ NEWS NOW (IE):Europe/Dublin
@@ -2138,6 +2140,7 @@ TMC:Europe/Monaco
 TMF:Europe/Amsterdam
 TND (AU):Australia/Sydney
 TNQ (AU):Australia/Sydney
+TNT España:Europe/Madrid
 TNT (US):US/Eastern
 TNT Latin America:America/Buenos_Aires
 TNT Serie:Europe/Berlin
