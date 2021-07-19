@@ -921,6 +921,7 @@ Fox Life (IT):Europe/Rome
 Fox Life (NL):Europe/Amsterdam
 Fox Life:Europe/Rome
 Fox Network:US/Eastern
+Fox Reality Channel:US/Eastern
 Fox Reality:US/Eastern
 Fox Soccer Channel (CA):Canada/Eastern
 Fox Sports 1:US/Eastern
@@ -1093,6 +1094,7 @@ IFC (CA):Canada/Eastern
 IFC:US/Eastern
 IKON:Europe/Amsterdam
 IMDb TV:US/Eastern
+INSP:US/Eastern
 INVESTIGATION DISCOVERY (UK):Europe/London
 IQRA TV (UK):Europe/London
 IRIB TV1:Asia/Tehran
@@ -1681,6 +1683,7 @@ ProSieben:Europe/Berlin
 Prva Srpska Televizija:Europe/Belgrade
 Psychic Today (UK):Europe/London
 Pub Channel:Europe/London
+Public Broadcasting Service (PBS):US/Eastern
 Public Broadcasting Service:US/Eastern
 Puls 4:Europe/Vienna
 Q (PH):Asia/Manila
