@@ -131,8 +131,8 @@ ATN CRICKET PLUS (CA):Canada/Eastern
 ATN SPORTS (CA):Canada/Eastern
 ATN Service 1 (US):US/Eastern
 ATN Service 2 (US):US/Eastern
-ATRESplayer Premium:Europe/Madrid
 ATRESplayer PREMIUM:Europe/Madrid
+ATRESplayer Premium:Europe/Madrid
 ATV (AU):Australia/Sydney
 ATV (BE):Europe/Brussels
 ATV (DE):Europe/Berlin
@@ -1771,8 +1771,8 @@ RTV Oost (NL):Europe/Amsterdam
 RTV Rijnmond (NL):Europe/Amsterdam
 RTV Utrecht (NL):Europe/Amsterdam
 RTV West (NL):Europe/Amsterdam
-RTVE:Europe/Madrid
 RTVE/TV Asahi:Asia/Tokyo
+RTVE:Europe/Madrid
 RTVS:Europe/Bratislava
 RTÉ NEWS NOW (IE):Europe/Dublin
 RTÉ ONE:Europe/Dublin
@@ -2143,8 +2143,8 @@ TMC:Europe/Monaco
 TMF:Europe/Amsterdam
 TND (AU):Australia/Sydney
 TNQ (AU):Australia/Sydney
-TNT España:Europe/Madrid
 TNT (US):US/Eastern
+TNT España:Europe/Madrid
 TNT Latin America:America/Buenos_Aires
 TNT Serie:Europe/Berlin
 TNT Spain:Europe/Madrid
@@ -2556,6 +2556,7 @@ WORLD (US):US/Eastern
 WORLD MOVIES (AU):Australia/Sydney
 WOW (AU):Australia/Sydney
 WOW Presents Plus:US/Eastern
+WOWOW Prime:Asia/Tokyo
 WOWOW:Asia/Tokyo
 WPIX:US/Eastern
 WTV (AU):Australia/Sydney
@@ -2711,6 +2712,7 @@ here!:US/Eastern
 home (UK):Europe/London
 hulu Japan:Asia/Tokyo
 iCHANNEL (CA):Canada/Eastern
+iQIYI:Asia/Shanghai
 iQiyi:Asia/Shanghai
 iTunes (US):US/Eastern
 iTunes:US/Eastern
