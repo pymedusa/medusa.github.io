@@ -1,6 +1,30 @@
 #### Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue ####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
+#### 0.5.16 (13-08-2021) ####
+
+For this release we did a total refactor on the recommended shows page. Currently we've added the existing sources like Trakt, Imdb and Anidb. But for the anime fans among us, we've added anilist.co. It will show recommended anime shows for the past, current and next anime season. For anilist we don't have any mappings to for example a tvdb show, so you'll still need to search the show by name. Clicking on the add/search button will navigate you directly to the "Add New Show" page with the title filled in.
+
+#### New Features
+- Implemented recommended shows v2. ([5782](https://github.com/pymedusa/Medusa/pull/5782))
+  - Added recommended list from anilist.co
+  - Recommended lists are cached nightly
+  - Configure which lists to cache
+  - Improvements to the recommended list UI
+  - Added plot and genre information when available from the recommended list
+  - Add shows from recommended lists through one click to the show search, or by id (if a tvdbid, tmdbid or tvmazeid is available)
+
+#### Improvements
+- adba lib: Reduced startup time for libraries with many anime shows. ([5782](https://github.com/pymedusa/Medusa/pull/5782))
+  - anime-list.xml was read for each anime show on startup
+
+#### Fixes
+- Fixed postprocessing of archives with multiple video files caused a pp of the complete download dir. ([9775](https://github.com/pymedusa/Medusa/pull/9775))
+- Fixed download handler wrongly untrack downloads when connection errors occurred. ([9774](https://github.com/pymedusa/Medusa/pull/9774))
+- Removed anonomized redirect service (derefer.org is down) in favor of "noreferrer noopener" headers ([5782](https://github.com/pymedusa/Medusa/pull/5782))
+- Fixed schedule page not showing day of week for shows airing on sunday (banner/poster layouts) ([9791](https://github.com/pymedusa/Medusa/pull/9791))
+- Group history compact layout results by quality ([9788](https://github.com/pymedusa/Medusa/pull/9788))
+
 #### 0.5.15 (23-07-2021) ####
 
 #### Improvements
