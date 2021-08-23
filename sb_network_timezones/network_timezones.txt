@@ -638,6 +638,7 @@ DaAi TV:Asia/Taipei
 Dailymotion:US/Eastern
 Dangerjane.tv (US):US/Eastern
 Danmarks Radio:Europe/Copenhagen
+Danmarks Radio (DR):Europe/Copenhagen
 Dare to Dream Network (US):US/Eastern
 Dark:Europe/Madrid
 Das Erste:Europe/Berlin
@@ -1922,6 +1923,7 @@ Sahara ONE:Asia/Kolkata
 Sahara One (UK):Europe/London
 Sangat TV (UK):Europe/London
 Sanskar:Asia/Kolkata
+Salto:Europe/Paris
 Sat. 1 Comedy (DE):Europe/Berlin
 Sat.1 Emotions:Europe/Berlin
 Sat.1:Europe/Berlin
@@ -2505,6 +2507,7 @@ Viacom:US/Eastern
 Viafree:Europe/Stockholm
 Viaplay:Europe/Stockholm
 Viasat 4:Europe/Oslo
+Vice TV:US/Eastern
 Viceland (CA):US/Eastern
 Viceland (US):US/Eastern
 Viceland:US/Eastern
