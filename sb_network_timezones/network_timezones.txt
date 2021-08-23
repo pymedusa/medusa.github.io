@@ -1658,6 +1658,10 @@ Planète+:Europe/Paris
 Play More:Europe/Brussels
 Play UK, BBC Choice:Europe/London
 Play UK:Europe/London
+Play4:Europe/Brussels
+Play5:Europe/Brussels
+Play6:Europe/Brussels
+Play7:Europe/Brussels
 PlayJam:Europe/London
 PlayStation Network:US/Eastern
 Playboy TV:US/Eastern
