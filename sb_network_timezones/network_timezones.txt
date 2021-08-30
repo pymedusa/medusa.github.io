@@ -607,6 +607,7 @@ Cuatro:Europe/Madrid
 CuriosityStream:US/Eastern
 Current TV:US/Eastern
 CÚLA4 (IE):Europe/Dublin
+Czechoslovak Television:Europe/Prague
 D8:Europe/Paris
 DAYSTAR (US):US/Eastern
 DC Comics:US/Eastern
