@@ -1,6 +1,65 @@
 #### Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue ####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
+#### 0.5.16 (13-08-2021) ####
+
+For this release we did a total refactor on the recommended shows page. Currently we've added the existing sources like Trakt, Imdb and Anidb. But for the anime fans among us, we've added anilist.co. It will show recommended anime shows for the past, current and next anime season. For anilist we don't have any mappings to for example a tvdb show, so you'll still need to search the show by name. Clicking on the add/search button will navigate you directly to the "Add New Show" page with the title filled in.
+
+#### New Features
+- Implemented recommended shows v2. ([5782](https://github.com/pymedusa/Medusa/pull/5782))
+  - Added recommended list from anilist.co
+  - Recommended lists are cached nightly
+  - Configure which lists to cache
+  - Improvements to the recommended list UI
+  - Added plot and genre information when available from the recommended list
+  - Add shows from recommended lists through one click to the show search, or by id (if a tvdbid, tmdbid or tvmazeid is available)
+
+#### Improvements
+- adba lib: Reduced startup time for libraries with many anime shows. ([5782](https://github.com/pymedusa/Medusa/pull/5782))
+  - anime-list.xml was read for each anime show on startup
+
+#### Fixes
+- Fixed postprocessing of archives with multiple video files caused a pp of the complete download dir. ([9775](https://github.com/pymedusa/Medusa/pull/9775))
+- Fixed download handler wrongly untrack downloads when connection errors occurred. ([9774](https://github.com/pymedusa/Medusa/pull/9774))
+- Removed anonomized redirect service (derefer.org is down) in favor of "noreferrer noopener" headers ([5782](https://github.com/pymedusa/Medusa/pull/5782))
+- Fixed schedule page not showing day of week for shows airing on sunday (banner/poster layouts) ([9791](https://github.com/pymedusa/Medusa/pull/9791))
+- Group history compact layout results by quality ([9788](https://github.com/pymedusa/Medusa/pull/9788))
+
+#### 0.5.15 (23-07-2021) ####
+
+#### Improvements
+- Improved Kodi12+ metadata creation. Use 'uniqueid' tag to specify indexer. ([9745](https://github.com/pymedusa/Medusa/pull/9745))
+
+#### Fixes
+- Fix prowl notifications ([9720](https://github.com/pymedusa/Medusa/pull/9720))
+- Fix provider ABNormal ([9721](https://github.com/pymedusa/Medusa/pull/9721))
+- Fix saving provider password ([9721](https://github.com/pymedusa/Medusa/pull/9721))
+
+#### 0.5.14 (06-07-2021) ####
+
+#### New Features
+- Added support for Prowlarr ([9653](https://github.com/pymedusa/Medusa/pull/9653))
+
+#### Improvements
+- Vueified config/providers ([9653](https://github.com/pymedusa/Medusa/pull/9653))
+- Added support for Prowlarr (an alternative to Jackett) ([9653](https://github.com/pymedusa/Medusa/pull/9653))
+- Added feature to test provider results ([9698](https://github.com/pymedusa/Medusa/pull/9698))
+
+#### Fixes
+- Fix email notifications for per show notifications with special chars ([9652](https://github.com/pymedusa/Medusa/pull/9652))
+- Fix adding an existing show did not run refresh from disk after ([9694](https://github.com/pymedusa/Medusa/pull/9694))
+- Fix filter displayShow episodes by overview status ([9691](https://github.com/pymedusa/Medusa/pull/9691))
+- Fix main page not reflecting correct 'next episode date' ([9689](https://github.com/pymedusa/Medusa/pull/9689))
+
+#### 0.5.13 (16-06-2021) ####
+
+#### Fixes
+- Add support for new synology download station api. Credits to Benjv. ([9555](https://github.com/pymedusa/Medusa/pull/9555))
+- Fix shows not being removed from UI. ([9563](https://github.com/pymedusa/Medusa/pull/9563))
+- Fix provider torrentday. Needs additional cookie cf_clearance. ([9628](https://github.com/pymedusa/Medusa/pull/9628))
+- Fix provider animebytes. Fixed issue with parsing releases with absolute episode numbering. ([9620](https://github.com/pymedusa/Medusa/pull/9620))
+- Fix transmission authentication. ([9598](https://github.com/pymedusa/Medusa/pull/9598))
+
 #### 0.5.11 (17-04-2021) ####
 
 For this release the biggest change is the rewrite of the history page. We have transitioned the page to a vue.js page. Some features may have been removed, but we plan to keep improving the page based on the feedback we get.

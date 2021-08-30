@@ -57,6 +57,7 @@ ABC (JA):Asia/Tokyo
 ABC (PH):Asia/Manila
 ABC (UK):Europe/London
 ABC (US):US/Eastern
+ABC Comedy:Australia/Sydney
 ABC Family:US/Eastern
 ABC KIDS:Australia/Sydney
 ABC Kids:Australia/Sydney
@@ -109,6 +110,7 @@ APTN:Canada/Eastern
 ARD:Europe/Berlin
 ARISE News (UK):Europe/London
 ART TV:Europe/Athens
+ARTE.tv:Europe/Paris
 ARTN (US):US/Eastern
 ARTV:Canada/Eastern
 ARY Digital (UK):Europe/London
@@ -129,6 +131,7 @@ ATN CRICKET PLUS (CA):Canada/Eastern
 ATN SPORTS (CA):Canada/Eastern
 ATN Service 1 (US):US/Eastern
 ATN Service 2 (US):US/Eastern
+ATRESplayer PREMIUM:Europe/Madrid
 ATRESplayer Premium:Europe/Madrid
 ATV (AU):Australia/Sydney
 ATV (BE):Europe/Brussels
@@ -476,6 +479,7 @@ Canal 13:America/Santiago
 Canal 4 Montecarlo:America/Montevideo
 Canal 5:America/Mexico_City
 Canal 9 (AR):America/Buenos_Aires
+Canal Brasil:America/Sao_Paulo
 Canal D:Canada/Eastern
 Canal Famille:Canada/Eastern
 Canal J:Europe/Paris
@@ -634,6 +638,7 @@ DaAi TV:Asia/Taipei
 Dailymotion:US/Eastern
 Dangerjane.tv (US):US/Eastern
 Danmarks Radio:Europe/Copenhagen
+Danmarks Radio (DR):Europe/Copenhagen
 Dare to Dream Network (US):US/Eastern
 Dark:Europe/Madrid
 Das Erste:Europe/Berlin
@@ -761,6 +766,7 @@ ESPN2:US/Eastern
 ESPN:US/Eastern
 ESPNEWS (US):US/Eastern
 ESPNU (US):US/Eastern
+ETB1:Europe/Madrid
 ETB2:Europe/Madrid
 ETTV Yoyo:Asia/Taipei
 ETTV:Asia/Taipei
@@ -851,6 +857,7 @@ FOX SPORTS:Australia/Sydney
 FOX Sports 1:US/Eastern
 FOX Sports 2:US/Eastern
 FOX Traveller:Asia/Kolkata
+FOX Türkiye (TR):Europe/Istanbul
 FOX Türkiye:Europe/Istanbul
 FOX+:US/Eastern
 FOX:US/Eastern
@@ -880,6 +887,7 @@ Family Gekijou (JP):Asia/Tokyo
 Family:Canada/Eastern
 Fashion TV:Europe/Paris
 Filles TV:Europe/Paris
+Filmin:Europe/Madrid
 Fire Hit TV (UK):Europe/London
 Fitness Channel (UK):Europe/London
 Five Life:Europe/London
@@ -915,6 +923,7 @@ Fox Life (IT):Europe/Rome
 Fox Life (NL):Europe/Amsterdam
 Fox Life:Europe/Rome
 Fox Network:US/Eastern
+Fox Reality Channel:US/Eastern
 Fox Reality:US/Eastern
 Fox Soccer Channel (CA):Canada/Eastern
 Fox Sports 1:US/Eastern
@@ -1037,6 +1046,7 @@ Hallmark Channel, The:US/Eastern
 Hallmark Channel:US/Eastern
 Hallmark MOVIES & MYSTERIES (US):US/Eastern
 Hallmark Movies & Mysteries:US/Eastern
+Hallmark Movies Now:US/Eastern
 Harmony Channel (US):US/Eastern
 Headline News (US):US/Eastern
 Healthy Living Network (US):US/Eastern
@@ -1046,6 +1056,7 @@ Hidayat TV (UK):Europe/London
 High Street TV (UK):Europe/London
 Hikari TV:Asia/Tokyo
 Historia (CA):Canada/Eastern
+Historia (ES):Europe/Madrid
 Historia:Canada/Eastern
 History (CA):Canada/Eastern
 History (UK):Europe/London
@@ -1085,6 +1096,7 @@ IFC (CA):Canada/Eastern
 IFC:US/Eastern
 IKON:Europe/Amsterdam
 IMDb TV:US/Eastern
+INSP:US/Eastern
 INVESTIGATION DISCOVERY (UK):Europe/London
 IQRA TV (UK):Europe/London
 IRIB TV1:Asia/Tehran
@@ -1464,6 +1476,7 @@ NPS (NL):Europe/Amsterdam
 NRB (US):US/Eastern
 NRJ 12:Europe/Paris
 NRK Super:Europe/Oslo
+NRK TV:Europe/Oslo
 NRK.no:Europe/Oslo
 NRK1:Europe/Oslo
 NRK2:Europe/Oslo
@@ -1645,6 +1658,10 @@ Planète+:Europe/Paris
 Play More:Europe/Brussels
 Play UK, BBC Choice:Europe/London
 Play UK:Europe/London
+Play4:Europe/Brussels
+Play5:Europe/Brussels
+Play6:Europe/Brussels
+Play7:Europe/Brussels
 PlayJam:Europe/London
 PlayStation Network:US/Eastern
 Playboy TV:US/Eastern
@@ -1672,6 +1689,7 @@ ProSieben:Europe/Berlin
 Prva Srpska Televizija:Europe/Belgrade
 Psychic Today (UK):Europe/London
 Pub Channel:Europe/London
+Public Broadcasting Service (PBS):US/Eastern
 Public Broadcasting Service:US/Eastern
 Puls 4:Europe/Vienna
 Q (PH):Asia/Manila
@@ -1759,6 +1777,7 @@ RTV Rijnmond (NL):Europe/Amsterdam
 RTV Utrecht (NL):Europe/Amsterdam
 RTV West (NL):Europe/Amsterdam
 RTVE/TV Asahi:Asia/Tokyo
+RTVE:Europe/Madrid
 RTVS:Europe/Bratislava
 RTÉ NEWS NOW (IE):Europe/Dublin
 RTÉ ONE:Europe/Dublin
@@ -1795,6 +1814,7 @@ RichardDawkins.net:US/Eastern
 Rishtey (UK):Europe/London
 Rocks & Co. (UK):Europe/London
 Rogers Media:Canada/Eastern
+Roku:US/Eastern
 Romance MOVIES (AU):Australia/Sydney
 Rooster Teeth:US/Eastern
 Royal News:Asia/Karachi
@@ -1907,6 +1927,7 @@ Sahara ONE:Asia/Kolkata
 Sahara One (UK):Europe/London
 Sangat TV (UK):Europe/London
 Sanskar:Asia/Kolkata
+Salto:Europe/Paris
 Sat. 1 Comedy (DE):Europe/Berlin
 Sat.1 Emotions:Europe/Berlin
 Sat.1:Europe/Berlin
@@ -1922,6 +1943,7 @@ Semerkand TV:Europe/Istanbul
 Servus TV:Europe/Vienna
 Setanta Ireland:Europe/Dublin
 Seven Network:Australia/Sydney
+Shahid (UAE):Asia/Dubai
 Shalom TV (US):US/Eastern
 Shaw Media:Canada/Eastern
 Sheffield Live! (UK):Europe/London
@@ -2128,6 +2150,7 @@ TMF:Europe/Amsterdam
 TND (AU):Australia/Sydney
 TNQ (AU):Australia/Sydney
 TNT (US):US/Eastern
+TNT España:Europe/Madrid
 TNT Latin America:America/Buenos_Aires
 TNT Serie:Europe/Berlin
 TNT Spain:Europe/Madrid
@@ -2236,6 +2259,7 @@ TV6:Europe/Stockholm
 TV7 (BG):Europe/Sofia
 TV7 (SE):Europe/Stockholm
 TV7:Europe/Stockholm
+TV8 (TR):Europe/Istanbul
 TV8:Europe/Stockholm
 TVA (JP):Asia/Tokyo
 TVA:Canada/Eastern
@@ -2487,6 +2511,7 @@ Viacom:US/Eastern
 Viafree:Europe/Stockholm
 Viaplay:Europe/Stockholm
 Viasat 4:Europe/Oslo
+Vice TV:US/Eastern
 Viceland (CA):US/Eastern
 Viceland (US):US/Eastern
 Viceland:US/Eastern
@@ -2510,6 +2535,7 @@ Vision Heaven (US):US/Eastern
 Viên Thao TV (US):US/Eastern
 Vme (US):US/Eastern
 Volksmusik TV:Europe/Berlin
+Voot:Asia/Kolkata
 VoxAfrica (UK):Europe/London
 Voyage:Europe/Paris
 Vrak.TV:Canada/Eastern
@@ -2537,6 +2563,7 @@ WORLD (US):US/Eastern
 WORLD MOVIES (AU):Australia/Sydney
 WOW (AU):Australia/Sydney
 WOW Presents Plus:US/Eastern
+WOWOW Prime:Asia/Tokyo
 WOWOW:Asia/Tokyo
 WPIX:US/Eastern
 WTV (AU):Australia/Sydney
@@ -2561,6 +2588,7 @@ Worship (US):US/Eastern
 XY TV:US/Eastern
 Xbox Video:US/Eastern
 Xee:Europe/Copenhagen
+YAHOO! View:US/Eastern
 YES (US):US/Eastern
 YESTERDAY (UK):Europe/London
 YLE Fem (FI):Europe/Helsinki
@@ -2691,6 +2719,7 @@ here!:US/Eastern
 home (UK):Europe/London
 hulu Japan:Asia/Tokyo
 iCHANNEL (CA):Canada/Eastern
+iQIYI:Asia/Shanghai
 iQiyi:Asia/Shanghai
 iTunes (US):US/Eastern
 iTunes:US/Eastern
@@ -2724,6 +2753,7 @@ machinima.com (US):US/Eastern
 maniaTV.com (US):US/Eastern
 meGa tv (US):US/Eastern
 mid-atlantic sports network (US):US/Eastern
+more.tv:Europe/Moscow
 movieplex (US):US/Eastern
 mp (CA):Canada/Eastern
 mstv entertainment (UK):Europe/London
