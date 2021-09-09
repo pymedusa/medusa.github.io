@@ -1458,6 +1458,7 @@ NHK Animax:Asia/Tokyo
 NHK BS Premium:Asia/Tokyo
 NHK BS2:Asia/Tokyo
 NHK Educational TV:Asia/Tokyo
+NHK G:Asia/Tokyo
 NHK TV:Asia/Tokyo
 NHK World (HK):Asia/Hong_Kong
 NHK World (UK):Europe/London
