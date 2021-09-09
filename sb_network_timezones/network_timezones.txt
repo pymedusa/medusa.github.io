@@ -1709,6 +1709,7 @@ QVC:US/Eastern
 Quest Red:Europe/London
 Quest:Europe/London
 Quibi:US/Pacific
+RAI 1:Europe/Rome
 RAI:Europe/Rome
 RBB:Europe/Berlin
 RCN TV:America/Bogota
