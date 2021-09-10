@@ -832,6 +832,7 @@ FOX NEWS channel (US):US/Eastern
 FOX News Channel (UK):Europe/London
 FOX ROCHESTER (US):US/Eastern
 FOX SOCCER plus (US):US/Eastern
+FOX SPORTS (AU):Australia/Sydney
 FOX SPORTS 2 (AU):Australia/Sydney
 FOX SPORTS 3 (AU):Australia/Sydney
 FOX SPORTS ARIZONA (US):US/Eastern
@@ -856,7 +857,6 @@ FOX SPORTS TENNESSEE (US):US/Eastern
 FOX SPORTS WEST (US):US/Eastern
 FOX SPORTS WISCONSIN (US):US/Eastern
 FOX SPORTS:Australia/Sydney
-FOX SPORTS (AU):Australia/Sydney
 FOX Sports 1:US/Eastern
 FOX Sports 2:US/Eastern
 FOX Traveller:Asia/Kolkata
@@ -870,6 +870,7 @@ FSTV (US):US/Eastern
 FTV:Asia/Taipei
 FUEL TV (AU):Australia/Sydney
 FUNimation Channel:US/Eastern
+FUNimation Entertainment:US/Eastern
 FX (AU):Australia/Sydney
 FX (US):US/Eastern
 FX CANADA:Canada/Eastern
@@ -2767,6 +2768,7 @@ mtvU (US):US/Eastern
 mun2 (US):US/Eastern
 my38 (US):US/Eastern
 my9 (US):US/Eastern
+myCANAL:Europe/Paris
 mynetworkTV (US):US/Eastern
 myspace.com (US):US/Eastern
 mystery TV (CA):Canada/Eastern
