@@ -856,6 +856,7 @@ FOX SPORTS TENNESSEE (US):US/Eastern
 FOX SPORTS WEST (US):US/Eastern
 FOX SPORTS WISCONSIN (US):US/Eastern
 FOX SPORTS:Australia/Sydney
+FOX SPORTS (AU):Australia/Sydney
 FOX Sports 1:US/Eastern
 FOX Sports 2:US/Eastern
 FOX Traveller:Asia/Kolkata
