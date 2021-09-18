@@ -3,6 +3,7 @@ All issues and bug reports must be opened at [GitHub](https://github.com/pymedus
 
 #### 0.5.18 (14-09-2021) ####
 **Important update notice for docker users**
+
 We've had some issues with building our pymedusa/medusa docker image. But as of today on each update of our develop and master branches a new docker image is pushed to the docker hub. We've decided to hold on to our branch naming. And therefor we have decided to stop using the `latest` tag. There will be two tags. `pymedusa/medusa:master` for the master branch (releases) and `pymedusa/medusa:develop` for the develop branch.
 
 #### 0.5.16 (13-08-2021) ####
