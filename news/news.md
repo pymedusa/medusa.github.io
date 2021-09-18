@@ -1,6 +1,10 @@
 #### Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue ####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
+#### 0.5.18 (14-09-2021) ####
+**Important update notice for docker users**
+We've had some issues with building our pymedusa/medusa docker image. But as of today on each update of our develop and master branches a new docker image is pushed to the docker hub. We've decided to hold on to our branch naming. And therefor we have decided to stop using the `latest` tag. There will be two tags. `pymedusa/medusa:master` for the master branch (releases) and `pymedusa/medusa:develop` for the develop branch.
+
 #### 0.5.16 (13-08-2021) ####
 
 For this release we did a total refactor on the recommended shows page. Currently we've added the existing sources like Trakt, Imdb and Anidb. But for the anime fans among us, we've added anilist.co. It will show recommended anime shows for the past, current and next anime season. For anilist we don't have any mappings to for example a tvdb show, so you'll still need to search the show by name. Clicking on the add/search button will navigate you directly to the "Add New Show" page with the title filled in.
