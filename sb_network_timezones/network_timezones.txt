@@ -1548,6 +1548,7 @@ Nine Network:Australia/Sydney
 Nippon Housou Kyoukai:Asia/Tokyo
 Nippon TV:Asia/Tokyo
 Nippon Television:Asia/Tokyo
+Nitro:Europe/Berlin
 Noggin:US/Eastern
 Nolife:Europe/Paris
 Nollywood Movies (UK):Europe/London
