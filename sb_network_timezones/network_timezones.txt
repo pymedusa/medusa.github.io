@@ -1999,6 +1999,7 @@ Sky Go:Europe/London
 Sky Italia:Europe/Rome
 Sky Link TV (US):US/Eastern
 Sky Living:Europe/London
+Sky Max:Europe/London
 Sky Movies:Europe/London
 Sky News Ireland:Europe/Dublin
 Sky News:Europe/London
