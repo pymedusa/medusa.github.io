@@ -2904,4 +2904,5 @@ youtoo SOCIAL TV (US):US/Eastern
 קשת 12:Asia/Jerusalem
 קשת:Asia/Jerusalem
 רשת:Asia/Jerusalem
+13 רשת:Asia/Jerusalem
 日本テレビ:Asia/Tokyo
