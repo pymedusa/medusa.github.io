@@ -4,6 +4,7 @@
 +Globosat:America/Sao_Paulo
 1+1:Europe/Kiev
 111 Greats (AU):Australia/Sydney
+13 רשת:Asia/Jerusalem
 13TH STREET (AU):Australia/Sydney
 13e rue:Europe/Paris
 13th Street (NL):Europe/Amsterdam
@@ -1518,6 +1519,7 @@ National Geographic:US/Eastern
 National Jewish Television (US):US/Eastern
 Nejat TV (US):US/Eastern
 Nelonen:Europe/Helsinki
+Nelvana Limited:Canada/Eastern
 Net5:Europe/Amsterdam
 Netflix (UK):Europe/London
 Netflix:US/Eastern
@@ -2906,5 +2908,4 @@ youtoo SOCIAL TV (US):US/Eastern
 קשת 12:Asia/Jerusalem
 קשת:Asia/Jerusalem
 רשת:Asia/Jerusalem
-13 רשת:Asia/Jerusalem
 日本テレビ:Asia/Tokyo
