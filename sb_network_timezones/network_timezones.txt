@@ -1366,6 +1366,7 @@ Made in Teesside (UK):Europe/London
 Made in Tyne & Wear (UK):Europe/London
 MagentaTV:Europe/Vienna
 Magic:Europe/London
+Magnolia Network:US/Eastern
 Magyar Televízió:Europe/Budapest
 Mainichi Broadcasting System:Asia/Tokyo
 Maori Television:Pacific/Auckland
