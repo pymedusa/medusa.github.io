@@ -1973,6 +1973,7 @@ Showcase Television:US/Eastern
 Showcase:Canada/Eastern
 Showmax:Africa/Johannesburg
 Showtime Networks:US/Eastern
+Showtime on Demand:US/Eastern
 Showtime:US/Eastern
 Shudder:US/Eastern
 Sikh Channel (UK):Europe/London
