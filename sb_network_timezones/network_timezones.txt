@@ -2865,6 +2865,7 @@ tvk:Asia/Tokyo
 téva:Europe/Paris
 unIMÁS East (US):US/Eastern
 univision DEPORTES NETWORK (US):US/Eastern
+vtm:Europe/Brussels
 vtmKzoom:Europe/Brussels
 watchmenmotioncomic.com (US):US/Eastern
 weatherscan (US):US/Eastern
