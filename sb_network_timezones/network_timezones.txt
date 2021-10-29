@@ -1565,6 +1565,7 @@ Nova TV (HR):Europe/Zagreb
 NovaTV:Europe/Sofia
 OCN:Canada/Eastern
 OCS City:Europe/Paris
+OCS Max:Europe/Paris
 OCS:Europe/Paris
 OLN:Canada/Eastern
 OMNI TELEVISION (CA):Canada/Eastern
@@ -2497,6 +2498,7 @@ V télé:Canada/Eastern
 V:Canada/Eastern
 VARA:Europe/Amsterdam
 VENEVISION INTERNATIONAL (US):US/Eastern
+VGTV:Europe/Oslo
 VH1 (UK):Europe/London
 VH1 Classics:US/Eastern
 VH1 Soul (US):US/Eastern
