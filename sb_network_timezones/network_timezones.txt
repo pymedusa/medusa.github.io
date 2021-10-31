@@ -142,7 +142,7 @@ ATV:Europe/Vienna
 AVRO:Europe/Amsterdam
 AVROTROS:Europe/Amsterdam
 AWE (US):US/Eastern
-AXN (HK):Asia/Hong_Kong
+AXN (HK):Asia/Hog_Kongn
 AXN (JP):Asia/Tokyo
 AXN (PL):Europe/Warsaw
 AXN (SG):Asia/Singapore
@@ -2553,6 +2553,7 @@ Virgin TV:Europe/London
 Vision (UK):Europe/London
 Vision 2 (UK):Europe/London
 Vision Heaven (US):US/Eastern
+ViuTV:Asia/Hong_Kong
 Viên Thao TV (US):US/Eastern
 Vme (US):US/Eastern
 Volksmusik TV:Europe/Berlin
