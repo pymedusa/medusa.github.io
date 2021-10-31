@@ -142,7 +142,7 @@ ATV:Europe/Vienna
 AVRO:Europe/Amsterdam
 AVROTROS:Europe/Amsterdam
 AWE (US):US/Eastern
-AXN (HK):Asia/Hog_Kongn
+AXN (HK):Asia/Hong_Kong
 AXN (JP):Asia/Tokyo
 AXN (PL):Europe/Warsaw
 AXN (SG):Asia/Singapore
