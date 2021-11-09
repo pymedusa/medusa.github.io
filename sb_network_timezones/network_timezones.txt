@@ -1661,6 +1661,7 @@ Phoenix XNE (UK):Europe/London
 Phoenix:Europe/Berlin
 Pick TV:Europe/London
 Pick:Europe/London
+Pickbox NOW:Europe/Zagreb
 Pitch TV (UK):Europe/London
 Pitch World (UK):Europe/London
 Pivot:US/Eastern
