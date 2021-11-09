@@ -1661,6 +1661,7 @@ Phoenix XNE (UK):Europe/London
 Phoenix:Europe/Berlin
 Pick TV:Europe/London
 Pick:Europe/London
+Pickbox NOW:Europe/Zagreb
 Pitch TV (UK):Europe/London
 Pitch World (UK):Europe/London
 Pivot:US/Eastern
@@ -2553,6 +2554,7 @@ Virgin TV:Europe/London
 Vision (UK):Europe/London
 Vision 2 (UK):Europe/London
 Vision Heaven (US):US/Eastern
+ViuTV:Asia/Hong_Kong
 Viên Thao TV (US):US/Eastern
 Vme (US):US/Eastern
 Volksmusik TV:Europe/Berlin
