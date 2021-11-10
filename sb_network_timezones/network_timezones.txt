@@ -1241,6 +1241,7 @@ La Cinq:Europe/Paris
 La Deux:Europe/Brussels
 La Familia Cosmovision (US):US/Eastern
 La Red:Europe/Madrid
+La Sexta:Europe/Madrid
 La Siete:Europe/Madrid
 La Trois:Europe/Brussels
 La Une:Europe/Brussels
