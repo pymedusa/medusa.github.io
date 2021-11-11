@@ -1241,6 +1241,7 @@ La Cinq:Europe/Paris
 La Deux:Europe/Brussels
 La Familia Cosmovision (US):US/Eastern
 La Red:Europe/Madrid
+La Sexta:Europe/Madrid
 La Siete:Europe/Madrid
 La Trois:Europe/Brussels
 La Une:Europe/Brussels
@@ -2895,6 +2896,7 @@ youtoo SOCIAL TV (US):US/Eastern
 Дождь:Europe/Kaliningrad
 Домашний:Europe/Kaliningrad
 Звезда:Europe/Kaliningrad
+КиноПоиск HD:Europe/Moscow
 НТВ:Europe/Kaliningrad
 Первый канал:Europe/Kaliningrad
 Пятый канал:Europe/Kaliningrad
