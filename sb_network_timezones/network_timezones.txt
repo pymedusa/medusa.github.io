@@ -2896,6 +2896,7 @@ youtoo SOCIAL TV (US):US/Eastern
 Дождь:Europe/Kaliningrad
 Домашний:Europe/Kaliningrad
 Звезда:Europe/Kaliningrad
+КиноПоиск HD:Europe/Moscow
 НТВ:Europe/Kaliningrad
 Первый канал:Europe/Kaliningrad
 Пятый канал:Europe/Kaliningrad
