@@ -1204,6 +1204,7 @@ Kenya Television Network (KE):Africa/Nairobi
 Kerrang! TV:Europe/London
 Keshet 12:Asia/Jerusalem
 Ketnet (BE):Europe/Brussels
+Ketnet:Europe/Brussels
 KiKa:Europe/Berlin
 Kids Station:Asia/Tokyo
 Kids and Teens TV:US/Eastern
@@ -2010,6 +2011,7 @@ Sky Link TV (US):US/Eastern
 Sky Living:Europe/London
 Sky Max:Europe/London
 Sky Movies:Europe/London
+Sky Nature:Europe/London
 Sky News Ireland:Europe/Dublin
 Sky News:Europe/London
 Sky One:Europe/London
