@@ -590,6 +590,7 @@ Controversial TV (UK):Europe/London
 Cooking Channel:US/Eastern
 Coptic TV (US):US/Eastern
 Cornerstone Television (US):US/Eastern
+Cosmote TV:Europe/Athens
 Cottage Life (CA):Canada/Eastern
 Country Music Television (CMT):US/Eastern
 Country Music Television (US):US/Eastern
