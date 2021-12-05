@@ -2391,6 +2391,7 @@ The History Channel:US/Eastern
 The Hub:US/Eastern
 The Movie Network:Canada/Eastern
 The N:Australia/Sydney
+The Roku Channel:US/Eastern
 The Sportsman Channel:US/Eastern
 The Travel Channel:US/Eastern
 The Verge:US/Eastern
