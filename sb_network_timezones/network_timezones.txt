@@ -3,6 +3,7 @@
 &TV:Asia/Kolkata
 +Globosat:America/Sao_Paulo
 1+1:Europe/Kiev
+10 Shake:Australia/Sydney
 111 Greats (AU):Australia/Sydney
 13 רשת:Asia/Jerusalem
 13TH STREET (AU):Australia/Sydney
