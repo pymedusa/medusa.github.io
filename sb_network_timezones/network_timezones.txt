@@ -1030,6 +1030,7 @@ HBO Česká Republika:Europe/Prague
 HBO2 (US):US/Eastern
 HBO:US/Eastern
 HDNet:US/Eastern
+HGTV (UK):Europe/London
 HGTV Canada:Canada/Eastern
 HGTV:US/Eastern
 HIFI:Canada/Eastern
