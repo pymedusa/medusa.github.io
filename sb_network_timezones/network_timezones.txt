@@ -1772,6 +1772,7 @@ RTL TVI:Europe/Brussels
 RTL Television:Europe/Berlin
 RTL Televizija:Europe/Zagreb
 RTL Télé:Europe/Luxembourg
+RTL+:Europe/Berlin
 RTL4:Europe/Amsterdam
 RTL5:Europe/Amsterdam
 RTL:Europe/Luxembourg
@@ -2435,6 +2436,7 @@ True Entertainment (UK):Europe/London
 True Movies 1 (UK):Europe/London
 True Movies 2 (UK):Europe/London
 TrueVisions:Asia/Bangkok
+Tubi:US/Eastern
 Turner Broadcasting System (TBS):US/Eastern
 Turner South:US/Eastern
 Tv2:Europe/Oslo
@@ -2650,6 +2652,7 @@ Z:Canada/Eastern
 ZDF.Kultur:Europe/Berlin
 ZDF:Europe/Berlin
 ZDFinfo:Europe/Berlin
+ZDFmediathek:Europe/Berlin
 ZDFneo:Europe/Berlin
 ZDTV (CA):Canada/Eastern
 ZED:Canada/Eastern
