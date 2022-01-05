@@ -1377,6 +1377,7 @@ Magyar Televízió:Europe/Budapest
 Mainichi Broadcasting System:Asia/Tokyo
 Maori Television:Pacific/Auckland
 Marketplace (UK):Europe/London
+MasterClass:US/Eastern
 MavTV:US/Eastern
 Max (AU):Australia/Sydney
 Maxdome:Europe/Berlin
