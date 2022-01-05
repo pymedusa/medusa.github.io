@@ -1172,6 +1172,7 @@ KCET:US/Eastern
 KICC TV (UK):Europe/London
 KIKA:Europe/Berlin
 KING-TV (US):US/Eastern
+KION:Europe/Moscow
 KKTV:Asia/Taipei
 KMTV (UK):Europe/London
 KNLJ (US):US/Eastern
@@ -1376,6 +1377,7 @@ Magyar Televízió:Europe/Budapest
 Mainichi Broadcasting System:Asia/Tokyo
 Maori Television:Pacific/Auckland
 Marketplace (UK):Europe/London
+MasterClass:US/Eastern
 MavTV:US/Eastern
 Max (AU):Australia/Sydney
 Maxdome:Europe/Berlin
