@@ -950,6 +950,7 @@ Frost Great Outdoors (US):US/Eastern
 Fuel TV:US/Eastern
 Fuji TV:Asia/Tokyo
 Fullscreen:US/Eastern
+Funny or Die:US/Eastern
 Fuse:US/Eastern
 Fusion (US):US/Eastern
 Fusion:US/Eastern
@@ -1387,6 +1388,7 @@ Metro-Goldwyn-Mayer (MGM):US/Eastern
 Mexicanal (US):US/Eastern
 MiND: Media Independence (US):US/Eastern
 Military Channel:US/Eastern
+Milkshake!:Europe/London
 Minnesota Channel (US):US/Eastern
 Mnet AMERICA (US):US/Eastern
 Mnet:Asia/Seoul
@@ -1817,6 +1819,7 @@ Rai 1:Europe/Rome
 Rai 2:Europe/Rome
 Rai 3:Europe/Rome
 Rai Gulp:Europe/Rome
+Raiplay:Europe/Rome
 Real Hip-Hop Network (US):US/Eastern
 Really:Europe/London
 Record TV (UK):Europe/London
