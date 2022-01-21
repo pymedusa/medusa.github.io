@@ -314,6 +314,7 @@ BS Fuji:Asia/Tokyo
 BS-i (JP):Asia/Tokyo
 BS-i:Asia/Tokyo
 BS11:Asia/Tokyo
+BS12:Asia/Tokyo
 BT Sport 1 (UK):Europe/London
 BT Sport 2 (UK):Europe/London
 BTQ (AU):Australia/Sydney
@@ -1865,6 +1866,7 @@ SBS (KR):Asia/Seoul
 SBS 6:Europe/Amsterdam
 SBS Plus:Asia/Seoul
 SBS2 (AU):Australia/Sydney
+SBS6:Europe/Amsterdam
 SBS:Asia/Seoul
 SBT:America/Sao_Paulo
 SBTN (US):US/Eastern
