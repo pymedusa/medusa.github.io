@@ -314,6 +314,7 @@ BS Fuji:Asia/Tokyo
 BS-i (JP):Asia/Tokyo
 BS-i:Asia/Tokyo
 BS11:Asia/Tokyo
+BS12:Asia/Tokyo
 BT Sport 1 (UK):Europe/London
 BT Sport 2 (UK):Europe/London
 BTQ (AU):Australia/Sydney
