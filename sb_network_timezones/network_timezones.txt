@@ -1046,6 +1046,7 @@ HOT:Asia/Jerusalem
 HR (DE):Europe/Berlin
 HRT 1:Europe/Zagreb
 HRT2 (HR):Europe/Zagreb
+HRT:Europe/Zagreb
 HRTV (US):US/Eastern
 HSN (US):US/Eastern
 HSV (AU):Australia/Sydney
