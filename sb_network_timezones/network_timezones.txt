@@ -508,6 +508,7 @@ Cartoon Hangover:US/Pacific
 Cartoon Network (CA):Canada/Eastern
 Cartoon Network Australia:Australia/Sydney
 Cartoon Network:US/Eastern
+Cartoonito:Europe/London
 Casa:Canada/Eastern
 Celebrity Shop (UK):Europe/London
 Centric (US):US/Eastern
