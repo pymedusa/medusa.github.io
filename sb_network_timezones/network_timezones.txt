@@ -1734,6 +1734,7 @@ Quest:Europe/London
 Quibi:US/Pacific
 RAI 1:Europe/Rome
 RAI:Europe/Rome
+RaiPlay:Europe/Rome
 RBB:Europe/Berlin
 RCN TV:America/Bogota
 RCTI:Asia/Jakarta
