@@ -1734,7 +1734,6 @@ Quest:Europe/London
 Quibi:US/Pacific
 RAI 1:Europe/Rome
 RAI:Europe/Rome
-RaiPlay:Europe/Rome
 RBB:Europe/Berlin
 RCN TV:America/Bogota
 RCTI:Asia/Jakarta
@@ -1823,7 +1822,7 @@ Rai 1:Europe/Rome
 Rai 2:Europe/Rome
 Rai 3:Europe/Rome
 Rai Gulp:Europe/Rome
-Raiplay:Europe/Rome
+RaiPlay:Europe/Rome
 Real Hip-Hop Network (US):US/Eastern
 Really:Europe/London
 Record TV (UK):Europe/London
