@@ -1707,6 +1707,7 @@ Prima Family (CZ):Europe/Prague
 Prima televize:Europe/Prague
 Prime (BE):Europe/Brussels
 Prime (NZ):Pacific/Auckland
+Prime Video:US/Eastern
 Primetime (UK):Europe/London
 ProSieben Fun:Europe/Berlin
 ProSieben MAXX:Europe/Berlin
