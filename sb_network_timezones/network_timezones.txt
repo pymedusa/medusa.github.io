@@ -945,6 +945,7 @@ France 2:Europe/Paris
 France 3:Europe/Paris
 France 4:Europe/Paris
 France 5:Europe/Paris
+France TV Slash:Europe/Paris
 France Ô:Europe/Paris
 Fred TV:US/Eastern
 FreeForm:US/Eastern
@@ -1829,6 +1830,7 @@ Real Hip-Hop Network (US):US/Eastern
 Really:Europe/London
 Record TV (UK):Europe/London
 Record:America/Sao_Paulo
+Red Bull TV:US/Eastern
 Red Hot TV:Europe/London
 Rede Bandeirantes:America/Sao_Paulo
 Rede Globo:America/Sao_Paulo
@@ -2040,6 +2042,7 @@ Sky1:Europe/London
 Sky2:Europe/London
 Sky3:Europe/London
 SkyPerfecTV (JP):Asia/Tokyo
+Slash:Europe/Paris
 Sleuth (TV):US/Eastern
 Sleuth:US/Eastern
 Slice:Canada/Eastern
@@ -2745,6 +2748,7 @@ euronews (UK):Europe/London
 extra (AU):Australia/Sydney
 family MOVIES (AU):Australia/Sydney
 five:Europe/London
+france.tv slash:Europe/Paris
 france.tv:Europe/Paris
 fullscreen:US/Eastern
 funnyordie.com (US):US/Eastern
