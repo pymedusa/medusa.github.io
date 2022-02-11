@@ -507,6 +507,7 @@ Carlton Television:Europe/London
 Cartoon Hangover:US/Pacific
 Cartoon Network (CA):Canada/Eastern
 Cartoon Network Australia:Australia/Sydney
+Cartoon Network Everything:US/Eastern
 Cartoon Network:US/Eastern
 Cartoonito:Europe/London
 Casa:Canada/Eastern
