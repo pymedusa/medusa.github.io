@@ -67,6 +67,7 @@ ABC ME:Australia/Sydney
 ABC Me:Australia/Sydney
 ABC News 24:Australia/Sydney
 ABC Spark:Canada/Eastern
+ABC TV Plus:Australia/Sydney
 ABC Television Network:US/Eastern
 ABC iView:Australia/Sydney
 ABC iview:Australia/Sydney
@@ -1412,6 +1413,7 @@ Movie Central:Canada/Eastern
 Movie Extra (AU):Australia/Sydney
 Movies 24 (UK):Europe/London
 Movies4Men (UK):Europe/London
+Movistar Series (España):Europe/Madrid
 Movistar+:Europe/Madrid
 Much (CA):Canada/Eastern
 Much TV:Asia/Taipei
@@ -1536,6 +1538,7 @@ National Jewish Television (US):US/Eastern
 Nejat TV (US):US/Eastern
 Nelonen:Europe/Helsinki
 Nelvana Limited:Canada/Eastern
+Neox:Europe/Madrid
 Net5:Europe/Amsterdam
 Netflix (UK):Europe/London
 Netflix:US/Eastern
@@ -1565,12 +1568,14 @@ Nine Network Australia:Australia/Sydney
 Nine Network:Australia/Sydney
 Nippon Housou Kyoukai:Asia/Tokyo
 Nippon TV:Asia/Tokyo
+Nippon Television Network (NTV):Asia/Tokyo
 Nippon Television:Asia/Tokyo
 Nitro:Europe/Berlin
 Noggin:US/Eastern
 Nolife:Europe/Paris
 Nollywood Movies (UK):Europe/London
 Noor TV (UK):Europe/London
+Norddeutscher Rundfunk (NDR):Europe/Berlin
 Northern Television (CA):Canada/Eastern
 Notts TV (UK):Europe/London
 Nou 24:Europe/Madrid
@@ -1655,6 +1660,7 @@ Pac-12 Oregon (US):US/Eastern
 Pac-12 Washington (US):US/Eastern
 Pakapaka:America/Buenos_Aires
 Pakistan Television Corporation (PK):Asia/Karachi
+Pantaya:US/Eastern
 Paramount Comedy:Europe/London
 Paramount Network:US/Eastern
 Paramount+:US/Eastern
@@ -1830,6 +1836,7 @@ Real Hip-Hop Network (US):US/Eastern
 Really:Europe/London
 Record TV (UK):Europe/London
 Record:America/Sao_Paulo
+RecordTV:America/Sao_Paulo
 Red Bull TV:US/Eastern
 Red Hot TV:Europe/London
 Rede Bandeirantes:America/Sao_Paulo
@@ -2192,6 +2199,7 @@ TMF:Europe/Amsterdam
 TND (AU):Australia/Sydney
 TNQ (AU):Australia/Sydney
 TNT (US):US/Eastern
+TNT Comedy:Europe/Berlin
 TNT España:Europe/Madrid
 TNT Latin America:America/Buenos_Aires
 TNT Serie:Europe/Berlin
@@ -2243,6 +2251,7 @@ TV Azteca:America/Mexico_City
 TV Cabo:Europe/Lisbon
 TV Chile:America/Santiago
 TV Cultura:America/Sao_Paulo
+TV Globo:America/Sao_Paulo
 TV Guide Channel:US/Eastern
 TV HiTS (AU):Australia/Sydney
 TV Hokkaido (JP):Asia/Tokyo
