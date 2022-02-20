@@ -247,6 +247,7 @@ BBC Canada:Canada/Eastern
 BBC Channel 4:Europe/London
 BBC Drama Productions:Europe/London
 BBC FOUR:Europe/London
+BBC Films:Europe/London
 BBC First:Australia/Sydney
 BBC Five:Europe/London
 BBC Four:Europe/London
@@ -2023,6 +2024,7 @@ Sky Atlantic (IT):Europe/Rome
 Sky Atlantic (UK):Europe/London
 Sky Atlantic :Europe/London
 Sky Atlantic HD (DE):Europe/Berlin
+Sky Atlantic (DE):Europe/Berlin
 Sky Atlantic:Europe/London
 Sky Box Office:Europe/London
 Sky Cinema (IT):Europe/Rome
