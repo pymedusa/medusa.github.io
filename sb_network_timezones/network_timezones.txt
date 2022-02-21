@@ -1536,13 +1536,13 @@ National Geographic Nederland-België:Europe/Amsterdam
 National Geographic WILD:US/Eastern
 National Geographic:US/Eastern
 National Jewish Television (US):US/Eastern
+Nederlandse Publieke Omroep 1:Europe/Amsterdam
+Nederlandse Publieke Omroep 2:Europe/Amsterdam
+Nederlandse Publieke Omroep 3:Europe/Amsterdam
 Nejat TV (US):US/Eastern
 Nelonen:Europe/Helsinki
 Nelvana Limited:Canada/Eastern
 Neox:Europe/Madrid
-Nederlandse Publieke Omroep 1:Europe/Amsterdam
-Nederlandse Publieke Omroep 2:Europe/Amsterdam
-Nederlandse Publieke Omroep 3:Europe/Amsterdam
 Net5:Europe/Amsterdam
 Netflix (UK):Europe/London
 Netflix:US/Eastern
@@ -2020,11 +2020,11 @@ Skuff TV (AU):Australia/Sydney
 Sky 1:Europe/London
 Sky Arte:Europe/Rome
 Sky Arts:Europe/London
+Sky Atlantic (DE):Europe/Berlin
 Sky Atlantic (IT):Europe/Rome
 Sky Atlantic (UK):Europe/London
 Sky Atlantic :Europe/London
 Sky Atlantic HD (DE):Europe/Berlin
-Sky Atlantic (DE):Europe/Berlin
 Sky Atlantic:Europe/London
 Sky Box Office:Europe/London
 Sky Cinema (IT):Europe/Rome
@@ -2035,6 +2035,7 @@ Sky Deutschland:Europe/Berlin
 Sky Documentaries:Europe/London
 Sky Go (DE):Europe/Berlin
 Sky Go:Europe/London
+Sky History:Europe/London
 Sky Italia:Europe/Rome
 Sky Link TV (US):US/Eastern
 Sky Living:Europe/London
