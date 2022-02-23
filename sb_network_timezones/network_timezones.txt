@@ -412,6 +412,7 @@ CBS.com (US):US/Eastern
 CBS:US/Eastern
 CBeebies (US):US/Eastern
 CBeebies:Europe/London
+CC: Studios:US/Eastern
 CC:STUDIOS (US):US/Eastern
 CCN (US):US/Eastern
 CCTV News (UK):Europe/London
@@ -2624,6 +2625,7 @@ WORLD (US):US/Eastern
 WORLD MOVIES (AU):Australia/Sydney
 WOW (AU):Australia/Sydney
 WOW Presents Plus:US/Eastern
+WOW Presents:US/Eastern
 WOWOW Prime:Asia/Tokyo
 WOWOW:Asia/Tokyo
 WPIX:US/Eastern
