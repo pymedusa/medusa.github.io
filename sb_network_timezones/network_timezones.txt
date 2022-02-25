@@ -2703,6 +2703,7 @@ Zee TV:Asia/Kolkata
 Zhejiang TV:Asia/Shanghai
 Zing (UK):Europe/London
 Ztélé:Canada/Eastern
+Zweites Deutsches Fernsehen (ZDF):Europe/Berlin
 [v] (AU):Australia/Sydney
 [v] HITS (AU):Australia/Sydney
 a-pac (AU):Australia/Sydney
