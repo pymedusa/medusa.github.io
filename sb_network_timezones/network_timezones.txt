@@ -1491,6 +1491,7 @@ NHK:Asia/Tokyo
 NHL Center Ice (US):US/Eastern
 NHL NETWORK (US):US/Eastern
 NHNZ:Pacific/Auckland
+NIPPON TV:Asia/Tokyo
 NITV (AU):Australia/Sydney
 NJPW World:Asia/Tokyo
 NOS:Europe/Amsterdam
