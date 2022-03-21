@@ -114,6 +114,7 @@ ARD:Europe/Berlin
 ARISE News (UK):Europe/London
 ART TV:Europe/Athens
 ARTE.tv:Europe/Paris
+ARTE:Europe/Paris
 ARTN (US):US/Eastern
 ARTV:Canada/Eastern
 ARY Digital (UK):Europe/London
