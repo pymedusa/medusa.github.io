@@ -2545,6 +2545,7 @@ VH1 (UK):Europe/London
 VH1 Classics:US/Eastern
 VH1 Soul (US):US/Eastern
 VH1:US/Eastern
+VICE:US/Eastern
 VICELAND:US/Eastern
 VIER:Europe/Brussels
 VISION ZOOMER TELEVISION (CA):Canada/Eastern
