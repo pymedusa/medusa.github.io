@@ -824,6 +824,7 @@ FILM 4 (UK):Europe/London
 FLAVA (UK):Europe/London
 FLIX (US):US/Eastern
 FMC (AU):Australia/Sydney
+FOD:Asia/Tokyo
 FORO tv (US):US/Eastern
 FOUR (NZ):Pacific/Auckland
 FOX (FI):Europe/Helsinki
