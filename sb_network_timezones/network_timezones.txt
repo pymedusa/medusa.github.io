@@ -942,6 +942,7 @@ Fox Life:Europe/Rome
 Fox Network:US/Eastern
 Fox Reality Channel:US/Eastern
 Fox Reality:US/Eastern
+Fox Showcase:Australia/Sydney
 Fox Soccer Channel (CA):Canada/Eastern
 Fox Sports 1:US/Eastern
 Fox8:Australia/Sydney
@@ -2243,6 +2244,7 @@ TUFF TV (US):US/Eastern
 TURNER CLASSIC MOVIES (AU):Australia/Sydney
 TURNER CLASSIC MOVIES (US):US/Eastern
 TV 2 (DK):Europe/Copenhagen
+TV 2 (NO):Europe/Oslo
 TV 2 Charlie:Europe/Copenhagen
 TV 2 Filmkanalen:Europe/Oslo
 TV 2 Fri:Europe/Copenhagen
