@@ -1255,6 +1255,7 @@ LONGHORN NETWORK (US):US/Eastern
 LOOKBOOK.nu (US):US/Eastern
 LRS (AU):Australia/Sydney
 La 1:Europe/Madrid
+La 2 (TVE2):Europe/Madrid
 La Cinq:Europe/Paris
 La Deux:Europe/Brussels
 La Familia Cosmovision (US):US/Eastern
@@ -1843,6 +1844,7 @@ Rai 3:Europe/Rome
 Rai Gulp:Europe/Rome
 RaiPlay:Europe/Rome
 Real Hip-Hop Network (US):US/Eastern
+Real Time:Europe/Rome
 Really:Europe/London
 Record TV (UK):Europe/London
 Record:America/Sao_Paulo
@@ -2121,11 +2123,13 @@ Star World (IN):Asia/Kolkata
 Star World (MV):Indian/Maldives
 Star World (SG):Asia/Singapore
 Star World:Asia/Hong_Kong
+Star+:America/Sao_Paulo
 Stargate Command:US/Eastern
 Starz Play:Asia/Dubai
 Starz TV (UK):Europe/London
 Starz!:US/Eastern
 Starz:US/Eastern
+Starzplay:Europe/Madrid
 Steel:Europe/Rome
 Store (UK):Europe/London
 Stream.cz:Europe/Prague
