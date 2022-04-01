@@ -1134,6 +1134,7 @@ ITV2:Europe/London
 ITV3:Europe/London
 ITV4:Europe/London
 ITV:Europe/London
+ITVX:Europe/London
 ITVBe:Europe/London
 Ideal Extra (UK):Europe/London
 Ideal World (UK):Europe/London
