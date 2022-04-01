@@ -2268,6 +2268,7 @@ TV Asia (US):US/Eastern
 TV Azteca:America/Mexico_City
 TV Cabo:Europe/Lisbon
 TV Chile:America/Santiago
+TV Chosun:Asia/Seoul
 TV Cultura:America/Sao_Paulo
 TV Globo:America/Sao_Paulo
 TV Guide Channel:US/Eastern
