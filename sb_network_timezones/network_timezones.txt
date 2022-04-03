@@ -939,6 +939,7 @@ Fox Kids:US/Eastern
 Fox Life (IT):Europe/Rome
 Fox Life (NL):Europe/Amsterdam
 Fox Life:Europe/Rome
+Fox Nation:US/Eastern
 Fox Network:US/Eastern
 Fox Reality Channel:US/Eastern
 Fox Reality:US/Eastern
@@ -1134,8 +1135,8 @@ ITV2:Europe/London
 ITV3:Europe/London
 ITV4:Europe/London
 ITV:Europe/London
-ITVX:Europe/London
 ITVBe:Europe/London
+ITVX:Europe/London
 Ideal Extra (UK):Europe/London
 Ideal World (UK):Europe/London
 Impact TV (US):US/Eastern
