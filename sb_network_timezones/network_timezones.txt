@@ -725,6 +725,7 @@ Disney Junior (CA):Canada/Eastern
 Disney Junior (UK):Europe/London
 Disney Junior:US/Eastern
 Disney Play:US/Eastern
+Disney Television Animation:US/Eastern
 Disney XD (CA):Canada/Eastern
 Disney XD:US/Eastern
 Disney+:US/Eastern
@@ -817,6 +818,7 @@ Eurosport:Europe/London
 Exitos TV (US):US/Eastern
 Explora:Canada/Eastern
 Extreme Sports Channel (UK):Europe/London
+FEARNet:US/Eastern
 FEARnet:US/Eastern
 FEM:Europe/London
 FIGHT NETWORK (CA):Canada/Eastern
@@ -1387,6 +1389,7 @@ Made in Cardiff (UK):Europe/London
 Made in Leeds (UK):Europe/London
 Made in Teesside (UK):Europe/London
 Made in Tyne & Wear (UK):Europe/London
+MagellanTV:US/Eastern
 MagentaTV:Europe/Vienna
 Magic:Europe/London
 Magnolia Network:US/Eastern
@@ -1567,6 +1570,7 @@ NewsChannel 8 (US):US/Eastern
 NewsOn6NOW (US):US/Eastern
 NewsWatch 15 (US):US/Eastern
 Nick (DE):Europe/Berlin
+Nick App:US/Eastern
 Nick GAS:US/Eastern
 Nick Jr.:US/Eastern
 Nick at Nite:US/Eastern
@@ -1996,6 +2000,7 @@ Science:US/Eastern
 Scuzz:Europe/London
 SeeSo:US/Eastern
 Seeso:US/Eastern
+Seezn:Asia/Seoul
 Semerkand TV:Europe/Istanbul
 Servus TV:Europe/Vienna
 Setanta Ireland:Europe/Dublin
