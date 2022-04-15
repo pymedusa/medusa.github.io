@@ -343,6 +343,7 @@ Bid (UK):Europe/London
 Bid Plus (UK):Europe/London
 Big Ten Network (US):US/Eastern
 Bilibili:Asia/Shanghai
+Binge:Australia/Sydney
 Biography Channel:US/Eastern
 Blackpills:Europe/Paris
 Blip:US/Eastern
