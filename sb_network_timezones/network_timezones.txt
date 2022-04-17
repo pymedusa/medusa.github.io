@@ -2343,6 +2343,7 @@ TV8:Europe/Stockholm
 TVA (JP):Asia/Tokyo
 TVA:Canada/Eastern
 TVB Jade (HK):Asia/Hong_Kong
+TVB Jade:Asia/Hong_Kong
 TVB Pearl (HK):Asia/Hong_Kong
 TVB Xing He (HK):Asia/Hong_Kong
 TVB1 (US):US/Eastern
