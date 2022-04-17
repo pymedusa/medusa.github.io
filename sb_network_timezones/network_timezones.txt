@@ -343,6 +343,7 @@ Bid (UK):Europe/London
 Bid Plus (UK):Europe/London
 Big Ten Network (US):US/Eastern
 Bilibili:Asia/Shanghai
+Binge:Australia/Sydney
 Biography Channel:US/Eastern
 Blackpills:Europe/Paris
 Blip:US/Eastern
@@ -2342,6 +2343,7 @@ TV8:Europe/Stockholm
 TVA (JP):Asia/Tokyo
 TVA:Canada/Eastern
 TVB Jade (HK):Asia/Hong_Kong
+TVB Jade:Asia/Hong_Kong
 TVB Pearl (HK):Asia/Hong_Kong
 TVB Xing He (HK):Asia/Hong_Kong
 TVB1 (US):US/Eastern
