@@ -79,6 +79,7 @@ ABC4Kids:Australia/Sydney
 ABC7 Chicago (US):US/Eastern
 ABC:US/Eastern
 ABD (AU):Australia/Sydney
+ABEMA:Asia/Tokyo
 ABN (AU):Australia/Sydney
 ABN (US):US/Eastern
 ABP New (UK):Europe/London
