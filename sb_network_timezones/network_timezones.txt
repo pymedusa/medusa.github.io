@@ -717,6 +717,7 @@ Discovery+:US/Eastern
 Discovery:US/Eastern
 Dish TV:US/Eastern
 Disney Channel (DE):Europe/Berlin
+Disney Channel (FR):Europe/Paris
 Disney Channel (Germany):Europe/Berlin
 Disney Channel (Latin America):America/Sao_Paulo
 Disney Channel (UK):Europe/London
