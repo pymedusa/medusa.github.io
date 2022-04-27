@@ -1003,6 +1003,7 @@ Galavisión (US):US/Eastern
 Gamavision (MX):America/Mexico_City
 Game Show Network (US):US/Eastern
 Game Show Network:US/Eastern
+GameTap Entertainment:US/Eastern
 Gay Network (UK):Europe/London
 GayXChange (UK):Europe/London
 Gem (AU):Australia/Sydney
