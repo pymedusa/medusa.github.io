@@ -97,6 +97,7 @@ AHC:US/Eastern
 AIT International (UK):Europe/London
 ALT Balaji:Asia/Kolkata
 AMAZING FACTS (US):US/Eastern
+Amazon Freevee:US/Eastern
 AMC Premiere:US/Eastern
 AMC+:US/Eastern
 AMC:US/Eastern
