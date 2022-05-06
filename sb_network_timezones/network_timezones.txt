@@ -525,6 +525,7 @@ Ceskoslovenská televize:Europe/Prague
 Challenge:Europe/London
 Channel 10 (IL):Asia/Jerusalem
 Channel 101:US/Eastern
+Channel 13:Asia/Jerusalem
 Channel 2:Asia/Jerusalem
 Channel 3:Asia/Bangkok
 Channel 4 Television Corporation:Europe/London
@@ -1871,6 +1872,7 @@ RedeTV! (BR):America/Sao_Paulo
 ReelzChannel:US/Eastern
 Reformation Channel (US):US/Eastern
 Renault TV (UK):Europe/London
+Reshet 13:Asia/Jerusalem
 Retail TV (UK):Europe/London
 Rete 4:Europe/Rome
 Revelation TV:Europe/London
