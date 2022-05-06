@@ -97,7 +97,6 @@ AHC:US/Eastern
 AIT International (UK):Europe/London
 ALT Balaji:Asia/Kolkata
 AMAZING FACTS (US):US/Eastern
-Amazon Freevee:US/Eastern
 AMC Premiere:US/Eastern
 AMC+:US/Eastern
 AMC:US/Eastern
@@ -193,6 +192,7 @@ Alpha TV PUNJABI:Asia/Kolkata
 Alpha TV:Europe/Athens
 Altitude sports (US):US/Eastern
 Amazon (Japan):Asia/Tokyo
+Amazon Freevee:US/Eastern
 Amazon Instant Video:US/Eastern
 Amazon Prime Instant Video (UK):Europe/London
 Amazon Prime Instant Video:US/Eastern
@@ -961,6 +961,7 @@ France 3:Europe/Paris
 France 4:Europe/Paris
 France 5:Europe/Paris
 France TV Slash:Europe/Paris
+France tv slash:Europe/Paris
 France Ô:Europe/Paris
 Fred TV:US/Eastern
 FreeForm:US/Eastern
