@@ -572,6 +572,7 @@ Cinemax:US/Eastern
 Citv (UK):Europe/London
 City Channel:Europe/Dublin
 City:Canada/Eastern
+Citytv:Canada/Eastern
 Classic Arts Showcase:US/Eastern
 Classic FM TV:Europe/London
 Club Illico:Canada/Eastern
