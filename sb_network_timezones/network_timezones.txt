@@ -944,6 +944,7 @@ Fox Channel:Europe/Berlin
 Fox Crime:Europe/Rome
 Fox España:Europe/Madrid
 Fox Family:US/Eastern
+Fox Kids Network:US/Eastern
 Fox Kids:US/Eastern
 Fox Life (IT):Europe/Rome
 Fox Life (NL):Europe/Amsterdam
@@ -1007,6 +1008,7 @@ Galavisión (US):US/Eastern
 Gamavision (MX):America/Mexico_City
 Game Show Network (US):US/Eastern
 Game Show Network:US/Eastern
+GameTV Canada:Canada/Eastern
 GameTap Entertainment:US/Eastern
 Gay Network (UK):Europe/London
 GayXChange (UK):Europe/London
