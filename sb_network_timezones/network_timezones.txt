@@ -94,6 +94,7 @@ ACN (US):US/Eastern
 ACTION MOVIES (AU):Australia/Sydney
 ADS (AU):Australia/Sydney
 AHC:US/Eastern
+AIS PLAY:Asia/Bangkok
 AIT International (UK):Europe/London
 ALT Balaji:Asia/Kolkata
 AMAZING FACTS (US):US/Eastern
@@ -347,6 +348,7 @@ Big Ten Network (US):US/Eastern
 Bilibili:Asia/Shanghai
 Binge:Australia/Sydney
 Biography Channel:US/Eastern
+Black Entertainment Television (BET):US/Eastern
 Blackpills:Europe/Paris
 Blip:US/Eastern
 Bloomberg TELEVISION (US):US/Eastern
@@ -1003,6 +1005,7 @@ GTS (AU):Australia/Sydney
 GTV (AU):Australia/Sydney
 GTV:Asia/Taipei
 GWN7 (AU):Australia/Sydney
+GagaOOLala:Asia/Taipei
 Gaiam TV:US/Eastern
 Galavisión (US):US/Eastern
 Gamavision (MX):America/Mexico_City
@@ -1405,6 +1408,7 @@ Magic:Europe/London
 Magnolia Network:US/Eastern
 Magyar Televízió:Europe/Budapest
 Mainichi Broadcasting System:Asia/Tokyo
+Mango TV:Asia/Shanghai
 Maori Television:Pacific/Auckland
 Marketplace (UK):Europe/London
 MasterClass:US/Eastern
@@ -2312,6 +2316,7 @@ TV Saitama:Asia/Tokyo
 TV Setouchi (JP):Asia/Tokyo
 TV Shop (UK):Europe/London
 TV São Carlos:America/Buenos_Aires
+TV Thunder:Asia/Bangkok
 TV Tokjo (DE):Europe/Berlin
 TV Tokyo:Asia/Tokyo
 TV Venezuela (US):US/Eastern
@@ -2341,6 +2346,7 @@ TV4 Science Fiction:Europe/Stockholm
 TV4:Europe/Stockholm
 TV4ME (AU):Australia/Sydney
 TV5 (CA):Canada/Eastern
+TV5 (PH):Asia/Manila
 TV5 Monde:Europe/Paris
 TV5:Canada/Eastern
 TV5MONDE Europe (UK):Europe/London
@@ -2712,6 +2718,7 @@ YouTube (UK):Europe/London
 YouTube Premium:US/Eastern
 YouTube Red:US/Eastern
 YouTube:US/Eastern
+Youku:Asia/Shanghai
 YourTV Blackpool & Preston (UK):Europe/London
 YourTV Manchester (UK):Europe/London
 Z LIVING (US):US/Eastern
@@ -2825,6 +2832,7 @@ iQIYI:Asia/Shanghai
 iQiyi:Asia/Shanghai
 iTunes (US):US/Eastern
 iTunes:US/Eastern
+iWantTFC:Asia/Manila
 id discovery:US/Eastern
 inDEMAND:US/Eastern
 ingaylewetrust.com (US):US/Eastern
