@@ -718,6 +718,7 @@ Discovery home & health (AU):Australia/Sydney
 Discovery turbo MAX (AU):Australia/Sydney
 Discovery+ (NO):Europe/Oslo
 Discovery+ (SE):Europe/Stockholm
+Discovery+ (UK):Europe/London
 Discovery+:US/Eastern
 Discovery:US/Eastern
 Dish TV:US/Eastern
