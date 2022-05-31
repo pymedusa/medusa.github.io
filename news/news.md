@@ -1,6 +1,35 @@
 #### Please read the [Wiki/FAQ](https://github.com/pymedusa/Medusa/wiki) before opening an issue ####
 All issues and bug reports must be opened at [GitHub](https://github.com/pymedusa/Medusa/issues)
 
+#### 1.0.0 (31-05-2022) ####
+We're very happy to inform you that after years of development, Medusa has finally reached a version 1.0.0.
+
+Since the day that we started on this project, a lot of features and bug fixes have been added to the project. But we couldn't have reached this milestone without the help of a lot of code contributors, as well as numerous of issue reporters and users who have requested a feature. So I'd like to start with thanking everyone who has helped Medusa develop into the project it is today.
+
+When we started on Medusa one of the first things we decided on, was to replace it then outdated frontend. We decided to add a modern js framework in vue.js, to write our new frontend. Soon we knew that this was going to be an enormous project. But after years of development, we've finally reached a point where we can claim that transition has come to an end.
+
+And that's why we're bumping our version to 1.0.0 today. This doesn't mean we'll stop working on the frontend. As we know, there will always be room for bug fixes, small enhancements or new features.
+
+This release will also go with a number of improvements and bug fixes. For a complete changelog, please check the changelog [here](https://github.com/pymedusa/Medusa/blob/master/CHANGELOG.md).
+
+#### New Features
+- Add option to mass-update the info language ([10516](https://github.com/pymedusa/Medusa/pull/10516))
+
+#### Improvements
+- Multiple UI fixes / enhancements ([10566](https://github.com/pymedusa/Medusa/pull/10566))
+- Add config setting to allow overriding xem url ([10541](https://github.com/pymedusa/Medusa/pull/10541))
+- Increase addic7ed http request timeout ([10565](https://github.com/pymedusa/Medusa/pull/10565))
+- Improve anime title parsing for `Title Season 2 - 01` ([10534](https://github.com/pymedusa/Medusa/pull/10534))
+- Improve detection of commit / branch when run in docker ([10531](https://github.com/pymedusa/Medusa/pull/10531))
+- Improve guessit parsing for shows with numbers in them like `9-1-1` ([10493](https://github.com/pymedusa/Medusa/pull/10493))
+- Bump Knowit + pymediainfo to version 0.4.0 and 5.1.0 ([10564](https://github.com/pymedusa/Medusa/pull/10564))
+
+#### Fixes
+- Fix malformed imdb id's when imdb id not available ([10669](https://github.com/pymedusa/Medusa/pull/10669))
+- Fix shows being searched 2 days early for tvmaze shows ([10668](https://github.com/pymedusa/Medusa/pull/10668))
+- Disable guessit cache for postprocessing ([10532](https://github.com/pymedusa/Medusa/pull/10532))
+- Fix .plexmatch file misread as xml causing warnings ([10510](https://github.com/pymedusa/Medusa/pull/10510))
+
 #### 0.5.18 (14-09-2021) ####
 **Important update notice for docker users**
 
