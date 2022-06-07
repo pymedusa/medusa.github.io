@@ -33,6 +33,7 @@
 4SD (US):US/Eastern
 5 abc (US):US/Eastern
 5* (UK):Europe/London
+5STAR:Europe/London
 5Star:Europe/London
 5USA (UK):Europe/London
 6'eren:Europe/Copenhagen
@@ -96,6 +97,7 @@ ADS (AU):Australia/Sydney
 AHC:US/Eastern
 AIS PLAY:Asia/Bangkok
 AIT International (UK):Europe/London
+ALLBLK:US/Eastern
 ALT Balaji:Asia/Kolkata
 AMAZING FACTS (US):US/Eastern
 AMC Premiere:US/Eastern
@@ -239,6 +241,7 @@ Audience:US/Eastern
 Australian Broadcasting Corporation (ABC):Australia/Sydney
 Australian Broadcasting Corporation:Australia/Sydney
 Australian Christian Channel:Australia/Sydney
+AwesomenessTV:US/Eastern
 B4U Movies:Europe/London
 B4U Music:Europe/London
 B92:Europe/Belgrade
@@ -982,6 +985,7 @@ Fusion (US):US/Eastern
 Fusion:US/Eastern
 G4 Canada:Canada/Eastern
 G4:US/Eastern
+GAC Family:US/Eastern
 GBN (US):US/Eastern
 GEB AMERICA (US):US/Eastern
 GEO News (UK):Europe/London
@@ -1031,6 +1035,7 @@ Glory TV (UK):Europe/London
 Go90:US/Eastern
 God Channel (UK):Europe/London
 God's Learning Channel (US):US/Eastern
+Gold:Europe/London
 Golf Channel:US/Eastern
 Good Food (UK):Europe/London
 Gospel Channel (UK):Europe/London
@@ -1164,6 +1169,7 @@ Indus News:Asia/Karachi
 Indus Vision:Asia/Karachi
 Information TV (UK):Europe/London
 Inmigrante TV (US):US/Eastern
+Insight TV:Europe/Amsterdam
 Inspiration (UK):Europe/London
 Inspiration Network International (US):US/Eastern
 Internet:UTC
@@ -2064,6 +2070,7 @@ Sky Cinema (IT):Europe/Rome
 Sky Cinema (UK):Europe/London
 Sky Cinema:Europe/London
 Sky Comedy:Europe/London
+Sky Crime:Europe/London
 Sky Deutschland:Europe/Berlin
 Sky Documentaries:Europe/London
 Sky Go (DE):Europe/Berlin
@@ -2087,6 +2094,7 @@ Sky Witness:Europe/London
 Sky1:Europe/London
 Sky2:Europe/London
 Sky3:Europe/London
+Sky:Europe/London
 SkyPerfecTV (JP):Asia/Tokyo
 Slash:Europe/Paris
 Sleuth (TV):US/Eastern
