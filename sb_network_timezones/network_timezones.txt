@@ -1753,6 +1753,7 @@ Press TV:Asia/Tehran
 Price Drop (UK):Europe/London
 Prima Family (CZ):Europe/Prague
 Prima televize:Europe/Prague
+Prima:Europe/Prague
 Prime (BE):Europe/Brussels
 Prime (NZ):Pacific/Auckland
 Prime Video:US/Eastern
@@ -2648,6 +2649,7 @@ Volksmusik TV:Europe/Berlin
 Voot:Asia/Kolkata
 VoxAfrica (UK):Europe/London
 Voyage:Europe/Paris
+Voyo:Europe/Prague
 Vrak.TV:Canada/Eastern
 W Movies (CA):Canada/Eastern
 W Network:Canada/Eastern
