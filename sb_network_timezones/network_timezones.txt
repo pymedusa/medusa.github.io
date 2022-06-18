@@ -1026,6 +1026,7 @@ Gems TV (UK):Europe/London
 Gems TV Extra (UK):Europe/London
 Genius Kitchen:US/Eastern
 Geo TV:Asia/Karachi
+Gizmoplex:US/Eastern
 Global TV:Canada/Eastern
 Global:Canada/Eastern
 Globo International (AU):Australia/Sydney
@@ -2591,6 +2592,7 @@ VH1 (UK):Europe/London
 VH1 Classics:US/Eastern
 VH1 Soul (US):US/Eastern
 VH1:US/Eastern
+VICE TV (US):US/Eastern
 VICE:US/Eastern
 VICELAND:US/Eastern
 VIER:Europe/Brussels
