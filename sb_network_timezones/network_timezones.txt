@@ -2582,6 +2582,7 @@ Unknown (RU):Europe/Kaliningrad
 Unknown (SE):Europe/Stockholm
 Unknown (UK):Europe/London
 Unknown (US):US/Eastern
+Urban Movie Channel:US/Eastern
 Ustream:US/Eastern
 V Channel (UK):Europe/London
 V LIVE:Asia/Seoul
