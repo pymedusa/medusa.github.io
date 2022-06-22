@@ -10,6 +10,7 @@
 13e rue:Europe/Paris
 13th Street (NL):Europe/Amsterdam
 13th Street Germany:Europe/Berlin
+13ème rue:Europe/Paris
 2 (NZ):Pacific/Auckland
 20th Century Fox Television:US/Eastern
 24/7 (US):US/Eastern
@@ -2393,6 +2394,7 @@ TVN Style:Europe/Warsaw
 TVN Turbo:Europe/Warsaw
 TVN:Europe/Warsaw
 TVNOW:Europe/Berlin
+TVNZ 1:Pacific/Auckland
 TVNZ 2:Pacific/Auckland
 TVNZ OnDemand:Pacific/Auckland
 TVNZ:Pacific/Auckland
