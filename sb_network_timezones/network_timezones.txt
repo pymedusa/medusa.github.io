@@ -290,6 +290,7 @@ BBC TWO:Europe/London
 BBC Three:Europe/London
 BBC Two:Europe/London
 BBC UKTV (AU):Australia/Sydney
+BBC Wales:Europe/London
 BBC World News:Europe/London
 BBC iPlayer:Europe/London
 BBC one London:Europe/London
