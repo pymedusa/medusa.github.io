@@ -2290,6 +2290,7 @@ TV 2 Charlie:Europe/Copenhagen
 TV 2 Filmkanalen:Europe/Oslo
 TV 2 Fri:Europe/Copenhagen
 TV 2 Nyhetskanalen:Europe/Oslo
+TV 2 Play:Europe/Oslo
 TV 2 Science Fiction:Europe/Oslo
 TV 2 Sport:Europe/Oslo
 TV 2 Sumo:Europe/Oslo
