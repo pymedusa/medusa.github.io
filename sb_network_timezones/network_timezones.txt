@@ -742,6 +742,7 @@ Disney Play:US/Eastern
 Disney Television Animation:US/Eastern
 Disney XD (CA):Canada/Eastern
 Disney XD:US/Eastern
+Disney+ Hotstar:Asia/Kolkata
 Disney+:US/Eastern
 Disney-ABC Domestic Television:US/Eastern
 DisneyLife:US/Eastern
