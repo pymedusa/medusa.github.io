@@ -2774,6 +2774,7 @@ abo (US):US/Eastern
 addikTV:Canada/Eastern
 alibi (UK):Europe/London
 amc (CA):Canada/Eastern
+amc.com:US/Eastern
 aptn (CA):Canada/Eastern
 arte (DE):Europe/Berlin
 aspire TV (AU):Australia/Sydney
