@@ -2215,6 +2215,7 @@ Syndicated (UK):Europe/London
 Syndicated:US/Eastern
 Syndication (CA):Canada/Eastern
 Syndication:US/Eastern
+Séries Plus:Canada/Eastern
 Séries+:Canada/Eastern
 T+E:Canada/Eastern
 TBN (Trinity Broadcasting Network):US/Eastern
