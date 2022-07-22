@@ -1466,6 +1466,7 @@ MusiquePlus:Canada/Eastern
 Mustard TV (UK):Europe/London
 My Channel (UK):Europe/London
 My family tv (US):US/Eastern
+My5:Europe/London
 MyDestination.tv (US):US/Eastern
 MyNetworkTV:US/Eastern
 Mya:Europe/Rome
