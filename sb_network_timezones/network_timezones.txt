@@ -649,6 +649,7 @@ DMAX (UK):Europe/London
 DMAX:Europe/Berlin
 DR K:Europe/Copenhagen
 DR Ramasjang:Europe/Copenhagen
+DR TV:Europe/Copenhagen
 DR1:Europe/Copenhagen
 DR2:Europe/Copenhagen
 DR3:Europe/Copenhagen
