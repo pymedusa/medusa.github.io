@@ -2538,6 +2538,7 @@ UBC TV NETWORK (US):US/Eastern
 UCB TV (UK):Europe/London
 UFC FIGHT PASS (US):US/Eastern
 UFC FIGHT PASS:US/Eastern
+UFC Fight Pass:US/Eastern
 UK Entertainment Channel:Europe/London
 UKTV Drama:Europe/London
 UKTV Food:Europe/London
