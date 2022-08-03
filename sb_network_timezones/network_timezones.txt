@@ -237,6 +237,7 @@ Arte:Europe/Paris
 Associated Broadcasting Company (PH):Asia/Manila
 At the Races (UK):Europe/London
 Atomic Network:US/Eastern
+Atresplayer Premium:Europe/Madrid
 Audience Network:US/Eastern
 Audience:US/Eastern
 Australian Broadcasting Corporation (ABC):Australia/Sydney
@@ -2702,6 +2703,7 @@ Warner Bros.:US/Eastern
 Warner Channel (AR):America/Buenos_Aires
 Warner Channel:US/Eastern
 Warner Home Video:US/Eastern
+Warner TV Serie:Europe/Berlin
 Warner TV:Europe/Paris
 Watch ABC:US/Eastern
 Watch Disney Channel:US/Eastern
