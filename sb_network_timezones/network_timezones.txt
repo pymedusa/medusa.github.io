@@ -1629,6 +1629,7 @@ Nou 24:Europe/Madrid
 Nou Televisió:Europe/Madrid
 Nova TV (HR):Europe/Zagreb
 NovaTV:Europe/Sofia
+Now:Europe/London
 OCN:Canada/Eastern
 OCS City:Europe/Paris
 OCS Max:Europe/Paris
