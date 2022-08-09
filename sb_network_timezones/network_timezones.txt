@@ -911,6 +911,7 @@ FX MOVIE CHANNEL (US):US/Eastern
 FX Network:US/Eastern
 FX:US/Eastern
 FXX:US/Eastern
+FYI Asia:Asia/Singapore
 FYI Network:US/Eastern
 FYI:US/Eastern
 Facebook Watch:US/Pacific
@@ -2645,6 +2646,7 @@ VidAngel (USA):US/Eastern
 Videoland (NL):Europe/Amsterdam
 Videoland Television Network:Asia/Taipei
 Videoland:Europe/Amsterdam
+Vidi Space:US/Eastern
 VijfTV:Europe/Brussels
 Viki:US/Eastern
 Vimeo:US/Eastern
