@@ -2204,6 +2204,7 @@ Super RTL (DE):Europe/Berlin
 Super RTL:Europe/Berlin
 Super Écran:Canada/Eastern
 Super!:Europe/Rome
+Superstar TV:Europe/Belgrade
 Superstation WGN:US/Eastern
 Sveriges Television:Europe/Stockholm
 Swarnawahini:Asia/Colombo
