@@ -1661,6 +1661,7 @@ Omroep Brabant:Europe/Amsterdam
 Omroep MAX:Europe/Amsterdam
 Omrop Fryslân (NL):Europe/Amsterdam
 OnStyle:Asia/Seoul
+One 31:Asia/Bangkok
 One America NEWS NETWORK (US):US/Eastern
 One World Sport (US):US/Eastern
 Online - www.cad-series.com:US/Eastern
@@ -2671,6 +2672,7 @@ Voyo:Europe/Prague
 Vrak.TV:Canada/Eastern
 W Movies (CA):Canada/Eastern
 W Network:Canada/Eastern
+W-STORY:Asia/Seoul
 W9:Europe/Paris
 W:Australia/Sydney
 WAPA-TV (US):US/Eastern
