@@ -774,6 +774,7 @@ EBS:Asia/Seoul
 EBU (EU):CET
 ECC TV (RU):Europe/Kaliningrad
 EICB (US):US/Eastern
+ENA:Asia/Seoul
 EO:Europe/Amsterdam
 EPIX.com:US/Eastern
 EPIX:US/Eastern
