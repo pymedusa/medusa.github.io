@@ -70,6 +70,7 @@ ABC Me:Australia/Sydney
 ABC News 24:Australia/Sydney
 ABC Spark:Canada/Eastern
 ABC TV Plus:Australia/Sydney
+ABC TV:Australia/Sydney
 ABC Television Network:US/Eastern
 ABC iView:Australia/Sydney
 ABC iview:Australia/Sydney
