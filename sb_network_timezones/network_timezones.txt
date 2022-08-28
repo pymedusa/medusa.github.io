@@ -70,6 +70,7 @@ ABC Me:Australia/Sydney
 ABC News 24:Australia/Sydney
 ABC Spark:Canada/Eastern
 ABC TV Plus:Australia/Sydney
+ABC TV:Australia/Sydney
 ABC Television Network:US/Eastern
 ABC iView:Australia/Sydney
 ABC iview:Australia/Sydney
@@ -2672,6 +2673,7 @@ VoxAfrica (UK):Europe/London
 Voyage:Europe/Paris
 Voyo:Europe/Prague
 Vrak.TV:Canada/Eastern
+Vudu:US/Eastern
 W Movies (CA):Canada/Eastern
 W Network:Canada/Eastern
 W-STORY:Asia/Seoul
@@ -2988,6 +2990,7 @@ tvK (US):US/Eastern
 tvN:Asia/Seoul
 tvb8 (US):US/Eastern
 tvk:Asia/Tokyo
+tvokids:Canada/Eastern
 téva:Europe/Paris
 unIMÁS East (US):US/Eastern
 univision DEPORTES NETWORK (US):US/Eastern
