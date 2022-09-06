@@ -2746,6 +2746,7 @@ Yle:Europe/Helsinki
 Yomiuri TV (JP):Asia/Tokyo
 Yomiuri TV:Asia/Tokyo
 Yomiuri Telecasting Corporation:Asia/Tokyo
+Yomiuri Television:Asia/Tokyo
 Yorin (NL):Europe/Amsterdam
 York Channel (UK):Europe/London
 Yorkshire Coast TV (UK):Europe/London
