@@ -900,6 +900,7 @@ FOX Türkiye (TR):Europe/Istanbul
 FOX Türkiye:Europe/Istanbul
 FOX+:US/Eastern
 FOX:US/Eastern
+FOXTEL Now:Australia/Sydney
 FRANCE24 (US):US/Eastern
 FSN:US/Eastern
 FSTV (US):US/Eastern
