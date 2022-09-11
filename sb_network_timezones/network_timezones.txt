@@ -900,6 +900,7 @@ FOX Türkiye (TR):Europe/Istanbul
 FOX Türkiye:Europe/Istanbul
 FOX+:US/Eastern
 FOX:US/Eastern
+FOXTEL Now:Australia/Sydney
 FRANCE24 (US):US/Eastern
 FSN:US/Eastern
 FSTV (US):US/Eastern
@@ -1729,6 +1730,7 @@ Peace TV Urdu (UK):Europe/London
 Peace tv (US):US/Eastern
 Peachtree TV (US):US/Eastern
 Peacock:US/Eastern
+Pervyy kanal:Europe/Moscow
 Pets.tv (US):US/Eastern
 Phoenix TV:Asia/Shanghai
 Phoenix XNE (UK):Europe/London
