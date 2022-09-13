@@ -229,6 +229,7 @@ Apostolic Oneness Network (US):US/Eastern
 Apple Music:US/Eastern
 Apple TV+:US/Eastern
 Arabic Channel (US):US/Eastern
+Aragón Televisión:Europe/Madrid
 Arena:Australia/Sydney
 Argos TV (UK):Europe/London
 Arizona Capitol Television (US):US/Eastern
@@ -1459,6 +1460,7 @@ Movie Extra (AU):Australia/Sydney
 Movies 24 (UK):Europe/London
 Movies4Men (UK):Europe/London
 Movistar Series (España):Europe/Madrid
+Movistar TV:America/Santiago
 Movistar+:Europe/Madrid
 Much (CA):Canada/Eastern
 Much TV:Asia/Taipei
@@ -1523,6 +1525,7 @@ NFL Sunday Ticket (US):US/Eastern
 NFL Sunday Ticket Redzone (US):US/Eastern
 NHK Animax:Asia/Tokyo
 NHK BS Premium:Asia/Tokyo
+NHK BS1:Asia/Tokyo
 NHK BS2:Asia/Tokyo
 NHK Educational TV:Asia/Tokyo
 NHK G:Asia/Tokyo
@@ -1753,6 +1756,7 @@ Play6:Europe/Brussels
 Play7:Europe/Brussels
 PlayJam:Europe/London
 PlayStation Network:US/Eastern
+PlayZ:Europe/Madrid
 Playboy TV:US/Eastern
 Playhouse Disney:US/Eastern
 Playstation:US/Eastern
@@ -1802,6 +1806,7 @@ RAI 1:Europe/Rome
 RAI:Europe/Rome
 RBB:Europe/Berlin
 RCN TV:America/Bogota
+RCN:America/Bogota
 RCTI:Asia/Jakarta
 RCTV:America/Caracas
 RDI:Canada/Eastern
@@ -1997,6 +2002,7 @@ STAR Sports Southeast Asia:Asia/Hong_Kong
 STAR Sports Taiwan:Asia/Taipei
 STAR Vijay:Asia/Kolkata
 STARZ:US/Eastern
+STB:Europe/Kiev
 STQ (AU):Australia/Sydney
 STUDIO (AU):Australia/Sydney
 STV (AU):Australia/Sydney
