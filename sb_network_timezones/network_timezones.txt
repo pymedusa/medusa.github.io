@@ -1878,6 +1878,7 @@ RTV West (NL):Europe/Amsterdam
 RTVE/TV Asahi:Asia/Tokyo
 RTVE:Europe/Madrid
 RTVS:Europe/Bratislava
+RTVSLO:Europe/Ljubljana
 RTÉ NEWS NOW (IE):Europe/Dublin
 RTÉ ONE:Europe/Dublin
 RTÉ One:Europe/Dublin
@@ -2585,6 +2586,7 @@ Universal Cable Productions:US/Eastern
 Universal Channel:America/Sao_Paulo
 Universal Christian (US):US/Eastern
 Universal Kids:US/Eastern
+Universal Pictures Home Entertainment:US/Eastern
 Universal Television:US/Eastern
 University of California Television (US):US/Eastern
 University of Washington Television (US):US/Eastern
