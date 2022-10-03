@@ -1,7 +1,7 @@
-Network Timezones for Sickbeard
+Network Timezones for Medusa
 ====================
 
-This holds all the timezone autoupdade info for Sickbeard. Sickbeard uses this data to display the Coming Episodes in the local timezone.
+This holds all the timezone autoupdade info for Medusa. Medusa uses this data to display the Coming Episodes in the local timezone.
 
 ----------
 

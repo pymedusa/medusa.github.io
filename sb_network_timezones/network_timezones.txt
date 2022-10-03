@@ -1365,6 +1365,7 @@ MDV (AU):Australia/Sydney
 MEGA:America/Santiago
 MGM (UK):Europe/London
 MGM HD (US):US/Eastern
+MGM+:US/Eastern
 MGS (AU):Australia/Sydney
 MHz Worldview (US):US/Eastern
 MILITARY HISTORY (US):US/Eastern
