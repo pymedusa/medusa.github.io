@@ -2095,6 +2095,7 @@ Sky Cinema (IT):Europe/Rome
 Sky Cinema (UK):Europe/London
 Sky Cinema:Europe/London
 Sky Comedy:Europe/London
+Sky Crime (UK):Europe/London
 Sky Crime:Europe/London
 Sky Deutschland:Europe/Berlin
 Sky Documentaries:Europe/London
