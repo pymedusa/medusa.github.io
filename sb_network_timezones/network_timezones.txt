@@ -334,6 +334,7 @@ BT Sport 2 (UK):Europe/London
 BTQ (AU):Australia/Sydney
 BTV:Asia/Shanghai
 BYU Television:US/Eastern
+BYUtv:US/Eastern
 BabyFirstTV:US/Eastern
 BabyTV (UK):Europe/London
 Babytv (US):US/Eastern
