@@ -1239,6 +1239,7 @@ KTV (JP):Asia/Tokyo
 KTV:Africa/Nairobi
 KYW-TV (US):US/Eastern
 Kabel1 (DE):Europe/Berlin
+KakaoTV:Asia/Seoul
 Kampüs TV:Europe/Istanbul
 Kan 11:Asia/Jerusalem
 Kanaal 2:Europe/Brussels
