@@ -455,6 +455,7 @@ CNC World (UK):Europe/London
 CNL Russian (US):US/Eastern
 CNN (UK):Europe/London
 CNN en Español (US):US/Eastern
+CNN+:US/Eastern
 CNN:US/Eastern
 CNNI:US/Eastern
 COMCAST Sports Net Chicago (US):US/Eastern
@@ -1761,6 +1762,7 @@ PlayJam:Europe/London
 PlayStation Network:US/Eastern
 PlayZ:Europe/Madrid
 Playboy TV:US/Eastern
+Player:Europe/Warsaw
 Playhouse Disney:US/Eastern
 Playstation:US/Eastern
 Playz:Europe/Madrid
@@ -2431,6 +2433,7 @@ TVO:Canada/Eastern
 TVOne Global:Asia/Karachi
 TVOntario:Canada/Eastern
 TVP SA:Europe/Warsaw
+TVP VOD:Europe/Warsaw
 TVP1:Europe/Warsaw
 TVP2:Europe/Warsaw
 TVP:Europe/Warsaw
