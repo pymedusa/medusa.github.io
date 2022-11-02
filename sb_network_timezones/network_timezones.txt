@@ -1580,6 +1580,7 @@ Nagoya Broadcasting Network:Asia/Tokyo
 Nat Geo Wild:US/Eastern
 National Broadcasting Company (NBC):US/Eastern
 National Geographic (AU):Australia/Sydney
+National Geographic (AU/NZ):Australia/Sydney
 National Geographic (FI):Europe/Helsinki
 National Geographic (NO):Europe/Oslo
 National Geographic (UK):Europe/London
