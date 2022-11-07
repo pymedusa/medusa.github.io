@@ -458,6 +458,7 @@ CNN en Español (US):US/Eastern
 CNN+:US/Eastern
 CNN:US/Eastern
 CNNI:US/Eastern
+CNews:Europe/Paris
 COMCAST Sports Net Chicago (US):US/Eastern
 COMCAST Sports Net New England (US):US/Eastern
 COMEDY CENTRAL (UK):Europe/London
@@ -904,6 +905,7 @@ FOX Türkiye:Europe/Istanbul
 FOX+:US/Eastern
 FOX:US/Eastern
 FOXTEL Now:Australia/Sydney
+FR3:Europe/Paris
 FRANCE24 (US):US/Eastern
 FSN:US/Eastern
 FSTV (US):US/Eastern
@@ -983,6 +985,7 @@ France 3:Europe/Paris
 France 4:Europe/Paris
 France 5:Europe/Paris
 France TV Slash:Europe/Paris
+France Télévisions:Europe/Paris
 France tv slash:Europe/Paris
 France Ô:Europe/Paris
 Fred TV:US/Eastern
@@ -1114,6 +1117,7 @@ Het Gesprek (NL):Europe/Amsterdam
 Hidayat TV (UK):Europe/London
 High Street TV (UK):Europe/London
 Hikari TV:Asia/Tokyo
+Histoire:Europe/Paris
 Historia (CA):Canada/Eastern
 Historia (ES):Europe/Madrid
 Historia:Canada/Eastern
@@ -1279,6 +1283,7 @@ L!VETV (UK):Europe/London
 L1 (NL):Europe/Amsterdam
 LATV (US):US/Eastern
 LCI:Europe/Paris
+LCP:Europe/Paris
 LFC TV (UK):Europe/London
 LFN (US):US/Eastern
 LINE TV (TH):Asia/Bangkok
@@ -1806,6 +1811,7 @@ QVC Beauty (UK):Europe/London
 QVC Extra (UK):Europe/London
 QVC Style (UK):Europe/London
 QVC:US/Eastern
+Quenel+:Europe/Paris
 Quest Red:Europe/London
 Quest:Europe/London
 Quibi:US/Pacific
@@ -1826,6 +1832,7 @@ RIPE TV (US):US/Eastern
 RKK (NL):Europe/Amsterdam
 RLTV:US/Eastern
 RMC Découverte:Europe/Paris
+RMC Story:Europe/Paris
 ROCKS TV (US):US/Eastern
 ROGERS TV (CA):Canada/Eastern
 ROOT SPORTS NORTHWEST (US):US/Eastern
