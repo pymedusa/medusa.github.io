@@ -1140,6 +1140,7 @@ Horse & Country TV (UK):Europe/London
 Hotstar:Asia/Kolkata
 Howard TV (US):US/Eastern
 Hrvatska radiotelevizija:Europe/Zagreb
+Hrvatska radiotelevizija (HRT):Europe/Zagreb
 Hub Network:US/Eastern
 Hulu Japan:Asia/Tokyo
 Hulu:US/Eastern
