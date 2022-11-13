@@ -214,6 +214,7 @@ American Movie Classics (AMC):US/Eastern
 América TV:America/Buenos_Aires
 Angel One (US):US/Eastern
 Angel Two (US):US/Eastern
+Angel.com:US/Eastern
 Anhui TV:Asia/Shanghai
 Animal Planet (AU):Australia/Sydney
 Animal Planet:US/Eastern
@@ -1671,6 +1672,7 @@ OWN (CA):Canada/Eastern
 OWN:US/Eastern
 Oasis HD:Canada/Eastern
 Oireachtas TV (IE):Europe/Dublin
+Okko:Europe/Moscow
 Olive TV (UK):Europe/London
 Olive:Asia/Seoul
 Omni:Canada/Eastern
@@ -1780,6 +1782,7 @@ Pop:US/Eastern
 PowNed:Europe/Amsterdam
 Praise TV (UK):Europe/London
 Premier Sports (UK):Europe/London
+Premier:Europe/Moscow
 Premiere (DE):Europe/Berlin
 Press TV:Asia/Tehran
 Price Drop (UK):Europe/London
@@ -2197,6 +2200,7 @@ Star World (SG):Asia/Singapore
 Star World:Asia/Hong_Kong
 Star+:America/Sao_Paulo
 Stargate Command:US/Eastern
+Start:Europe/Moscow
 Starz Play:Asia/Dubai
 Starz TV (UK):Europe/London
 Starz!:US/Eastern
@@ -2750,6 +2754,7 @@ WealthTV:US/Eastern
 Weather Network (CA):Canada/Eastern
 WeatherNation (US):US/Eastern
 West Digital Television (AU):Australia/Sydney
+Wink:Europe/Moscow
 Word Network (UK):Europe/London
 Worship (US):US/Eastern
 XY TV:US/Eastern
