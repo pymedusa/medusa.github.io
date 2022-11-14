@@ -267,6 +267,7 @@ BBC HD:Europe/London
 BBC Kids:Canada/Eastern
 BBC Knowledge (AU):Australia/Sydney
 BBC News:Europe/London
+BBC Northern Ireland:Europe/London
 BBC ONE:Europe/London
 BBC One East Midlands:Europe/London
 BBC One East:Europe/London
@@ -1139,8 +1140,8 @@ Horror Channel (UK):Europe/London
 Horse & Country TV (UK):Europe/London
 Hotstar:Asia/Kolkata
 Howard TV (US):US/Eastern
-Hrvatska radiotelevizija:Europe/Zagreb
 Hrvatska radiotelevizija (HRT):Europe/Zagreb
+Hrvatska radiotelevizija:Europe/Zagreb
 Hub Network:US/Eastern
 Hulu Japan:Asia/Tokyo
 Hulu:US/Eastern
