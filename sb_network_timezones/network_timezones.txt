@@ -2521,6 +2521,7 @@ The Den:Europe/Dublin
 The Family Channel:US/Eastern
 The History Channel:US/Eastern
 The Hub:US/Eastern
+The Mediapro Studio:Europe/Madrid
 The Movie Network:Canada/Eastern
 The N:Australia/Sydney
 The Roku Channel:US/Eastern
@@ -2753,6 +2754,7 @@ Warner TV:Europe/Paris
 Watch ABC:US/Eastern
 Watch Disney Channel:US/Eastern
 Watch:Europe/London
+Watcha:Asia/Seoul
 We tv:US/Eastern
 WealthTV:US/Eastern
 Weather Network (CA):Canada/Eastern
