@@ -2755,6 +2755,7 @@ Watch ABC:US/Eastern
 Watch Disney Channel:US/Eastern
 Watch:Europe/London
 Watcha:Asia/Seoul
+Wavve:Asia/Seoul
 We tv:US/Eastern
 WealthTV:US/Eastern
 Weather Network (CA):Canada/Eastern
