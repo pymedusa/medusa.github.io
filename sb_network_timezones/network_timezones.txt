@@ -1780,6 +1780,7 @@ Playhouse Disney:US/Eastern
 Playstation:US/Eastern
 Playz:Europe/Madrid
 Plug RTL:Europe/Brussels
+Polsat Box Go:Europe/Warsaw
 Polsat:Europe/Warsaw
 Pop Girl (UK):Europe/London
 Pop:US/Eastern
