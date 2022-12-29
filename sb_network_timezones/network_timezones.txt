@@ -257,6 +257,7 @@ BBC Alba:Europe/London
 BBC America:US/Eastern
 BBC Canada:Canada/Eastern
 BBC Channel 4:Europe/London
+BBC Cymru Wales:Europe/London
 BBC Drama Productions:Europe/London
 BBC FOUR:Europe/London
 BBC Films:Europe/London
@@ -1780,6 +1781,7 @@ Playhouse Disney:US/Eastern
 Playstation:US/Eastern
 Playz:Europe/Madrid
 Plug RTL:Europe/Brussels
+Polsat Box Go:Europe/Warsaw
 Polsat:Europe/Warsaw
 Pop Girl (UK):Europe/London
 Pop:US/Eastern
