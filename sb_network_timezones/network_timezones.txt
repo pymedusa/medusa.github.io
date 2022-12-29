@@ -257,6 +257,7 @@ BBC Alba:Europe/London
 BBC America:US/Eastern
 BBC Canada:Canada/Eastern
 BBC Channel 4:Europe/London
+BBC Cymru Wales:Europe/London
 BBC Drama Productions:Europe/London
 BBC FOUR:Europe/London
 BBC Films:Europe/London
