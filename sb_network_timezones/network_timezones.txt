@@ -156,6 +156,7 @@ AXN (JP):Asia/Tokyo
 AXN (PL):Europe/Warsaw
 AXN (SG):Asia/Singapore
 AXN España:Europe/Madrid
+AXN Polska:Europe/Warsaw
 AXN:US/Eastern
 AXS TV:US/Eastern
 AXStv (US):US/Eastern
@@ -348,6 +349,7 @@ Barcelona TV (ES):Europe/Madrid
 Bay TV Clywd (UK):Europe/London
 Bay TV Liverpool (UK):Europe/London
 Bay TV Swansea (UK):Europe/London
+Beachbody:US/Eastern
 Bebo.com (US):US/Eastern
 Belgische Radio en Televisie (BRTN):Europe/Brussels
 Believe TV (UK):Europe/London
