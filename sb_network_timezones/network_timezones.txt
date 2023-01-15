@@ -1650,6 +1650,7 @@ Nolife:Europe/Paris
 Nollywood Movies (UK):Europe/London
 Noor TV (UK):Europe/London
 Norddeutscher Rundfunk (NDR):Europe/Berlin
+Norsk Rikskringkasting (NRK):Europe/Oslo
 Northern Television (CA):Canada/Eastern
 Notts TV (UK):Europe/London
 Nou 24:Europe/Madrid
