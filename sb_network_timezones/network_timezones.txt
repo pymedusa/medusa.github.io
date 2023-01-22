@@ -1232,6 +1232,7 @@ KBS TV1:Asia/Seoul
 KBS TV2:Asia/Seoul
 KBS World:Asia/Seoul
 KBS:Asia/Seoul
+KBS 2:Asia/Seoul
 KCET:US/Eastern
 KICC TV (UK):Europe/London
 KIKA:Europe/Berlin
