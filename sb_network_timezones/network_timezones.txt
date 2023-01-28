@@ -1227,12 +1227,12 @@ Jupiter Broadcasting :US/Eastern
 Jupiter Broadcasting:US/Eastern
 KABC-TV Los Angeles (US):US/Eastern
 KARE 11 (US):US/Eastern
+KBS 2:Asia/Seoul
 KBS Kyoto:Asia/Seoul
 KBS TV1:Asia/Seoul
 KBS TV2:Asia/Seoul
 KBS World:Asia/Seoul
 KBS:Asia/Seoul
-KBS 2:Asia/Seoul
 KCET:US/Eastern
 KICC TV (UK):Europe/London
 KIKA:Europe/Berlin
@@ -1922,6 +1922,7 @@ Rai 2:Europe/Rome
 Rai 3:Europe/Rome
 Rai Gulp:Europe/Rome
 RaiPlay:Europe/Rome
+Rakuten TV:Asia/Tokyo
 Real Hip-Hop Network (US):US/Eastern
 Real Time:Europe/Rome
 Really:Europe/London
