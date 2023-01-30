@@ -626,6 +626,7 @@ Cosmote TV:Europe/Athens
 Cottage Life (CA):Canada/Eastern
 Country Music Television (CMT):US/Eastern
 Country Music Television (US):US/Eastern
+Coupang Play:Asia/Seoul
 Court TV:US/Eastern
 Cozi TV (US):US/Eastern
 Crackle:US/Eastern
