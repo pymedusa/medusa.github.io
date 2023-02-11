@@ -2677,6 +2677,7 @@ Varsity TV:US/Eastern
 Vault (UK):Europe/London
 Velocity:US/Eastern
 Venevision:America/Caracas
+Venevisión:America/Caracas
 Venus TV (UK):Europe/London
 Veronica:Europe/Amsterdam
 Vertigo:US/Eastern
