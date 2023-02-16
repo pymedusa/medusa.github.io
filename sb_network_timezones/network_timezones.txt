@@ -2442,6 +2442,7 @@ TVE:Europe/Madrid
 TVG Network:US/Eastern
 TVGN:US/Eastern
 TVI:Europe/Lisbon
+TVING:Asia/Seoul
 TVK:Asia/Tokyo
 TVM:Europe/Malta
 TVN (AU):Australia/Sydney
