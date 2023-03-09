@@ -104,6 +104,7 @@ ALT Balaji:Asia/Kolkata
 AMAZING FACTS (US):US/Eastern
 AMC Premiere:US/Eastern
 AMC+:US/Eastern
+AMC.com:US/Eastern
 AMC:US/Eastern
 AMERICAN HEROES CHANNEL (US):US/Eastern
 AMGTV (US):US/Eastern
