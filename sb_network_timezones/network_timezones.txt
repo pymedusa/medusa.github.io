@@ -2944,6 +2944,7 @@ itvBe (UK):Europe/London
 ivfilms.net (US):US/Eastern
 jTBC:Asia/Seoul
 jewelrytelevision (US):US/Eastern
+joyn:Europe/Berlin
 jts.tv (US):US/Eastern
 laSexta:Europe/Madrid
 lifetime real women (US):US/Eastern
