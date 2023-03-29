@@ -1559,6 +1559,7 @@ NHK:Asia/Tokyo
 NHL Center Ice (US):US/Eastern
 NHL NETWORK (US):US/Eastern
 NHNZ:Pacific/Auckland
+Nihon TV:Asia/Tokyo
 NIPPON TV:Asia/Tokyo
 NITV (AU):Australia/Sydney
 NJPW World:Asia/Tokyo
@@ -1879,6 +1880,7 @@ RTL TVI:Europe/Brussels
 RTL Television:Europe/Berlin
 RTL Televizija:Europe/Zagreb
 RTL Télé:Europe/Luxembourg
+RTL Zwei:Europe/Berlin
 RTL+:Europe/Berlin
 RTL4:Europe/Amsterdam
 RTL5:Europe/Amsterdam
