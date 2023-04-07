@@ -1559,7 +1559,6 @@ NHK:Asia/Tokyo
 NHL Center Ice (US):US/Eastern
 NHL NETWORK (US):US/Eastern
 NHNZ:Pacific/Auckland
-Nihon TV:Asia/Tokyo
 NIPPON TV:Asia/Tokyo
 NITV (AU):Australia/Sydney
 NJPW World:Asia/Tokyo
@@ -1642,6 +1641,7 @@ Nickelodeon:US/Eastern
 Nicktoons Network:US/Eastern
 Nicktoons:US/Eastern
 Niconico:Asia/Tokyo
+Nihon TV:Asia/Tokyo
 Nine Network Australia:Australia/Sydney
 Nine Network:Australia/Sydney
 Nippon Housou Kyoukai:Asia/Tokyo
@@ -2553,6 +2553,7 @@ Time Warner Cable News Central New York (US):US/Eastern
 Time Warner Cable News North Carolina (US):US/Eastern
 Time Warner Cable News Rochester (US):US/Eastern
 Tiny Pop (UK):Europe/London
+Tipik:Europe/Brussels
 Toei Channel:Asia/Tokyo
 Tokai TV (JP):Asia/Tokyo
 Tokyo Broadcasting System Television:Asia/Tokyo
