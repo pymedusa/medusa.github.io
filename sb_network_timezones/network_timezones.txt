@@ -2262,6 +2262,7 @@ SyFy.com (US):US/Eastern
 SyFy:Europe/Berlin
 Syfy (AU):Australia/Sydney
 Syfy (UK):Europe/London
+Syfy.com:US/Eastern
 Syfy:US/Eastern
 Syndicated (AU):Australia/Sydney
 Syndicated (JP):Asia/Tokyo
