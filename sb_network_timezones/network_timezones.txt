@@ -1454,6 +1454,7 @@ Marketplace (UK):Europe/London
 MasterClass:US/Eastern
 MavTV:US/Eastern
 Max (AU):Australia/Sydney
+Max:US/Eastern
 Maxdome:Europe/Berlin
 MeTV (US):US/Eastern
 Mega Channel:Europe/Athens
@@ -2458,6 +2459,7 @@ TVNOW:Europe/Berlin
 TVNZ 1:Pacific/Auckland
 TVNZ 2:Pacific/Auckland
 TVNZ OnDemand:Pacific/Auckland
+TVNZ+:Pacific/Auckland
 TVNZ:Pacific/Auckland
 TVNorge:Europe/Oslo
 TVO:Canada/Eastern
