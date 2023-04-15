@@ -1801,6 +1801,7 @@ Press TV:Asia/Tehran
 Price Drop (UK):Europe/London
 Prima Family (CZ):Europe/Prague
 Prima televize:Europe/Prague
+Prima+:Europe/Prague
 Prima:Europe/Prague
 Prime (BE):Europe/Brussels
 Prime (NZ):Pacific/Auckland
