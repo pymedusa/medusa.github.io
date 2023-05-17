@@ -1916,6 +1916,7 @@ RTÉ NEWS NOW (IE):Europe/Dublin
 RTÉ ONE:Europe/Dublin
 RTÉ One:Europe/Dublin
 RTÉ Two:Europe/Dublin
+RTÉ:Europe/Dublin
 RTÉjr:Europe/Dublin
 RURAL TV (US):US/Eastern
 RVU:Europe/Amsterdam
@@ -2304,6 +2305,7 @@ TIME WARNER CABLE SPORTS CHANNEL (US):US/Eastern
 TITV:Asia/Taipei
 TLC (AU):Australia/Sydney
 TLC (UK):Europe/London
+TLC Go:US/Eastern
 TLC:US/Eastern
 TLCgo:US/Eastern
 TMC:Europe/Monaco
