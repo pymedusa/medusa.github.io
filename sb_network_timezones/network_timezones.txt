@@ -1122,6 +1122,7 @@ Headline News (US):US/Eastern
 Healthy Living Network (US):US/Eastern
 Heart TV (UK):Europe/London
 Het Gesprek (NL):Europe/Amsterdam
+HiT Entertainment:Europe/London
 Hidayat TV (UK):Europe/London
 High Street TV (UK):Europe/London
 Hikari TV:Asia/Tokyo
