@@ -2191,6 +2191,7 @@ Southern Cross Ten (AU):Australia/Sydney
 Space (Latin America):America/Buenos_Aires
 Space:Canada/Eastern
 Spectrum On Demand:US/Eastern
+Spectrum Originals:US/Eastern
 Spectrum:US/Eastern
 Speed:US/Eastern
 Spektrum:Europe/Budapest
