@@ -953,6 +953,7 @@ Flooxer:Europe/Madrid
 Flow TV (US):US/Eastern
 Food Network (UK):Europe/London
 Food Network Canada:Canada/Eastern
+Food Network Kitchen:US/Eastern
 Food Network:US/Eastern
 Fox (BZ):America/Belize
 Fox (CR):America/Costa_Rica
