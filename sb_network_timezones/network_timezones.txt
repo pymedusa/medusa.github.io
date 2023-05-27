@@ -535,7 +535,7 @@ Cartoon Hangover:US/Pacific
 Cartoon Network (CA):Canada/Eastern
 Cartoon Network Australia:Australia/Sydney
 Cartoon Network Everything:US/Eastern
-Cartoon Network Latin America:America/Monterrey
+Cartoon Network Latin America:America/Mexico_City
 Cartoon Network:US/Eastern
 Cartoonito:Europe/London
 Casa:Canada/Eastern
@@ -1597,6 +1597,7 @@ NY1 (US):US/Eastern
 NYCTV life (US):US/Eastern
 Nagoya Broadcasting Network (JP):Asia/Tokyo
 Nagoya Broadcasting Network:Asia/Tokyo
+Nat Geo TV:US/Eastern
 Nat Geo Wild:US/Eastern
 National Broadcasting Company (NBC):US/Eastern
 National Geographic (AU):Australia/Sydney
