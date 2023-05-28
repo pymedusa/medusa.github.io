@@ -381,6 +381,7 @@ Bravo (CA):Canada/Eastern
 Bravo (NZ):Pacific/Auckland
 Bravo (UK):Europe/London
 Bravo (US):US/Eastern
+Bravo Cable:US/Eastern
 Bravo!:Canada/Eastern
 Bravo:US/Eastern
 Brit Asia TV (UK):Europe/London
@@ -2631,6 +2632,7 @@ UTV (UK):Europe/London
 UTV:Europe/Dublin
 Ummah Channel (UK):Europe/London
 Unis TV:Canada/Eastern
+United Paramount Network (UPN):US/Eastern
 Universal Cable Productions:US/Eastern
 Universal Channel:America/Sao_Paulo
 Universal Christian (US):US/Eastern
