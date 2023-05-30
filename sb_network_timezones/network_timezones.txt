@@ -1572,6 +1572,7 @@ NOVA:Europe/Sofia
 NPO 1:Europe/Amsterdam
 NPO 2:Europe/Amsterdam
 NPO 3:Europe/Amsterdam
+NPO Start Plus:Europe/Amsterdam
 NPS (NL):Europe/Amsterdam
 NRB (US):US/Eastern
 NRJ 12:Europe/Paris
@@ -1720,6 +1721,7 @@ PBJ (US):US/Eastern
 PBS AMERICA (UK):Europe/London
 PBS Kids Sprout:US/Eastern
 PBS Kids:US/Eastern
+PBS Passport:US/Eastern
 PBS:US/Eastern
 PCNC (US):US/Eastern
 PIX 11 (US):US/Eastern
