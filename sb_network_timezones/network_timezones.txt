@@ -1968,6 +1968,7 @@ Rooster Teeth:US/Eastern
 Royal News:Asia/Karachi
 Russia Today:Europe/Kaliningrad
 Russia-1:Europe/Moscow
+Rutube:Europe/Moscow
 RÚV:Europe/London
 Ríkisútvarpið (IS):Atlantic/Reykjavik
 Ríkisútvarpið:Atlantic/Reykjavik
@@ -3099,6 +3100,7 @@ youtoo SOCIAL TV (US):US/Eastern
 Россия К:Europe/Kaliningrad
 СТС:Europe/Kaliningrad
 ТВ Центр:Europe/Kaliningrad
+ТВ-3:Europe/Moscow
 ТВ3:Europe/Kaliningrad
 ТВ6 (RU):Europe/Kaliningrad
 ТВС:Europe/Kaliningrad
