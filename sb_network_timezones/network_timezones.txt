@@ -3100,7 +3100,7 @@ youtoo SOCIAL TV (US):US/Eastern
 Россия К:Europe/Kaliningrad
 СТС:Europe/Kaliningrad
 ТВ Центр:Europe/Kaliningrad
-ТВ-3:Europe/Moscow
+ТВ-3:Europe/Kaliningrad
 ТВ3:Europe/Kaliningrad
 ТВ6 (RU):Europe/Kaliningrad
 ТВС:Europe/Kaliningrad
