@@ -376,6 +376,7 @@ Boomerang (DE):Europe/Berlin
 Boomerang (UK):Europe/London
 Boomerang:US/Eastern
 Bounce TV:US/Eastern
+Bounce:US/Eastern
 BoxNation (UK):Europe/London
 Bravo (CA):Canada/Eastern
 Bravo (NZ):Pacific/Auckland
@@ -872,6 +873,7 @@ FOX 11 (US):US/Eastern
 FOX 31 DENVER (US):US/Eastern
 FOX 32 (US):US/Eastern
 FOX 5 (US):US/Eastern
+FOX Arena:US/Eastern
 FOX CLASSICS (AU):Australia/Sydney
 FOX COLLEGE SPORTS ATLANTIC (US):US/Eastern
 FOX COLLEGE SPORTS CENTRAL (US):US/Central
@@ -1424,6 +1426,7 @@ MTV HITS (UK):Europe/London
 MTV Hits:US/Eastern
 MTV Italia:Europe/Rome
 MTV Jams (US):US/Eastern
+MTV Latin America:America/Mexico_City
 MTV LIVE (UK):Europe/London
 MTV MUSIC (AU):Australia/Sydney
 MTV MUSIC (UK):Europe/London
@@ -1871,6 +1874,7 @@ RSC (US):US/Eastern
 RT (UK):Europe/London
 RT America (US):US/Eastern
 RT:Europe/Kaliningrad
+RTBF Auvio:Europe/Brussels
 RTBF Webcréation:Europe/Brussels
 RTBF:Europe/Brussels
 RTE:Europe/Dublin
@@ -2894,6 +2898,7 @@ comcast SPORTSNET PHILADELPHIA (US):US/Eastern
 comedy channel (AU):Australia/Sydney
 comedy:Canada/Eastern
 create (US):US/Eastern
+Create:US/Eastern
 crime & investigation network (AU):Australia/Sydney
 crime & investigation network (UK):Europe/London
 daybreak2012.com (US):US/Eastern
