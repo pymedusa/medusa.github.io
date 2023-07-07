@@ -637,6 +637,7 @@ Crackle:US/Eastern
 Crave:Canada/Eastern
 CraveTV:Canada/Eastern
 Create and Craft (UK):Europe/London
+Create:US/Eastern
 Credo TV (US):US/Eastern
 Crime & Investigation Network (AU):Australia/Sydney
 Crime & Investigation Network (UK):Europe/London
@@ -1426,8 +1427,8 @@ MTV HITS (UK):Europe/London
 MTV Hits:US/Eastern
 MTV Italia:Europe/Rome
 MTV Jams (US):US/Eastern
-MTV Latin America:America/Mexico_City
 MTV LIVE (UK):Europe/London
+MTV Latin America:America/Mexico_City
 MTV MUSIC (AU):Australia/Sydney
 MTV MUSIC (UK):Europe/London
 MTV Mandarin:Asia/Taipei
@@ -2692,6 +2693,7 @@ VK3RTV (AU):Australia/Sydney
 VODO (US):US/Eastern
 VOX:Europe/Berlin
 VPRO:Europe/Amsterdam
+VRT 1:Europe/Brussels
 VRT:Europe/Brussels
 VRV Select:US/Eastern
 VRV:US/Eastern
@@ -2898,7 +2900,6 @@ comcast SPORTSNET PHILADELPHIA (US):US/Eastern
 comedy channel (AU):Australia/Sydney
 comedy:Canada/Eastern
 create (US):US/Eastern
-Create:US/Eastern
 crime & investigation network (AU):Australia/Sydney
 crime & investigation network (UK):Europe/London
 daybreak2012.com (US):US/Eastern
