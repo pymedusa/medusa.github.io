@@ -1671,6 +1671,7 @@ Northern Television (CA):Canada/Eastern
 Notts TV (UK):Europe/London
 Nou 24:Europe/Madrid
 Nou Televisió:Europe/Madrid
+Nova S:Europe/Belgrade
 Nova TV (HR):Europe/Zagreb
 NovaTV:Europe/Sofia
 Now:Europe/London
