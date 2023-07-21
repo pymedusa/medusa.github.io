@@ -1618,6 +1618,7 @@ National Geographic Adventure:US/Eastern
 National Geographic Channel:US/Eastern
 National Geographic Nederland-België:Europe/Amsterdam
 National Geographic WILD:US/Eastern
+National Geographic: Wild:US/Eastern
 National Geographic:US/Eastern
 National Jewish Television (US):US/Eastern
 Nederlandse Publieke Omroep 1:Europe/Amsterdam
@@ -1928,6 +1929,7 @@ RTVSLO:Europe/Ljubljana
 RTÉ NEWS NOW (IE):Europe/Dublin
 RTÉ ONE:Europe/Dublin
 RTÉ One:Europe/Dublin
+RTÉ Player:Europe/Dublin
 RTÉ Two:Europe/Dublin
 RTÉ:Europe/Dublin
 RTÉjr:Europe/Dublin
@@ -2566,6 +2568,7 @@ The Weather Channel:US/Eastern
 TheBlaze:US/Eastern
 This TV:US/Eastern
 Three:Pacific/Auckland
+ThreeNow:Pacific/Auckland
 Tien (NL):Europe/Amsterdam
 Time Warner Cable News Austin (US):US/Eastern
 Time Warner Cable News Buffalo (US):US/Eastern
@@ -2801,6 +2804,7 @@ West Digital Television (AU):Australia/Sydney
 Wink:Europe/Moscow
 Word Network (UK):Europe/London
 Worship (US):US/Eastern
+XBOX Live:US/Eastern
 XY TV:US/Eastern
 Xbox Video:US/Eastern
 Xee:Europe/Copenhagen
@@ -3047,6 +3051,7 @@ sky SPORTS 5 (UK):Europe/London
 sky SPORTS F1 (UK):Europe/London
 sky SPORTS NEWS HQ (UK):Europe/London
 space:Canada/Eastern
+spike.com:US/Eastern
 spookyland.com (US):US/Eastern
 spt tv (US):US/Eastern
 startrekcontinues.com:US/Eastern
@@ -3102,6 +3107,7 @@ youtoo SOCIAL TV (US):US/Eastern
 Первый канал:Europe/Kaliningrad
 Пятый канал:Europe/Kaliningrad
 РЕН:Europe/Kaliningrad
+Радио-телевизија Србије (PTC):Europe/Belgrade
 Россия 1:Europe/Kaliningrad
 Россия К:Europe/Kaliningrad
 СТС:Europe/Kaliningrad
