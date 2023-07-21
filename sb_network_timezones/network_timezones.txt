@@ -1417,6 +1417,7 @@ MTV (FI):Europe/Helsinki
 MTV (UK):Europe/London
 MTV (US):US/Eastern
 MTV Base:Europe/London
+MTV Brasil:America/Sao_Paulo
 MTV Brazil:America/Sao_Paulo
 MTV CLASSIC (AU):Australia/Sydney
 MTV CLASSIC (UK):Europe/London
