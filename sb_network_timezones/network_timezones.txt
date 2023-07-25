@@ -1573,6 +1573,7 @@ NHL NETWORK (US):US/Eastern
 NHNZ:Pacific/Auckland
 NIPPON TV:Asia/Tokyo
 NITV (AU):Australia/Sydney
+NITV:Australia/Sydney
 NJPW World:Asia/Tokyo
 NOS:Europe/Amsterdam
 NOVA:Europe/Sofia
