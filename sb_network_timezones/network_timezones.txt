@@ -919,7 +919,6 @@ FOX Türkiye:Europe/Istanbul
 FOX+:US/Eastern
 FOX:US/Eastern
 FOXTEL Now:Australia/Sydney
-Foxtel Now:Australia/Sydney
 FR3:Europe/Paris
 FRANCE24 (US):US/Eastern
 FSN:US/Eastern
@@ -995,6 +994,7 @@ Fox Soccer Channel (CA):Canada/Eastern
 Fox Sports 1:US/Eastern
 Fox8:Australia/Sydney
 Fox:Europe/Rome
+Foxtel Now:Australia/Sydney
 France 24 (UK):Europe/London
 France 2:Europe/Paris
 France 3:Europe/Paris
