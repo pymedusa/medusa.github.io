@@ -994,6 +994,7 @@ Fox Soccer Channel (CA):Canada/Eastern
 Fox Sports 1:US/Eastern
 Fox8:Australia/Sydney
 Fox:Europe/Rome
+Foxtel Now:Australia/Sydney
 France 24 (UK):Europe/London
 France 2:Europe/Paris
 France 3:Europe/Paris
@@ -2879,6 +2880,7 @@ amc.com:US/Eastern
 aptn (CA):Canada/Eastern
 arte (DE):Europe/Berlin
 aspire TV (AU):Australia/Sydney
+atresplayer:Europe/Madrid
 aurora (AU):Australia/Sydney
 aux (CA):Canada/Eastern
 azteca america (US):US/Eastern
