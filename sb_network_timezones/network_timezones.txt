@@ -1006,6 +1006,7 @@ France tv slash:Europe/Paris
 France Ô:Europe/Paris
 Fred TV:US/Eastern
 FreeForm:US/Eastern
+Freeform.com:US/Eastern
 Freeform:US/Eastern
 Frost Great Outdoors (US):US/Eastern
 Fuel TV:US/Eastern
@@ -1999,6 +2000,7 @@ SAT.1:Europe/Berlin
 SBS (AU):Australia/Sydney
 SBS (KR):Asia/Seoul
 SBS 6:Europe/Amsterdam
+SBS On Demand:Australia/Sydney
 SBS Plus:Asia/Seoul
 SBS2 (AU):Australia/Sydney
 SBS6:Europe/Amsterdam
