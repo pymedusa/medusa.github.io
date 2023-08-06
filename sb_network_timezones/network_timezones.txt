@@ -549,6 +549,7 @@ Ceskoslovenská televize:Europe/Prague
 Challenge:Europe/London
 Channel 10 (IL):Asia/Jerusalem
 Channel 101:US/Eastern
+Channel 10:Asia/Jerusalem
 Channel 13:Asia/Jerusalem
 Channel 2:Asia/Jerusalem
 Channel 3:Asia/Bangkok
@@ -1006,6 +1007,7 @@ France tv slash:Europe/Paris
 France Ô:Europe/Paris
 Fred TV:US/Eastern
 FreeForm:US/Eastern
+Freeform.com:US/Eastern
 Freeform:US/Eastern
 Frost Great Outdoors (US):US/Eastern
 Fuel TV:US/Eastern
@@ -1018,6 +1020,7 @@ Fusion:US/Eastern
 G4 Canada:Canada/Eastern
 G4:US/Eastern
 GAC Family:US/Eastern
+GB News:Europe/London
 GBN (US):US/Eastern
 GEB AMERICA (US):US/Eastern
 GEO News (UK):Europe/London
@@ -1129,6 +1132,7 @@ Harmony Channel (US):US/Eastern
 Headline News (US):US/Eastern
 Healthy Living Network (US):US/Eastern
 Heart TV (UK):Europe/London
+Heavenly:Asia/Seoul
 Het Gesprek (NL):Europe/Amsterdam
 HiT Entertainment:Europe/London
 Hidayat TV (UK):Europe/London
@@ -1243,6 +1247,7 @@ KBS Kyoto:Asia/Seoul
 KBS TV1:Asia/Seoul
 KBS TV2:Asia/Seoul
 KBS World:Asia/Seoul
+KBS2:Asia/Seoul
 KBS:Asia/Seoul
 KCET:US/Eastern
 KICC TV (UK):Europe/London
@@ -1365,6 +1370,7 @@ Local 4 (US):US/Eastern
 Logo TV:US/Eastern
 Logo:US/Eastern
 London Weekend Television (LWT):Europe/London
+Love Nature:Canada/Eastern
 Loveworld TV (UK):Europe/London
 Luxury TV (UK):Europe/London
 Lâlegül TV:Europe/Istanbul
@@ -1973,6 +1979,7 @@ Revision3:US/Eastern
 Ricavision channel 7 (ES):Europe/Madrid
 RichardDawkins.net:US/Eastern
 Rishtey (UK):Europe/London
+Rivit TV:US/Eastern
 Rocks & Co. (UK):Europe/London
 Rogers Media:Canada/Eastern
 Roku:US/Eastern
@@ -1999,6 +2006,7 @@ SAT.1:Europe/Berlin
 SBS (AU):Australia/Sydney
 SBS (KR):Asia/Seoul
 SBS 6:Europe/Amsterdam
+SBS On Demand:Australia/Sydney
 SBS Plus:Asia/Seoul
 SBS2 (AU):Australia/Sydney
 SBS6:Europe/Amsterdam
@@ -2826,6 +2834,7 @@ YTV (UK):Europe/London
 YTV:Canada/Eastern
 Yahoo! Japan:Asia/Tokyo
 Yahoo! Screen:US/Eastern
+Yahoo! View:US/Eastern
 Yes:Asia/Jerusalem
 Yesterday:Europe/London
 Yle:Europe/Helsinki
