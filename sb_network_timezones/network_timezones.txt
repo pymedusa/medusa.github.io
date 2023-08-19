@@ -919,6 +919,7 @@ FOX Türkiye (TR):Europe/Istanbul
 FOX Türkiye:Europe/Istanbul
 FOX+:US/Eastern
 FOX:US/Eastern
+FOXTEL Arts:Australia/Sydney
 FOXTEL Now:Australia/Sydney
 FR3:Europe/Paris
 FRANCE24 (US):US/Eastern
