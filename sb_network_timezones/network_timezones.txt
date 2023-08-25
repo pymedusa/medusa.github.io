@@ -1029,6 +1029,7 @@ GEO Super:Asia/Karachi
 GEO UK (UK):Europe/London
 GLOBO TV International (US):US/Eastern
 GLV (AU):Australia/Sydney
+GMA Network:Asia/Manila
 GMA:Asia/Manila
 GMM 25:Asia/Bangkok
 GMM One:Asia/Bangkok
@@ -2567,6 +2568,7 @@ The CW:US/Eastern
 The Comedy Channel (AU):Australia/Sydney
 The Comedy Channel:US/Eastern
 The Comedy Network:Canada/Eastern
+The Criterion Collection:US/Eastern
 The Den:Europe/Dublin
 The Family Channel:US/Eastern
 The History Channel:US/Eastern
