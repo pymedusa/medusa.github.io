@@ -1705,6 +1705,7 @@ ORF eins:Europe/Vienna
 ORF1 (DE):Europe/Berlin
 ORF:Europe/Berlin
 ORTF:Europe/Paris
+OUFtivi:Europe/Brussels
 OUTtv (CA):Canada/Eastern
 OUTtv:Canada/Eastern
 OWN (CA):Canada/Eastern
@@ -2546,6 +2547,7 @@ Televisa:America/Mexico_City
 Television Osaka:Asia/Tokyo
 Televisió de Catalunya (ES):Europe/Madrid
 Televisión de Galicia:Europe/Madrid
+Tello:US/Eastern
 Tempo Network (US):US/Eastern
 Tencent QQ:Asia/Shanghai
 Tencent Video:Asia/Shanghai
