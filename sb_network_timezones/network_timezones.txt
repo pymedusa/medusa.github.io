@@ -1800,6 +1800,7 @@ Pitch World (UK):Europe/London
 Pivot:US/Eastern
 Planet Green:US/Eastern
 Planet POP (UK):Europe/London
+Planète+ A&E:Europe/Paris
 Planète+:Europe/Paris
 Play More:Europe/Brussels
 Play UK, BBC Choice:Europe/London
