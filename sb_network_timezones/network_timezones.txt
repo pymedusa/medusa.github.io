@@ -1705,6 +1705,7 @@ ORF eins:Europe/Vienna
 ORF1 (DE):Europe/Berlin
 ORF:Europe/Berlin
 ORTF:Europe/Paris
+OUFtivi:Europe/Brussels
 OUTtv (CA):Canada/Eastern
 OUTtv:Canada/Eastern
 OWN (CA):Canada/Eastern
@@ -1799,6 +1800,7 @@ Pitch World (UK):Europe/London
 Pivot:US/Eastern
 Planet Green:US/Eastern
 Planet POP (UK):Europe/London
+Planète+ A&E:Europe/Paris
 Planète+:Europe/Paris
 Play More:Europe/Brussels
 Play UK, BBC Choice:Europe/London
@@ -2546,6 +2548,7 @@ Televisa:America/Mexico_City
 Television Osaka:Asia/Tokyo
 Televisió de Catalunya (ES):Europe/Madrid
 Televisión de Galicia:Europe/Madrid
+Tello:US/Eastern
 Tempo Network (US):US/Eastern
 Tencent QQ:Asia/Shanghai
 Tencent Video:Asia/Shanghai
