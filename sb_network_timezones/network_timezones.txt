@@ -2113,6 +2113,7 @@ Sci-Fi (NL):Europe/Amsterdam
 SciFi:US/Eastern
 Science Channel:US/Eastern
 Science:US/Eastern
+Screambox:US/Eastern
 Scuzz:Europe/London
 SeeSo:US/Eastern
 Seeso:US/Eastern
