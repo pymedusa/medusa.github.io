@@ -630,6 +630,7 @@ Coptic TV (US):US/Eastern
 Cornerstone Television (US):US/Eastern
 Cosmote TV:Europe/Athens
 Cottage Life (CA):Canada/Eastern
+Cottage Life:Canada/Eastern
 Country Music Television (CMT):US/Eastern
 Country Music Television (US):US/Eastern
 Coupang Play:Asia/Seoul
@@ -2719,6 +2720,7 @@ VODO (US):US/Eastern
 VOX:Europe/Berlin
 VPRO:Europe/Amsterdam
 VRT 1:Europe/Brussels
+VRT CANVAS:Europe/Brussels
 VRT:Europe/Brussels
 VRV Select:US/Eastern
 VRV:US/Eastern
