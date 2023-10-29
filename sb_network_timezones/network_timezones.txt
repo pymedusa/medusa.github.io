@@ -536,6 +536,7 @@ Caracol TV:America/Bogota
 Carlton Television:Europe/London
 Cartoon Hangover:US/Pacific
 Cartoon Network (CA):Canada/Eastern
+Cartoon Network (Canada):Canada/Eastern
 Cartoon Network Australia:Australia/Sydney
 Cartoon Network Everything:US/Eastern
 Cartoon Network Latin America:America/Mexico_City
@@ -681,6 +682,7 @@ DTD (AU):Australia/Sydney
 DTOUR (CA):Canada/Eastern
 DUSK (CA):Canada/Eastern
 DaAi TV:Asia/Taipei
+DailyWire+:US/Eastern
 Dailymotion:US/Eastern
 Dangerjane.tv (US):US/Eastern
 Danmarks Radio (DR):Europe/Copenhagen
