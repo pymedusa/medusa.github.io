@@ -1054,6 +1054,7 @@ GagaOOLala:Asia/Taipei
 Gaiam TV:US/Eastern
 Galavisión (US):US/Eastern
 Gamavision (MX):America/Mexico_City
+Game One:Europe/Paris
 Game Show Network (US):US/Eastern
 Game Show Network:US/Eastern
 GameTV Canada:Canada/Eastern
@@ -1143,6 +1144,7 @@ HiT Entertainment:Europe/London
 Hidayat TV (UK):Europe/London
 High Street TV (UK):Europe/London
 Hikari TV:Asia/Tokyo
+Histoire TV:Europe/Paris
 Histoire:Europe/Paris
 Historia (CA):Canada/Eastern
 Historia (ES):Europe/Madrid
