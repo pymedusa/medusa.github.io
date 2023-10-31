@@ -780,6 +780,7 @@ Dost TV:Europe/Istanbul
 Dplay:Europe/Stockholm
 Dragon TV:Asia/Shanghai
 DreamWorks Animation:US/Eastern
+Dropout:US/Eastern
 DuMont Television Network:US/Eastern
 Duna TV:Europe/Budapest
 Dynamic Television:US/Eastern
@@ -2128,6 +2129,7 @@ Servus TV:Europe/Vienna
 Setanta Ireland:Europe/Dublin
 Seven Network:Australia/Sydney
 Shahid (UAE):Asia/Dubai
+Shahid:Asia/Dubai
 Shalom TV (US):US/Eastern
 Shaw Media:Canada/Eastern
 Sheffield Live! (UK):Europe/London
