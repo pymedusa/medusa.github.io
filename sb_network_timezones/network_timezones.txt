@@ -25,6 +25,7 @@
 3ABN Latino (US):US/Eastern
 3ABN Proclaim! (US):US/Eastern
 3ABN Russia (US):US/Eastern
+3Plus:Asia/Bangkok
 3e (IE):Europe/Dublin
 3net (US):US/Eastern
 3sat:Europe/Berlin
@@ -632,6 +633,7 @@ Cornerstone Television (US):US/Eastern
 Cosmote TV:Europe/Athens
 Cottage Life (CA):Canada/Eastern
 Cottage Life:Canada/Eastern
+Coture:Asia/Taipei
 Country Music Television (CMT):US/Eastern
 Country Music Television (US):US/Eastern
 Coupang Play:Asia/Seoul
@@ -1025,6 +1027,7 @@ Fusion:US/Eastern
 G4 Canada:Canada/Eastern
 G4:US/Eastern
 GAC Family:US/Eastern
+GAIN:Europe/Istanbul
 GB News:Europe/London
 GBN (US):US/Eastern
 GEB AMERICA (US):US/Eastern
@@ -1396,6 +1399,7 @@ MAX:Europe/Oslo
 MBC 1:Asia/Seoul
 MBC Drama:Asia/Seoul
 MBC Every1:Asia/Seoul
+MBC MASR:Africa/Cairo
 MBC Plus Media:Asia/Seoul
 MBC Queen:Asia/Seoul
 MBC:Asia/Seoul
