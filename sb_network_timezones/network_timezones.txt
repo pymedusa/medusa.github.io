@@ -2920,6 +2920,7 @@ bbc:Europe/London
 beIN SPORT (US):US/Eastern
 beats per minute television (CA):Canada/Eastern
 biTe (CA):Canada/Eastern
+bilibili:Asia/Shanghai
 bio. (AU):Australia/Sydney
 blip (US):US/Eastern
 bravotv.com (US):US/Eastern
