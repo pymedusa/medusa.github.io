@@ -918,6 +918,7 @@ FOX SPORTS TENNESSEE (US):US/Eastern
 FOX SPORTS WEST (US):US/Eastern
 FOX SPORTS WISCONSIN (US):US/Eastern
 FOX SPORTS:Australia/Sydney
+FOX Showcase:Australia/Sydney
 FOX Sports 1:US/Eastern
 FOX Sports 2:US/Eastern
 FOX Traveller:Asia/Kolkata
@@ -1723,6 +1724,7 @@ OWN:US/Eastern
 Oasis HD:Canada/Eastern
 Oireachtas TV (IE):Europe/Dublin
 Okko:Europe/Moscow
+Okoo:Europe/Paris
 Olive TV (UK):Europe/London
 Olive:Asia/Seoul
 Omni:Canada/Eastern
@@ -2857,6 +2859,7 @@ Yahoo! Screen:US/Eastern
 Yahoo! View:US/Eastern
 Yes:Asia/Jerusalem
 Yesterday:Europe/London
+Yle TV1:Europe/Helsinki
 Yle:Europe/Helsinki
 Yomiuri TV (JP):Asia/Tokyo
 Yomiuri TV:Asia/Tokyo
@@ -2894,6 +2897,7 @@ Zee Gujarati:Asia/Kolkata
 Zee Muzic:Asia/Kolkata
 Zee Punjabi (UK):Europe/London
 Zee TV:Asia/Kolkata
+Zeus Network:US/Eastern
 Zhejiang TV:Asia/Shanghai
 Zing (UK):Europe/London
 Ztélé:Canada/Eastern
