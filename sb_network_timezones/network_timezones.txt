@@ -936,6 +936,7 @@ FTV:Asia/Taipei
 FUEL TV (AU):Australia/Sydney
 FUNimation Channel:US/Eastern
 FUNimation Entertainment:US/Eastern
+FUSE TV:US/Eastern
 FX (AU):Australia/Sydney
 FX (US):US/Eastern
 FX CANADA:Canada/Eastern
@@ -2649,6 +2650,7 @@ Télé (CA):Canada/Eastern
 Télé Monte Carlo (FR):Europe/Paris
 Télé-Québec:Canada/Eastern
 Télétoon:Europe/Paris
+U+ Mobile TV:Asia/Seoul
 UBC Channel 10 (TH):Asia/Bangkok
 UBC TV NETWORK (US):US/Eastern
 UCB TV (UK):Europe/London
