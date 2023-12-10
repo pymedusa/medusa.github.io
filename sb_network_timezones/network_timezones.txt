@@ -489,6 +489,7 @@ CTS:Asia/Tokyo
 CTV (CN):Asia/Shanghai
 CTV (JP):Asia/Tokyo
 CTV (TW):Asia/Taipei
+CTV Comedy Channel:Canada/Eastern
 CTV Comedy:Canada/Eastern
 CTV Drama (Bravo):Canada/Eastern
 CTV News Channel (CA):Canada/Eastern
@@ -556,6 +557,7 @@ Channel 13:Asia/Jerusalem
 Channel 2:Asia/Jerusalem
 Channel 3:Asia/Bangkok
 Channel 4 Television Corporation:Europe/London
+Channel 4+:Europe/London
 Channel 4:Europe/London
 Channel 5 (SG):Asia/Singapore
 Channel 5 (UK):Europe/London
