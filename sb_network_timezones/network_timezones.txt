@@ -489,6 +489,7 @@ CTS:Asia/Tokyo
 CTV (CN):Asia/Shanghai
 CTV (JP):Asia/Tokyo
 CTV (TW):Asia/Taipei
+CTV Comedy Channel:Canada/Eastern
 CTV Comedy:Canada/Eastern
 CTV Drama (Bravo):Canada/Eastern
 CTV News Channel (CA):Canada/Eastern
@@ -556,6 +557,7 @@ Channel 13:Asia/Jerusalem
 Channel 2:Asia/Jerusalem
 Channel 3:Asia/Bangkok
 Channel 4 Television Corporation:Europe/London
+Channel 4+:Europe/London
 Channel 4:Europe/London
 Channel 5 (SG):Asia/Singapore
 Channel 5 (UK):Europe/London
@@ -936,6 +938,7 @@ FTV:Asia/Taipei
 FUEL TV (AU):Australia/Sydney
 FUNimation Channel:US/Eastern
 FUNimation Entertainment:US/Eastern
+FUSE TV:US/Eastern
 FX (AU):Australia/Sydney
 FX (US):US/Eastern
 FX CANADA:Canada/Eastern
@@ -2649,6 +2652,7 @@ Télé (CA):Canada/Eastern
 Télé Monte Carlo (FR):Europe/Paris
 Télé-Québec:Canada/Eastern
 Télétoon:Europe/Paris
+U+ Mobile TV:Asia/Seoul
 UBC Channel 10 (TH):Asia/Bangkok
 UBC TV NETWORK (US):US/Eastern
 UCB TV (UK):Europe/London
