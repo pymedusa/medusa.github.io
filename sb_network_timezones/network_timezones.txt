@@ -1962,6 +1962,7 @@ RTÉ ONE:Europe/Dublin
 RTÉ One:Europe/Dublin
 RTÉ Player:Europe/Dublin
 RTÉ Two:Europe/Dublin
+RTÉ2:Europe/Dublin
 RTÉ:Europe/Dublin
 RTÉjr:Europe/Dublin
 RURAL TV (US):US/Eastern
