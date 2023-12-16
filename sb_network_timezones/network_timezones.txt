@@ -733,6 +733,7 @@ Discovery Family:US/Eastern
 Discovery GO:US/Eastern
 Discovery HD World:Asia/Singapore
 Discovery HISTORY (UK):Europe/London
+Discovery Health Channel:US/Eastern
 Discovery Kids:US/Eastern
 Discovery Life:US/Eastern
 Discovery MAX:Europe/Madrid
@@ -1353,6 +1354,7 @@ La Une:Europe/Brussels
 La Uno (TVE1):Europe/Madrid
 La7:Europe/Rome
 LaSexta:Europe/Rome
+Las Estrellas:America/Mexico_City
 Latest TV (UK):Europe/London
 LeSEA broadcasting network (US):US/Eastern
 Learning Channel (TLC), The:US/Eastern
