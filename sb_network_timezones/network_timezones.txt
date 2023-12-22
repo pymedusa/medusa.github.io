@@ -572,6 +572,7 @@ Channel 9 MCOT HD:Asia/Bangkok
 Channel 9:Australia/Sydney
 Channel A:Asia/Seoul
 Channel AKA (UK):Europe/London
+Channel News Asia:Asia/Singapore
 Channel One:Europe/Moscow
 Channel S (UK):Europe/London
 Channel U:Asia/Singapore
@@ -1343,6 +1344,7 @@ LOOKBOOK.nu (US):US/Eastern
 LRS (AU):Australia/Sydney
 La 1:Europe/Madrid
 La 2 (TVE2):Europe/Madrid
+La 2:Europe/Madrid
 La Cinq:Europe/Paris
 La Deux:Europe/Brussels
 La Familia Cosmovision (US):US/Eastern
