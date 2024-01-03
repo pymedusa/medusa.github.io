@@ -1257,6 +1257,7 @@ Joyn (Germany):Europe/Berlin
 June:Europe/Paris
 Jupiter Broadcasting :US/Eastern
 Jupiter Broadcasting:US/Eastern
+K2:Europe/Rome
 KABC-TV Los Angeles (US):US/Eastern
 KARE 11 (US):US/Eastern
 KBS 2:Asia/Seoul
