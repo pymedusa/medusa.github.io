@@ -1379,6 +1379,7 @@ Lifetime Movies:US/Eastern
 Lifetime Television:US/Eastern
 Lifetime UK:Europe/London
 Lifetime:US/Eastern
+Lionsgate Television:US/Eastern
 Lionsgate+:US/Eastern
 Liquidation Channel (US):US/Eastern
 Live Well NETWORK (US):US/Eastern
