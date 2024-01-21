@@ -3023,6 +3023,7 @@ itv play (UK):Europe/London
 itv:Europe/London
 itvBe (UK):Europe/London
 ivfilms.net (US):US/Eastern
+ivi:Europe/Moscow
 jTBC:Asia/Seoul
 jewelrytelevision (US):US/Eastern
 joyn:Europe/Berlin
