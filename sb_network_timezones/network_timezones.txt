@@ -656,6 +656,7 @@ Crunchyroll:US/Pacific
 Cuatro:Europe/Madrid
 CuriosityStream:US/Eastern
 Current TV:US/Eastern
+Cyfrowy Polsat:Europe/Warsaw
 Czechoslovak Television:Europe/Prague
 CÚLA4 (IE):Europe/Dublin
 D8:Europe/Paris
@@ -2215,6 +2216,7 @@ Sky2:Europe/London
 Sky3:Europe/London
 Sky:Europe/London
 SkyPerfecTV (JP):Asia/Tokyo
+SkyShowtime:US/Eastern
 Slash:Europe/Paris
 Sleuth (TV):US/Eastern
 Sleuth:US/Eastern
@@ -2291,6 +2293,7 @@ Streamz:Europe/Brussels
 Studio 23:Asia/Manila
 Studio 4:Europe/London
 Studio+:US/Eastern
+StudioCanal:Europe/Paris
 Style (AU):Australia/Sydney
 Style TV:US/Eastern
 Style:US/Eastern
