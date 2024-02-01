@@ -2528,6 +2528,7 @@ TVNZ+:Pacific/Auckland
 TVNZ:Pacific/Auckland
 TVNorge:Europe/Oslo
 TVO:Canada/Eastern
+TVOkids:Canada/Eastern
 TVOne Global:Asia/Karachi
 TVOntario:Canada/Eastern
 TVP SA:Europe/Warsaw
