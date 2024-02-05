@@ -838,6 +838,7 @@ ETV:Europe/Tallinn
 EUROCHANNEL (US):US/Eastern
 EUROSPORT (AU):Australia/Sydney
 EWTN TV (UK):Europe/London
+EarthxTV:US/Eastern
 Eden:Europe/London
 EinsExtra (DE):Europe/Berlin
 EinsPlus:Europe/Berlin
