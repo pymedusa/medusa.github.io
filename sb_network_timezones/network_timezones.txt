@@ -607,6 +607,7 @@ Classic Arts Showcase:US/Eastern
 Classic FM TV:Europe/London
 Club Illico:Canada/Eastern
 Club RTL:Europe/Brussels
+Club illico:Canada/Eastern
 Clubland (UK):Europe/London
 Colorado's Own Channel 2 (US):US/Eastern
 Colors (UK):Europe/London
