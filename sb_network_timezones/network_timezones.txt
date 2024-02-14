@@ -500,6 +500,7 @@ CTV two (CA):Canada/Eastern
 CTV:Canada/Eastern
 CTi TV:Asia/Taipei
 CW Seed:US/Eastern
+CW:US/Eastern
 CWSEED.com (US):US/Eastern
 Cable Public Affairs Channel (CA):Canada/Eastern
 CablePulse24 (CA):Canada/Eastern
