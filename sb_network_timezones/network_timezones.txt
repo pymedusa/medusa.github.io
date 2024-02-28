@@ -1258,6 +1258,7 @@ Jewellery Maker (UK):Europe/London
 Jiangsu TV:Asia/Shanghai
 Joi:Europe/Rome
 Joyn (Germany):Europe/Berlin
+Joyn:Europe/Berlin
 June:Europe/Paris
 Jupiter Broadcasting :US/Eastern
 Jupiter Broadcasting:US/Eastern
