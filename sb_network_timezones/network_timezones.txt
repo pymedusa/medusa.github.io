@@ -954,7 +954,6 @@ FX:US/Eastern
 FXX:US/Eastern
 FYI Asia:Asia/Singapore
 FYI Network:US/Eastern
-FYI,:US/Eastern
 FYI:US/Eastern
 Facebook Watch:US/Pacific
 Faith World TV (UK):Europe/London
