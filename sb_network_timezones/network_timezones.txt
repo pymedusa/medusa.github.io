@@ -954,6 +954,7 @@ FX:US/Eastern
 FXX:US/Eastern
 FYI Asia:Asia/Singapore
 FYI Network:US/Eastern
+FYI,:US/Eastern
 FYI:US/Eastern
 Facebook Watch:US/Pacific
 Faith World TV (UK):Europe/London
@@ -1379,6 +1380,7 @@ LifeTalk Network (US):US/Eastern
 Lifetime (CA):Canada/Eastern
 Lifetime (UK):Europe/London
 Lifetime (US):US/Eastern
+Lifetime Asia:Asia/Singapore
 Lifetime Movie Network:US/Eastern
 Lifetime Movies:US/Eastern
 Lifetime Television:US/Eastern
@@ -2326,6 +2328,7 @@ Superstar TV:Europe/Belgrade
 Superstation WGN:US/Eastern
 Sveriges Television:Europe/Stockholm
 Swarnawahini:Asia/Colombo
+SwearNet:Canada/Eastern
 Swearnet:Canada/Eastern
 SyFy Universal (DE):Europe/Berlin
 SyFy.com (US):US/Eastern
