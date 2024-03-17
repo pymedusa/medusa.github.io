@@ -1575,7 +1575,7 @@ NDTV India:Asia/Kolkata
 NECN (US):US/Eastern
 NECO:Asia/Tokyo
 NEN (AU):Australia/Sydney
-NEON:Pacific/Auckland
+NEON:US/Eastern
 NET 5:Europe/Amsterdam
 NET5 & VT4:Europe/Amsterdam
 NEW (AU):Australia/Sydney
