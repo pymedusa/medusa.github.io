@@ -3195,3 +3195,29 @@ youtoo SOCIAL TV (US):US/Eastern
 קשת:Asia/Jerusalem
 רשת:Asia/Jerusalem
 日本テレビ:Asia/Tokyo
+
+
+13th Street:Europe/Berlin
+AXN White:Europe/Berlin
+arte:Europe/Berlin
+Freevee:Europe/Berlin
+Freevee (US):US/Eastern
+Joyn:Europe/Berlin
+NITRO:Europe/Berlin
+Paramount+ (DE):Europe/Berlin
+Pluto TV:Europe/Berlin
+Premiere Film:Europe/Berlin
+Prime Video:Europe/Berlin
+RTL Passion:Europe/Berlin
+Sat.1 Gold:Europe/Berlin
+ServusTV:Europe/Berlin
+Sony AXN:Europe/Berlin
+Sony Channel:Europe/Berlin
+Sky Crime:Europe/Berlin
+TNT Comedy:Europe/Berlin
+TV NOW:Europe/Berlin
+Universal TV:Europe/Berlin
+WarnerTV Comedy:Europe/Berlin
+WarnerTV Serie:Europe/Berlin
+WOW (DE):Europe/Berlin
+ZDF/Arte:Europe/Berlin
