@@ -600,6 +600,7 @@ Cielo:Europe/Rome
 Cine 5:Europe/Istanbul
 CineMax:US/Eastern
 Cinelatino (US):US/Eastern
+Cinema Heaven:Asia/Seoul
 Cinemax:US/Eastern
 Citv (UK):Europe/London
 City Channel:Europe/Dublin
@@ -3146,6 +3147,7 @@ unIMÁS East (US):US/Eastern
 univision DEPORTES NETWORK (US):US/Eastern
 vtm:Europe/Brussels
 vtmKzoom:Europe/Brussels
+watcha:Asia/Seoul
 watchmenmotioncomic.com (US):US/Eastern
 weatherscan (US):US/Eastern
 wedding tv (UK):Europe/London
