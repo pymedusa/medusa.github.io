@@ -427,6 +427,7 @@ CBS All Access (US):US/Eastern
 CBS All Access:US/Eastern
 CBS Korean (US):US/Eastern
 CBS Reality (UK):Europe/London
+CBS Reality:Europe/London
 CBS SPORTS NETWORK (US):US/Eastern
 CBS Television Studios:US/Eastern
 CBS Video:US/Eastern
@@ -752,6 +753,7 @@ Discovery Shed:Europe/London
 Discovery Turbo UK:Europe/London
 Discovery Turbo:US/Eastern
 Discovery World (CA):Canada/Eastern
+Discovery World:Europe/London
 Discovery en Español (US):US/Eastern
 Discovery fit&health (US):US/Eastern
 Discovery home & health (AU):Australia/Sydney
@@ -784,6 +786,7 @@ DisneyLife:US/Eastern
 DisneyNOW:US/Eastern
 Divine TV (US):US/Eastern
 Dlife:Asia/Tokyo
+DocPlay:Australia/Sydney
 Doordarshan National:Asia/Kolkata
 Doordarshan News:Asia/Kolkata
 Doordarshan Sports:Asia/Kolkata
@@ -976,6 +979,7 @@ Five US:Europe/London
 Five:Europe/London
 Flooxer:Europe/Madrid
 Flow TV (US):US/Eastern
+Focus:Europe/Rome
 Food Network (UK):Europe/London
 Food Network Canada:Canada/Eastern
 Food Network Kitchen:US/Eastern
@@ -1067,6 +1071,7 @@ GTV (AU):Australia/Sydney
 GTV:Asia/Taipei
 GWN7 (AU):Australia/Sydney
 GagaOOLala:Asia/Taipei
+Gaia:US/Eastern
 Gaiam TV:US/Eastern
 Galavisión (US):US/Eastern
 Gamavision (MX):America/Mexico_City
@@ -1155,6 +1160,7 @@ Headline News (US):US/Eastern
 Healthy Living Network (US):US/Eastern
 Heart TV (UK):Europe/London
 Heavenly:Asia/Seoul
+Here TV:US/Eastern
 Het Gesprek (NL):Europe/Amsterdam
 HiT Entertainment:Europe/London
 Hidayat TV (UK):Europe/London
@@ -1497,6 +1503,7 @@ Magic:Europe/London
 Magnolia Network:US/Eastern
 Magyar Televízió:Europe/Budapest
 Mainichi Broadcasting System:Asia/Tokyo
+Makeful:Canada/Eastern
 Mango TV:Asia/Shanghai
 Maori Television:Pacific/Auckland
 Marketplace (UK):Europe/London
@@ -1530,6 +1537,7 @@ Movie Central:Canada/Eastern
 Movie Extra (AU):Australia/Sydney
 Movies 24 (UK):Europe/London
 Movies4Men (UK):Europe/London
+Movistar Plus+:Europe/Madrid
 Movistar Series (España):Europe/Madrid
 Movistar TV:America/Santiago
 Movistar+:Europe/Madrid
@@ -1599,6 +1607,7 @@ NHK Animax:Asia/Tokyo
 NHK BS Premium:Asia/Tokyo
 NHK BS1:Asia/Tokyo
 NHK BS2:Asia/Tokyo
+NHK BS4K:Asia/Tokyo
 NHK Educational TV:Asia/Tokyo
 NHK G:Asia/Tokyo
 NHK TV:Asia/Tokyo
@@ -1623,6 +1632,7 @@ NPO Start Plus:Europe/Amsterdam
 NPS (NL):Europe/Amsterdam
 NRB (US):US/Eastern
 NRJ 12:Europe/Paris
+NRK P3:Europe/Oslo
 NRK Super:Europe/Oslo
 NRK TV:Europe/Oslo
 NRK.no:Europe/Oslo
@@ -1848,6 +1858,7 @@ Playhouse Disney:US/Eastern
 Playstation:US/Eastern
 Playz:Europe/Madrid
 Plug RTL:Europe/Brussels
+PokerGO:US/Eastern
 Polsat Box Go:Europe/Warsaw
 Polsat:Europe/Warsaw
 Pop Girl (UK):Europe/London
@@ -2234,6 +2245,7 @@ Smart Live Casino (UK):Europe/London
 Smash Hits:Europe/London
 Smile of a Child TV (US):US/Eastern
 Smithsonian Channel (CA):Canada/Eastern
+Smithsonian Channel :US/Eastern
 Smithsonian Channel:US/Eastern
 Smithsonian Earth:US/Eastern
 Smithsonian:US/Eastern
@@ -2648,6 +2660,7 @@ Total Living Network (US):US/Eastern
 Total Variety Network (tvN):Asia/Seoul
 Total Variety Network:Asia/Seoul
 Tou.tv:Canada/Eastern
+Toute l'Histoire:Europe/Paris
 Trace Sports (UK):Europe/London
 Travel + Escape (CA):Canada/Eastern
 Travel + Escape:Canada/Eastern
@@ -2977,6 +2990,7 @@ crime & investigation network (UK):Europe/London
 daybreak2012.com (US):US/Eastern
 de película (US):US/Eastern
 de película clásico (US):US/Eastern
+dekkoo:US/Eastern
 discovery+:US/Eastern
 diva tv (UK):Europe/London
 diy network (CA):Canada/Eastern
@@ -3019,6 +3033,7 @@ iTunes (US):US/Eastern
 iTunes:US/Eastern
 iWantTFC:Asia/Manila
 id discovery:US/Eastern
+iflix:Asia/Kuala_Lumpur
 inDEMAND:US/Eastern
 ingaylewetrust.com (US):US/Eastern
 insp (US):US/Eastern
