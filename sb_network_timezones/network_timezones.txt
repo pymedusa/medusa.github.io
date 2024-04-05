@@ -2773,6 +2773,7 @@ VOX:Europe/Berlin
 VPRO:Europe/Amsterdam
 VRT 1:Europe/Brussels
 VRT CANVAS:Europe/Brussels
+VRT Max:Europe/Brussels
 VRT:Europe/Brussels
 VRV Select:US/Eastern
 VRV:US/Eastern
