@@ -1388,6 +1388,7 @@ Lifetime (CA):Canada/Eastern
 Lifetime (UK):Europe/London
 Lifetime (US):US/Eastern
 Lifetime Asia:Asia/Singapore
+Lifetime Korea:Asia/Seoul
 Lifetime Movie Network:US/Eastern
 Lifetime Movies:US/Eastern
 Lifetime Television:US/Eastern
