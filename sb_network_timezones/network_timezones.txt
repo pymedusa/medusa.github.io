@@ -1018,6 +1018,7 @@ Fox Soccer Channel (CA):Canada/Eastern
 Fox Sports 1:US/Eastern
 Fox8:Australia/Sydney
 Fox:Europe/Rome
+Foxtel Arts:Australia/Sydney
 Foxtel Now:Australia/Sydney
 France 24 (UK):Europe/London
 France 2:Europe/Paris
