@@ -646,6 +646,7 @@ Country Music Television (CMT):US/Eastern
 Country Music Television (US):US/Eastern
 Coupang Play:Asia/Seoul
 Court TV:US/Eastern
+Cowboy Way Channel:US/Eastern
 Cozi TV (US):US/Eastern
 Crackle:US/Eastern
 Crave:Canada/Eastern
