@@ -2633,6 +2633,7 @@ The Hub:US/Eastern
 The Mediapro Studio:Europe/Madrid
 The Movie Network:Canada/Eastern
 The N:Australia/Sydney
+The Network:US/Eastern
 The Roku Channel:US/Eastern
 The Sportsman Channel:US/Eastern
 The Travel Channel:US/Eastern
