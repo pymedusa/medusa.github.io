@@ -91,6 +91,7 @@ ABP New (UK):Europe/London
 ABQ (AU):Australia/Sydney
 ABS (AU):Australia/Sydney
 ABS-CBN Broadcasting Company:Asia/Manila
+ABS-CBN:Asia/Manila
 ABT (AU):Australia/Sydney
 ABV (AU):Australia/Sydney
 ABW (AU):Australia/Sydney
@@ -3037,6 +3038,7 @@ iCHANNEL (CA):Canada/Eastern
 iQIYI:Asia/Shanghai
 iQiyi:Asia/Shanghai
 iTunes (US):US/Eastern
+iTunes Store:US/Eastern
 iTunes:US/Eastern
 iWantTFC:Asia/Manila
 id discovery:US/Eastern
