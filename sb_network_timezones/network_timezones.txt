@@ -201,6 +201,7 @@ Alpha TV GUJARATI:Asia/Kolkata
 Alpha TV PUNJABI:Asia/Kolkata
 Alpha TV:Europe/Athens
 Altitude sports (US):US/Eastern
+Amarin TV:Asia/Bangkok
 Amazon (Japan):Asia/Tokyo
 Amazon Freevee:US/Eastern
 Amazon Instant Video:US/Eastern
@@ -2812,6 +2813,7 @@ Videoland (NL):Europe/Amsterdam
 Videoland Television Network:Asia/Taipei
 Videoland:Europe/Amsterdam
 Vidi Space:US/Eastern
+Vidol:Asia/Taipei
 VijfTV:Europe/Brussels
 Viki:US/Eastern
 Vimeo:US/Eastern
@@ -2881,6 +2883,7 @@ Watch:Europe/London
 Watcha:Asia/Seoul
 Wavve:Asia/Seoul
 We tv:US/Eastern
+WeTV:Asia/Shanghai
 WealthTV:US/Eastern
 Weather Network (CA):Canada/Eastern
 WeatherNation (US):US/Eastern
@@ -2890,6 +2893,7 @@ Word Network (UK):Europe/London
 Worship (US):US/Eastern
 XBOX Live:US/Eastern
 XY TV:US/Eastern
+Xbox Live:US/Eastern
 Xbox Video:US/Eastern
 Xee:Europe/Copenhagen
 YAHOO! View:US/Eastern
