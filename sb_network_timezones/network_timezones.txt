@@ -674,6 +674,8 @@ DC Comics:US/Eastern
 DC Universe:US/Eastern
 DD-Gujarati:Asia/Kolkata
 DDR1:Europe/Berlin
+DFF 1:Europe/Berlin
+DFF 2:Europe/Berlin
 DFamilia (US):US/Eastern
 DISCOVERY SCIENCE (CA):Canada/Eastern
 DISCOVERY home&health (UK):Europe/London
@@ -2026,6 +2028,7 @@ ReelzChannel:US/Eastern
 Reformation Channel (US):US/Eastern
 Renault TV (UK):Europe/London
 Reshet 13:Asia/Jerusalem
+Reshet:Asia/Jerusalem
 Retail TV (UK):Europe/London
 Rete 4:Europe/Rome
 Revelation TV:Europe/London
@@ -2546,6 +2549,7 @@ TVING:Asia/Seoul
 TVK:Asia/Tokyo
 TVM:Europe/Malta
 TVN (AU):Australia/Sydney
+TVN (Televisión Nacional de Chile):America/Santiago
 TVN Style:Europe/Warsaw
 TVN Turbo:Europe/Warsaw
 TVN:Europe/Warsaw
@@ -2568,7 +2572,13 @@ TVP:Europe/Warsaw
 TVQ (AU):Australia/Sydney
 TVQ (Australia):Australia/Sydney
 TVQ (Japan):Asia/Tokyo
+TVR 1:Europe/Bucharest
+TVR 2:Europe/Bucharest
+TVR 3:Europe/Bucharest
+TVR Cultural:Europe/Bucharest
+TVR Info:Europe/Bucharest
 TVRI:Asia/Jakarta
+TVRi:Europe/Bucharest
 TVS China:Asia/Shanghai
 TVS Sydney:Australia/Sydney
 TVS:Australia/Sydney
@@ -2576,6 +2586,7 @@ TVSN (AU):Australia/Sydney
 TVT (AU):Australia/Sydney
 TVU music television (US):US/Eastern
 TVW (AU):Australia/Sydney
+TVn:America/Santiago
 TWC Deportes (US):US/Eastern
 TWC SportsNet (US):US/Eastern
 TWiT:US/Eastern
@@ -2605,6 +2616,7 @@ Televen:America/Caracas
 Televisa:America/Mexico_City
 Television Osaka:Asia/Tokyo
 Televisió de Catalunya (ES):Europe/Madrid
+Televisión Nacional de Chile:America/Santiago
 Televisión de Galicia:Europe/Madrid
 Tello:US/Eastern
 Tempo Network (US):US/Eastern
