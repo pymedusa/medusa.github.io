@@ -201,6 +201,7 @@ Alpha TV GUJARATI:Asia/Kolkata
 Alpha TV PUNJABI:Asia/Kolkata
 Alpha TV:Europe/Athens
 Altitude sports (US):US/Eastern
+Amarin TV:Asia/Bangkok
 Amazon (Japan):Asia/Tokyo
 Amazon Freevee:US/Eastern
 Amazon Instant Video:US/Eastern
@@ -673,6 +674,8 @@ DC Comics:US/Eastern
 DC Universe:US/Eastern
 DD-Gujarati:Asia/Kolkata
 DDR1:Europe/Berlin
+DFF 1:Europe/Berlin
+DFF 2:Europe/Berlin
 DFamilia (US):US/Eastern
 DISCOVERY SCIENCE (CA):Canada/Eastern
 DISCOVERY home&health (UK):Europe/London
@@ -2025,6 +2028,7 @@ ReelzChannel:US/Eastern
 Reformation Channel (US):US/Eastern
 Renault TV (UK):Europe/London
 Reshet 13:Asia/Jerusalem
+Reshet:Asia/Jerusalem
 Retail TV (UK):Europe/London
 Rete 4:Europe/Rome
 Revelation TV:Europe/London
@@ -2545,6 +2549,7 @@ TVING:Asia/Seoul
 TVK:Asia/Tokyo
 TVM:Europe/Malta
 TVN (AU):Australia/Sydney
+TVN (Televisión Nacional de Chile):America/Santiago
 TVN Style:Europe/Warsaw
 TVN Turbo:Europe/Warsaw
 TVN:Europe/Warsaw
@@ -2567,7 +2572,13 @@ TVP:Europe/Warsaw
 TVQ (AU):Australia/Sydney
 TVQ (Australia):Australia/Sydney
 TVQ (Japan):Asia/Tokyo
+TVR 1:Europe/Bucharest
+TVR 2:Europe/Bucharest
+TVR 3:Europe/Bucharest
+TVR Cultural:Europe/Bucharest
+TVR Info:Europe/Bucharest
 TVRI:Asia/Jakarta
+TVRi:Europe/Bucharest
 TVS China:Asia/Shanghai
 TVS Sydney:Australia/Sydney
 TVS:Australia/Sydney
@@ -2575,6 +2586,7 @@ TVSN (AU):Australia/Sydney
 TVT (AU):Australia/Sydney
 TVU music television (US):US/Eastern
 TVW (AU):Australia/Sydney
+TVn:America/Santiago
 TWC Deportes (US):US/Eastern
 TWC SportsNet (US):US/Eastern
 TWiT:US/Eastern
@@ -2604,6 +2616,7 @@ Televen:America/Caracas
 Televisa:America/Mexico_City
 Television Osaka:Asia/Tokyo
 Televisió de Catalunya (ES):Europe/Madrid
+Televisión Nacional de Chile:America/Santiago
 Televisión de Galicia:Europe/Madrid
 Tello:US/Eastern
 Tempo Network (US):US/Eastern
@@ -2693,6 +2706,8 @@ Télé (CA):Canada/Eastern
 Télé Monte Carlo (FR):Europe/Paris
 Télé-Québec:Canada/Eastern
 Télétoon:Europe/Paris
+U&Dave:Europe/London
+U&Yesterday:Europe/London
 U+ Mobile TV:Asia/Seoul
 UBC Channel 10 (TH):Asia/Bangkok
 UBC TV NETWORK (US):US/Eastern
@@ -2812,6 +2827,7 @@ Videoland (NL):Europe/Amsterdam
 Videoland Television Network:Asia/Taipei
 Videoland:Europe/Amsterdam
 Vidi Space:US/Eastern
+Vidol:Asia/Taipei
 VijfTV:Europe/Brussels
 Viki:US/Eastern
 Vimeo:US/Eastern
@@ -2881,6 +2897,7 @@ Watch:Europe/London
 Watcha:Asia/Seoul
 Wavve:Asia/Seoul
 We tv:US/Eastern
+WeTV:Asia/Shanghai
 WealthTV:US/Eastern
 Weather Network (CA):Canada/Eastern
 WeatherNation (US):US/Eastern
@@ -2890,6 +2907,7 @@ Word Network (UK):Europe/London
 Worship (US):US/Eastern
 XBOX Live:US/Eastern
 XY TV:US/Eastern
+Xbox Live:US/Eastern
 Xbox Video:US/Eastern
 Xee:Europe/Copenhagen
 YAHOO! View:US/Eastern
