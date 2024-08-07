@@ -1823,6 +1823,7 @@ Pakistan Television Corporation (PK):Asia/Karachi
 Pantaya:US/Eastern
 Paramount Comedy:Europe/London
 Paramount Network:US/Eastern
+Paramount+ with Showtime:US/Eastern
 Paramount+:US/Eastern
 Paravi:Asia/Tokyo
 Paris Première (FR):Europe/Paris
