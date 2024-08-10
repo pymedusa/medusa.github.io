@@ -1687,6 +1687,7 @@ Nederlandse Publieke Omroep 3:Europe/Amsterdam
 Nejat TV (US):US/Eastern
 Nelonen:Europe/Helsinki
 Nelvana Limited:Canada/Eastern
+Neon TV:Pacific/Auckland
 Neox:Europe/Madrid
 Net5:Europe/Amsterdam
 Netflix (UK):Europe/London
