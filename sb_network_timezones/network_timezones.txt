@@ -1385,6 +1385,7 @@ Liberty Channel:US/Eastern
 Liberty TV:Europe/London
 Life Network (CA):Canada/Eastern
 Life OK:Asia/Kolkata
+Life Style. Food:Australia/Sydney
 LifeStyle FOOD:Australia/Sydney
 LifeStyle Food:Australia/Sydney
 LifeStyle HOME:Australia/Sydney
