@@ -169,6 +169,7 @@ Aaj TV:Asia/Karachi
 Aaj Tak (UK):Europe/London
 Aastha TV (UK):Europe/London
 Abema TV:Asia/Tokyo
+AbemaTV:Asia/Tokyo
 Abu Dhabi TV (UK):Europe/London
 Abu Dhabi TV:Asia/Dubai
 Acasă (RO):Europe/Bucharest
@@ -1385,6 +1386,7 @@ Liberty Channel:US/Eastern
 Liberty TV:Europe/London
 Life Network (CA):Canada/Eastern
 Life OK:Asia/Kolkata
+Life Style. Food:Australia/Sydney
 LifeStyle FOOD:Australia/Sydney
 LifeStyle Food:Australia/Sydney
 LifeStyle HOME:Australia/Sydney
@@ -1687,6 +1689,7 @@ Nederlandse Publieke Omroep 3:Europe/Amsterdam
 Nejat TV (US):US/Eastern
 Nelonen:Europe/Helsinki
 Nelvana Limited:Canada/Eastern
+Neon TV:Pacific/Auckland
 Neox:Europe/Madrid
 Net5:Europe/Amsterdam
 Netflix (UK):Europe/London
