@@ -169,6 +169,7 @@ Aaj TV:Asia/Karachi
 Aaj Tak (UK):Europe/London
 Aastha TV (UK):Europe/London
 Abema TV:Asia/Tokyo
+AbemaTV:Asia/Tokyo
 Abu Dhabi TV (UK):Europe/London
 Abu Dhabi TV:Asia/Dubai
 Acasă (RO):Europe/Bucharest
