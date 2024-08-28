@@ -779,6 +779,7 @@ Disney Channel (UK):Europe/London
 Disney Channel (US):US/Eastern
 Disney Channel:US/Eastern
 Disney Cinemagic:Europe/London
+Disney Jr.:US/Eastern
 Disney Junior (CA):Canada/Eastern
 Disney Junior (UK):Europe/London
 Disney Junior:US/Eastern
@@ -2058,6 +2059,7 @@ S4C2:Europe/London
 S4C:Europe/London
 SAB tv (UK):Europe/London
 SABC 1 (ZA):Africa/Johannesburg
+SABC 1:Africa/Johannesburg
 SABC1:Africa/Johannesburg
 SABC2:Africa/Johannesburg
 SABC3:Africa/Johannesburg
@@ -2913,6 +2915,7 @@ XBOX Live:US/Eastern
 XY TV:US/Eastern
 Xbox Live:US/Eastern
 Xbox Video:US/Eastern
+Xclusive:Asia/Seoul
 Xee:Europe/Copenhagen
 YAHOO! View:US/Eastern
 YES (US):US/Eastern
