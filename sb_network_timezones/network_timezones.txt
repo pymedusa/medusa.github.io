@@ -71,6 +71,7 @@ ABC ME:Australia/Sydney
 ABC Me:Australia/Sydney
 ABC News 24:Australia/Sydney
 ABC Spark:Canada/Eastern
+ABC TV (JP):Asia/Tokyo
 ABC TV Plus:Australia/Sydney
 ABC TV:Australia/Sydney
 ABC Television Network:US/Eastern
@@ -375,6 +376,7 @@ Bloomberg TELEVISION (US):US/Eastern
 Bloomberg Television (UK):Europe/London
 BluTV:Europe/Istanbul
 Blue Ridge Communications (US):US/Eastern
+Bom Toon:Asia/Seoul
 Book TELEVISION (CA):Canada/Eastern
 Boomerang (AU):Australia/Sydney
 Boomerang (DE):Europe/Berlin
@@ -551,6 +553,7 @@ Cartoon Network Latin America:America/Mexico_City
 Cartoon Network:US/Eastern
 Cartoonito:Europe/London
 Casa:Canada/Eastern
+CatchPlay:Asia/Taipei
 Celebrity Shop (UK):Europe/London
 Centric (US):US/Eastern
 Centric:US/Eastern
@@ -662,6 +665,7 @@ Crime & Investigation Network (AU):Australia/Sydney
 Crime & Investigation Network (UK):Europe/London
 Crime & Investigation Network:US/Eastern
 Crime & Investigation:US/Eastern
+Crime + Investigation:US/Eastern
 Crunchyroll:US/Pacific
 Cuatro:Europe/Madrid
 CuriosityStream:US/Eastern
@@ -1405,6 +1409,7 @@ Lifetime Movies:US/Eastern
 Lifetime Television:US/Eastern
 Lifetime UK:Europe/London
 Lifetime:US/Eastern
+Line TV:Asia/Taipei
 Lionsgate Television:US/Eastern
 Lionsgate+:US/Eastern
 Liquidation Channel (US):US/Eastern
@@ -1531,6 +1536,7 @@ Mexicanal (US):US/Eastern
 MiND: Media Independence (US):US/Eastern
 Military Channel:US/Eastern
 Milkshake!:Europe/London
+Mind Trio:Asia/Bangkok
 Minnesota Channel (US):US/Eastern
 Mnet AMERICA (US):US/Eastern
 Mnet:Asia/Seoul
@@ -1576,6 +1582,7 @@ NAT GEO WILD (AU):Australia/Sydney
 NAT GEO WILD (UK):Europe/London
 NATIONAL GEOGRAPHIC CHANNEL (AU):Australia/Sydney
 NATIONAL GEOGRAPHIC CHANNEL (CA):Canada/Eastern
+NAVER TV:Asia/Seoul
 NAVER tvcast:Asia/Seoul
 NBA League Pass (US):US/Eastern
 NBA TV (US):US/Eastern
@@ -1685,6 +1692,7 @@ National Geographic WILD:US/Eastern
 National Geographic: Wild:US/Eastern
 National Geographic:US/Eastern
 National Jewish Television (US):US/Eastern
+Naver TV:Asia/Seoul
 Nederlandse Publieke Omroep 1:Europe/Amsterdam
 Nederlandse Publieke Omroep 2:Europe/Amsterdam
 Nederlandse Publieke Omroep 3:Europe/Amsterdam
@@ -2078,6 +2086,7 @@ SBS:Asia/Seoul
 SBT:America/Sao_Paulo
 SBTN (US):US/Eastern
 SEC ESPN NETWORK (US):US/Eastern
+SERIES on:Asia/Seoul
 SES (AU):Australia/Sydney
 SET MAX:Asia/Kolkata
 SET Max (UK):Europe/London
@@ -2846,6 +2855,7 @@ Virgin TV:Europe/London
 Vision (UK):Europe/London
 Vision 2 (UK):Europe/London
 Vision Heaven (US):US/Eastern
+Viu:Asia/Hong_Kong
 ViuTV:Asia/Hong_Kong
 Viên Thao TV (US):US/Eastern
 Vme (US):US/Eastern
