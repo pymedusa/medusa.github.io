@@ -2193,6 +2193,7 @@ Semerkand TV:Europe/Istanbul
 Servus TV:Europe/Vienna
 Setanta Ireland:Europe/Dublin
 Seven Network:Australia/Sydney
+Seven:Australia/Sydney
 Shahid (UAE):Asia/Dubai
 Shahid:Asia/Dubai
 Shalom TV (US):US/Eastern
