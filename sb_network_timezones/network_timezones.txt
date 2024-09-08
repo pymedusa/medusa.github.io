@@ -470,6 +470,7 @@ CNBC:US/Eastern
 CNC World (UK):Europe/London
 CNL Russian (US):US/Eastern
 CNN (UK):Europe/London
+CNN Max:US/Eastern
 CNN en Español (US):US/Eastern
 CNN+:US/Eastern
 CNN:US/Eastern
@@ -1023,6 +1024,7 @@ Fox Life (NL):Europe/Amsterdam
 Fox Life:Europe/Rome
 Fox Nation:US/Eastern
 Fox Network:US/Eastern
+Fox News Channel:US/Eastern
 Fox Reality Channel:US/Eastern
 Fox Reality:US/Eastern
 Fox Showcase:Australia/Sydney
