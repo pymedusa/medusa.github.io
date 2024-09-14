@@ -2711,7 +2711,7 @@ Treehouse:Canada/Eastern
 Trend E:Asia/Seoul
 Trinity Broadcasting Network (US):US/Eastern
 Trio:US/Eastern
-True Crime:US/Eastern
+True Crime:Europe/London
 True Drama (UK):Europe/London
 True Entertainment (UK):Europe/London
 True Movies 1 (UK):Europe/London
