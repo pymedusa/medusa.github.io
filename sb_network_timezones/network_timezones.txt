@@ -1797,6 +1797,7 @@ OutTV:Canada/Eastern
 Outdoor Channel:US/Eastern
 Outdoor Life Network:US/Eastern
 Outside TELEVISION (US):US/Eastern
+Outside TV:US/Eastern
 Ovation TV:US/Eastern
 Overcomer Ministries (US):US/Eastern
 Oxygen True Crime:US/Eastern
