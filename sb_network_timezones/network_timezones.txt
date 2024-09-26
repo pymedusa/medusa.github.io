@@ -431,6 +431,7 @@ CBS 4 (US):US/Eastern
 CBS All Access (US):US/Eastern
 CBS All Access:US/Eastern
 CBS Korean (US):US/Eastern
+CBS News:US/Eastern
 CBS Reality (UK):Europe/London
 CBS Reality:Europe/London
 CBS SPORTS NETWORK (US):US/Eastern
