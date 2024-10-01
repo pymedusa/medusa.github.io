@@ -1173,6 +1173,7 @@ Hallmark MOVIES & MYSTERIES (US):US/Eastern
 Hallmark Movies & Mysteries:US/Eastern
 Hallmark Movies Now:US/Eastern
 Hallmark Mystery:US/Eastern
+Hallmark+:US/Eastern
 Harmony Channel (US):US/Eastern
 Headline News (US):US/Eastern
 Healthy Living Network (US):US/Eastern
