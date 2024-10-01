@@ -1119,6 +1119,7 @@ Golf Channel:US/Eastern
 Good Food (UK):Europe/London
 Gospel Channel (UK):Europe/London
 Great American Country:US/Eastern
+Great American Family:US/Eastern
 Greatest Hits (UK):Europe/London
 Guardian Television Network:US/Eastern
 Gulli:Europe/Paris
@@ -1172,6 +1173,7 @@ Hallmark MOVIES & MYSTERIES (US):US/Eastern
 Hallmark Movies & Mysteries:US/Eastern
 Hallmark Movies Now:US/Eastern
 Hallmark Mystery:US/Eastern
+Hallmark+:US/Eastern
 Harmony Channel (US):US/Eastern
 Headline News (US):US/Eastern
 Healthy Living Network (US):US/Eastern
