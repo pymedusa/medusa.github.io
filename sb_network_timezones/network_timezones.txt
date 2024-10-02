@@ -2734,6 +2734,7 @@ Télétoon:Europe/Paris
 U&Dave:Europe/London
 U&Yesterday:Europe/London
 U+ Mobile TV:Asia/Seoul
+U:Pacific/Auckland
 UBC Channel 10 (TH):Asia/Bangkok
 UBC TV NETWORK (US):US/Eastern
 UCB TV (UK):Europe/London
