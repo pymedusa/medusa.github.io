@@ -2615,6 +2615,7 @@ TWC Deportes (US):US/Eastern
 TWC SportsNet (US):US/Eastern
 TWiT:US/Eastern
 TXCN (US):US/Eastern
+TXN (Japan):Asia/Tokyo
 Tai Seng Sat TV (US):US/Eastern
 Takbeer TV (UK):Europe/London
 Talpa, RTL4:Europe/Amsterdam
