@@ -2045,6 +2045,7 @@ Red Hot TV:Europe/London
 Rede Bandeirantes:America/Sao_Paulo
 Rede Globo:America/Sao_Paulo
 RedeTV! (BR):America/Sao_Paulo
+Reelz:US/Eastern
 ReelzChannel:US/Eastern
 Reformation Channel (US):US/Eastern
 Renault TV (UK):Europe/London
