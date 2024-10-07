@@ -2045,6 +2045,7 @@ Red Hot TV:Europe/London
 Rede Bandeirantes:America/Sao_Paulo
 Rede Globo:America/Sao_Paulo
 RedeTV! (BR):America/Sao_Paulo
+Reelz:US/Eastern
 ReelzChannel:US/Eastern
 Reformation Channel (US):US/Eastern
 Renault TV (UK):Europe/London
@@ -2615,6 +2616,7 @@ TWC Deportes (US):US/Eastern
 TWC SportsNet (US):US/Eastern
 TWiT:US/Eastern
 TXCN (US):US/Eastern
+TXN (Japan):Asia/Tokyo
 Tai Seng Sat TV (US):US/Eastern
 Takbeer TV (UK):Europe/London
 Talpa, RTL4:Europe/Amsterdam
@@ -2734,6 +2736,7 @@ Télétoon:Europe/Paris
 U&Dave:Europe/London
 U&Yesterday:Europe/London
 U+ Mobile TV:Asia/Seoul
+U:Pacific/Auckland
 UBC Channel 10 (TH):Asia/Bangkok
 UBC TV NETWORK (US):US/Eastern
 UCB TV (UK):Europe/London
