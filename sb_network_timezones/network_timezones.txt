@@ -1908,6 +1908,7 @@ Prime (NZ):Pacific/Auckland
 Prime Video:US/Eastern
 Prime:Pacific/Auckland
 Primetime (UK):Europe/London
+Pro TV:Europe/Bucharest
 ProSieben Fun:Europe/Berlin
 ProSieben MAXX:Europe/Berlin
 ProSieben:Europe/Berlin
