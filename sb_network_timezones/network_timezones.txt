@@ -889,6 +889,7 @@ Exitos TV (US):US/Eastern
 Explora:Canada/Eastern
 Extreme Sports Channel (UK):Europe/London
 F1TV:Europe/London
+FAMOUS:Australia/Sydney
 FEARNet:US/Eastern
 FEARnet:US/Eastern
 FEM:Europe/London
