@@ -99,6 +99,7 @@ ABW (AU):Australia/Sydney
 ACBN (US):US/Eastern
 ACN (US):US/Eastern
 ACTION MOVIES (AU):Australia/Sydney
+ADN:Europe/Paris
 ADS (AU):Australia/Sydney
 AHC:US/Eastern
 AIS PLAY:Asia/Bangkok
@@ -226,9 +227,11 @@ Angel.com:US/Eastern
 Anhui TV:Asia/Shanghai
 Animal Planet (AU):Australia/Sydney
 Animal Planet:US/Eastern
+Animation Digital Network:Europe/Paris
 Animax (DE):Europe/Berlin
 Animax (SG):Asia/Singapore
 Animax:Asia/Tokyo
+Anime Digital Network:Europe/Paris
 Anime Network:US/Eastern
 Anime OAV:Asia/Tokyo
 Antena 1:Europe/Bucharest
