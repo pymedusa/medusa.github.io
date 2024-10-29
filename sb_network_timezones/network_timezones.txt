@@ -570,6 +570,7 @@ Channel 10:Asia/Jerusalem
 Channel 13:Asia/Jerusalem
 Channel 2:Asia/Jerusalem
 Channel 3:Asia/Bangkok
+Channel 4 (Online):Europe/London
 Channel 4 Television Corporation:Europe/London
 Channel 4+:Europe/London
 Channel 4:Europe/London
