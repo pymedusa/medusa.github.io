@@ -2668,6 +2668,7 @@ The Africa Channel:Europe/London
 The Amp:Europe/London
 The Anime Network:US/Eastern
 The Box:Europe/London
+The CW App:US/Eastern
 The CW Network (The CW):US/Eastern:Canada/Eastern
 The CW:US/Eastern
 The Comedy Channel (AU):Australia/Sydney
