@@ -2741,6 +2741,7 @@ Télé Monte Carlo (FR):Europe/Paris
 Télé-Québec:Canada/Eastern
 Télétoon:Europe/Paris
 U&Dave:Europe/London
+U&W:Europe/London
 U&Yesterday:Europe/London
 U+ Mobile TV:Asia/Seoul
 U:Pacific/Auckland
