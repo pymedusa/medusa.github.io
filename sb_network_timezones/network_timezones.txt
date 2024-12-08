@@ -2741,6 +2741,7 @@ Télé (CA):Canada/Eastern
 Télé Monte Carlo (FR):Europe/Paris
 Télé-Québec:Canada/Eastern
 Télétoon:Europe/Paris
+U&Alibi:Europe/London
 U&Dave:Europe/London
 U&W:Europe/London
 U&Yesterday:Europe/London
