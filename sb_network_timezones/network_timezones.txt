@@ -1749,6 +1749,7 @@ Noggin:US/Eastern
 Nolife:Europe/Paris
 Nollywood Movies (UK):Europe/London
 Noor TV (UK):Europe/London
+Noovo:Canada/Eastern
 Norddeutscher Rundfunk (NDR):Europe/Berlin
 Norsk Rikskringkasting (NRK):Europe/Oslo
 Northern Television (CA):Canada/Eastern
