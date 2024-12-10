@@ -1749,6 +1749,7 @@ Noggin:US/Eastern
 Nolife:Europe/Paris
 Nollywood Movies (UK):Europe/London
 Noor TV (UK):Europe/London
+Noovo:Canada/Eastern
 Norddeutscher Rundfunk (NDR):Europe/Berlin
 Norsk Rikskringkasting (NRK):Europe/Oslo
 Northern Television (CA):Canada/Eastern
@@ -2740,7 +2741,9 @@ Télé (CA):Canada/Eastern
 Télé Monte Carlo (FR):Europe/Paris
 Télé-Québec:Canada/Eastern
 Télétoon:Europe/Paris
+U&Alibi:Europe/London
 U&Dave:Europe/London
+U&W:Europe/London
 U&Yesterday:Europe/London
 U+ Mobile TV:Asia/Seoul
 U:Pacific/Auckland
