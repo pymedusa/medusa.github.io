@@ -1403,6 +1403,7 @@ Liberty TV:Europe/London
 Life Network (CA):Canada/Eastern
 Life OK:Asia/Kolkata
 Life Style. Food:Australia/Sydney
+Life Style.:Australia/Sydney
 LifeStyle FOOD:Australia/Sydney
 LifeStyle Food:Australia/Sydney
 LifeStyle HOME:Australia/Sydney
@@ -1699,6 +1700,7 @@ National Geographic Adventure:US/Eastern
 National Geographic Channel:US/Eastern
 National Geographic Nederland-België:Europe/Amsterdam
 National Geographic WILD:US/Eastern
+National Geographic Wild:US/Eastern
 National Geographic: Wild:US/Eastern
 National Geographic:US/Eastern
 National Jewish Television (US):US/Eastern
