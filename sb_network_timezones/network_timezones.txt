@@ -541,6 +541,7 @@ Canal+ (FR):Europe/Paris
 Canal+ Cyfrowy:Europe/Warsaw
 Canal+ Poland:Europe/Warsaw
 Canal+ Polska:Europe/Warsaw
+Canal+ Premium:Europe/Warsaw
 Canal+:Europe/Paris
 Canale 5:Europe/Rome
 Cancao News (US):US/Eastern
