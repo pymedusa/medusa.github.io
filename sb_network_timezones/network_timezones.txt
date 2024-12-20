@@ -541,6 +541,7 @@ Canal+ (FR):Europe/Paris
 Canal+ Cyfrowy:Europe/Warsaw
 Canal+ Poland:Europe/Warsaw
 Canal+ Polska:Europe/Warsaw
+Canal+ Premium:Europe/Warsaw
 Canal+:Europe/Paris
 Canale 5:Europe/Rome
 Cancao News (US):US/Eastern
@@ -2745,8 +2746,10 @@ Télé-Québec:Canada/Eastern
 Télétoon:Europe/Paris
 U&Alibi:Europe/London
 U&Dave:Europe/London
+U&GOLD:Europe/London
 U&W:Europe/London
 U&Yesterday:Europe/London
+U&alibi:Europe/London
 U+ Mobile TV:Asia/Seoul
 U:Pacific/Auckland
 UBC Channel 10 (TH):Asia/Bangkok
