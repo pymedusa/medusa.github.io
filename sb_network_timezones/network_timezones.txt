@@ -2425,6 +2425,7 @@ TELECARE (US):US/Eastern
 TELEMUNDO PUERTO RICO (US):US/Eastern
 TEN Sports:Asia/Kolkata
 TENNIS CHANNEL (US):US/Eastern
+TF1 Vidéo:Europe/Paris
 TF1:Europe/Paris
 TF6 (FR):Europe/Paris
 TFO:Canada/Eastern
