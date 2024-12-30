@@ -222,6 +222,7 @@ American Liberty (US):US/Eastern
 American Movie Classics (AMC):US/Eastern
 América TV:America/Buenos_Aires
 Angel One (US):US/Eastern
+Angel Studios:US/Eastern
 Angel Two (US):US/Eastern
 Angel.com:US/Eastern
 Anhui TV:Asia/Shanghai
