@@ -1882,6 +1882,7 @@ Planet POP (UK):Europe/London
 Planète+ A&E:Europe/Paris
 Planète+:Europe/Paris
 Play More:Europe/Brussels
+Play RTS:Europe/Zurich
 Play UK, BBC Choice:Europe/London
 Play UK:Europe/London
 Play4:Europe/Brussels
