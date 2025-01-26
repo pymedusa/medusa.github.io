@@ -2952,6 +2952,7 @@ Weather Network (CA):Canada/Eastern
 WeatherNation (US):US/Eastern
 West Digital Television (AU):Australia/Sydney
 Westdeutscher Rundfunk:Europe/Berlin
+Western Bound:US/Eastern
 Wink:Europe/Moscow
 Word Network (UK):Europe/London
 Worship (US):US/Eastern
