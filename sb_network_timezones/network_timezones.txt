@@ -1206,6 +1206,7 @@ History:US/Eastern
 Hoichoi:Asia/Kolkata
 Holiday & Cruise (UK):Europe/London
 Home Box Office (HBO):US/Eastern
+Home Network:Canada/Eastern
 Home Team Networks (US):US/Eastern
 Home and Garden Television (HGTV):US/Eastern
 Hope CHANNEL (US):US/Eastern
@@ -2782,6 +2783,7 @@ UNTV 37:Asia/Manila
 UP (US):US/Eastern
 UP TV:US/Eastern
 UPN:US/Eastern
+USA Network (CA):Canada/Eastern
 USA Network:US/Eastern
 UTV (UK):Europe/London
 UTV:Europe/Dublin
@@ -2894,6 +2896,7 @@ Voot:Asia/Kolkata
 VoxAfrica (UK):Europe/London
 Voyage:Europe/Paris
 Voyo:Europe/Prague
+Vrai:Canada/Eastern
 Vrak.TV:Canada/Eastern
 Vudu:US/Eastern
 W Movies (CA):Canada/Eastern
@@ -2950,6 +2953,7 @@ Weather Network (CA):Canada/Eastern
 WeatherNation (US):US/Eastern
 West Digital Television (AU):Australia/Sydney
 Westdeutscher Rundfunk:Europe/Berlin
+Western Bound:US/Eastern
 Wink:Europe/Moscow
 Word Network (UK):Europe/London
 Worship (US):US/Eastern
