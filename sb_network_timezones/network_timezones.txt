@@ -1800,6 +1800,7 @@ OnStyle:Asia/Seoul
 One 31:Asia/Bangkok
 One America NEWS NETWORK (US):US/Eastern
 One World Sport (US):US/Eastern
+One31:Asia/Bangkok
 Online - www.cad-series.com:US/Eastern
 Online:Europe/London
 Open Heaven TV (UK):Europe/London
@@ -2161,6 +2162,7 @@ STAR Sports Malaysia:Asia/Kuala_Lumpur
 STAR Sports Southeast Asia:Asia/Hong_Kong
 STAR Sports Taiwan:Asia/Taipei
 STAR Vijay:Asia/Kolkata
+STAR+:US/Eastern
 STARZ:US/Eastern
 STB:Europe/Kiev
 STQ (AU):Australia/Sydney
@@ -2717,6 +2719,7 @@ Tokyo Broadcasting System:Asia/Tokyo
 Tokyo MX:Asia/Tokyo
 Tokyo Metropolitan Television:Asia/Tokyo
 Toon Disney:US/Eastern
+Topic:US/Eastern
 Total Living Network (US):US/Eastern
 Total Variety Network (tvN):Asia/Seoul
 Total Variety Network:Asia/Seoul
@@ -2771,6 +2774,7 @@ UKTV History:Europe/London
 UKTV Play:Europe/London
 UKTV Style:Europe/London
 UKTV Yesterday:Europe/London
+UMC:US/Eastern
 UMP Movies (UK):Europe/London
 UMP Stars (UK):Europe/London
 UND SPORTS NETWORK (US):US/Eastern
@@ -2840,6 +2844,7 @@ VIVA (PL):Europe/Warsaw
 VIVA (UK):Europe/London
 VK3RTV (AU):Australia/Sydney
 VODO (US):US/Eastern
+VOOT:Asia/Kolkata
 VOX:Europe/Berlin
 VPRO:Europe/Amsterdam
 VRT 1:Europe/Brussels
@@ -3005,6 +3010,7 @@ ZDFneo:Europe/Berlin
 ZDTV (CA):Canada/Eastern
 ZED:Canada/Eastern
 ZEE TV (UK):Europe/London
+ZEE5:Asia/Kolkata
 ZOOM:Asia/Kolkata
 ZTV (SE):Europe/Stockholm
 ZUUS Country (US):US/Eastern
@@ -3246,6 +3252,7 @@ vtm:Europe/Brussels
 vtmKzoom:Europe/Brussels
 watcha:Asia/Seoul
 watchmenmotioncomic.com (US):US/Eastern
+wavve:Asia/Seoul
 weatherscan (US):US/Eastern
 wedding tv (UK):Europe/London
 westlink (AU):Australia/Sydney
