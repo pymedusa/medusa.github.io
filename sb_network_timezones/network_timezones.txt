@@ -35,6 +35,7 @@
 4SD (US):US/Eastern
 5 abc (US):US/Eastern
 5* (UK):Europe/London
+5:Europe/London
 5STAR:Europe/London
 5Star:Europe/London
 5USA (UK):Europe/London
@@ -2940,8 +2941,8 @@ WWE Network:US/Eastern
 WWJ-TV Detroit (US):US/Eastern
 Wah Lai Toi (MY):Asia/Kuala_Lumpur
 Wakker Nederland (NL):Europe/Amsterdam
-Warhammer+:US/Eastern
 Warhammer TV:US/Eastern
+Warhammer+:US/Eastern
 Warner Bros.:US/Eastern
 Warner Channel (AR):America/Buenos_Aires
 Warner Channel:US/Eastern
