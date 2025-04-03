@@ -3,6 +3,7 @@
 &TV:Asia/Kolkata
 +Globosat:America/Sao_Paulo
 1+1:Europe/Kiev
+10 Play:Australia/Sydney
 10 Shake:Australia/Sydney
 111 Greats (AU):Australia/Sydney
 13 רשת:Asia/Jerusalem
@@ -350,10 +351,12 @@ BT Sport 2 (UK):Europe/London
 BTQ (AU):Australia/Sydney
 BTV:Asia/Shanghai
 BYU Television:US/Eastern
+BYUtv.org:US/Eastern
 BYUtv:US/Eastern
 BabyFirstTV:US/Eastern
 BabyTV (UK):Europe/London
 Babytv (US):US/Eastern
+Band:US/Eastern
 Bandai Channel (JP):Asia/Tokyo
 Bandai Channel:Asia/Tokyo
 Bangla TV (UK):Europe/London
@@ -423,6 +426,7 @@ CATHOLICTV (US):US/Eastern
 CBBC:Europe/London
 CBC (CA):Canada/Eastern
 CBC (JP):Asia/Tokyo
+CBC Comedy:Canada/Eastern
 CBC Gem:Canada/Eastern
 CBC News Network:Canada/Eastern
 CBC Television:Canada/Eastern
@@ -618,6 +622,7 @@ CineMax:US/Eastern
 Cinelatino (US):US/Eastern
 Cinema Heaven:Asia/Seoul
 Cinemax:US/Eastern
+Citra HD:Asia/Jakarta
 Citv (UK):Europe/London
 City Channel:Europe/Dublin
 City:Canada/Eastern
@@ -703,6 +708,7 @@ DMAX:Europe/Berlin
 DR K:Europe/Copenhagen
 DR Ramasjang:Europe/Copenhagen
 DR TV:Europe/Copenhagen
+DR Ultra:Europe/Copenhagen
 DR1:Europe/Copenhagen
 DR2:Europe/Copenhagen
 DR3:Europe/Copenhagen
@@ -1286,6 +1292,7 @@ JUS ONE (US):US/Eastern
 JUS PUNJABI (US):US/Eastern
 JUSTICE CENTRAL (US):US/Eastern
 Jak-TV (ID):Asia/Jakarta
+Jauntvr:US/Eastern
 Jetix (NL):Europe/Amsterdam
 Jetix:Europe/Amsterdam
 Jeuxvideo.com:Europe/Paris
@@ -1576,6 +1583,7 @@ Movistar TV:America/Santiago
 Movistar+:Europe/Madrid
 Much (CA):Canada/Eastern
 Much TV:Asia/Taipei
+MuchMore:Canada/Eastern
 MuchMusic (CA):Canada/Eastern
 Multimedios Television (US):US/Eastern
 Multishow:America/Sao_Paulo
@@ -1772,6 +1780,7 @@ OCS Max:Europe/Paris
 OCS:Europe/Paris
 OLN:Canada/Eastern
 OMNI TELEVISION (CA):Canada/Eastern
+OMNI:Canada/Eastern
 ONDirecTV (Latin America):America/Buenos_Aires
 ONE (NZ):Pacific/Auckland
 ONE 31:Asia/Bangkok
@@ -2736,6 +2745,7 @@ Treehouse:Canada/Eastern
 Trend E:Asia/Seoul
 Trinity Broadcasting Network (US):US/Eastern
 Trio:US/Eastern
+True Crime Network:US/Eastern
 True Crime:Europe/London
 True Drama (UK):Europe/London
 True Entertainment (UK):Europe/London
@@ -2878,6 +2888,7 @@ Viceland:US/Eastern
 Victor Entertainment:Asia/Tokyo
 Victory Television Network (US):US/Eastern
 VidAngel (USA):US/Eastern
+VidAngel:US/Eastern
 Videoland (NL):Europe/Amsterdam
 Videoland Television Network:Asia/Taipei
 Videoland:Europe/Amsterdam
@@ -3055,6 +3066,7 @@ biTe (CA):Canada/Eastern
 bilibili:Asia/Shanghai
 bio. (AU):Australia/Sydney
 blip (US):US/Eastern
+bravo:Canada/Eastern
 bravotv.com (US):US/Eastern
 cartoonito (UK):Europe/London
 casa club tv (US):US/Eastern
