@@ -1008,6 +1008,7 @@ Fitness Channel (UK):Europe/London
 Five Life:Europe/London
 Five US:Europe/London
 Five:Europe/London
+Flavour Network:Canada/Eastern
 Flooxer:Europe/Madrid
 Flow TV (US):US/Eastern
 Focus:Europe/Rome
