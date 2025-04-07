@@ -151,6 +151,7 @@ ATN Service 1 (US):US/Eastern
 ATN Service 2 (US):US/Eastern
 ATRESplayer PREMIUM:Europe/Madrid
 ATRESplayer Premium:Europe/Madrid
+ATV (AT):Europe/Vienna
 ATV (AU):Australia/Sydney
 ATV (BE):Europe/Brussels
 ATV (DE):Europe/Berlin
@@ -767,6 +768,7 @@ Discovery GO:US/Eastern
 Discovery HD World:Asia/Singapore
 Discovery HISTORY (UK):Europe/London
 Discovery Health Channel:US/Eastern
+Discovery Home & Health:Europe/London
 Discovery Kids:US/Eastern
 Discovery Life:US/Eastern
 Discovery MAX:Europe/Madrid
@@ -933,6 +935,7 @@ FOX FOOTY (AU):Australia/Sydney
 FOX NEWS channel (US):US/Eastern
 FOX News Channel (UK):Europe/London
 FOX ROCHESTER (US):US/Eastern
+FOX Reality:US/Eastern
 FOX SOCCER plus (US):US/Eastern
 FOX SPORTS (AU):Australia/Sydney
 FOX SPORTS 2 (AU):Australia/Sydney
@@ -1005,6 +1008,7 @@ Fitness Channel (UK):Europe/London
 Five Life:Europe/London
 Five US:Europe/London
 Five:Europe/London
+Flavour Network:Canada/Eastern
 Flooxer:Europe/Madrid
 Flow TV (US):US/Eastern
 Focus:Europe/Rome
@@ -2158,6 +2162,7 @@ SPORTSNET WORLD (CA):Canada/Eastern
 SR:Europe/Berlin
 SRC:Canada/Eastern
 SRF 1:Europe/Zurich
+SRF Schweizer Radio und Fernsehen:Europe/Zurich
 SRF zwei:Europe/Berlin
 STAR Chinese Channel:Asia/Taipei
 STAR Gold:Asia/Kolkata
