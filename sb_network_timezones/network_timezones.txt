@@ -37,6 +37,7 @@
 5 abc (US):US/Eastern
 5* (UK):Europe/London
 5:Europe/London
+5Action:Europe/London
 5STAR:Europe/London
 5Star:Europe/London
 5USA (UK):Europe/London
@@ -49,6 +50,7 @@
 7mate:Australia/Sydney
 8TV (MY):Asia/Kuala_Lumpur
 9:Australia/Sydney
+9Gem:Australia/Sydney
 9Live (DE):Europe/Berlin
 9XM (UK):Europe/London
 A Haber:Europe/Istanbul
