@@ -177,6 +177,7 @@ Aaj Tak (UK):Europe/London
 Aastha TV (UK):Europe/London
 Abema TV:Asia/Tokyo
 AbemaTV:Asia/Tokyo
+Aboriginal Peoples Television Network:Canada/Eastern
 Abu Dhabi TV (UK):Europe/London
 Abu Dhabi TV:Asia/Dubai
 Acasă (RO):Europe/Bucharest
@@ -258,6 +259,7 @@ Associated Broadcasting Company (PH):Asia/Manila
 At the Races (UK):Europe/London
 Atomic Network:US/Eastern
 Atresplayer Premium:Europe/Madrid
+Atresplayer:Europe/Madrid
 Audience Network:US/Eastern
 Audience:US/Eastern
 Australian Broadcasting Corporation (ABC):Australia/Sydney
@@ -994,6 +996,7 @@ FYI Asia:Asia/Singapore
 FYI Network:US/Eastern
 FYI:US/Eastern
 Facebook Watch:US/Pacific
+Facebook:US/Eastern
 Faith World TV (UK):Europe/London
 Family (CA):Canada/Eastern
 Family CHRGD:Canada/Eastern
@@ -1898,6 +1901,7 @@ Pivot:US/Eastern
 Planet Green:US/Eastern
 Planet POP (UK):Europe/London
 Planète+ A&E:Europe/Paris
+Planète+ Crime Investigation:Europe/Paris
 Planète+:Europe/Paris
 Play More:Europe/Brussels
 Play RTS:Europe/Zurich
@@ -2721,6 +2725,7 @@ This TV:US/Eastern
 Three:Pacific/Auckland
 ThreeNow:Pacific/Auckland
 Tien (NL):Europe/Amsterdam
+TikTok:US/Eastern
 Time Warner Cable News Austin (US):US/Eastern
 Time Warner Cable News Buffalo (US):US/Eastern
 Time Warner Cable News Capital Region (US):US/Eastern
@@ -3134,6 +3139,7 @@ here!:US/Eastern
 home (UK):Europe/London
 hulu Japan:Asia/Tokyo
 iCHANNEL (CA):Canada/Eastern
+iQIYI International:Asia/Kuala_Lumpur
 iQIYI:Asia/Shanghai
 iQiyi:Asia/Shanghai
 iTunes (US):US/Eastern
