@@ -1072,6 +1072,7 @@ Frost Great Outdoors (US):US/Eastern
 Fuel TV:US/Eastern
 Fuji TV:Asia/Tokyo
 Fullscreen:US/Eastern
+Funk:Europe/Berlin
 Funny or Die:US/Eastern
 Fuse:US/Eastern
 Fusion (US):US/Eastern
@@ -1160,6 +1161,7 @@ HBO Latin America:America/Sao_Paulo
 HBO Magyarország:Europe/Budapest
 HBO Max:US/Eastern
 HBO Nordic:Europe/Stockholm
+HBO Romania:Europe/Bucharest
 HBO Signature (US):US/Eastern
 HBO Česká Republika:Europe/Prague
 HBO2 (US):US/Eastern
@@ -1200,6 +1202,7 @@ Healthy Living Network (US):US/Eastern
 Heart TV (UK):Europe/London
 Heavenly:Asia/Seoul
 Here TV:US/Eastern
+Hessischer Rundfunk:Europe/Berlin
 Het Gesprek (NL):Europe/Amsterdam
 HiT Entertainment:Europe/London
 Hidayat TV (UK):Europe/London
