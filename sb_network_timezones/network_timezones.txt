@@ -1872,6 +1872,7 @@ Pac-12 Washington (US):US/Eastern
 Pakapaka:America/Buenos_Aires
 Pakistan Television Corporation (PK):Asia/Karachi
 Pantaya:US/Eastern
+Paramount + Premium:US/Eastern
 Paramount Comedy:Europe/London
 Paramount Network:US/Eastern
 Paramount+ with Showtime:US/Eastern
