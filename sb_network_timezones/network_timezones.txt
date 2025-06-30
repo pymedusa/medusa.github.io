@@ -1878,6 +1878,7 @@ Pantaya:US/Eastern
 Paramount + Premium:US/Eastern
 Paramount Comedy:Europe/London
 Paramount Network:US/Eastern
+Paramount+ Premium:US/Eastern
 Paramount+ with Showtime:US/Eastern
 Paramount+:US/Eastern
 Paravi:Asia/Tokyo
