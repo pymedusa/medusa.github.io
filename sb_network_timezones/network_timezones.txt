@@ -2559,6 +2559,7 @@ TV Tokyo:Asia/Tokyo
 TV Venezuela (US):US/Eastern
 TV11:Europe/Stockholm
 TV1:Europe/Stockholm
+TV2 (HU):Europe/Budapest
 TV2 (NO):Europe/Oslo
 TV2 (NZ):Pacific/Auckland
 TV2 Sumo:Europe/Oslo
