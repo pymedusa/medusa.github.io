@@ -5,6 +5,7 @@
 1+1:Europe/Kiev
 10 Play:Australia/Sydney
 10 Shake:Australia/Sydney
+10:Australia/Sydney
 111 Greats (AU):Australia/Sydney
 13 רשת:Asia/Jerusalem
 13TH STREET (AU):Australia/Sydney
@@ -560,6 +561,7 @@ Canvas/Ketnet:Europe/Brussels
 Canvas:Europe/Brussels
 Capital TV (UK):Europe/London
 Caracol TV:America/Bogota
+Caracol Televisión:America/Bogota
 Carlton Television:Europe/London
 Cartoon Hangover:US/Pacific
 Cartoon Network (CA):Canada/Eastern
@@ -638,6 +640,7 @@ Club Illico:Canada/Eastern
 Club RTL:Europe/Brussels
 Club illico:Canada/Eastern
 Clubland (UK):Europe/London
+CollegeHumor:US/Eastern
 Collegehumor:US/Eastern
 Colorado's Own Channel 2 (US):US/Eastern
 Colors (UK):Europe/London
@@ -1279,6 +1282,7 @@ Ideal Extra (UK):Europe/London
 Ideal World (UK):Europe/London
 Impact TV (US):US/Eastern
 Imparja (AU):Australia/Sydney
+Incorporated Television Company (ITC):Europe/London
 Independent Television (ITV):Europe/London
 Indus Music:Asia/Karachi
 Indus News:Asia/Karachi
@@ -1311,6 +1315,7 @@ Jeuxvideo.com:Europe/Paris
 Jewellery Channel (UK):Europe/London
 Jewellery Maker (UK):Europe/London
 Jiangsu TV:Asia/Shanghai
+JioHotstar:Asia/Kolkata
 Joi:Europe/Rome
 Joyn (Germany):Europe/Berlin
 Joyn:Europe/Berlin
@@ -1836,6 +1841,7 @@ Outdoor Life Network:US/Eastern
 Outside TELEVISION (US):US/Eastern
 Outside TV:US/Eastern
 Ovation TV:US/Eastern
+Ovation:US/Eastern
 Overcomer Ministries (US):US/Eastern
 Oxygen True Crime:US/Eastern
 Oxygen:US/Eastern
@@ -2559,6 +2565,7 @@ TV Tokyo:Asia/Tokyo
 TV Venezuela (US):US/Eastern
 TV11:Europe/Stockholm
 TV1:Europe/Stockholm
+TV2 (HU):Europe/Budapest
 TV2 (NO):Europe/Oslo
 TV2 (NZ):Pacific/Auckland
 TV2 Sumo:Europe/Oslo
@@ -3071,6 +3078,7 @@ aptn (CA):Canada/Eastern
 arte (DE):Europe/Berlin
 aspire TV (AU):Australia/Sydney
 atresplayer:Europe/Madrid
+atv:Europe/Istanbul
 aurora (AU):Australia/Sydney
 aux (CA):Canada/Eastern
 azteca america (US):US/Eastern
