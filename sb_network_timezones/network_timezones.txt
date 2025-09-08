@@ -1545,6 +1545,7 @@ MTV2 (CA):Canada/Eastern
 MTV2:US/Eastern
 MTV3:Europe/Helsinki
 MTV:US/Eastern
+MUBI:Europe/London
 MUNDOFOX (US):US/Eastern
 MUTV:Europe/London
 MYXTV (US):US/Eastern
@@ -1583,6 +1584,7 @@ Mnet:Asia/Seoul
 Moi & Cie:Canada/Eastern
 Mojo:US/Eastern
 Mondo TV:Europe/Rome
+Mono29:Asia/Bangkok
 MoonTV:Europe/Helsinki
 More Than Movies (UK):Europe/London
 More4:Europe/London
@@ -1857,6 +1859,7 @@ PCNC (US):US/Eastern
 PIX 11 (US):US/Eastern
 POP (UK):Europe/London
 PPTV:Asia/Bangkok
+PPeach:Asia/Shanghai
 PREMIER (Russia):Europe/Moscow
 PREMIERE MOVIES (AU):Australia/Sydney
 PRO TV:Europe/Bucharest
@@ -2230,6 +2233,7 @@ Sahara ONE:Asia/Kolkata
 Sahara One (UK):Europe/London
 Salto:Europe/Paris
 Sangat TV (UK):Europe/London
+Sanlih E-Television:Asia/Taipei
 Sanskar:Asia/Kolkata
 Sat. 1 Comedy (DE):Europe/Berlin
 Sat.1 Emotions:Europe/Berlin
