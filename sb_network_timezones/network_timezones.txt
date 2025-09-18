@@ -1168,6 +1168,7 @@ HBO Latin America:America/Sao_Paulo
 HBO Magyarország:Europe/Budapest
 HBO Max:US/Eastern
 HBO Nordic:Europe/Stockholm
+HBO Polska:Europe/Warsaw
 HBO Romania:Europe/Bucharest
 HBO Signature (US):US/Eastern
 HBO Česká Republika:Europe/Prague
