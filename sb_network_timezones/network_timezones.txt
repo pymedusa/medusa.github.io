@@ -1157,6 +1157,7 @@ H2 (UK):Europe/London
 H2:US/Eastern
 HBO Asia:Asia/Singapore
 HBO Brasil:America/Sao_Paulo
+HBO Brazil:America/Sao_Paulo
 HBO CANADA:Canada/Eastern
 HBO Canada:Canada/Eastern
 HBO España:Europe/Madrid
