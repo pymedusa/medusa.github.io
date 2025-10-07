@@ -3006,6 +3006,7 @@ West Digital Television (AU):Australia/Sydney
 Westdeutscher Rundfunk:Europe/Berlin
 Western Bound:US/Eastern
 Wink:Europe/Moscow
+Wonder Project:US/Eastern
 Word Network (UK):Europe/London
 Worship (US):US/Eastern
 XBOX Live:US/Eastern
