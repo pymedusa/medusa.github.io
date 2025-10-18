@@ -1149,6 +1149,7 @@ Good Food (UK):Europe/London
 Gospel Channel (UK):Europe/London
 Great American Country:US/Eastern
 Great American Family:US/Eastern
+Great American Pure Flix:US/Eastern
 Greatest Hits (UK):Europe/London
 Guardian Television Network:US/Eastern
 Gulli:Europe/Paris
