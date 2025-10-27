@@ -2676,6 +2676,7 @@ TWC SportsNet (US):US/Eastern
 TWiT:US/Eastern
 TXCN (US):US/Eastern
 TXN (Japan):Asia/Tokyo
+TYSONPlus:US/Eastern
 Tai Seng Sat TV (US):US/Eastern
 Takbeer TV (UK):Europe/London
 Talpa, RTL4:Europe/Amsterdam
@@ -2792,6 +2793,7 @@ Turner South:US/Eastern
 Tv2:Europe/Oslo
 Twitch:US/Eastern
 Twitter:US/Eastern
+TysonPlus:US/Eastern
 Télé (CA):Canada/Eastern
 Télé Monte Carlo (FR):Europe/Paris
 Télé-Québec:Canada/Eastern
