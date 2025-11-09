@@ -310,6 +310,7 @@ BBC Parliament:Europe/London
 BBC Prime:Europe/London
 BBC RED BUTTON:Europe/London
 BBC Scotland:Europe/London
+BBC Studios:Europe/London
 BBC THREE:Europe/London
 BBC TWO Northern Ireland:Europe/London
 BBC TWO Scotland:Europe/London
