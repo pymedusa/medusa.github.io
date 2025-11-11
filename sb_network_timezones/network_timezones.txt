@@ -310,6 +310,7 @@ BBC Parliament:Europe/London
 BBC Prime:Europe/London
 BBC RED BUTTON:Europe/London
 BBC Scotland:Europe/London
+BBC Studios:Europe/London
 BBC THREE:Europe/London
 BBC TWO Northern Ireland:Europe/London
 BBC TWO Scotland:Europe/London
@@ -350,6 +351,7 @@ BR:Europe/Berlin
 BRTN:Europe/Brussels
 BS Fuji (JP):Asia/Tokyo
 BS Fuji:Asia/Tokyo
+BS Nippon TV:Asia/Tokyo
 BS-i (JP):Asia/Tokyo
 BS-i:Asia/Tokyo
 BS11:Asia/Tokyo
