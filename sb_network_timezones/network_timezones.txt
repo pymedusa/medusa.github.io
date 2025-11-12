@@ -352,6 +352,8 @@ BRTN:Europe/Brussels
 BS Fuji (JP):Asia/Tokyo
 BS Fuji:Asia/Tokyo
 BS Nippon TV:Asia/Tokyo
+BS TV Tokyo:Asia/Tokyo
+BS-TBS:Asia/Tokyo
 BS-i (JP):Asia/Tokyo
 BS-i:Asia/Tokyo
 BS11:Asia/Tokyo
@@ -1391,6 +1393,7 @@ Klear TV (UK):Europe/London
 Knowledge Network:Canada/Eastern
 Koldcast.tv (US):US/Eastern
 Korean Channel (US):US/Eastern
+Kuaishou:Asia/Shanghai
 Kunskapskanalen:Europe/Stockholm
 Kyoto Broadcasting System:Asia/Tokyo
 Kyushu Asahi Broadcasting:Asia/Tokyo
@@ -2470,6 +2473,7 @@ TCT (US):US/Eastern
 TCT Family (US):US/Eastern
 TDT (AU):Australia/Sydney
 TED.com:US/Eastern
+TELASA:Asia/Tokyo
 TELECARE (US):US/Eastern
 TELEMUNDO PUERTO RICO (US):US/Eastern
 TEN Sports:Asia/Kolkata
@@ -3217,6 +3221,7 @@ mun2 (US):US/Eastern
 my38 (US):US/Eastern
 my9 (US):US/Eastern
 myCANAL:Europe/Paris
+myVideo:Asia/Taipei
 mynetworkTV (US):US/Eastern
 myspace.com (US):US/Eastern
 mystery TV (CA):Canada/Eastern
