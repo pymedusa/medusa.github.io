@@ -3079,6 +3079,7 @@ Zee Muzic:Asia/Kolkata
 Zee Punjabi (UK):Europe/London
 Zee TV:Asia/Kolkata
 Zeus Network:US/Eastern
+Zeus:US/Eastern
 Zhejiang TV:Asia/Shanghai
 Zing (UK):Europe/London
 Ztélé:Canada/Eastern
