@@ -317,6 +317,7 @@ BBC TWO Scotland:Europe/London
 BBC TWO Wales:Europe/London
 BBC TWO:Europe/London
 BBC Three:Europe/London
+BBC Two Scotland:Europe/London
 BBC Two:Europe/London
 BBC UKTV (AU):Australia/Sydney
 BBC Wales:Europe/London
@@ -1627,6 +1628,7 @@ My family tv (US):US/Eastern
 My5:Europe/London
 MyDestination.tv (US):US/Eastern
 MyNetworkTV:US/Eastern
+MyVideo:Asia/Taipei
 Mya:Europe/Rome
 NASA TELEVISION (US):US/Eastern
 NAT GEO PEOPLE (AU):Australia/Sydney
@@ -2584,10 +2586,11 @@ TV1:Europe/Stockholm
 TV2 (HU):Europe/Budapest
 TV2 (NO):Europe/Oslo
 TV2 (NZ):Pacific/Auckland
+TV2 Play:Europe/Copenhagen
 TV2 Sumo:Europe/Oslo
 TV2 Zulu:Europe/Copenhagen
 TV2:Pacific/Auckland
-TV2 Play:Europe/Copenhagen
+TV3 (DK):Europe/Copenhagen
 TV3 (ES):Europe/Madrid
 TV3 (IE):Europe/Dublin
 TV3 (NO):Europe/Oslo
@@ -2597,7 +2600,6 @@ TV3 Danmark:Europe/Copenhagen
 TV3 Puls:Europe/Copenhagen
 TV3+:Europe/Copenhagen
 TV3:Europe/Stockholm
-TV3 (DK):Europe/Copenhagen
 TV4 (SE):Europe/Stockholm
 TV4 Fakta:Europe/Stockholm
 TV4 Guld:Europe/Stockholm
