@@ -3029,6 +3029,7 @@ Xbox Live:US/Eastern
 Xbox Video:US/Eastern
 Xclusive:Asia/Seoul
 Xee:Europe/Copenhagen
+Xəzər TV:Asia/Baku
 YAHOO! View:US/Eastern
 YES (US):US/Eastern
 YESTERDAY (UK):Europe/London
