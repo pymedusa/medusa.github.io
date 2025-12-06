@@ -2911,6 +2911,7 @@ VRT:Europe/Brussels
 VRV Select:US/Eastern
 VRV:US/Eastern
 VT4:Europe/Brussels
+VTM GO:Europe/Brussels
 VTM:Europe/Brussels
 VTV (AU):Australia/Sydney
 Vara:Europe/Amsterdam
