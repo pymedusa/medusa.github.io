@@ -3,6 +3,7 @@
 &TV:Asia/Kolkata
 +Globosat:America/Sao_Paulo
 1+1:Europe/Kiev
+10 (Online):Australia/Sydney
 10 Play:Australia/Sydney
 10 Shake:Australia/Sydney
 10:Australia/Sydney
@@ -2812,6 +2813,7 @@ U&Alibi:Europe/London
 U&Dave:Europe/London
 U&Drama:Europe/London
 U&GOLD:Europe/London
+U&Gold:Europe/London
 U&W:Europe/London
 U&Yesterday:Europe/London
 U&alibi:Europe/London
