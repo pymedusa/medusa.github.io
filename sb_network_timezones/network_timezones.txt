@@ -217,6 +217,7 @@ Amarin TV:Asia/Bangkok
 Amazon (Japan):Asia/Tokyo
 Amazon Freevee:US/Eastern
 Amazon Instant Video:US/Eastern
+Amazon MX Player:Asia/Kolkata
 Amazon Prime Instant Video (UK):Europe/London
 Amazon Prime Instant Video:US/Eastern
 Amazon Prime Video:US/Eastern
