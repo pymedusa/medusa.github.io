@@ -1255,6 +1255,7 @@ Hub Network:US/Eastern
 Hulu Japan:Asia/Tokyo
 Hulu:US/Eastern
 Hunan TV:Asia/Shanghai
+Hunan Television:Asia/Hong_Kong
 Hungama:Asia/Kolkata
 Hír TV:Europe/Budapest
 IBC (PH):Asia/Manila
@@ -2957,6 +2958,7 @@ Vision 2 (UK):Europe/London
 Vision Heaven (US):US/Eastern
 Viu:Asia/Hong_Kong
 ViuTV:Asia/Hong_Kong
+Viva One:Asia/Manila
 Viên Thao TV (US):US/Eastern
 Vme (US):US/Eastern
 Volksmusik TV:Europe/Berlin
@@ -3023,9 +3025,11 @@ WeatherNation (US):US/Eastern
 West Digital Television (AU):Australia/Sydney
 Westdeutscher Rundfunk:Europe/Berlin
 Western Bound:US/Eastern
+Weverse:Asia/Seoul
 Wink:Europe/Moscow
 Wonder Project:US/Eastern
 Word Network (UK):Europe/London
+Workpoint TV:Asia/Bangkok
 Worship (US):US/Eastern
 XBOX Live:US/Eastern
 XY TV:US/Eastern
