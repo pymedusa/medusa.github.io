@@ -1255,7 +1255,7 @@ Hub Network:US/Eastern
 Hulu Japan:Asia/Tokyo
 Hulu:US/Eastern
 Hunan TV:Asia/Shanghai
-Hunan Television:Asia/Hong_Kong
+Hunan Television:Asia/Shanghai
 Hungama:Asia/Kolkata
 Hír TV:Europe/Budapest
 IBC (PH):Asia/Manila
