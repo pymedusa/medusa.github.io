@@ -51,6 +51,7 @@
 7flix:Australia/Sydney
 7mate (AU):Australia/Sydney
 7mate:Australia/Sydney
+7plus:Australia/Sydney
 8TV (MY):Asia/Kuala_Lumpur
 9:Australia/Sydney
 9Gem:Australia/Sydney
