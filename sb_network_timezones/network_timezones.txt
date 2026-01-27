@@ -236,6 +236,7 @@ Angel One (US):US/Eastern
 Angel Studios:US/Eastern
 Angel Two (US):US/Eastern
 Angel.com:US/Eastern
+Angel:US/Eastern
 Anhui TV:Asia/Shanghai
 Animal Planet (AU):Australia/Sydney
 Animal Planet:US/Eastern
