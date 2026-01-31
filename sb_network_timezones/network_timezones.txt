@@ -2276,6 +2276,7 @@ Shalom TV (US):US/Eastern
 Shaw Media:Canada/Eastern
 Sheffield Live! (UK):Europe/London
 Shepherd's Chapel Network (US):US/Eastern
+Shockwave.com:US/Eastern
 Shopping Channel (CA):Canada/Eastern
 Show TV:Europe/Istanbul
 ShowMax:Africa/Johannesburg
