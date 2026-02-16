@@ -354,6 +354,7 @@ BR Fernsehen:Europe/Berlin
 BR-alpha:Europe/Berlin
 BR:Europe/Berlin
 BRTN:Europe/Brussels
+BS Asahi:Asia/Tokyo
 BS Fuji (JP):Asia/Tokyo
 BS Fuji:Asia/Tokyo
 BS Nippon TV:Asia/Tokyo
