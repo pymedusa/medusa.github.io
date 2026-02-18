@@ -855,6 +855,7 @@ E-Channel:Asia/Seoul
 E.tv (ZA):Africa/Johannesburg
 E4 (UK):Europe/London
 E4:Europe/Dublin
+EBS 1:Asia/Seoul
 EBS:Asia/Seoul
 EBU (EU):CET
 ECC TV (RU):Europe/Kaliningrad
