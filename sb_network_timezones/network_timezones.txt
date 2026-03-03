@@ -2853,6 +2853,7 @@ UNTAMED SPORTS tv (US):US/Eastern
 UNTV (US):US/Eastern
 UNTV 37:Asia/Manila
 UP (US):US/Eastern
+UP Faith & Family:US/Eastern
 UP TV:US/Eastern
 UPN:US/Eastern
 USA Network (CA):Canada/Eastern
