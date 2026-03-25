@@ -1500,6 +1500,7 @@ MBC Every1:Asia/Seoul
 MBC MASR:Africa/Cairo
 MBC Plus Media:Asia/Seoul
 MBC Queen:Asia/Seoul
+MBC Shahid:Asia/Dubai
 MBC:Asia/Seoul
 MBN:Asia/Seoul
 MBS TV:Asia/Tokyo
