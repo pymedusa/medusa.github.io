@@ -645,6 +645,7 @@ Citra HD:Asia/Jakarta
 Citv (UK):Europe/London
 City Channel:Europe/Dublin
 City:Canada/Eastern
+Citytv.com:Canada/Eastern
 Citytv:Canada/Eastern
 Classic Arts Showcase:US/Eastern
 Classic FM TV:Europe/London
