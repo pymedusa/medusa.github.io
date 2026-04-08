@@ -645,6 +645,7 @@ Citra HD:Asia/Jakarta
 Citv (UK):Europe/London
 City Channel:Europe/Dublin
 City:Canada/Eastern
+Citytv.com:Canada/Eastern
 Citytv:Canada/Eastern
 Classic Arts Showcase:US/Eastern
 Classic FM TV:Europe/London
@@ -1500,6 +1501,7 @@ MBC Every1:Asia/Seoul
 MBC MASR:Africa/Cairo
 MBC Plus Media:Asia/Seoul
 MBC Queen:Asia/Seoul
+MBC Shahid:Asia/Dubai
 MBC:Asia/Seoul
 MBN:Asia/Seoul
 MBS TV:Asia/Tokyo
