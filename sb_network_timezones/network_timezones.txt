@@ -1197,6 +1197,7 @@ HIFI:Canada/Eastern
 HISTORY (AU):Australia/Sydney
 HISTORY (UK):Europe/London
 HITN (US):US/Eastern
+HKSTV:Asia/Hong_Kong
 HKTV:Asia/Hong_Kong
 HLN:US/Eastern
 HOT3:Asia/Jerusalem
