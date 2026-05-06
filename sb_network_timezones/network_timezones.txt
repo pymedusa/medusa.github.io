@@ -56,6 +56,7 @@
 9:Australia/Sydney
 9Gem:Australia/Sydney
 9Live (DE):Europe/Berlin
+9Now:Australia/Sydney
 9XM (UK):Europe/London
 A Haber:Europe/Istanbul
 A&E (AU):Australia/Sydney
@@ -2534,6 +2535,7 @@ TRT Okul:Europe/Istanbul
 TRT Türk:Europe/Istanbul
 TRT World:Europe/Istanbul
 TRT Çocuk:Europe/Istanbul
+TRUE CRIME:Europe/London
 TRWAM (US):US/Eastern
 TSI1 (CH):Europe/Zurich
 TSN:Canada/Eastern
@@ -3217,6 +3219,7 @@ itv CHANNEL TV (UK):Europe/London
 itv ENCORE (UK):Europe/London
 itv LONDON (UK):Europe/London
 itv MERIDIAN (UK):Europe/London
+itv QUiZ:Europe/London
 itv TYNE TEES (UK):Europe/London
 itv WEST COUNTRY (UK):Europe/London
 itv YORKSHIRE (UK):Europe/London
