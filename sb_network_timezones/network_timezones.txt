@@ -1154,6 +1154,7 @@ Globo Play:America/Sao_Paulo
 Globoplay:America/Sao_Paulo
 Glory TV (UK):Europe/London
 Go90:US/Eastern
+GoPlay:Asia/Jakarta
 God Channel (UK):Europe/London
 God's Learning Channel (US):US/Eastern
 Gold:Europe/London
@@ -1945,11 +1946,11 @@ Play More:Europe/Brussels
 Play RTS:Europe/Zurich
 Play UK, BBC Choice:Europe/London
 Play UK:Europe/London
-Play:Europe/Brussels
 Play4:Europe/Brussels
 Play5:Europe/Brussels
 Play6:Europe/Brussels
 Play7:Europe/Brussels
+Play:Europe/Brussels
 PlayJam:Europe/London
 PlayStation Network:US/Eastern
 PlayZ:Europe/Madrid
@@ -2142,6 +2143,7 @@ Royal News:Asia/Karachi
 Russia Today:Europe/Kaliningrad
 Russia-1:Europe/Moscow
 Rutube:Europe/Moscow
+Ruutu:Europe/Helsinki
 RÚV:Europe/London
 Ríkisútvarpið (IS):Atlantic/Reykjavik
 Ríkisútvarpið:Atlantic/Reykjavik
