@@ -956,6 +956,7 @@ FOX DEPORTES (US):US/Eastern
 FOX FOOTY (AU):Australia/Sydney
 FOX NEWS channel (US):US/Eastern
 FOX News Channel (UK):Europe/London
+FOX One:US/Eastern
 FOX ROCHESTER (US):US/Eastern
 FOX Reality:US/Eastern
 FOX SOCCER plus (US):US/Eastern
@@ -1657,6 +1658,7 @@ NBC 4 NEW YORK (US):US/Eastern
 NBC 4 Southern California (US):US/Eastern
 NBC 4 WASHINGTON D.C. (US):US/Eastern
 NBC 5 Chicago (US):US/Eastern
+NBC.com:US/Eastern
 NBC:US/Eastern
 NBCSN (US):US/Eastern
 NBCSN:US/Eastern
@@ -2162,6 +2164,7 @@ SAT.1:Europe/Berlin
 SBS (AU):Australia/Sydney
 SBS (KR):Asia/Seoul
 SBS 6:Europe/Amsterdam
+SBS Food:Australia/Sydney
 SBS On Demand:Australia/Sydney
 SBS Plus:Asia/Seoul
 SBS2 (AU):Australia/Sydney
@@ -2943,6 +2946,7 @@ Venus TV (UK):Europe/London
 Veronica:Europe/Amsterdam
 Vertigo:US/Eastern
 Vessel:US/Eastern
+ViX:US/Eastern
 Viacom:US/Eastern
 Viafree:Europe/Stockholm
 Viaplay:Europe/Stockholm
