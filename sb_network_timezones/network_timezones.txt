@@ -634,6 +634,7 @@ Christian Television Network (US):US/Eastern
 Chubu-Nippon Broadcasting:Asia/Tokyo
 Chukyo TV (JP):Asia/Tokyo
 Chukyo TV Broadcasting Company (CTV):Asia/Tokyo
+Chukyo TV:Asia/Tokyo
 Church Channel (US):US/Eastern
 Chérie 25:Europe/Paris
 Cielo:Europe/Rome
