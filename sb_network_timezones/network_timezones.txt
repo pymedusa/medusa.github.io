@@ -1837,6 +1837,7 @@ ORF III:Europe/Vienna
 ORF eins:Europe/Vienna
 ORF1 (DE):Europe/Berlin
 ORF:Europe/Berlin
+ORTF Télévision:Europe/Paris
 ORTF:Europe/Paris
 OUFtivi:Europe/Brussels
 OUTtv (CA):Canada/Eastern
