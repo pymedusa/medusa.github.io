@@ -2293,6 +2293,7 @@ Sheffield Live! (UK):Europe/London
 Shepherd's Chapel Network (US):US/Eastern
 Shockwave.com:US/Eastern
 Shopping Channel (CA):Canada/Eastern
+Shortime:Asia/Seoul
 Show TV:Europe/Istanbul
 ShowMax:Africa/Johannesburg
 Showcase (AU):Australia/Sydney
