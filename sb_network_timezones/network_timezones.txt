@@ -69,6 +69,7 @@ ABC (AU):Australia/Sydney
 ABC (Australia):Australia/Sydney
 ABC (Canberra) (AU):Australia/Sydney
 ABC (JA):Asia/Tokyo
+ABC (JP):Asia/Tokyo
 ABC (PH):Asia/Manila
 ABC (UK):Europe/London
 ABC (US):US/Eastern
