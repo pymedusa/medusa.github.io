@@ -1486,6 +1486,7 @@ Local 4 (US):US/Eastern
 Logo TV:US/Eastern
 Logo:US/Eastern
 London Weekend Television (LWT):Europe/London
+London Weekend Television:Europe/London
 Love Nature:Canada/Eastern
 Loveworld TV (UK):Europe/London
 Luxury TV (UK):Europe/London
