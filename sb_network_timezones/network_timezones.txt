@@ -131,6 +131,7 @@ ANT1:Europe/Athens
 ANTENNA TV (US):US/Eastern
 AOL (US):US/Eastern
 AOL:US/Eastern
+APTN+:Canada/Eastern
 APTN:Canada/Eastern
 ARD:Europe/Berlin
 ARISE News (UK):Europe/London
@@ -442,6 +443,7 @@ CARS.TV (US):US/Eastern
 CARTOON NETWORK (AU):Australia/Sydney
 CARTOON NETWORK (UK):Europe/London
 CARTOON NETWORK TOO (UK):Europe/London
+CATCHPLAY+:Asia/Taipei
 CATHOLICTV (US):US/Eastern
 CBBC:Europe/London
 CBC (CA):Canada/Eastern
