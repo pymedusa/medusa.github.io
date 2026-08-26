@@ -1228,6 +1228,7 @@ Hallmark Movies Now:US/Eastern
 Hallmark Mystery:US/Eastern
 Hallmark+:US/Eastern
 Harmony Channel (US):US/Eastern
+Hayu:Europe/London
 Headline News (US):US/Eastern
 Healthy Living Network (US):US/Eastern
 Heart TV (UK):Europe/London
