@@ -739,6 +739,7 @@ DR1:Europe/Copenhagen
 DR2:Europe/Copenhagen
 DR3:Europe/Copenhagen
 DR:Europe/Copenhagen
+DRTV:Europe/Copenhagen
 DRAMA (UK):Europe/London
 DRAMAcube:Asia/Seoul
 DTD (AU):Australia/Sydney
