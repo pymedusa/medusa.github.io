@@ -739,9 +739,9 @@ DR1:Europe/Copenhagen
 DR2:Europe/Copenhagen
 DR3:Europe/Copenhagen
 DR:Europe/Copenhagen
-DRTV:Europe/Copenhagen
 DRAMA (UK):Europe/London
 DRAMAcube:Asia/Seoul
+DRTV:Europe/Copenhagen
 DTD (AU):Australia/Sydney
 DTOUR (CA):Canada/Eastern
 DUSK (CA):Canada/Eastern
@@ -1367,6 +1367,7 @@ KING-TV (US):US/Eastern
 KION:Europe/Moscow
 KKTV:Asia/Taipei
 KMTV (UK):Europe/London
+KNB:Asia/Tokyo
 KNLJ (US):US/Eastern
 KNXT (US):US/Eastern
 KO-AM TV (US):US/Eastern
