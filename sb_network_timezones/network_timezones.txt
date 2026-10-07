@@ -2354,6 +2354,7 @@ Sky News Ireland:Europe/Dublin
 Sky News:Europe/London
 Sky One:Europe/London
 Sky Showcase:Europe/London
+Sky Sport (IT):Europe/Rome
 Sky Sports F1:Europe/London
 Sky Sports:Europe/London
 Sky Travel:Europe/London
