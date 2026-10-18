@@ -2536,6 +2536,7 @@ TNT Serie:Europe/Berlin
 TNT Spain:Europe/Madrid
 TNT:US/Eastern
 TNU:America/Montevideo
+TOKYO MX:Asia/Tokyo
 TPC (US):US/Eastern
 TPS Star (FR):Europe/Paris
 TQS:Canada/Eastern
