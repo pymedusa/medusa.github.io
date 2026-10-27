@@ -1629,6 +1629,7 @@ Movie Extra (AU):Australia/Sydney
 Movies 24 (UK):Europe/London
 Movies4Men (UK):Europe/London
 Movistar Plus+:Europe/Madrid
+Movistar Plus:Europe/Madrid
 Movistar Series (España):Europe/Madrid
 Movistar TV:America/Santiago
 Movistar+:Europe/Madrid
@@ -2803,6 +2804,7 @@ Toei Channel:Asia/Tokyo
 Tokai TV (JP):Asia/Tokyo
 Tokyo Broadcasting System Television:Asia/Tokyo
 Tokyo Broadcasting System:Asia/Tokyo
+Tokyo Channel 12:Asia/Tokyo
 Tokyo MX:Asia/Tokyo
 Tokyo Metropolitan Television:Asia/Tokyo
 Toon Disney:US/Eastern
