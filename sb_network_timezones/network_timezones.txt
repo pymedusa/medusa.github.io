@@ -323,6 +323,7 @@ BBC TWO Northern Ireland:Europe/London
 BBC TWO Scotland:Europe/London
 BBC TWO Wales:Europe/London
 BBC TWO:Europe/London
+BBC Three (Online):Europe/London
 BBC Three:Europe/London
 BBC Two Scotland:Europe/London
 BBC Two:Europe/London
@@ -1946,6 +1947,7 @@ Phoenix:Europe/Berlin
 Pick TV:Europe/London
 Pick:Europe/London
 Pickbox NOW:Europe/Zagreb
+Pickx+:Europe/Brussels
 Pitch TV (UK):Europe/London
 Pitch World (UK):Europe/London
 Pivot:US/Eastern
@@ -2523,6 +2525,7 @@ TITV:Asia/Taipei
 TLC (AU):Australia/Sydney
 TLC (UK):Europe/London
 TLC Go:US/Eastern
+TLC UK:Europe/London
 TLC:US/Eastern
 TLCgo:US/Eastern
 TMC:Europe/Monaco
